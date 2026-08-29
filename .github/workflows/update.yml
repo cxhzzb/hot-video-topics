@@ -37,7 +37,15 @@ jobs:
           git add data/
           if git diff --cached --quiet; then
             echo "数据无变化，跳过提交"
-          else
-            git commit -m "chore: 更新热点数据 $(date -u +'%Y-%m-%d %H:%M UTC')"
-            git push
+            exit 0
           fi
+          git commit -m "chore: 更新热点数据 $(date -u +'%Y-%m-%d %H:%M UTC')"
+          # 远程可能刚被人工推送过，rebase 后重试推送
+          for i in 1 2 3; do
+            if git pull --rebase origin main && git push origin main; then
+              exit 0
+            fi
+            echo "推送被拒，第 $i 次重试…"
+            sleep 5
+          done
+          exit 1
