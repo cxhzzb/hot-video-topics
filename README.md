@@ -7,7 +7,7 @@
 ```
 ├── index.html / style.css / app.js   # 前端（纯静态，直接读 data/data.json）
 ├── fetcher/
-│   ├── sources.py    # 各平台热榜抓取（60s API 为主，B站走官方接口）
+│   ├── sources.py    # 各平台热榜抓取（60s API 优先，官方接口自动兜底）
 │   ├── dedupe.py     # 跨平台热点去重合并
 │   ├── enrich.py     # DeepSeek API 生成摘要 + 视频制作方案（带缓存、失败降级）
 │   └── main.py       # 主流程
@@ -69,7 +69,7 @@ Token 和 Key 仅保存在本机浏览器 localStorage，不经过任何第三�
 ## 常见问题
 
 - **Actions 报 429 / quota 错误**：DeepSeek 账户余额不足，充值后到 platform.deepseek.com 重新生成 Key 并更新 Secret。
-- **某平台数据为空**：该源临时故障，下次运行自动恢复；B站走官方接口不受 60s API 影响。
+- **某平台数据为空**：该源临时故障，下次运行自动恢复。60s 公共实例会拦截 GitHub Actions 的机房 IP，线上运行时各平台会自动切换到官方接口；知乎反爬严格暂无线上备用源（本地运行时可正常获取）。
 - **想调整更新频率**：改 `.github/workflows/update.yml` 里的 cron 表达式。
 
 ## 后续可扩展
