@@ -422,3 +422,12 @@ document.getElementById("video-close").onclick = () =>
 document.getElementById("video-modal").onclick = e => {
   if (e.target.id === "video-modal") e.target.classList.add("hidden");
 };
+
+/* ================= PWA：注册 Service Worker ================= */
+if ("serviceWorker" in navigator) {
+  window.addEventListener("load", () => {
+    navigator.serviceWorker.register("sw.js").catch(err =>
+      console.warn("Service Worker 注册失败:", err)
+    );
+  });
+}
