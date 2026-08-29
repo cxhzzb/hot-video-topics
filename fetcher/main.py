@@ -12,6 +12,7 @@ from sources import fetch_all, PLATFORM_NAMES
 from dedupe import merge_topics
 from enrich import enrich_topics
 from history import load_history, save_history, update_history, top_3d
+from propagation import analyze
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA_DIR = os.path.join(ROOT, "data")
@@ -60,18 +61,21 @@ def main():
     enrich_topics(topics, state["cache"])
     save_state(state)
 
-    print("== 4. 3 日热度历史 ==")
+    print("== 4. 3 日热度历史 + 传播分析 ==")
     now = datetime.now(CST)
     history = update_history(load_history(HISTORY_FILE), topics, now)
     save_history(HISTORY_FILE, history)
     top3d = top_3d(history)
-    print(f"历史话题 {len(history['topics'])} 个，3日最热榜单 {len(top3d)} 条")
+    analysis = analyze(history, now)
+    print(f"历史话题 {len(history['topics'])} 个，3日最热 {len(top3d)} 条，"
+          f"传播路径 {len(analysis['paths'])} 条，上升期 {len(analysis['emerging'])} 条")
 
     print("== 5. 写出 data.json ==")
     output = {
         "updated_at": now.isoformat(timespec="seconds"),
         "platform_names": PLATFORM_NAMES,
         "top3d": top3d,
+        "analysis": analysis,
         "topics": [
             {
                 "title": t["ai"]["title"] if t.get("ai") else t["title"],

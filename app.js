@@ -54,6 +54,54 @@ function planHtml(ai) {
 }
 
 const HOT3D_TAB = "🔥3日最热";
+const ANALYSIS_TAB = "📡传播分析";
+
+/* ---------- 传播分析版面 ---------- */
+
+function fmtDelay(min) {
+  if (min < 60) return `${min} 分钟`;
+  return `${(min / 60).toFixed(1)} 小时`;
+}
+
+function fmtTime(iso) {
+  // "2026-08-30T03:41:52+08:00" → "08-30 03:41"
+  return (iso || "").slice(5, 16).replace("T", " ");
+}
+
+function analysisHtml(ana, pn) {
+  if (!ana) return `<p class="empty">传播分析数据生成中，下次更新后可见</p>`;
+  const name = p => (pn && pn[p]) || p;
+
+  const roleRows = (ana.origin_rank || []).map(r => `
+    <div class="role-row">
+      <span class="role-name">${escapeHtml(name(r.platform))}</span>
+      <span class="role-stat">源头 <b>${r.origin_count}</b> 次</span>
+      <span class="role-stat">${r.avg_delay_min === 0 && r.origin_count > 0
+        ? "常任源头" : `平均跟进延迟 ${fmtDelay(r.avg_delay_min)}`}</span>
+    </div>`).join("");
+
+  const pathRows = (ana.paths || []).map(p => {
+    const chain = p.path.map((s, i) =>
+      `<span class="path-node${i === 0 ? " src" : ""}">${escapeHtml(name(s.platform))}<i>${fmtTime(s.time)}</i></span>`
+    ).join('<span class="path-arrow">→</span>');
+    return `<div class="path-row">
+      <p class="path-title">${escapeHtml(p.title)}<span class="path-span">跨度 ${fmtDelay(p.span_min)}</span></p>
+      <p class="path-chain">${chain}</p>
+    </div>`;
+  }).join("");
+
+  return `
+    <p class="search-hint">基于每 30 分钟的采集记录，分析热点在哪个平台先爆、多久扩散到其他平台。数据积累越久越准。</p>
+    <h3 class="ana-h">🌱 上升期话题 · 抢拍窗口</h3>
+    <p class="ana-desc">刚在 1-2 个平台冒头、还没全网扩散的话题——现在拍，就是首发。</p>
+    <div id="emerging-list"></div>
+    <h3 class="ana-h">🧭 平台角色榜</h3>
+    <p class="ana-desc">谁常当源头（去哪盯首发），谁总慢半拍（在那发还有第二波流量）。</p>
+    <div class="ana-card">${roleRows || '<p class="empty">数据积累中</p>'}</div>
+    <h3 class="ana-h">🔀 热点传播路径</h3>
+    <p class="ana-desc">多平台话题的扩散顺序，标注为源头的是该话题最早出现的平台。</p>
+    <div class="ana-card">${pathRows || '<p class="empty">数据积累中</p>'}</div>`;
+}
 
 function cardHtml(t, i, platformNames) {
   const ai = t.ai;
@@ -79,7 +127,7 @@ function cardHtml(t, i, platformNames) {
 
 function render(data, activeCat, query) {
   const topics = data.topics || [];
-  const cats = [...FALLBACK_CATEGORIES, HOT3D_TAB,
+  const cats = [...FALLBACK_CATEGORIES, HOT3D_TAB, ANALYSIS_TAB,
     ...new Set(topics.map(topicCategory).filter(c => c && c !== "其他")), "其他"]
     .filter((c, i, arr) => arr.indexOf(c) === i);
 
@@ -100,6 +148,32 @@ function render(data, activeCat, query) {
     // 3 日最热版面：跨 3 天累计热度榜
     filtered = data.top3d || [];
     hintHtml = `<p class="search-hint">近 3 天持续在榜、跨平台传播的话题（部署满 3 天后数据最准）</p>`;
+  } else if (activeCat === ANALYSIS_TAB) {
+    // 传播分析版面：独立布局，单独渲染
+    const main2 = document.getElementById("topics");
+    main2.innerHTML = analysisHtml(data.analysis, data.platform_names);
+    const emerging = (data.analysis && data.analysis.emerging) || [];
+    const listEl = document.getElementById("emerging-list");
+    if (listEl) {
+      listEl.innerHTML = emerging.length
+        ? emerging.map((t, i) => cardHtml(t, i, data.platform_names || {})).join("")
+        : `<p class="empty">当前没有符合条件的上升期话题</p>`;
+      listEl.querySelectorAll(".video-btn").forEach(el => {
+        el.onclick = () => openVideoStudio(emerging[Number(el.dataset.idx)]);
+      });
+      listEl.querySelectorAll(".plan-toggle").forEach(el => {
+        el.onclick = () => {
+          const plan = el.nextElementSibling;
+          plan.classList.toggle("open");
+          el.textContent = plan.classList.contains("open") ? "▼ 收起方案" : "▶ 查看视频制作方案";
+        };
+      });
+    }
+    renderTabs(cats, activeCat, cat => {
+      document.getElementById("search-input").value = "";
+      render(data, cat, "");
+    });
+    return;
   } else {
     filtered = activeCat === "全部"
       ? topics

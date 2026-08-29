@@ -68,18 +68,27 @@ def update_history(history, topics, now):
                 "heat_total": 0,
                 "appearances": 0,
                 "days": [],
+                "first_seen": "",
+                "platform_first_seen": {},
                 "last_seen": "",
                 "ai": None,
             }
         e = entries[key]
+        now_iso = now.isoformat(timespec="seconds")
+        # 首次出现时间（旧数据无此字段时用 last_seen 兜底近似）
+        if not e.get("first_seen"):
+            e["first_seen"] = e["last_seen"] or now_iso
+        pfs = e.setdefault("platform_first_seen", {})
         e["heat_total"] += topic["heat"]
         e["appearances"] += 1
-        e["last_seen"] = now.isoformat(timespec="seconds")
+        e["last_seen"] = now_iso
         if today not in e["days"]:
             e["days"].append(today)
         for p in topic["platforms"]:
             if p not in e["platforms"]:
                 e["platforms"].append(p)
+            # 平台首次出现时间（旧条目缺失的平台按当前时间近似记录）
+            pfs.setdefault(p, e["last_seen"])
         e["links"].update({k: v for k, v in topic["links"].items() if v})
         if len(topic["desc"]) > len(e["desc"]):
             e["desc"] = topic["desc"]
