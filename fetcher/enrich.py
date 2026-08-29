@@ -17,14 +17,18 @@ from dedupe import similarity
 API_URL = "https://api.deepseek.com/v1/chat/completions"
 MODEL = "deepseek-chat"
 BATCH_SIZE = 10       # 每次请求处理的话题数
-ENRICH_TOP_N = 30     # 每次运行最多加工的话题数
+ENRICH_TOP_N = 40     # 每次运行最多加工的话题数
 REUSE_THRESHOLD = 0.55  # 与缓存标题相似度超过该值则复用
 
-CATEGORIES = "社会、娱乐、科技、体育、财经、游戏、生活、其他"
+CATEGORIES = "社会、娱乐、国际、科技、体育、财经、游戏、生活、其他"
 
 PROMPT_TEMPLATE = """你是一位资深短视频编导，服务于短视频创作团队。下面是当前网络上的热门话题列表：
 
 {topics_text}
+
+要求：
+- 娱乐类话题优先从花边角度切入（恋情、绯闻、争议、塌房、人设、综艺名场面、穿搭造型等），这是团队的主打方向
+- 涉及国际关系、地缘政治、军事冲突、外交动态的话题分类选"国际"
 
 请为每个话题输出以下信息（严格按 JSON 数组返回，不要输出任何其他内容）：
 [

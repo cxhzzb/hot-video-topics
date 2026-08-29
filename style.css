@@ -43,6 +43,25 @@ header h1::before { content: "🔥 "; }
 .subtitle { font-size: 13px; opacity: .75; margin-top: 4px; }
 .updated { font-size: 12px; opacity: .55; margin-top: 6px; }
 
+/* 搜索框 */
+.search-bar {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 14px 16px 0;
+}
+#search-input {
+  width: 100%;
+  padding: 10px 16px;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  font-size: 14px;
+  background: var(--card);
+}
+#search-input:focus { outline: 2px solid var(--accent); outline-offset: -1px; }
+.search-hint { font-size: 12px; color: var(--text-dim); margin: 0 4px 10px; }
+.ext-search { font-size: 13px; margin: 10px 0 0 38px; }
+.ext-search a { color: var(--accent); text-decoration: none; margin-right: 12px; }
+
 /* 分类标签 */
 .tabs {
   max-width: 720px;

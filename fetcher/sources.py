@@ -13,6 +13,7 @@
     "rank": 1,                  # 榜内排名（1 起）
 }
 """
+import re
 import time
 from urllib.parse import quote
 
@@ -170,6 +171,67 @@ def _toutiao_official():
     return items
 
 
+def _qq_ent_official():
+    """腾讯新闻娱乐热点榜：花边新闻密度高（恋情/绯闻/争议/名场面）"""
+    data = _get("https://r.inews.qq.com/gw/event/pc_hot_ranking_list"
+                "?rank_id=ent&page_size=50&appver=15.5_qqnews_7.6.0")
+    if not data or not data.get("idlist"):
+        return []
+    items = []
+    for raw in data["idlist"][0].get("newslist", []):
+        if str(raw.get("articletype")) == "560":  # 榜单说明条目，跳过
+            continue
+        title = (raw.get("title") or "").strip()
+        if not title:
+            continue
+        items.append({
+            "platform": "qq_ent",
+            "title": title,
+            "desc": "",
+            "link": raw.get("url") or f"https://view.inews.qq.com/a/{raw.get('id', '')}",
+            "rank": len(items) + 1,
+        })
+        if len(items) >= TOP_N:
+            break
+    return items
+
+
+def _rfi_rss():
+    """RFI 中文 RSS：国际形势与地缘政治（国内可直接访问，Actions 上也可达）"""
+    import xml.etree.ElementTree as ET
+
+    text = None
+    try:
+        resp = requests.get("https://www.rfi.fr/cn/rss",
+                            headers={"User-Agent": UA}, timeout=TIMEOUT)
+        resp.raise_for_status()
+        text = resp.content
+    except Exception as e:
+        print(f"  [warn] 请求失败 RFI RSS: {e}")
+        return []
+    try:
+        root = ET.fromstring(text)
+    except ET.ParseError as e:
+        print(f"  [warn] RFI RSS 解析失败: {e}")
+        return []
+    items = []
+    for entry in root.iter("item"):
+        title = (entry.findtext("title") or "").strip()
+        if not title:
+            continue
+        desc = re.sub(r"<[^>]+>", "", entry.findtext("description") or "").strip()
+        items.append({
+            "platform": "rfi",
+            "title": title,
+            "desc": desc,
+            "link": (entry.findtext("link") or "").strip(),
+            "rank": len(items) + 1,
+        })
+        if len(items) >= TOP_N:
+            break
+    return items
+
+
 def _bili_official():
     data = _get("https://app.bilibili.com/x/v2/search/trending/ranking")
     if not data or data.get("code") != 0:
@@ -249,7 +311,20 @@ def fetch_bili():
     ])
 
 
-SOURCES = [fetch_weibo, fetch_douyin, fetch_zhihu, fetch_baidu, fetch_toutiao, fetch_bili]
+def fetch_qq_ent():
+    return _with_fallback("qq_ent", [
+        ("官方", _qq_ent_official),
+    ])
+
+
+def fetch_rfi():
+    return _with_fallback("rfi", [
+        ("官方", _rfi_rss),
+    ])
+
+
+SOURCES = [fetch_weibo, fetch_douyin, fetch_zhihu, fetch_baidu, fetch_toutiao,
+           fetch_bili, fetch_qq_ent, fetch_rfi]
 
 PLATFORM_NAMES = {
     "weibo": "微博",
@@ -258,6 +333,8 @@ PLATFORM_NAMES = {
     "baidu": "百度",
     "toutiao": "头条",
     "bili": "B站",
+    "qq_ent": "腾讯娱乐",
+    "rfi": "RFI国际",
 }
 
 

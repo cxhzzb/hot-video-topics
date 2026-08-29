@@ -15,7 +15,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA_DIR = os.path.join(ROOT, "data")
 DATA_FILE = os.path.join(DATA_DIR, "data.json")
 STATE_FILE = os.path.join(DATA_DIR, "state.json")
-MAX_TOPICS = 50          # 输出给前端的话题数
+MAX_TOPICS = 80          # 输出给前端的话题数
 CACHE_TTL_HOURS = 36     # 缓存超过该时长丢弃（热点已过时）
 
 CST = timezone(timedelta(hours=8))

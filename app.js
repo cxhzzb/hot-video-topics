@@ -9,7 +9,16 @@ function escapeHtml(s) {
 }
 
 function topicCategory(t) {
+  // 国际新闻源（RFI）话题强制归入"国际"频道，保证频道内容完整
+  if ((t.platforms || []).includes("rfi")) return "国际";
   return (t.ai && t.ai.category) || "其他";
+}
+
+function topicText(t) {
+  // 话题的全部可搜索文本
+  const ai = t.ai || {};
+  return [t.title, t.raw_title, t.desc, ai.title, ai.summary,
+    (ai.angles || []).join(" "), ai.hook, ai.structure].join(" ").toLowerCase();
 }
 
 function renderTabs(categories, active, onSelect) {
@@ -64,20 +73,35 @@ function cardHtml(t, i, platformNames) {
     </div>`;
 }
 
-function render(data, activeCat) {
+function render(data, activeCat, query) {
   const topics = data.topics || [];
   const cats = [...FALLBACK_CATEGORIES,
     ...new Set(topics.map(topicCategory).filter(c => c && c !== "其他")), "其他"]
     .filter((c, i, arr) => arr.indexOf(c) === i);
 
-  const filtered = activeCat === "全部"
-    ? topics
-    : topics.filter(t => topicCategory(t) === activeCat);
+  query = (query || "").trim().toLowerCase();
+  let filtered, hintHtml = "";
+  if (query) {
+    // 搜索模式：跨全部分类匹配
+    filtered = topics.filter(t => topicText(t).includes(query));
+    const q = encodeURIComponent(query);
+    hintHtml = `<p class="search-hint">搜索「${escapeHtml(query)}」：命中 ${filtered.length} 条</p>`;
+    if (!filtered.length) {
+      hintHtml += `<p class="ext-search">站内未收录，去平台搜：
+        <a href="https://s.weibo.com/weibo?q=${q}" target="_blank" rel="noopener">微博搜索</a>
+        <a href="https://www.baidu.com/s?wd=${q}" target="_blank" rel="noopener">百度搜索</a>
+        <a href="https://www.douyin.com/search/${q}" target="_blank" rel="noopener">抖音搜索</a></p>`;
+    }
+  } else {
+    filtered = activeCat === "全部"
+      ? topics
+      : topics.filter(t => topicCategory(t) === activeCat);
+  }
 
   const main = document.getElementById("topics");
-  main.innerHTML = filtered.length
+  main.innerHTML = hintHtml + (filtered.length
     ? filtered.map((t, i) => cardHtml(t, i, data.platform_names || {})).join("")
-    : `<p class="empty">该分类暂无热点</p>`;
+    : (query ? "" : `<p class="empty">该分类暂无热点</p>`));
 
   // 方案展开/收起
   main.querySelectorAll(".plan-toggle").forEach(el => {
@@ -88,7 +112,10 @@ function render(data, activeCat) {
     };
   });
 
-  renderTabs(cats, activeCat, cat => render(data, cat));
+  renderTabs(cats, query ? "" : activeCat, cat => {
+    document.getElementById("search-input").value = "";  // 切分类时退出搜索
+    render(data, cat, "");
+  });
 }
 
 async function init() {
@@ -98,7 +125,13 @@ async function init() {
     const data = await resp.json();
     document.getElementById("updated-at").textContent =
       (data.updated_at || "").replace("T", " ").slice(0, 19);
-    render(data, "全部");
+    render(data, "全部", "");
+    // 搜索框：输入即搜（防抖 200ms）
+    let timer = null;
+    document.getElementById("search-input").addEventListener("input", e => {
+      clearTimeout(timer);
+      timer = setTimeout(() => render(data, "全部", e.target.value), 200);
+    });
   } catch (e) {
     document.getElementById("topics").innerHTML =
       `<p class="empty">数据加载失败：${escapeHtml(e.message)}</p>`;
