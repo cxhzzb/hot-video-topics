@@ -1,5 +1,9 @@
 """各平台热榜抓取，统一输出格式。
 
+每个平台优先走 60s 聚合 API，失败时自动降级到官方接口。
+（60s 公共实例托管在 Cloudflare，会拦截 GitHub Actions 等机房 IP，
+  官方接口作为保底，知乎暂无稳定官方接口，仅 60s 一路）
+
 输出 item 结构:
 {
     "platform": "weibo",        # 平台标识
@@ -14,16 +18,20 @@ from urllib.parse import quote
 
 import requests
 
-API_BASE = "https://60s.viki.moe/v2"
-HEADERS = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
+API_BASES = ["https://60s.viki.moe/v2", "https://60s-api.viki.moe/v2"]
+UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+      "(KHTML, like Gecko) Chrome/126.0 Safari/537.36")
 TIMEOUT = 15
 TOP_N = 30  # 每个平台取前 N 条
 
 
-def _get(url, retries=2):
+def _get(url, referer=None, retries=1):
+    headers = {"User-Agent": UA}
+    if referer:
+        headers["Referer"] = referer
     for attempt in range(retries + 1):
         try:
-            resp = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
+            resp = requests.get(url, headers=headers, timeout=TIMEOUT)
             resp.raise_for_status()
             return resp.json()
         except Exception as e:
@@ -34,10 +42,16 @@ def _get(url, retries=2):
     return None
 
 
+# ---------- 60s 聚合 API ----------
+
 def _fetch_60s(endpoint, platform, title_key, desc_key, link_key):
-    data = _get(f"{API_BASE}/{endpoint}")
-    if not data or data.get("code") != 200 or not data.get("data"):
-        print(f"  [warn] {platform} 获取失败或为空")
+    data = None
+    for base in API_BASES:
+        data = _get(f"{base}/{endpoint}")
+        if data and data.get("code") == 200 and data.get("data"):
+            break
+        data = None
+    if not data:
         return []
     items = []
     for i, raw in enumerate(data["data"][:TOP_N]):
@@ -51,38 +65,117 @@ def _fetch_60s(endpoint, platform, title_key, desc_key, link_key):
             "link": raw.get(link_key) or "",
             "rank": i + 1,
         })
-    print(f"  {platform}: {len(items)} 条")
     return items
 
 
-def fetch_weibo():
-    return _fetch_60s("weibo", "weibo", "title", None, "link")
+# ---------- 官方接口（备用源） ----------
 
-
-def fetch_douyin():
-    return _fetch_60s("douyin", "douyin", "title", None, "link")
-
-
-def fetch_zhihu():
-    return _fetch_60s("zhihu", "zhihu", "title", "detail", "link")
-
-
-def fetch_baidu():
-    return _fetch_60s("baidu/hot", "baidu", "title", "desc", "url")
-
-
-def fetch_toutiao():
-    return _fetch_60s("toutiao", "toutiao", "title", None, "link")
-
-
-def fetch_bili():
-    """B站热搜（官方接口，60s 的 bili 端点不稳定）"""
-    data = _get("https://app.bilibili.com/x/v2/search/trending/ranking")
-    if not data or data.get("code") != 0:
-        print("  [warn] bili 获取失败")
+def _weibo_official():
+    data = _get("https://weibo.com/ajax/side/hotSearch", referer="https://weibo.com")
+    if not data or not data.get("data"):
         return []
     items = []
-    for i, raw in enumerate(data["data"]["list"][:TOP_N]):
+    for raw in data["data"].get("realtime", []):
+        if raw.get("is_ad"):
+            continue
+        title = (raw.get("note") or raw.get("word") or "").strip()
+        if not title:
+            continue
+        items.append({
+            "platform": "weibo",
+            "title": title,
+            "desc": "",
+            "link": f"https://s.weibo.com/weibo?q={quote('#' + title + '#')}",
+            "rank": len(items) + 1,
+        })
+        if len(items) >= TOP_N:
+            break
+    return items
+
+
+def _douyin_official():
+    data = _get("https://www.douyin.com/aweme/v1/web/hot/search/list/",
+                referer="https://www.douyin.com")
+    if not data or not data.get("data"):
+        return []
+    items = []
+    for raw in data["data"].get("word_list", [])[:TOP_N]:
+        title = (raw.get("word") or "").strip()
+        if not title:
+            continue
+        items.append({
+            "platform": "douyin",
+            "title": title,
+            "desc": "",
+            "link": f"https://www.douyin.com/search/{quote(title)}",
+            "rank": len(items) + 1,
+        })
+    return items
+
+
+def _baidu_official():
+    data = _get("https://top.baidu.com/api/board?platform=wise&tab=realtime")
+    if not data or not data.get("data"):
+        return []
+
+    def find_hot_list(node):
+        """递归找到元素含 word 字段的列表（百度返回结构嵌套较深且可能变动）"""
+        if isinstance(node, list):
+            if node and isinstance(node[0], dict) and "word" in node[0]:
+                return node
+            for child in node:
+                found = find_hot_list(child)
+                if found:
+                    return found
+        elif isinstance(node, dict):
+            for child in node.values():
+                found = find_hot_list(child)
+                if found:
+                    return found
+        return None
+
+    hot_list = find_hot_list(data["data"]) or []
+    items = []
+    for raw in hot_list[:TOP_N]:
+        title = (raw.get("word") or "").strip()
+        if not title:
+            continue
+        items.append({
+            "platform": "baidu",
+            "title": title,
+            "desc": (raw.get("desc") or "").strip(),
+            "link": raw.get("url") or f"https://www.baidu.com/s?wd={quote(title)}",
+            "rank": len(items) + 1,
+        })
+    return items
+
+
+def _toutiao_official():
+    data = _get("https://www.toutiao.com/hot-event/hot-board/?origin=toutiao_pc",
+                referer="https://www.toutiao.com")
+    if not data or not data.get("data"):
+        return []
+    items = []
+    for raw in data["data"][:TOP_N]:
+        title = (raw.get("Title") or "").strip()
+        if not title:
+            continue
+        items.append({
+            "platform": "toutiao",
+            "title": title,
+            "desc": "",
+            "link": raw.get("Url") or "",
+            "rank": len(items) + 1,
+        })
+    return items
+
+
+def _bili_official():
+    data = _get("https://app.bilibili.com/x/v2/search/trending/ranking")
+    if not data or data.get("code") != 0:
+        return []
+    items = []
+    for raw in data["data"]["list"][:TOP_N]:
         title = (raw.get("show_name") or raw.get("keyword") or "").strip()
         if not title:
             continue
@@ -91,10 +184,69 @@ def fetch_bili():
             "title": title,
             "desc": "",
             "link": f"https://search.bilibili.com/all?keyword={quote(title)}",
-            "rank": i + 1,
+            "rank": len(items) + 1,
         })
-    print(f"  bili: {len(items)} 条")
     return items
+
+
+# ---------- 平台入口：主源 + 备用源链 ----------
+
+def _with_fallback(platform, fetchers):
+    """fetchers 为 (来源标签, 抓取函数) 列表，按顺序尝试直到拿到数据"""
+    for tag, fn in fetchers:
+        try:
+            items = fn()
+        except Exception as e:
+            print(f"  [warn] {platform} {tag}源异常: {e}")
+            items = []
+        if items:
+            print(f"  {platform}: {len(items)} 条（{tag}源）")
+            return items
+    print(f"  [warn] {platform} 所有源均失败")
+    return []
+
+
+def fetch_weibo():
+    return _with_fallback("weibo", [
+        ("60s", lambda: _fetch_60s("weibo", "weibo", "title", None, "link")),
+        ("官方", _weibo_official),
+    ])
+
+
+def fetch_douyin():
+    return _with_fallback("douyin", [
+        ("60s", lambda: _fetch_60s("douyin", "douyin", "title", None, "link")),
+        ("官方", _douyin_official),
+    ])
+
+
+def fetch_zhihu():
+    # 知乎官方接口需要登录态，暂无可用备用源
+    return _with_fallback("zhihu", [
+        ("60s", lambda: _fetch_60s("zhihu", "zhihu", "title", "detail", "link")),
+    ])
+
+
+def fetch_baidu():
+    return _with_fallback("baidu", [
+        ("60s", lambda: _fetch_60s("baidu/hot", "baidu", "title", "desc", "url")),
+        ("官方", _baidu_official),
+    ])
+
+
+def fetch_toutiao():
+    return _with_fallback("toutiao", [
+        ("60s", lambda: _fetch_60s("toutiao", "toutiao", "title", None, "link")),
+        ("官方", _toutiao_official),
+    ])
+
+
+def fetch_bili():
+    # 60s 的 bili 端点本身不稳定，官方接口放第一位
+    return _with_fallback("bili", [
+        ("官方", _bili_official),
+        ("60s", lambda: _fetch_60s("bili", "bili", "title", None, "link")),
+    ])
 
 
 SOURCES = [fetch_weibo, fetch_douyin, fetch_zhihu, fetch_baidu, fetch_toutiao, fetch_bili]
