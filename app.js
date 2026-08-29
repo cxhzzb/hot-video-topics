@@ -543,6 +543,13 @@ document.getElementById("video-modal").onclick = e => {
 
 /* ================= PWA：注册 Service Worker ================= */
 if ("serviceWorker" in navigator) {
+  // 新版本 SW 接管页面时自动刷新一次，用户永远无需手动清缓存
+  let swRefreshing = false;
+  navigator.serviceWorker.addEventListener("controllerchange", () => {
+    if (swRefreshing) return;
+    swRefreshing = true;
+    location.reload();
+  });
   window.addEventListener("load", () => {
     navigator.serviceWorker.register("sw.js").catch(err =>
       console.warn("Service Worker 注册失败:", err)
