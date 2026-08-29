@@ -224,6 +224,66 @@ footer {
 #settings-status.ok { color: #15803d; }
 #settings-status.err { color: var(--accent); }
 
+/* AI 视频化按钮 */
+.video-btn {
+  margin: 12px 0 0 38px;
+  background: linear-gradient(135deg, #7c3aed, #a855f7);
+  color: #fff;
+  border: none;
+  padding: 7px 14px;
+  border-radius: 8px;
+  font-size: 13px;
+  cursor: pointer;
+}
+.video-btn:hover { opacity: .9; }
+
+/* 视频创意工作室弹窗 */
+.video-box { max-width: 560px; }
+.video-news-title {
+  font-size: 14px;
+  font-weight: 600;
+  background: #f3f4f6;
+  border-radius: 8px;
+  padding: 8px 12px;
+  margin-bottom: 14px;
+}
+#video-status { font-size: 13px; margin-top: 12px; color: var(--text-dim); }
+#video-status.err { color: var(--accent); }
+#video-result { margin-top: 8px; }
+#video-result .plan-row { margin-left: 0; }
+.shot-row {
+  display: flex;
+  gap: 10px;
+  border-left: 3px solid #a855f7;
+  padding: 8px 0 8px 12px;
+  margin-bottom: 10px;
+}
+.shot-time {
+  flex: none;
+  font-size: 12px;
+  font-weight: 700;
+  color: #7c3aed;
+  width: 44px;
+  padding-top: 2px;
+}
+.shot-body { font-size: 13px; color: #374151; }
+.shot-body p { margin-bottom: 2px; }
+.seedance-prompt {
+  background: #1a1a2e;
+  color: #a5f3fc;
+  font-size: 13px;
+  line-height: 1.7;
+  border-radius: 8px;
+  padding: 12px 14px;
+  margin-bottom: 10px;
+  user-select: all;
+}
+.copy-btn { width: 100%; background: #7c3aed; }
+
+@media (max-width: 480px) {
+  .video-btn { margin-left: 0; }
+}
+
 @media (max-width: 480px) {
   header h1 { font-size: 22px; }
   .card { padding: 14px; }

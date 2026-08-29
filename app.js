@@ -53,6 +53,8 @@ function planHtml(ai) {
     <div class="plan-row risk"><span class="plan-label">⚠️ 风险提示</span><p>${escapeHtml(ai.risk)}</p></div>`;
 }
 
+const HOT3D_TAB = "🔥3日最热";
+
 function cardHtml(t, i, platformNames) {
   const ai = t.ai;
   const aiBody = ai
@@ -62,20 +64,22 @@ function cardHtml(t, i, platformNames) {
     : `<p class="no-ai">AI 分析生成中，下次更新后可见</p>
        ${t.desc ? `<p class="summary">${escapeHtml(t.desc.slice(0, 120))}${t.desc.length > 120 ? "…" : ""}</p>` : ""}`;
   const catTag = ai ? `<span class="cat-tag">${escapeHtml(ai.category)}</span>` : "";
+  const heatText = t.days ? `热度 ${t.heat} · 在榜${t.days}天` : `热度 ${t.heat}`;
   return `
     <div class="card">
       <div class="card-top">
         <span class="rank">${i + 1}</span>
         <span class="card-title">${escapeHtml(t.title)}</span>
       </div>
-      <div class="badges">${badgeHtml(t, platformNames)}${catTag}<span class="heat">热度 ${t.heat}</span></div>
+      <div class="badges">${badgeHtml(t, platformNames)}${catTag}<span class="heat">${heatText}</span></div>
       ${aiBody}
+      <button class="video-btn" data-idx="${i}">🎬 AI 视频化（30秒剧本 · Seedance）</button>
     </div>`;
 }
 
 function render(data, activeCat, query) {
   const topics = data.topics || [];
-  const cats = [...FALLBACK_CATEGORIES,
+  const cats = [...FALLBACK_CATEGORIES, HOT3D_TAB,
     ...new Set(topics.map(topicCategory).filter(c => c && c !== "其他")), "其他"]
     .filter((c, i, arr) => arr.indexOf(c) === i);
 
@@ -92,6 +96,10 @@ function render(data, activeCat, query) {
         <a href="https://www.baidu.com/s?wd=${q}" target="_blank" rel="noopener">百度搜索</a>
         <a href="https://www.douyin.com/search/${q}" target="_blank" rel="noopener">抖音搜索</a></p>`;
     }
+  } else if (activeCat === HOT3D_TAB) {
+    // 3 日最热版面：跨 3 天累计热度榜
+    filtered = data.top3d || [];
+    hintHtml = `<p class="search-hint">近 3 天持续在榜、跨平台传播的话题（部署满 3 天后数据最准）</p>`;
   } else {
     filtered = activeCat === "全部"
       ? topics
@@ -110,6 +118,11 @@ function render(data, activeCat, query) {
       plan.classList.toggle("open");
       el.textContent = plan.classList.contains("open") ? "▼ 收起方案" : "▶ 查看视频制作方案";
     };
+  });
+
+  // AI 视频化按钮
+  main.querySelectorAll(".video-btn").forEach(el => {
+    el.onclick = () => openVideoStudio(filtered[Number(el.dataset.idx)]);
   });
 
   renderTabs(cats, query ? "" : activeCat, cat => {
@@ -202,8 +215,15 @@ async function updateApiKey() {
   const token = document.getElementById("gh-token").value.trim();
   const dsKey = document.getElementById("ds-key").value.trim();
 
-  if (!owner || !repo || !token || !dsKey) {
-    setStatus("请填写全部四项内容", "err");
+  if (!dsKey) {
+    setStatus("DeepSeek API Key 必填（AI 视频创意生成要用）", "err");
+    return;
+  }
+  // Key 始终保存到本机，供 AI 视频创意工作室直接调用
+  localStorage.setItem(DS_KEY_STORE, dsKey);
+
+  if (!owner || !repo || !token) {
+    setStatus("✅ Key 已保存到本机，AI 视频创意功能可用了。如需同步更新线上定时任务的 Key，请把仓库信息和 Token 也填上再保存一次。", "ok");
     return;
   }
   const saveBtn = document.getElementById("settings-save");
@@ -256,4 +276,149 @@ document.getElementById("settings-cancel").onclick = () =>
 document.getElementById("settings-save").onclick = updateApiKey;
 document.getElementById("settings-modal").onclick = e => {
   if (e.target.id === "settings-modal") e.target.classList.add("hidden");
+};
+
+/* ================= AI 视频创意工作室 =================
+ * 选中一条新闻 → 浏览器直连 DeepSeek 生成约 30 秒的 AI 视频创意剧本，
+ * 输出可直接粘贴到 Seedance 2.5 的整合提示词；不满意可"刷新重生"。
+ * DeepSeek Key 从本机 localStorage 读取（在 ⚙ 设置中保存）。
+ */
+
+const DS_KEY_STORE = "hsp_ds_key";
+const videoState = { topic: null, lastConcept: "", loading: false };
+
+function buildVideoPrompt(topic, avoidConcept) {
+  const summary = (topic.ai && topic.ai.summary) || topic.desc || "（无更多背景，请根据标题自行补充常识性背景）";
+  const avoid = avoidConcept
+    ? `\n注意：上一版创意方向是「${avoidConcept}」，用户不满意。这次必须换一个完全不同的创意方向、视觉风格和叙事结构。`
+    : "";
+  return `你是一位顶级短视频导演，精通 AI 视频生成工具（Seedance 2.5）的提示词写法。
+请把下面的新闻改编成一个约 30 秒的 AI 生成视频方案。
+
+新闻标题：${topic.title}
+新闻背景：${summary}
+${avoid}
+输出严格的 JSON（不要输出任何其他内容）：
+{
+  "concept": "创意概念：一句话说明切入点，要有反差/悬念/情绪冲击力",
+  "style": "整体视觉风格（如写实电影感、赛博朋克、3D动画、水墨国风、复古胶片、像素风等，选一个最适合这条新闻的）",
+  "shots": [
+    {
+      "time": "如 0-3s",
+      "visual": "画面内容的具体描述（主体、动作、场景）",
+      "camera": "镜头语言（推近/拉远/环绕/特写/航拍/手持跟拍等）",
+      "caption": "屏幕文案（不超过15字，大字报风格）",
+      "voice": "旁白（1-2句，口语化）"
+    }
+  ],
+  "seedance_prompt": "一段可直接粘贴到 Seedance 2.5 的完整中文视频生成提示词：融合场景、主体、动作、镜头运动、风格、光线氛围，200字以内，不要出现真实名人姓名（用'一位青年男子'这类描述代替）"
+}
+要求：shots 共 4-6 个镜头，总时长约 30 秒；第一个镜头必须在 0-3 秒内抓住注意力；seedance_prompt 只描述一个最具代表性的核心镜头画面。`;
+}
+
+async function callDeepSeek(prompt, temperature) {
+  const key = localStorage.getItem(DS_KEY_STORE);
+  if (!key) {
+    throw new Error("本机还没有 DeepSeek Key：点右上角 ⚙，在设置里填入 Key 保存后即可使用");
+  }
+  const resp = await fetch("https://api.deepseek.com/v1/chat/completions", {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+      "Authorization": `Bearer ${key}`,
+    },
+    body: JSON.stringify({
+      model: "deepseek-chat",
+      messages: [{ role: "user", content: prompt }],
+      temperature,
+    }),
+  });
+  if (!resp.ok) {
+    const body = await resp.text().catch(() => "");
+    throw new Error(`DeepSeek API ${resp.status}：${body.slice(0, 100)}（Key 可能失效或欠费）`);
+  }
+  const content = (await resp.json()).choices[0].message.content;
+  const match = content.match(/\{[\s\S]*\}/);
+  if (!match) throw new Error("AI 回复格式异常，请点刷新重试");
+  return JSON.parse(match[0]);
+}
+
+function shotRowHtml(s) {
+  return `<div class="shot-row">
+    <span class="shot-time">${escapeHtml(s.time)}</span>
+    <div class="shot-body">
+      <p><b>画面：</b>${escapeHtml(s.visual)}</p>
+      <p><b>镜头：</b>${escapeHtml(s.camera)}</p>
+      <p><b>文案：</b>${escapeHtml(s.caption)}</p>
+      <p><b>旁白：</b>${escapeHtml(s.voice)}</p>
+    </div>
+  </div>`;
+}
+
+function videoResultHtml(plan) {
+  const shots = (plan.shots || []).map(shotRowHtml).join("");
+  return `
+    <div class="plan-row"><span class="plan-label">💡 创意概念</span><p>${escapeHtml(plan.concept)}</p></div>
+    <div class="plan-row"><span class="plan-label">🎨 视觉风格</span><p>${escapeHtml(plan.style)}</p></div>
+    <div class="plan-row"><span class="plan-label">🎞 分镜剧本（约30秒）</span></div>
+    ${shots}
+    <div class="plan-row"><span class="plan-label">🚀 Seedance 2.5 提示词（一键复制去生成）</span></div>
+    <div class="seedance-prompt" id="seedance-text">${escapeHtml(plan.seedance_prompt)}</div>
+    <button class="btn-primary copy-btn" id="copy-seedance">📋 复制提示词</button>`;
+}
+
+function setVideoStatus(msg, cls) {
+  const el = document.getElementById("video-status");
+  el.textContent = msg;
+  el.className = cls || "";
+}
+
+async function generateVideo(regenerate) {
+  if (videoState.loading || !videoState.topic) return;
+  videoState.loading = true;
+  const refreshBtn = document.getElementById("video-refresh");
+  refreshBtn.disabled = true;
+  document.getElementById("video-result").innerHTML = "";
+  setVideoStatus(regenerate ? "正在换一个全新创意方向重新生成…" : "AI 导演正在构思创意剧本（约 10-20 秒）…");
+  try {
+    const plan = await callDeepSeek(
+      buildVideoPrompt(videoState.topic, regenerate ? videoState.lastConcept : ""),
+      regenerate ? 0.95 : 0.7
+    );
+    videoState.lastConcept = plan.concept || "";
+    document.getElementById("video-result").innerHTML = videoResultHtml(plan);
+    setVideoStatus("");
+    document.getElementById("copy-seedance").onclick = async e => {
+      const text = document.getElementById("seedance-text").textContent;
+      try {
+        await navigator.clipboard.writeText(text);
+        e.target.textContent = "✅ 已复制，去 Seedance 粘贴生成";
+      } catch {
+        e.target.textContent = "复制失败，请手动长按选择复制";
+      }
+      setTimeout(() => { e.target.textContent = "📋 复制提示词"; }, 2500);
+    };
+  } catch (e) {
+    setVideoStatus(`生成失败：${e.message}`, "err");
+  } finally {
+    videoState.loading = false;
+    refreshBtn.disabled = false;
+  }
+}
+
+function openVideoStudio(topic) {
+  videoState.topic = topic;
+  videoState.lastConcept = "";
+  document.getElementById("video-news-title").textContent = `📰 ${topic.title}`;
+  document.getElementById("video-result").innerHTML = "";
+  setVideoStatus("");
+  document.getElementById("video-modal").classList.remove("hidden");
+  generateVideo(false);
+}
+
+document.getElementById("video-refresh").onclick = () => generateVideo(true);
+document.getElementById("video-close").onclick = () =>
+  document.getElementById("video-modal").classList.add("hidden");
+document.getElementById("video-modal").onclick = e => {
+  if (e.target.id === "video-modal") e.target.classList.add("hidden");
 };

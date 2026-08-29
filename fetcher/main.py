@@ -1,7 +1,8 @@
-"""主流程：抓热榜 → 去重合并 → AI 加工 → 写 data.json。
+"""主流程：抓热榜 → 去重合并 → AI 加工 → 3日历史累积 → 写 data.json。
 
 用法: python fetcher/main.py
-输出: data/data.json (前端直接读取), data/state.json (AI 结果缓存)
+输出: data/data.json (前端直接读取), data/state.json (AI 结果缓存),
+      data/history.json (3 天热度历史)
 """
 import json
 import os
@@ -10,11 +11,13 @@ from datetime import datetime, timezone, timedelta
 from sources import fetch_all, PLATFORM_NAMES
 from dedupe import merge_topics
 from enrich import enrich_topics
+from history import load_history, save_history, update_history, top_3d
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA_DIR = os.path.join(ROOT, "data")
 DATA_FILE = os.path.join(DATA_DIR, "data.json")
 STATE_FILE = os.path.join(DATA_DIR, "state.json")
+HISTORY_FILE = os.path.join(DATA_DIR, "history.json")
 MAX_TOPICS = 80          # 输出给前端的话题数
 CACHE_TTL_HOURS = 36     # 缓存超过该时长丢弃（热点已过时）
 
@@ -57,10 +60,18 @@ def main():
     enrich_topics(topics, state["cache"])
     save_state(state)
 
-    print("== 4. 写出 data.json ==")
+    print("== 4. 3 日热度历史 ==")
+    now = datetime.now(CST)
+    history = update_history(load_history(HISTORY_FILE), topics, now)
+    save_history(HISTORY_FILE, history)
+    top3d = top_3d(history)
+    print(f"历史话题 {len(history['topics'])} 个，3日最热榜单 {len(top3d)} 条")
+
+    print("== 5. 写出 data.json ==")
     output = {
-        "updated_at": datetime.now(CST).isoformat(timespec="seconds"),
+        "updated_at": now.isoformat(timespec="seconds"),
         "platform_names": PLATFORM_NAMES,
+        "top3d": top3d,
         "topics": [
             {
                 "title": t["ai"]["title"] if t.get("ai") else t["title"],

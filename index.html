@@ -38,6 +38,8 @@
       </label>
       <p class="modal-hint">
         Token 和 Key 仅保存在本机浏览器（localStorage），不会上传到任何第三方。
+        只填 DeepSeek Key 保存：供「AI 视频化」功能本机使用；
+        四项填全：同时更新线上仓库密钥并触发数据重新生成。
         Token 在 GitHub → Settings → Developer settings → Personal access tokens 生成，勾选 repo 权限。
       </p>
       <div class="modal-actions">
@@ -61,6 +63,20 @@
   <footer>
     <p>数据源：微博 / 抖音 / 知乎 / 百度 / 头条 / B站 · AI 分析由 DeepSeek 生成，仅供参考</p>
   </footer>
+
+  <!-- AI 视频创意工作室弹窗 -->
+  <div id="video-modal" class="modal hidden">
+    <div class="modal-box video-box">
+      <h2>🎬 AI 视频创意工作室</h2>
+      <p id="video-news-title" class="video-news-title"></p>
+      <div class="modal-actions">
+        <button id="video-refresh" class="btn-primary">🔄 刷新重生（换个创意）</button>
+        <button id="video-close" class="btn-plain">关闭</button>
+      </div>
+      <p id="video-status"></p>
+      <div id="video-result"></div>
+    </div>
+  </div>
 
   <script type="module">
     // libsodium（GitHub Secret 加密用），加载完成后挂到 window 供 app.js 使用
