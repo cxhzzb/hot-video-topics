@@ -85,6 +85,7 @@ def main():
                 "links": t["links"],
                 "heat": t["heat"],
                 "ai": t.get("ai"),
+                "stats": t.get("stats"),
             }
             for t in topics[:MAX_TOPICS]
         ],

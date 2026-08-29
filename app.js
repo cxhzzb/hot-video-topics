@@ -103,11 +103,40 @@ function analysisHtml(ana, pn) {
     <div class="ana-card">${pathRows || '<p class="empty">数据积累中</p>'}</div>`;
 }
 
+const TREND_LABEL = {
+  up: ["📈 上升中", "trend-up"],
+  down: ["📉 回落中", "trend-down"],
+  flat: ["➖ 平稳", "trend-flat"],
+  new: ["🆕 新上榜", "trend-new"],
+};
+
+function statsBodyHtml(stats, platformNames) {
+  const name = p => (platformNames && platformNames[p]) || p;
+  const chain = (stats.path || []).map((s, idx) =>
+    `<span class="path-node${idx === 0 ? " src" : ""}">${escapeHtml(name(s.platform))}<i>${fmtTime(s.time)}</i></span>`
+  ).join('<span class="path-arrow">→</span>');
+  const log = stats.heat_log || [];
+  const max = Math.max(1, ...log.map(x => x.heat));
+  const bars = log.map(x =>
+    `<span class="trend-bar" style="height:${Math.max(8, Math.round(x.heat / max * 28))}px" title="${fmtTime(x.time)} 热度${x.heat}"></span>`
+  ).join("");
+  const [trendText, trendCls] = TREND_LABEL[stats.trend] || TREND_LABEL.new;
+  return `
+    <div class="plan-row"><span class="plan-label">🎯 首发</span>
+      <p><b>${escapeHtml(name(stats.origin_platform))}</b> · ${fmtTime(stats.first_seen)}
+         <span class="${trendCls} trend-tag">${trendText}</span></p></div>
+    ${chain ? `<div class="plan-row"><span class="plan-label">🔀 传播路径</span><p class="path-chain">${chain}</p></div>` : ""}
+    <div class="plan-row"><span class="plan-label">📊 热度趋势（近6小时）</span>
+      <p><span class="trend-chart">${bars || "数据积累中"}</span></p></div>
+    <div class="plan-row"><span class="plan-label">📅 在榜记录</span>
+      <p>${stats.days} 天 · 出现 ${stats.appearances} 轮</p></div>`;
+}
+
 function cardHtml(t, i, platformNames) {
   const ai = t.ai;
   const aiBody = ai
     ? `<p class="summary">${escapeHtml(ai.summary)}</p>
-       <div class="plan-toggle">▶ 查看视频制作方案</div>
+       <div class="plan-toggle" data-label="▶ 查看视频制作方案">▶ 查看视频制作方案</div>
        <div class="plan">${planHtml(ai)}</div>`
     : `<p class="no-ai">AI 分析生成中，下次更新后可见</p>
        ${t.desc ? `<p class="summary">${escapeHtml(t.desc.slice(0, 120))}${t.desc.length > 120 ? "…" : ""}</p>` : ""}`;
@@ -121,6 +150,8 @@ function cardHtml(t, i, platformNames) {
       </div>
       <div class="badges">${badgeHtml(t, platformNames)}${catTag}<span class="heat">${heatText}</span></div>
       ${aiBody}
+      ${t.stats ? `<div class="plan-toggle stats-toggle" data-label="📊 传播数据">📊 传播数据</div>
+      <div class="plan stats-body">${statsBodyHtml(t.stats, platformNames)}</div>` : ""}
       <button class="video-btn" data-idx="${i}">🎬 AI 视频化（30秒剧本 · Seedance）</button>
     </div>`;
 }
@@ -164,8 +195,8 @@ function render(data, activeCat, query) {
       listEl.querySelectorAll(".plan-toggle").forEach(el => {
         el.onclick = () => {
           const plan = el.nextElementSibling;
-          plan.classList.toggle("open");
-          el.textContent = plan.classList.contains("open") ? "▼ 收起方案" : "▶ 查看视频制作方案";
+          const open = plan.classList.toggle("open");
+          el.textContent = open ? "▼ 收起" : (el.dataset.label || "▶ 展开");
         };
       });
     }
@@ -185,12 +216,12 @@ function render(data, activeCat, query) {
     ? filtered.map((t, i) => cardHtml(t, i, data.platform_names || {})).join("")
     : (query ? "" : `<p class="empty">该分类暂无热点</p>`));
 
-  // 方案展开/收起
+  // 方案/数据区展开收起
   main.querySelectorAll(".plan-toggle").forEach(el => {
     el.onclick = () => {
       const plan = el.nextElementSibling;
-      plan.classList.toggle("open");
-      el.textContent = plan.classList.contains("open") ? "▼ 收起方案" : "▶ 查看视频制作方案";
+      const open = plan.classList.toggle("open");
+      el.textContent = open ? "▼ 收起" : (el.dataset.label || "▶ 展开");
     };
   });
 

@@ -331,6 +331,28 @@ footer {
 .path-node.src { background: #fee2e2; color: var(--accent); font-weight: 600; }
 .path-arrow { color: var(--text-dim); font-size: 12px; }
 
+/* 卡片传播数据区 */
+.stats-toggle { color: #0e7490; }
+.stats-body .plan-row p { font-size: 13px; }
+.trend-chart {
+  display: inline-flex;
+  align-items: flex-end;
+  gap: 3px;
+  height: 30px;
+  padding-top: 2px;
+}
+.trend-bar {
+  display: inline-block;
+  width: 8px;
+  border-radius: 2px 2px 0 0;
+  background: linear-gradient(180deg, #60a5fa, #2563eb);
+}
+.trend-tag { font-size: 12px; font-weight: 600; margin-left: 8px; }
+.trend-up { color: #dc2626; }
+.trend-down { color: #059669; }
+.trend-flat { color: #6b7280; }
+.trend-new { color: #7c3aed; }
+
 @media (max-width: 480px) {
   header h1 { font-size: 22px; }
   .card { padding: 14px; }

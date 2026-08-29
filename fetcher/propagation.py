@@ -10,6 +10,8 @@
 from collections import Counter
 from datetime import datetime, timedelta
 
+from history import entry_stats
+
 # 热榜类平台（反映自然热度，参与传播分析）
 HOT_PLATFORMS = ["weibo", "douyin", "baidu", "toutiao", "bili", "zhihu"]
 EMERGING_MAX_AGE_HOURS = 3   # 首次出现超过该时长即不算"上升期"
@@ -89,6 +91,7 @@ def analyze(history, now):
             "heat": round(score),
             "age_min": int((now - _parse(fs)).total_seconds() // 60),
             "ai": e.get("ai"),
+            "stats": entry_stats(e),
         })
     emerging.sort(key=lambda x: x["heat"], reverse=True)
 

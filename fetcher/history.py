@@ -52,8 +52,48 @@ def _find_entry(topic, entries):
     return best_key if best_sim >= MATCH_THRESHOLD else None
 
 
+HEAT_LOG_CAP = 96   # 热度日志最多保留条数（30分钟一轮 ≈ 2 天）
+STATS_LOG_N = 12    # 输出给前端的趋势数据点数（≈ 最近 6 小时）
+
+
+def _trend(heat_log):
+    """根据每轮热度判断趋势：up / down / flat / new"""
+    if len(heat_log) < 2:
+        return "new"
+    recent = [x["heat"] for x in heat_log[-3:]]
+    prev = [x["heat"] for x in heat_log[-6:-3]]
+    if not prev:
+        return "new"
+    r = sum(recent) / len(recent)
+    p = sum(prev) / len(prev)
+    if p == 0:
+        return "new"
+    ratio = (r - p) / p
+    if ratio > 0.3:
+        return "up"
+    if ratio < -0.3:
+        return "down"
+    return "flat"
+
+
+def entry_stats(e):
+    """单个话题的传播数据档案：首发平台/时间、传播路径、热度趋势等"""
+    pfs = e.get("platform_first_seen") or {}
+    ordered = sorted(pfs.items(), key=lambda kv: kv[1])
+    heat_log = e.get("heat_log") or []
+    return {
+        "first_seen": e.get("first_seen") or e["last_seen"],
+        "origin_platform": ordered[0][0] if ordered else (e["platforms"][0] if e["platforms"] else ""),
+        "path": [{"platform": p, "time": t} for p, t in ordered],
+        "heat_log": heat_log[-STATS_LOG_N:],
+        "trend": _trend(heat_log),
+        "days": len(e["days"]),
+        "appearances": e["appearances"],
+    }
+
+
 def update_history(history, topics, now):
-    """把本轮话题合并进历史，并清理过期条目"""
+    """把本轮话题合并进历史，并清理过期条目；顺带把传播数据挂到每个话题上"""
     entries = history["topics"]
     today = now.strftime("%Y-%m-%d")
     for topic in topics:
@@ -70,6 +110,7 @@ def update_history(history, topics, now):
                 "days": [],
                 "first_seen": "",
                 "platform_first_seen": {},
+                "heat_log": [],
                 "last_seen": "",
                 "ai": None,
             }
@@ -94,6 +135,12 @@ def update_history(history, topics, now):
             e["desc"] = topic["desc"]
         if topic.get("ai"):
             e["ai"] = topic["ai"]
+        # 记录本轮热度（趋势图数据源）
+        heat_log = e.setdefault("heat_log", [])
+        heat_log.append({"time": now_iso, "heat": topic["heat"]})
+        del heat_log[:-HEAT_LOG_CAP]
+        # 传播数据档案挂到当前话题上，随 data.json 输出
+        topic["stats"] = entry_stats(e)
 
     # 清理超过保留期的条目
     cutoff = (now - timedelta(days=RETENTION_DAYS)).isoformat(timespec="seconds")
@@ -117,6 +164,7 @@ def top_3d(history):
             "heat": e["heat_total"],
             "days": len(e["days"]),
             "ai": e.get("ai"),
+            "stats": entry_stats(e),
         }
         for e in ranked
     ]
