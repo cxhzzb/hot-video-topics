@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>热点速拍 · 短视频热点索引</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="header-inner">
+      <h1>热点速拍</h1>
+      <p class="subtitle">全网热点 · AI 选题方案 · 每 30 分钟更新</p>
+      <p class="updated">更新于 <span id="updated-at">加载中…</span></p>
+    </div>
+    <button id="settings-btn" title="API 设置">⚙</button>
+  </header>
+
+  <!-- API 设置弹窗 -->
+  <div id="settings-modal" class="modal hidden">
+    <div class="modal-box">
+      <h2>API 设置</h2>
+      <p class="modal-desc">
+        在这里更新 DeepSeek API Key：网页会把它加密写入 GitHub 仓库密钥，
+        并立即触发一次热点数据重新生成（约 1-2 分钟后刷新页面可见）。
+      </p>
+      <label>仓库所有者
+        <input id="gh-owner" type="text" placeholder="如 cxhzzb" autocomplete="off">
+      </label>
+      <label>仓库名
+        <input id="gh-repo" type="text" placeholder="如 hot-video-topics" autocomplete="off">
+      </label>
+      <label>GitHub Token（PAT）
+        <input id="gh-token" type="password" placeholder="ghp_... 需 repo 权限" autocomplete="off">
+      </label>
+      <label>DeepSeek API Key
+        <input id="ds-key" type="password" placeholder="sk-..." autocomplete="off">
+      </label>
+      <p class="modal-hint">
+        Token 和 Key 仅保存在本机浏览器（localStorage），不会上传到任何第三方。
+        Token 在 GitHub → Settings → Developer settings → Personal access tokens 生成，勾选 repo 权限。
+      </p>
+      <div class="modal-actions">
+        <button id="settings-save" class="btn-primary">保存并更新</button>
+        <button id="settings-cancel" class="btn-plain">取消</button>
+      </div>
+      <p id="settings-status"></p>
+    </div>
+  </div>
+
+  <nav id="tabs" class="tabs"></nav>
+
+  <main id="topics" class="topics">
+    <p class="loading">正在加载热点数据…</p>
+  </main>
+
+  <footer>
+    <p>数据源：微博 / 抖音 / 知乎 / 百度 / 头条 / B站 · AI 分析由 DeepSeek 生成，仅供参考</p>
+  </footer>
+
+  <script type="module">
+    // libsodium（GitHub Secret 加密用），加载完成后挂到 window 供 app.js 使用
+    import sodium from "https://cdn.jsdelivr.net/npm/libsodium-wrappers@0.7.13/+esm";
+    await sodium.ready;
+    window.sodium = sodium;
+  </script>
+  <script src="app.js"></script>
+</body>
+</html>
