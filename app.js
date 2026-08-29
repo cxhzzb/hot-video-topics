@@ -142,6 +142,18 @@ function cardHtml(t, i, platformNames) {
        ${t.desc ? `<p class="summary">${escapeHtml(t.desc.slice(0, 120))}${t.desc.length > 120 ? "…" : ""}</p>` : ""}`;
   const catTag = ai ? `<span class="cat-tag">${escapeHtml(ai.category)}</span>` : "";
   const heatText = t.days ? `热度 ${t.heat} · 在榜${t.days}天` : `热度 ${t.heat}`;
+  // 传播数据摘要行：常驻显示，不用点开
+  const name = p => (platformNames && platformNames[p]) || p;
+  let statsBar = "";
+  if (t.stats) {
+    const [trendText, trendCls] = TREND_LABEL[t.stats.trend] || TREND_LABEL.new;
+    const pathNames = (t.stats.path || []).map(s => escapeHtml(name(s.platform))).join(" → ");
+    statsBar = `<p class="stats-summary">
+      <span class="${trendCls} trend-tag">${trendText}</span>
+      <span class="ss-item">🎯 ${escapeHtml(name(t.stats.origin_platform))}首发 ${fmtTime(t.stats.first_seen)}</span>
+      ${pathNames ? `<span class="ss-item">🔀 ${pathNames}</span>` : ""}
+    </p>`;
+  }
   return `
     <div class="card">
       <div class="card-top">
@@ -149,8 +161,9 @@ function cardHtml(t, i, platformNames) {
         <span class="card-title">${escapeHtml(t.title)}</span>
       </div>
       <div class="badges">${badgeHtml(t, platformNames)}${catTag}<span class="heat">${heatText}</span></div>
+      ${statsBar}
       ${aiBody}
-      ${t.stats ? `<div class="plan-toggle stats-toggle" data-label="📊 传播数据">📊 传播数据</div>
+      ${t.stats ? `<button class="plan-toggle stats-toggle-btn" data-label="📊 详细传播数据（趋势图/在榜记录）">📊 详细传播数据</button>
       <div class="plan stats-body">${statsBodyHtml(t.stats, platformNames)}</div>` : ""}
       <button class="video-btn" data-idx="${i}">🎬 AI 视频化（30秒剧本 · Seedance）</button>
     </div>`;

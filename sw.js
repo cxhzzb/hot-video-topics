@@ -2,7 +2,8 @@
  * 静态资源：缓存优先（离线也能打开应用外壳）
  * 热点数据：网络优先（保证新鲜），断网时回退到最近一次缓存
  */
-const CACHE_NAME = "hot-spot-v1";
+// 注意：每次部署前端改动必须递增版本号，否则老用户会看到缓存的旧页面
+const CACHE_NAME = "hot-spot-v2";
 const STATIC_ASSETS = [
   "./",
   "./index.html",
