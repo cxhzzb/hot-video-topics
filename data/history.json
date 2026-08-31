@@ -136,12 +136,13 @@
     "baidu": "https://m.baidu.com/s?word=%E5%88%98%E5%9B%BD%E6%A2%81%E5%8F%82%E5%8A%A0%E5%9B%BD%E9%99%85%E4%B9%92%E8%81%94%E4%BC%9A%E8%AE%AE&sa=fyb_news",
     "bili": "https://search.bilibili.com/all?keyword=%E5%88%98%E5%9B%BD%E6%A2%81%E5%8F%82%E5%8A%A0%E5%9B%BD%E9%99%85%E4%B9%92%E8%81%94%E4%BC%9A%E8%AE%AE"
    },
-   "heat_total": 1275,
-   "appearances": 11,
+   "heat_total": 1295,
+   "appearances": 12,
    "days": [
-    "2026-08-30"
+    "2026-08-30",
+    "2026-08-31"
    ],
-   "last_seen": "2026-08-30T19:13:15+08:00",
+   "last_seen": "2026-08-31T14:20:28+08:00",
    "ai": {
     "id": 2,
     "title": "刘国梁出席国际乒联会议引关注",
@@ -187,6 +188,10 @@
     {
      "time": "2026-08-30T19:13:15+08:00",
      "heat": 16
+    },
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 20
     }
    ]
   },
@@ -491,12 +496,13 @@
     "weibo": "https://s.weibo.com/weibo?q=%23%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%23",
     "douyin": "https://www.douyin.com/search/%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%E7%83%AD%E5%BA%A6%E7%A0%B4%E4%B8%87"
    },
-   "heat_total": 618,
-   "appearances": 7,
+   "heat_total": 642,
+   "appearances": 8,
    "days": [
-    "2026-08-30"
+    "2026-08-30",
+    "2026-08-31"
    ],
-   "last_seen": "2026-08-30T05:21:33+08:00",
+   "last_seen": "2026-08-31T14:20:28+08:00",
    "ai": {
     "id": 7,
     "title": "《早春晴朗》热播，引发观剧热潮",
@@ -525,6 +531,10 @@
     {
      "time": "2026-08-30T05:21:33+08:00",
      "heat": 83
+    },
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 24
     }
    ]
   },
@@ -910,12 +920,13 @@
    "links": {
     "qq_ent": "https://view.inews.qq.com/a/20260828V048KD00"
    },
-   "heat_total": 340,
-   "appearances": 11,
+   "heat_total": 350,
+   "appearances": 12,
    "days": [
-    "2026-08-30"
+    "2026-08-30",
+    "2026-08-31"
    ],
-   "last_seen": "2026-08-30T19:13:15+08:00",
+   "last_seen": "2026-08-31T14:20:28+08:00",
    "ai": {
     "id": 1,
     "title": "于文文邀你久久公益节做好事",
@@ -959,6 +970,10 @@
     {
      "time": "2026-08-30T19:13:15+08:00",
      "heat": 31
+    },
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 10
     }
    ],
    "cover": "https://inews.gtimg.com/om_ls/Oyyqhr4VTH4q4DmTLQDdAE3jKvL0EIeaVApIGYj7fiqZUAA_870492/0"
@@ -1239,12 +1254,13 @@
    "links": {
     "rfi": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260829-%E4%B8%AD%E5%9B%BD%E8%AE%B0%E5%BF%86%E4%BD%93%E5%A4%A7%E5%8E%82%E9%95%BF%E9%91%AB%E5%AD%98%E5%82%A8%E8%B5%B7%E8%AF%89%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC-%E8%A6%81%E6%B1%82%E6%92%A4%E9%94%80-%E4%B8%AD%E5%9B%BD%E5%86%9B%E4%BA%8B%E5%85%AC%E5%8F%B8-%E8%AE%A4%E5%AE%9A"
    },
-   "heat_total": 303,
-   "appearances": 11,
+   "heat_total": 308,
+   "appearances": 12,
    "days": [
-    "2026-08-30"
+    "2026-08-30",
+    "2026-08-31"
    ],
-   "last_seen": "2026-08-30T19:13:15+08:00",
+   "last_seen": "2026-08-31T14:20:28+08:00",
    "ai": {
     "id": 3,
     "title": "长鑫存储起诉美国防部要求除名",
@@ -1288,6 +1304,10 @@
     {
      "time": "2026-08-30T19:13:15+08:00",
      "heat": 22
+    },
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 5
     }
    ],
    "cover": "https://s.rfi.fr/media/display/401d43ee-89b2-11f1-908e-005056a90284/w:1024/p:16x9/2026-07-26T233346Z-60715037-RC23PKAKRN2V-RTRMADP-3-CHINA-CXMT-IPO-LISTING.jpg"
@@ -1603,12 +1623,13 @@
    "links": {
     "rfi": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260829-%E7%BE%8E%E5%9B%BD%E5%92%8C%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%AE%A3%E5%B8%83%E8%BE%BE%E6%88%90%E4%B8%80%E9%A1%B9-%E5%8E%86%E5%8F%B2%E6%80%A7-%E7%9F%B3%E6%B2%B9%E5%8D%8F%E8%AE%AE"
    },
-   "heat_total": 292,
-   "appearances": 11,
+   "heat_total": 296,
+   "appearances": 12,
    "days": [
-    "2026-08-30"
+    "2026-08-30",
+    "2026-08-31"
    ],
-   "last_seen": "2026-08-30T19:13:15+08:00",
+   "last_seen": "2026-08-31T14:20:28+08:00",
    "ai": {
     "id": 5,
     "title": "美委达成历史性石油协议",
@@ -1652,6 +1673,10 @@
     {
      "time": "2026-08-30T19:13:15+08:00",
      "heat": 21
+    },
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 4
     }
    ],
    "cover": "https://s.rfi.fr/media/display/86fbffb6-a38a-11f1-80ec-005056bf30b7/w:1024/p:16x9/AP26014754406392.jpg"
@@ -1965,12 +1990,13 @@
    "links": {
     "rfi": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260829-%E5%9C%B0%E7%BC%98%E6%94%BF%E6%B2%BB%E7%B4%A7%E5%BC%A0%E8%83%8C%E6%99%AF%E4%B8%8B-%E6%99%AE%E4%BA%AC%E5%92%8C%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8F%8A%E4%BD%A9%E6%B3%BD%E4%BB%80%E5%9F%BA%E5%AE%89%E8%B5%B4%E4%B8%AD%E4%BA%9A%E5%8F%82%E5%8A%A0%E5%8C%BA%E5%9F%9F%E5%B3%B0%E4%BC%9A"
    },
-   "heat_total": 281,
-   "appearances": 11,
+   "heat_total": 284,
+   "appearances": 12,
    "days": [
-    "2026-08-30"
+    "2026-08-30",
+    "2026-08-31"
    ],
-   "last_seen": "2026-08-30T19:13:15+08:00",
+   "last_seen": "2026-08-31T14:20:28+08:00",
    "ai": {
     "id": 7,
     "title": "中俄伊印领导人中亚峰会晤",
@@ -2014,6 +2040,10 @@
     {
      "time": "2026-08-30T19:13:15+08:00",
      "heat": 20
+    },
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 3
     }
    ],
    "cover": "https://s.rfi.fr/media/display/aa4f9328-5417-11f1-92f3-005056bfb2b6/w:1024/p:16x9/2026-05-20T042811Z-1063367069-RC2SCLAIM198-RTRMADP-3-CHINA-RUSSIA.jpg"
@@ -2322,12 +2352,13 @@
    "links": {
     "rfi": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260829-%E4%BF%84%E7%BD%97%E6%96%AF%E5%AF%B9%E5%9F%BA%E8%BE%85%E9%99%84%E8%BF%91%E4%B8%80%E5%A4%84%E5%BC%B9%E8%8D%AF%E5%BA%93%E5%8F%91%E5%8A%A8%E7%A9%BA%E8%A2%AD%EF%BC%8C%E9%80%A0%E6%88%90%E8%87%B3%E5%B0%9137%E4%BA%BA%E6%AD%BB%E4%BA%A1"
    },
-   "heat_total": 270,
-   "appearances": 11,
+   "heat_total": 272,
+   "appearances": 12,
    "days": [
-    "2026-08-30"
+    "2026-08-30",
+    "2026-08-31"
    ],
-   "last_seen": "2026-08-30T19:13:15+08:00",
+   "last_seen": "2026-08-31T14:20:28+08:00",
    "ai": {
     "id": 2,
     "title": "俄无人机袭击基辅弹药库致37死",
@@ -2371,6 +2402,10 @@
     {
      "time": "2026-08-30T19:13:15+08:00",
      "heat": 19
+    },
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 2
     }
    ],
    "cover": "https://s.rfi.fr/media/display/97b7d73e-a3b3-11f1-bdcb-005056bfb2b6/w:1024/p:16x9/785688773-38511922965072595-3934454888110916444-n.jpeg"
@@ -2540,12 +2575,13 @@
    "links": {
     "rfi": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20260829-%E5%B0%BC%E6%97%A5%E5%B0%94%E9%A6%96%E9%83%BD%E5%BD%BB%E5%A4%9C%E6%9E%AA%E5%A3%B0-%E6%80%BB%E7%BB%9F%E5%8D%AB%E9%98%9F%E4%B8%8E%E5%8F%9B%E5%86%9B%E6%BF%80%E6%88%98-%E5%BD%93%E5%B1%80%E7%A7%B0%E5%B7%B2%E9%87%8D%E6%96%B0%E6%8E%A7%E5%88%B6%E5%B1%80%E5%8A%BF"
    },
-   "heat_total": 259,
-   "appearances": 11,
+   "heat_total": 260,
+   "appearances": 12,
    "days": [
-    "2026-08-30"
+    "2026-08-30",
+    "2026-08-31"
    ],
-   "last_seen": "2026-08-30T19:13:15+08:00",
+   "last_seen": "2026-08-31T14:20:28+08:00",
    "ai": null,
    "first_seen": "2026-08-30T03:54:47+08:00",
    "platform_first_seen": {
@@ -2575,6 +2611,10 @@
     {
      "time": "2026-08-30T19:13:15+08:00",
      "heat": 18
+    },
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 1
     }
    ],
    "cover": "https://s.rfi.fr/media/display/45ee66cc-09ab-11f1-be36-005056bfb2b6/w:1024/p:16x9/000-94GZ863.jpg"
@@ -2650,12 +2690,13 @@
    "links": {
     "bili": "https://search.bilibili.com/all?keyword=%E9%99%88%E6%B3%BD%E4%BD%9C%E5%AE%A2%E5%B0%8F%E6%9D%A8%E6%9C%89%E7%BA%A6"
    },
-   "heat_total": 208,
-   "appearances": 10,
+   "heat_total": 220,
+   "appearances": 11,
    "days": [
-    "2026-08-30"
+    "2026-08-30",
+    "2026-08-31"
    ],
-   "last_seen": "2026-08-30T19:13:15+08:00",
+   "last_seen": "2026-08-31T14:20:28+08:00",
    "ai": null,
    "first_seen": "2026-08-30T03:54:47+08:00",
    "platform_first_seen": {
@@ -2681,6 +2722,10 @@
     {
      "time": "2026-08-30T19:13:15+08:00",
      "heat": 11
+    },
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 12
     }
    ]
   },
@@ -8984,10 +9029,11 @@
    "links": {
     "rfi": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260829-%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85%E6%B4%AA%E7%81%BE%E6%AD%BB%E4%BA%A1%E4%BA%BA%E6%95%B0%E5%8D%87%E8%87%B3682%E4%BA%BA-%E8%BF%913000%E4%BA%BA%E5%A4%B1%E8%B8%AA-%E8%81%94%E5%90%88%E5%9B%BD%E4%B8%8E%E5%B0%BC%E6%B3%8A%E5%B0%94%E8%AD%A6%E5%91%8A%E6%B0%94%E5%80%99%E5%8F%98%E5%8C%96%E5%A8%81%E8%83%81%E5%8A%A0%E5%89%A7"
    },
-   "heat_total": 143,
-   "appearances": 5,
+   "heat_total": 152,
+   "appearances": 6,
    "days": [
-    "2026-08-30"
+    "2026-08-30",
+    "2026-08-31"
    ],
    "first_seen": "2026-08-30T05:21:33+08:00",
    "platform_first_seen": {
@@ -9013,9 +9059,13 @@
     {
      "time": "2026-08-30T19:13:15+08:00",
      "heat": 26
+    },
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 9
     }
    ],
-   "last_seen": "2026-08-30T19:13:15+08:00",
+   "last_seen": "2026-08-31T14:20:28+08:00",
    "ai": {
     "id": 0,
     "title": "喜马拉雅冰川崩塌，近3000人失踪",
@@ -9042,10 +9092,11 @@
    "links": {
     "rfi": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260829-%E6%8C%AA%E5%A8%81%E4%B8%BE%E5%9B%BD%E5%93%80%E6%82%BC%E5%93%88%E6%8B%89%E5%B0%94%E4%BA%94%E4%B8%96-%E6%96%B0%E7%8E%8B%E5%93%88%E5%BA%B7%E5%85%AB%E4%B8%96%E5%BC%80%E5%90%AF%E6%96%B0%E6%97%B6%E4%BB%A3"
    },
-   "heat_total": 138,
-   "appearances": 5,
+   "heat_total": 146,
+   "appearances": 6,
    "days": [
-    "2026-08-30"
+    "2026-08-30",
+    "2026-08-31"
    ],
    "first_seen": "2026-08-30T05:21:33+08:00",
    "platform_first_seen": {
@@ -9071,9 +9122,13 @@
     {
      "time": "2026-08-30T19:13:15+08:00",
      "heat": 25
+    },
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 8
     }
    ],
-   "last_seen": "2026-08-30T19:13:15+08:00",
+   "last_seen": "2026-08-31T14:20:28+08:00",
    "ai": {
     "id": 1,
     "title": "挪威新王哈康八世即位，举国哀悼",
@@ -9100,10 +9155,11 @@
    "links": {
     "rfi": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260829-%E7%BE%8E%E5%9B%BD%E5%AF%B9%E4%BC%8A%E6%9C%97-%E7%BB%8F%E6%B5%8E%E6%88%98-%E9%A6%96%E9%A1%B9%E8%A1%8C%E5%8A%A8-%E5%9F%83%E5%8F%8A%E9%93%B6%E8%A1%8C%E9%98%BF%E8%81%94%E9%85%8B%E5%88%86%E8%A1%8C%E9%81%AD%E5%88%B6%E8%A3%81-%E9%98%BF%E8%81%94%E9%85%8B%E5%A4%AE%E8%A1%8C%E7%B4%A7%E6%80%A5%E5%AE%A1%E6%9F%A5"
    },
-   "heat_total": 133,
-   "appearances": 5,
+   "heat_total": 140,
+   "appearances": 6,
    "days": [
-    "2026-08-30"
+    "2026-08-30",
+    "2026-08-31"
    ],
    "first_seen": "2026-08-30T05:21:33+08:00",
    "platform_first_seen": {
@@ -9129,9 +9185,13 @@
     {
      "time": "2026-08-30T19:13:15+08:00",
      "heat": 24
+    },
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 7
     }
    ],
-   "last_seen": "2026-08-30T19:13:15+08:00",
+   "last_seen": "2026-08-31T14:20:28+08:00",
    "ai": {
     "id": 3,
     "title": "美国制裁埃及银行阿联酋分行，伊朗经济战升级",
@@ -9158,10 +9218,11 @@
    "links": {
     "rfi": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260829-%E7%BE%8E%E5%AE%98%E5%91%98%E4%BF%AE%E6%AD%A3-%E4%B8%AD%E5%9B%BD%E9%BB%91%E5%AE%A2%E5%85%A5%E4%BE%B5%E6%94%BF%E5%BA%9C%E6%9C%BA%E6%9E%84-%E8%AF%B4%E6%B3%95-%E6%9C%89%E5%85%B3%E6%9C%BA%E6%9E%84%E4%BB%85%E4%B8%BA%E6%94%BB%E5%87%BB%E7%9B%AE%E6%A0%87"
    },
-   "heat_total": 128,
-   "appearances": 5,
+   "heat_total": 134,
+   "appearances": 6,
    "days": [
-    "2026-08-30"
+    "2026-08-30",
+    "2026-08-31"
    ],
    "first_seen": "2026-08-30T05:21:33+08:00",
    "platform_first_seen": {
@@ -9187,9 +9248,13 @@
     {
      "time": "2026-08-30T19:13:15+08:00",
      "heat": 23
+    },
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 6
     }
    ],
-   "last_seen": "2026-08-30T19:13:15+08:00",
+   "last_seen": "2026-08-31T14:20:28+08:00",
    "ai": {
     "id": 4,
     "title": "美官员改口：中国黑客仅锁定目标未入侵",
@@ -9465,10 +9530,11 @@
    "links": {
     "rfi": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20260829-%E6%88%B7%E4%B8%8A%E9%9A%BC%E8%BE%85%E5%87%BB%E8%B4%A5%E6%A8%8A%E6%8C%AF%E4%B8%9C-%E4%B9%92%E4%B9%93%E7%90%83%E5%BE%B7%E5%9B%BD%E6%9D%AF%E4%B8%8A%EF%BC%8C%E6%9D%9C%E5%A1%9E%E5%B0%94%E5%A4%9A%E5%A4%AB%E9%98%9F%E5%9C%A8%E7%AC%AC%E4%B8%80%E8%BD%AE%E6%AF%94%E8%B5%9B%E4%B8%AD%E5%87%BA%E5%B1%80"
    },
-   "heat_total": 117,
-   "appearances": 4,
+   "heat_total": 127,
+   "appearances": 5,
    "days": [
-    "2026-08-30"
+    "2026-08-30",
+    "2026-08-31"
    ],
    "first_seen": "2026-08-30T07:27:11+08:00",
    "platform_first_seen": {
@@ -9490,9 +9556,13 @@
     {
      "time": "2026-08-30T19:13:15+08:00",
      "heat": 27
+    },
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 10
     }
    ],
-   "last_seen": "2026-08-30T19:13:15+08:00",
+   "last_seen": "2026-08-31T14:20:28+08:00",
    "ai": {
     "id": 2,
     "title": "樊振东爆冷出局，德国杯一轮游",
@@ -11683,21 +11753,25 @@
    "desc": "30日，西藏自治区就吉隆县“8·26”泥石流灾害举行新闻发布会。8月26日上午，因尼泊尔一侧冰川断裂引发泥石流，冲击吉隆口岸。截至29日18时，灾害造成16人遇难、546人失联。灾害发生后，党中央高度重视，习近平总书记立即作出重要指示，并主持召开中共中央政治局会议，对抢险救援、应急处置等工作提出明确要求。",
    "platforms": [
     "weibo",
-    "baidu"
+    "baidu",
+    "bili"
    ],
    "links": {
-    "weibo": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%97%8F%E5%90%89%E9%9A%86%E6%B3%A5%E7%9F%B3%E6%B5%81%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%23",
-    "baidu": "https://www.baidu.com/s?wd=%E8%A5%BF%E8%97%8F%E5%90%89%E9%9A%86%E6%B3%A5%E7%9F%B3%E6%B5%81%E7%81%BE%E5%AE%B3%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%E5%AE%9E%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news"
+    "weibo": "https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%97%8F%E5%90%89%E9%9A%86%E6%B3%A5%E7%9F%B3%E6%B5%81%23",
+    "baidu": "https://www.baidu.com/s?wd=%E8%A5%BF%E8%97%8F%E5%90%89%E9%9A%86%E6%B3%A5%E7%9F%B3%E6%B5%81%E7%81%BE%E5%AE%B3%E6%96%B0%E9%97%BB%E5%8F%91%E5%B8%83%E4%BC%9A%E5%AE%9E%E5%BD%95&sa=fyb_news&rsv_dl=fyb_news",
+    "bili": "https://search.bilibili.com/all?keyword=%E7%9B%B4%E5%87%BB%E8%A5%BF%E8%97%8F%E5%90%89%E9%9A%86%E6%B3%A5%E7%9F%B3%E6%B5%81%E6%95%91%E6%8F%B4%E7%8E%B0%E5%9C%BA"
    },
-   "heat_total": 122,
-   "appearances": 3,
+   "heat_total": 198,
+   "appearances": 4,
    "days": [
-    "2026-08-30"
+    "2026-08-30",
+    "2026-08-31"
    ],
    "first_seen": "2026-08-30T09:23:57+08:00",
    "platform_first_seen": {
     "weibo": "2026-08-30T09:23:57+08:00",
-    "baidu": "2026-08-30T14:52:08+08:00"
+    "baidu": "2026-08-30T14:52:08+08:00",
+    "bili": "2026-08-31T14:20:28+08:00"
    },
    "heat_log": [
     {
@@ -11711,23 +11785,27 @@
     {
      "time": "2026-08-30T19:13:15+08:00",
      "heat": 28
+    },
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 76
     }
    ],
-   "last_seen": "2026-08-30T19:13:15+08:00",
+   "last_seen": "2026-08-31T14:20:28+08:00",
    "ai": {
-    "id": 0,
-    "title": "西藏吉隆泥石流新闻发布会召开",
-    "summary": "西藏吉隆发生泥石流灾害后，官方召开新闻发布会通报救援进展及伤亡情况。该事件因自然灾害的突发性和严重性引发全网关注，发布会上的信息更新成为公众了解灾情的关键窗口。",
+    "id": 4,
+    "title": "直击西藏吉隆泥石流救援现场",
+    "summary": "西藏吉隆发生泥石流灾害，官方媒体和救援队伍第一时间赶赴现场，发布救援实况。该话题因现场画面真实震撼、救援行动牵动人心而备受关注。看点在于救援人员如何克服高寒缺氧等困难展开生死营救。",
     "category": "社会",
     "angles": [
-     "蹭热度：第一时间汇总发布会核心信息，梳理救援时间线",
-     "情绪共鸣：聚焦受灾群众和救援人员故事，传递温暖与希望",
-     "科普：解读泥石流成因及高原灾害避险知识"
+     "蹭热度：混剪救援现场最震撼的瞬间，展现中国救援速度。",
+     "情绪共鸣：聚焦救援人员与受灾群众的感人互动，传递温暖力量。",
+     "深度解读：介绍高原救援的特殊难度，以及后续安置和重建工作。"
     ],
-    "hook": "吉隆泥石流最新通报，这些数字让人揪心！",
-    "structure": "前3秒展示发布会现场或灾情画面，快速播报伤亡和救援数据，中间穿插救援现场感人瞬间，结尾呼吁关注官方信息、不传谣。",
-    "format": "口播/混剪",
-    "risk": "灾害报道需严谨，避免传播未经证实的信息，画面素材注意版权和真实性，防止引发二次伤害。"
+    "hook": "海拔4000米，他们用身体开辟生命通道！",
+    "structure": "前3秒用救援直升机或搜救犬的紧张画面开场。中间按时间线展示救援过程，穿插救援人员采访，最后致敬逆行者，传递正能量。",
+    "format": "混剪/口播",
+    "risk": "涉及灾害现场，需避免过度渲染悲情，尊重受灾群众隐私，使用官方素材。"
    },
    "cover": "https://fyb-2.cdn.bcebos.com/hotboard_image/1442c9f2838284936bed95e8f7723e35"
   },
@@ -12097,10 +12175,11 @@
    "links": {
     "qq_ent": "https://view.inews.qq.com/a/20260830V04MN400"
    },
-   "heat_total": 46,
-   "appearances": 2,
+   "heat_total": 47,
+   "appearances": 3,
    "days": [
-    "2026-08-30"
+    "2026-08-30",
+    "2026-08-31"
    ],
    "first_seen": "2026-08-30T14:52:08+08:00",
    "platform_first_seen": {
@@ -12114,9 +12193,13 @@
     {
      "time": "2026-08-30T19:13:15+08:00",
      "heat": 16
+    },
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 1
     }
    ],
-   "last_seen": "2026-08-30T19:13:15+08:00",
+   "last_seen": "2026-08-31T14:20:28+08:00",
    "ai": {
     "id": 6,
     "title": "韦雪谈景甜孙宇晨事件引热议",
@@ -12184,10 +12267,11 @@
    "links": {
     "bili": "https://search.bilibili.com/all?keyword=%E8%AE%B0%E5%BF%86%E7%AE%A1%E7%90%86%E5%B1%80%E5%85%B3%E6%BD%AE%E5%90%AF%E5%8A%A8%E6%97%B6%E9%97%B4%E6%9E%AA"
    },
-   "heat_total": 49,
-   "appearances": 2,
+   "heat_total": 64,
+   "appearances": 3,
    "days": [
-    "2026-08-30"
+    "2026-08-30",
+    "2026-08-31"
    ],
    "first_seen": "2026-08-30T14:52:08+08:00",
    "platform_first_seen": {
@@ -12201,9 +12285,13 @@
     {
      "time": "2026-08-30T19:13:15+08:00",
      "heat": 20
+    },
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 15
     }
    ],
-   "last_seen": "2026-08-30T19:13:15+08:00",
+   "last_seen": "2026-08-31T14:20:28+08:00",
    "ai": {
     "id": 8,
     "title": "记忆管理局关潮启动时间枪",
@@ -12229,10 +12317,11 @@
    "links": {
     "qq_ent": "https://view.inews.qq.com/a/20260830V04Q5E00"
    },
-   "heat_total": 40,
-   "appearances": 2,
+   "heat_total": 42,
+   "appearances": 3,
    "days": [
-    "2026-08-30"
+    "2026-08-30",
+    "2026-08-31"
    ],
    "first_seen": "2026-08-30T14:52:08+08:00",
    "platform_first_seen": {
@@ -12246,9 +12335,13 @@
     {
      "time": "2026-08-30T19:13:15+08:00",
      "heat": 11
+    },
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 2
     }
    ],
-   "last_seen": "2026-08-30T19:13:15+08:00",
+   "last_seen": "2026-08-31T14:20:28+08:00",
    "ai": {
     "id": 9,
     "title": "王菲带女儿现身面馆，李嫣穿搭成熟",
@@ -12403,10 +12496,11 @@
    "links": {
     "bili": "https://search.bilibili.com/all?keyword=%E7%89%A7%E7%A5%9E%E8%AE%B0%E5%A4%AA%E5%AD%90%E7%99%BB%E5%9F%BA%E5%8D%B3%E9%A9%BE%E5%B4%A9"
    },
-   "heat_total": 47,
-   "appearances": 2,
+   "heat_total": 66,
+   "appearances": 3,
    "days": [
-    "2026-08-30"
+    "2026-08-30",
+    "2026-08-31"
    ],
    "first_seen": "2026-08-30T14:52:08+08:00",
    "platform_first_seen": {
@@ -12420,9 +12514,13 @@
     {
      "time": "2026-08-30T19:13:15+08:00",
      "heat": 19
+    },
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 19
     }
    ],
-   "last_seen": "2026-08-30T19:13:15+08:00",
+   "last_seen": "2026-08-31T14:20:28+08:00",
    "ai": {
     "id": 3,
     "title": "《牧神记》太子登基即驾崩，剧情太敢写",
@@ -13457,10 +13555,11 @@
    "links": {
     "douyin": "https://www.douyin.com/search/%E5%B9%BC%E5%84%BF%E5%9B%AD%E7%AC%AC%E4%B8%80%E5%A4%A9vs%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9"
    },
-   "heat_total": 30,
-   "appearances": 2,
+   "heat_total": 40,
+   "appearances": 3,
    "days": [
-    "2026-08-30"
+    "2026-08-30",
+    "2026-08-31"
    ],
    "first_seen": "2026-08-30T14:52:08+08:00",
    "platform_first_seen": {
@@ -13474,11 +13573,15 @@
     {
      "time": "2026-08-30T19:13:15+08:00",
      "heat": 12
+    },
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 10
     }
    ],
-   "last_seen": "2026-08-30T19:13:15+08:00",
+   "last_seen": "2026-08-31T14:20:28+08:00",
    "ai": null,
-   "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/oMQiTZcxZwAEpB4DiBJdGaRcukIIKQPvkAE3k~noop.jpeg?lk3s=bfd515bb&x-expires=1788109200&x-signature=gDPYMz0JfOwdVMEgZND5oHkfOIQ%3D&from=3218412987"
+   "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/oMQiTZcxZwAEpB4DiBJdGaRcukIIKQPvkAE3k~noop.jpeg?lk3s=bfd515bb&x-expires=1788177600&x-signature=80dX26xd9Nj2zyBe35zjOsyvzow%3D&from=3218412987"
   },
   "谢婷婷为46岁谢霆锋庆生": {
    "title": "谢婷婷为46岁谢霆锋庆生",
@@ -14902,12 +15005,13 @@
    ],
    "links": {
     "baidu": "https://www.baidu.com/s?wd=%E5%B0%BC%E6%B3%8A%E5%B0%94%E5%86%B0%E5%B4%A9%E6%98%AF%E5%9B%A0%E4%B8%BA%E5%85%A8%E7%90%83%E5%8F%98%E6%9A%96%E5%90%97&sa=fyb_news&rsv_dl=fyb_news",
-    "toutiao": "https://www.toutiao.com/trending/7679218383044333119"
+    "toutiao": "https://www.toutiao.com/trending/7679218383044333119/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227679218383044333119%22%2C%22hot_board_impr_id%22%3A%222026083114185808C40A2EEBC07B8F0E3A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%BC%E6%B3%8A%E5%B0%94%E5%86%B0%E5%B4%A9%E6%98%AF%E5%9B%A0%E4%B8%BA%E5%85%A8%E7%90%83%E5%8F%98%E6%9A%96%E5%90%97%22%7D&rank=&style_id=40132&topic_id=7679218383044333119"
    },
-   "heat_total": 109,
-   "appearances": 1,
+   "heat_total": 111,
+   "appearances": 2,
    "days": [
-    "2026-08-30"
+    "2026-08-30",
+    "2026-08-31"
    ],
    "first_seen": "2026-08-30T19:13:15+08:00",
    "platform_first_seen": {
@@ -14918,10 +15022,14 @@
     {
      "time": "2026-08-30T19:13:15+08:00",
      "heat": 109
+    },
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 2
     }
    ],
-   "last_seen": "2026-08-30T19:13:15+08:00",
-   "cover": "https://fyb-1.cdn.bcebos.com/fyb/de6163834f53ca92c1273fff98ac9078.jpeg",
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://p3-sign.toutiaoimg.com/top-static-files-outer/breaknews/53511dcb-df7e-4b24-9a36-4758f4b5035c~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1790726400&x-signature=oV%2FVsiw2kSEVmG5HHJMSJOasU%2B4%3D",
    "ai": {
     "id": 3,
     "title": "尼泊尔冰崩是气候变暖的锅吗？专家解读",
@@ -15076,10 +15184,11 @@
    "links": {
     "rfi": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260830-%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BB%8A%E8%B5%B4%E6%AF%94%E4%BB%80%E5%87%AF%E5%85%8B%E5%87%BA%E5%B8%AD%E4%B8%8A%E5%90%88%E7%BB%84%E7%BB%87%E5%B3%B0%E4%BC%9A-%E5%92%8C%E8%B0%90%E8%A1%A8%E9%9D%A2%E4%B8%8B%E6%9A%97%E6%B5%81%E6%B6%8C%E5%8A%A8"
    },
-   "heat_total": 30,
-   "appearances": 1,
+   "heat_total": 43,
+   "appearances": 2,
    "days": [
-    "2026-08-30"
+    "2026-08-30",
+    "2026-08-31"
    ],
    "first_seen": "2026-08-30T19:13:15+08:00",
    "platform_first_seen": {
@@ -15089,9 +15198,13 @@
     {
      "time": "2026-08-30T19:13:15+08:00",
      "heat": 30
+    },
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 13
     }
    ],
-   "last_seen": "2026-08-30T19:13:15+08:00",
+   "last_seen": "2026-08-31T14:20:28+08:00",
    "cover": "https://s.rfi.fr/media/display/899e5ba6-a42a-11f1-8985-005056a90284/w:1024/p:16x9/AP26198084161653.jpg",
    "ai": {
     "id": 8,
@@ -15155,28 +15268,36 @@
    "title": "官方回应“取消ETC” 读懂车主真诉求",
    "desc": "近日，有网友向交通运输部留言建议取消ETC设备，直接绑定支付账号实现扫车牌通行，免去安装办理的麻烦。交通运输部回应称，将推广“手机+”无卡便捷通行模式。",
    "platforms": [
-    "baidu"
+    "baidu",
+    "toutiao"
    ],
    "links": {
-    "baidu": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E5%8F%96%E6%B6%88ETC%E2%80%9D+%E8%AF%BB%E6%87%82%E8%BD%A6%E4%B8%BB%E7%9C%9F%E8%AF%89%E6%B1%82&sa=fyb_news&rsv_dl=fyb_news"
+    "baidu": "https://www.baidu.com/s?wd=%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E5%8F%96%E6%B6%88ETC%E2%80%9D+%E8%AF%BB%E6%87%82%E8%BD%A6%E4%B8%BB%E7%9C%9F%E8%AF%89%E6%B1%82&sa=fyb_news&rsv_dl=fyb_news",
+    "toutiao": "https://www.toutiao.com/trending/7679090762579001386/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227679090762579001386%22%2C%22hot_board_impr_id%22%3A%222026083114185808C40A2EEBC07B8F0E3A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E5%8F%96%E6%B6%88ETC%E2%80%9D%E8%AF%BB%E6%87%82%E8%BD%A6%E4%B8%BB%E7%9C%9F%E8%AF%89%E6%B1%82%22%7D&rank=&style_id=40132&topic_id=7679090762579001386"
    },
-   "heat_total": 29,
-   "appearances": 1,
+   "heat_total": 35,
+   "appearances": 2,
    "days": [
-    "2026-08-30"
+    "2026-08-30",
+    "2026-08-31"
    ],
    "first_seen": "2026-08-30T19:13:15+08:00",
    "platform_first_seen": {
-    "baidu": "2026-08-30T19:13:15+08:00"
+    "baidu": "2026-08-30T19:13:15+08:00",
+    "toutiao": "2026-08-31T14:20:28+08:00"
    },
    "heat_log": [
     {
      "time": "2026-08-30T19:13:15+08:00",
      "heat": 29
+    },
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 6
     }
    ],
-   "last_seen": "2026-08-30T19:13:15+08:00",
-   "cover": "https://fyb-2.cdn.bcebos.com/hotboard_image/745d62b6bfad58f3100f7e0e51cd632a",
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/afb0c20b859442e2bd36b76126933028~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1790726400&x-signature=huh%2FMFxTb0KVxTtQSShT99twFT8%3D",
    "ai": {
     "id": 0,
     "title": "官方回应取消ETC，推行无卡便捷通行",
@@ -15286,10 +15407,11 @@
    "links": {
     "rfi": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260830-%E6%97%A5%E6%9C%AC%E7%A6%8F%E4%BA%95%E6%99%AE%E9%99%8D%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%A4%A7%E6%9A%B4%E9%9B%A8-%E8%A6%81%E6%B1%8234%E4%B8%87%E4%BA%BA%E9%81%BF%E9%9A%BE"
    },
-   "heat_total": 29,
-   "appearances": 1,
+   "heat_total": 41,
+   "appearances": 2,
    "days": [
-    "2026-08-30"
+    "2026-08-30",
+    "2026-08-31"
    ],
    "first_seen": "2026-08-30T19:13:15+08:00",
    "platform_first_seen": {
@@ -15299,9 +15421,13 @@
     {
      "time": "2026-08-30T19:13:15+08:00",
      "heat": 29
+    },
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 12
     }
    ],
-   "last_seen": "2026-08-30T19:13:15+08:00",
+   "last_seen": "2026-08-31T14:20:28+08:00",
    "cover": "https://s.rfi.fr/media/display/6cce6026-a44c-11f1-b7eb-005056bfb2b6/w:1024/p:16x9/img-303c059db972c9579006aca64e52a85c996047.jpg",
    "ai": {
     "id": 3,
@@ -15496,10 +15622,11 @@
    "links": {
     "bili": "https://search.bilibili.com/all?keyword=%E5%9C%86%E8%84%B8%E8%B0%88%E7%BE%8E%E5%9B%BD%E8%A1%80%E6%B5%86%E4%BA%A7%E4%B8%9A"
    },
-   "heat_total": 28,
-   "appearances": 1,
+   "heat_total": 42,
+   "appearances": 2,
    "days": [
-    "2026-08-30"
+    "2026-08-30",
+    "2026-08-31"
    ],
    "first_seen": "2026-08-30T19:13:15+08:00",
    "platform_first_seen": {
@@ -15509,9 +15636,13 @@
     {
      "time": "2026-08-30T19:13:15+08:00",
      "heat": 28
+    },
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 14
     }
    ],
-   "last_seen": "2026-08-30T19:13:15+08:00",
+   "last_seen": "2026-08-31T14:20:28+08:00",
    "cover": "",
    "ai": {
     "id": 8,
@@ -15538,10 +15669,11 @@
    "links": {
     "qq_ent": "https://view.inews.qq.com/a/20260830V08CQ100"
    },
-   "heat_total": 28,
-   "appearances": 1,
+   "heat_total": 36,
+   "appearances": 2,
    "days": [
-    "2026-08-30"
+    "2026-08-30",
+    "2026-08-31"
    ],
    "first_seen": "2026-08-30T19:13:15+08:00",
    "platform_first_seen": {
@@ -15551,9 +15683,13 @@
     {
      "time": "2026-08-30T19:13:15+08:00",
      "heat": 28
+    },
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 8
     }
    ],
-   "last_seen": "2026-08-30T19:13:15+08:00",
+   "last_seen": "2026-08-31T14:20:28+08:00",
    "cover": "https://inews.gtimg.com/om_ls/OuBLLSlxJbL5S5kbVFJelkO74xN5P-sezzp2WgsZfarroAA_870492/0",
    "ai": {
     "id": 9,
@@ -15580,10 +15716,11 @@
    "links": {
     "rfi": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20260830-%E6%9C%9D%E9%B2%9C%E5%86%9B%E6%96%B9%E9%AB%98%E5%B1%82%E5%A4%A7%E6%94%B9%E7%BB%84%EF%BC%8C%E5%9B%BD%E9%98%B2%E9%83%A8%E9%95%BF%E5%8A%AA%E5%85%89%E9%93%81%E9%81%AD%E8%A7%A3%E8%81%8C%E9%99%8D%E7%BA%A7"
    },
-   "heat_total": 28,
-   "appearances": 1,
+   "heat_total": 39,
+   "appearances": 2,
    "days": [
-    "2026-08-30"
+    "2026-08-30",
+    "2026-08-31"
    ],
    "first_seen": "2026-08-30T19:13:15+08:00",
    "platform_first_seen": {
@@ -15593,9 +15730,13 @@
     {
      "time": "2026-08-30T19:13:15+08:00",
      "heat": 28
+    },
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 11
     }
    ],
-   "last_seen": "2026-08-30T19:13:15+08:00",
+   "last_seen": "2026-08-31T14:20:28+08:00",
    "cover": "https://s.rfi.fr/media/display/77e7ff26-a44c-11f1-ad36-005056a97e36/w:1024/p:16x9/000-94W92KF.jpg",
    "ai": {
     "id": 0,
@@ -15832,10 +15973,11 @@
    "links": {
     "qq_ent": "https://view.inews.qq.com/a/20260830A053S800"
    },
-   "heat_total": 27,
-   "appearances": 1,
+   "heat_total": 41,
+   "appearances": 2,
    "days": [
-    "2026-08-30"
+    "2026-08-30",
+    "2026-08-31"
    ],
    "first_seen": "2026-08-30T19:13:15+08:00",
    "platform_first_seen": {
@@ -15845,9 +15987,13 @@
     {
      "time": "2026-08-30T19:13:15+08:00",
      "heat": 27
+    },
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 14
     }
    ],
-   "last_seen": "2026-08-30T19:13:15+08:00",
+   "last_seen": "2026-08-31T14:20:28+08:00",
    "cover": "https://inews.gtimg.com/om_ls/O6vwJ466OgnWZGRWhl7noiHgUgPgLxK_yoSL_2-yZaa2QAA_294195/0",
    "ai": {
     "id": 6,
@@ -15916,10 +16062,11 @@
    "links": {
     "douyin": "https://www.douyin.com/search/%E5%BD%93%E6%88%91%E6%89%A7%E6%84%8F%E6%8A%A5%E8%80%83%E7%9C%81%E5%A4%96%E5%A4%A7%E5%AD%A6"
    },
-   "heat_total": 26,
-   "appearances": 1,
+   "heat_total": 56,
+   "appearances": 2,
    "days": [
-    "2026-08-30"
+    "2026-08-30",
+    "2026-08-31"
    ],
    "first_seen": "2026-08-30T19:13:15+08:00",
    "platform_first_seen": {
@@ -15929,10 +16076,14 @@
     {
      "time": "2026-08-30T19:13:15+08:00",
      "heat": 26
+    },
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 30
     }
    ],
-   "last_seen": "2026-08-30T19:13:15+08:00",
-   "cover": "https://p9-sign.douyinpic.com/tos-cn-i-0813c000-ce/ooe6JcXAJAFIA3gNgJG5OVg5JQAufe76PL0BJv~noop.jpeg?lk3s=bfd515bb&x-expires=1788109200&x-signature=sASwm%2FEnP9wQEJvyDWnBbx%2FcBsE%3D&from=3218412987",
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://p26-sign.douyinpic.com/tos-cn-i-0813c000-ce/ooe6JcXAJAFIA3gNgJG5OVg5JQAufe76PL0BJv~noop.jpeg?lk3s=bfd515bb&x-expires=1788177600&x-signature=CASI4gIqwuPUQdBuexEb450t8ZQ%3D&from=3218412987",
    "ai": {
     "id": 8,
     "title": "当我执意报考省外大学，爸妈反应亮了",
@@ -16126,10 +16277,11 @@
    "links": {
     "qq_ent": "https://view.inews.qq.com/a/20260830A05GJG00"
    },
-   "heat_total": 26,
-   "appearances": 1,
+   "heat_total": 38,
+   "appearances": 2,
    "days": [
-    "2026-08-30"
+    "2026-08-30",
+    "2026-08-31"
    ],
    "first_seen": "2026-08-30T19:13:15+08:00",
    "platform_first_seen": {
@@ -16139,9 +16291,13 @@
     {
      "time": "2026-08-30T19:13:15+08:00",
      "heat": 26
+    },
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 12
     }
    ],
-   "last_seen": "2026-08-30T19:13:15+08:00",
+   "last_seen": "2026-08-31T14:20:28+08:00",
    "cover": "https://inews.gtimg.com/news_ls/OQCXBipkWnV2R0I5l4Sit6F8pyFj6gtp6Jbfrj3FxtdB8AA_294195/0",
    "ai": {
     "id": 3,
@@ -16168,10 +16324,11 @@
    "links": {
     "douyin": "https://www.douyin.com/search/%E5%B9%B8%E7%A6%8F%E5%92%8C%E5%BF%AB%E4%B9%90%E6%98%AF%E7%BB%93%E5%B1%80"
    },
-   "heat_total": 25,
-   "appearances": 1,
+   "heat_total": 37,
+   "appearances": 2,
    "days": [
-    "2026-08-30"
+    "2026-08-30",
+    "2026-08-31"
    ],
    "first_seen": "2026-08-30T19:13:15+08:00",
    "platform_first_seen": {
@@ -16181,10 +16338,14 @@
     {
      "time": "2026-08-30T19:13:15+08:00",
      "heat": 25
+    },
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 12
     }
    ],
-   "last_seen": "2026-08-30T19:13:15+08:00",
-   "cover": "https://p26-sign.douyinpic.com/tos-cn-i-0813/oISlpqACfACUAIDbAB3SQcIgHF9tqk2AeCEEAo~noop.jpeg?lk3s=bfd515bb&x-expires=1788109200&x-signature=VEqChR%2FC%2BoWSLgyvbORlPXrZDgY%3D&from=3218412987",
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://p26-sign.douyinpic.com/tos-cn-i-0813/oISlpqACfACUAIDbAB3SQcIgHF9tqk2AeCEEAo~noop.jpeg?lk3s=bfd515bb&x-expires=1788177600&x-signature=ua94p%2FyhBQKz13sOOQXOnzq5CAQ%3D&from=3218412987",
    "ai": null
   },
   "轻薄本疯狂砍掉A口、HDMI，全靠Type‑C，为轻薄牺牲接口，到底是进步还是对普通用户不负责任？": {
@@ -16448,10 +16609,11 @@
    "links": {
     "qq_ent": "https://view.inews.qq.com/a/20260830A0712T00"
    },
-   "heat_total": 24,
-   "appearances": 1,
+   "heat_total": 39,
+   "appearances": 2,
    "days": [
-    "2026-08-30"
+    "2026-08-30",
+    "2026-08-31"
    ],
    "first_seen": "2026-08-30T19:13:15+08:00",
    "platform_first_seen": {
@@ -16461,9 +16623,13 @@
     {
      "time": "2026-08-30T19:13:15+08:00",
      "heat": 24
+    },
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 15
     }
    ],
-   "last_seen": "2026-08-30T19:13:15+08:00",
+   "last_seen": "2026-08-31T14:20:28+08:00",
    "cover": "https://inews.gtimg.com/news_ls/OVMqjUYGRfvuyJSMQFbiQOJ0EPDIm48WdtiP8Wh3DwsR4AA_294195/0",
    "ai": null
   },
@@ -16868,10 +17034,11 @@
    "links": {
     "qq_ent": "https://view.inews.qq.com/a/20260830A08UIL00"
    },
-   "heat_total": 21,
-   "appearances": 1,
+   "heat_total": 32,
+   "appearances": 2,
    "days": [
-    "2026-08-30"
+    "2026-08-30",
+    "2026-08-31"
    ],
    "first_seen": "2026-08-30T19:13:15+08:00",
    "platform_first_seen": {
@@ -16881,10 +17048,14 @@
     {
      "time": "2026-08-30T19:13:15+08:00",
      "heat": 21
+    },
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 11
     }
    ],
-   "last_seen": "2026-08-30T19:13:15+08:00",
-   "cover": "https://inews.gtimg.com/om_ls/Oxz4PnmKDATbXO7l8TEgrXPC-kt2wNh_jA7e_Z5bjyzxgAA_294195/0",
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://inews.gtimg.com/news_ls/OxZ12qZh0t7hCFDcc7DUOoctZJDMhQYOmMPJFMKXV_dIYAA_294195/0",
    "ai": null
   },
   "陈妍希首谈离婚": {
@@ -17288,10 +17459,11 @@
    "links": {
     "qq_ent": "https://view.inews.qq.com/a/20260830V094T900"
    },
-   "heat_total": 17,
-   "appearances": 1,
+   "heat_total": 30,
+   "appearances": 2,
    "days": [
-    "2026-08-30"
+    "2026-08-30",
+    "2026-08-31"
    ],
    "first_seen": "2026-08-30T19:13:15+08:00",
    "platform_first_seen": {
@@ -17301,9 +17473,13 @@
     {
      "time": "2026-08-30T19:13:15+08:00",
      "heat": 17
+    },
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 13
     }
    ],
-   "last_seen": "2026-08-30T19:13:15+08:00",
+   "last_seen": "2026-08-31T14:20:28+08:00",
    "cover": "https://inews.gtimg.com/om_ls/O2G9Rnyy_KGTBdVePY6m3HFv9JAxxlAIT9rZGnGFtArCkAA_870492_compress/0",
    "ai": null
   },
@@ -17395,28 +17571,36 @@
    "title": "梅艳芳遗产争夺案23年后大结局",
    "desc": "8月30日，梅艳芳母亲覃美金去世。此前2003年梅艳芳立遗嘱将逾亿遗产交信托管理，每月支付母亲约5.8万元生活费。2004年起覃美金多次诉讼争夺遗产均败诉。随着覃美金离世，信托基金终止，剩余款项划转妙境佛学会，23年遗产争夺战落幕。",
    "platforms": [
-    "baidu"
+    "baidu",
+    "toutiao"
    ],
    "links": {
-    "baidu": "https://www.baidu.com/s?wd=%E6%A2%85%E8%89%B3%E8%8A%B3%E9%81%97%E4%BA%A7%E4%BA%89%E5%A4%BA%E6%A1%8823%E5%B9%B4%E5%90%8E%E5%A4%A7%E7%BB%93%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news"
+    "baidu": "https://www.baidu.com/s?wd=%E6%A2%85%E8%89%B3%E8%8A%B3%E9%81%97%E4%BA%A7%E4%BA%89%E5%A4%BA%E6%A1%8823%E5%B9%B4%E5%90%8E%E5%A4%A7%E7%BB%93%E5%B1%80&sa=fyb_news&rsv_dl=fyb_news",
+    "toutiao": "https://www.toutiao.com/trending/7679792761658228774/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227679792761658228774%22%2C%22hot_board_impr_id%22%3A%222026083114185808C40A2EEBC07B8F0E3A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%A2%85%E8%89%B3%E8%8A%B3%E9%81%97%E4%BA%A7%E4%BA%89%E5%A4%BA%E6%A1%8823%E5%B9%B4%E5%90%8E%E5%A4%A7%E7%BB%93%E5%B1%80%22%7D&rank=&style_id=40132&topic_id=7679792761658228774"
    },
-   "heat_total": 16,
-   "appearances": 1,
+   "heat_total": 21,
+   "appearances": 2,
    "days": [
-    "2026-08-30"
+    "2026-08-30",
+    "2026-08-31"
    ],
    "first_seen": "2026-08-30T19:13:15+08:00",
    "platform_first_seen": {
-    "baidu": "2026-08-30T19:13:15+08:00"
+    "baidu": "2026-08-30T19:13:15+08:00",
+    "toutiao": "2026-08-31T14:20:28+08:00"
    },
    "heat_log": [
     {
      "time": "2026-08-30T19:13:15+08:00",
      "heat": 16
+    },
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 5
     }
    ],
-   "last_seen": "2026-08-30T19:13:15+08:00",
-   "cover": "https://fyb-2.cdn.bcebos.com/hotboard_image/10a1457ab19a71bc1a3eb2dc7be65547",
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/3128614fb94540a0975b09f2a3a4ad17~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1790726400&x-signature=nuD7irjtODYGP0eGSoVv7JU9p%2FE%3D",
    "ai": null
   },
   "唐嫣资助的女孩 放弃上大学": {
@@ -18408,10 +18592,11 @@
    "links": {
     "douyin": "https://www.douyin.com/search/%E5%BC%80%E5%AD%A6%E6%96%B0%E4%BA%BA%E8%AE%BE"
    },
-   "heat_total": 7,
-   "appearances": 1,
+   "heat_total": 8,
+   "appearances": 2,
    "days": [
-    "2026-08-30"
+    "2026-08-30",
+    "2026-08-31"
    ],
    "first_seen": "2026-08-30T19:13:15+08:00",
    "platform_first_seen": {
@@ -18421,10 +18606,14 @@
     {
      "time": "2026-08-30T19:13:15+08:00",
      "heat": 7
+    },
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 1
     }
    ],
-   "last_seen": "2026-08-30T19:13:15+08:00",
-   "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015c000-ce/okOxuA8f8IgEwp7ZBJguQaWQ2il26VEeMeJlC6~noop.jpeg?lk3s=bfd515bb&x-expires=1788109200&x-signature=lO2qVkMYGV3zjPBe2lmCFaJP5EE%3D&from=3218412987",
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015c000-ce/okOxuA8f8IgEwp7ZBJguQaWQ2il26VEeMeJlC6~noop.jpeg?lk3s=bfd515bb&x-expires=1788177600&x-signature=4U1JDHI%2BuGW2BGSQ4WL0lWA%2FOt4%3D&from=3218412987",
    "ai": null
   },
   "如果普通座位空着属于浪费资源，那么一等座和商务座空着算不算资源浪费？": {
@@ -18985,6 +19174,4827 @@
    ],
    "last_seen": "2026-08-30T19:13:15+08:00",
    "cover": "https://fyb-2.cdn.bcebos.com/hotboard_image/f252c162cbb5352f94706b1f3f7caa65",
+   "ai": null
+  },
+  "网警公布10起涉吉隆泥石流谣言案例": {
+   "title": "网警公布10起涉吉隆泥石流谣言案例",
+   "desc": "",
+   "platforms": [
+    "douyin",
+    "baidu",
+    "toutiao",
+    "bili"
+   ],
+   "links": {
+    "douyin": "https://www.douyin.com/search/%E7%BD%91%E8%AD%A6%E5%85%AC%E5%B8%8310%E8%B5%B7%E6%B6%89%E5%90%89%E9%9A%86%E6%B3%A5%E7%9F%B3%E6%B5%81%E8%B0%A3%E8%A8%80%E6%A1%88%E4%BE%8B",
+    "baidu": "https://m.baidu.com/s?word=%E7%BD%91%E8%AD%A6%E5%85%AC%E5%B8%8310%E8%B5%B7%E6%B6%89%E5%90%89%E9%9A%86%E6%B3%A5%E7%9F%B3%E6%B5%81%E8%B0%A3%E8%A8%80%E6%A1%88&sa=fyb_news",
+    "toutiao": "https://www.toutiao.com/trending/7680013126582111790/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227680013126582111790%22%2C%22hot_board_impr_id%22%3A%222026083114185808C40A2EEBC07B8F0E3A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BD%91%E8%AD%A6%E5%85%AC%E5%B8%8310%E8%B5%B7%E6%B6%89%E5%90%89%E9%9A%86%E6%B3%A5%E7%9F%B3%E6%B5%81%E8%B0%A3%E8%A8%80%E6%A1%88%E4%BE%8B%22%7D&rank=&style_id=40132&topic_id=7680013126582111790",
+    "bili": "https://search.bilibili.com/all?keyword=%E7%BD%91%E8%AD%A6%E6%89%93%E5%87%BB%E6%B6%89%E5%90%89%E9%9A%86%E6%B3%A5%E7%9F%B3%E6%B5%81%E7%BD%91%E7%BB%9C%E8%B0%A3%E8%A8%80"
+   },
+   "heat_total": 257,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "douyin": "2026-08-31T14:20:28+08:00",
+    "baidu": "2026-08-31T14:20:28+08:00",
+    "toutiao": "2026-08-31T14:20:28+08:00",
+    "bili": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 257
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015/oQBFjXgAGuAL8Id0sq7v7KeMeLGfBC4ggIuVkp~noop.jpeg?lk3s=bfd515bb&x-expires=1788177600&x-signature=tmwcy0sNtfZ5u0V0Xz7eFDRJW88%3D&from=3218412987",
+   "ai": {
+    "id": 0,
+    "title": "网警公布10起吉隆泥石流谣言案例",
+    "summary": "西藏吉隆泥石流灾害引发广泛关注，网警依法查处了10起编造、传播相关谣言的案例。该事件之所以火，是因为在重大灾难面前，谣言扰乱公共秩序，公众对信息真实性高度敏感。看点在于官方迅速辟谣并依法处置，彰显了网络不是法外之地。",
+    "category": "社会",
+    "angles": [
+     "蹭热度：盘点这些谣言的具体内容和荒诞之处，提醒网友勿信勿传。",
+     "深度解读：分析灾难谣言为何频发，以及平台和用户应如何共同治理。",
+     "情绪共鸣：强调谣言对受灾群众和救援工作的二次伤害，呼吁理性发声。"
+    ],
+    "hook": "吉隆泥石流还没结束，这10条谣言比灾害更寒心！",
+    "structure": "前3秒抛出谣言案例截图或标题，制造冲击力。中间快速列举2-3个典型谣言并辟谣，最后呼吁网友不传谣不信谣，并点赞网警行动。",
+    "format": "口播/混剪",
+    "risk": "涉及灾害敏感内容，需避免传播谣言细节，仅引用官方通报，避免渲染恐慌情绪。"
+   }
+  },
+  "尼泊尔泥石流已致903遇难4247失联": {
+   "title": "尼泊尔泥石流已致903遇难4247失联",
+   "desc": "",
+   "platforms": [
+    "weibo",
+    "douyin",
+    "baidu",
+    "toutiao"
+   ],
+   "links": {
+    "weibo": "https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%B3%8A%E5%B0%94%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%B7%B2%E8%87%B4903%E9%81%87%E9%9A%BE4247%E5%A4%B1%E8%81%94%23",
+    "douyin": "https://www.douyin.com/search/%E5%B0%BC%E6%B3%8A%E5%B0%94%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%B7%B2%E8%87%B4903%E6%AD%BB4247%E5%A4%B1%E8%81%94",
+    "baidu": "https://m.baidu.com/s?word=%E5%B0%BC%E6%B3%8A%E5%B0%94%E6%B3%A5%E7%9F%B3%E6%B5%81%E7%81%BE%E5%AE%B3%E5%B7%B2%E8%87%B4907%E4%BA%BA%E9%81%87%E9%9A%BE&sa=fyb_news",
+    "toutiao": "https://www.toutiao.com/trending/7679653696057212971/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227679653696057212971%22%2C%22hot_board_impr_id%22%3A%222026083114185808C40A2EEBC07B8F0E3A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%B0%BC%E6%B3%8A%E5%B0%94%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%B7%B2%E8%87%B4903%E6%AD%BB4247%E5%A4%B1%E8%81%94%22%7D&rank=&style_id=40132&topic_id=7679653696057212971"
+   },
+   "heat_total": 231,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "weibo": "2026-08-31T14:20:28+08:00",
+    "douyin": "2026-08-31T14:20:28+08:00",
+    "baidu": "2026-08-31T14:20:28+08:00",
+    "toutiao": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 231
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/oA6eBigvI01CbiAxIBTLMCiIbSYbvAPd3MAZfE~noop.jpeg?lk3s=bfd515bb&x-expires=1788177600&x-signature=K49xUIcI0vRiJ6U%2BjmwwMQA52ZM%3D&from=3218412987",
+   "ai": {
+    "id": 1,
+    "title": "尼泊尔泥石流致903人遇难4247人失联",
+    "summary": "尼泊尔遭遇严重泥石流灾害，伤亡惨重，引发国际社会关注。该话题因数字触目惊心而迅速升温，公众对邻国灾难的同情和对全球气候变化影响的讨论交织。看点在于国际救援行动的进展与当地救灾困境。",
+    "category": "国际",
+    "angles": [
+     "深度解读：分析尼泊尔灾害频发的地理和气候原因，以及救灾难点。",
+     "情绪共鸣：展示灾区画面，引发观众对受灾民众的同情和祈福。",
+     "科普视角：讲解泥石流形成原理及遇到泥石流时的自救方法。"
+    ],
+    "hook": "900多人遇难，4000多人失联，尼泊尔正在经历什么？",
+    "structure": "前3秒用震撼的灾区航拍或数据画面开场。中间简述灾害经过和救援现状，穿插专家或亲历者讲述，最后升华到人类命运共同体，呼吁关注。",
+    "format": "混剪/口播",
+    "risk": "涉及国际灾难，需避免使用过于血腥或恐怖的画面，尊重遇难者，注意画面版权。"
+   }
+  },
+  "净网：造谣外卖员向饮料加百草枯者被罚": {
+   "title": "净网：造谣外卖员向饮料加百草枯者被罚",
+   "desc": "",
+   "platforms": [
+    "douyin",
+    "baidu",
+    "toutiao"
+   ],
+   "links": {
+    "douyin": "https://www.douyin.com/search/%E5%87%80%E7%BD%91%EF%BC%9A%E9%80%A0%E8%B0%A3%E5%A4%96%E5%8D%96%E5%91%98%E5%90%91%E9%A5%AE%E6%96%99%E5%8A%A0%E7%99%BE%E8%8D%89%E6%9E%AF%E8%80%85%E8%A2%AB%E7%BD%9A",
+    "baidu": "https://m.baidu.com/s?word=%E9%83%91%E6%9F%90%E9%80%A0%E8%B0%A3%E5%A4%96%E5%8D%96%E5%91%98%E5%90%91%E9%A5%AE%E6%96%99%E5%8A%A0%E7%99%BE%E8%8D%89%E6%9E%AF%E8%A2%AB%E7%BD%9A&sa=fyb_news",
+    "toutiao": "https://www.toutiao.com/trending/7679095357561061403/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227679095357561061403%22%2C%22hot_board_impr_id%22%3A%222026083114185808C40A2EEBC07B8F0E3A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%87%80%E7%BD%91%EF%BC%9A%E9%80%A0%E8%B0%A3%E5%A4%96%E5%8D%96%E5%91%98%E5%90%91%E9%A5%AE%E6%96%99%E5%8A%A0%E7%99%BE%E8%8D%89%E6%9E%AF%E8%80%85%E8%A2%AB%E7%BD%9A%22%7D&rank=&style_id=40132&topic_id=7679095357561061403"
+   },
+   "heat_total": 174,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "douyin": "2026-08-31T14:20:28+08:00",
+    "baidu": "2026-08-31T14:20:28+08:00",
+    "toutiao": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 174
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/ogP5QLNAITPAFBw3qjVacIi8QaiTUYpQI16Fv~noop.jpeg?lk3s=bfd515bb&x-expires=1788177600&x-signature=YggsupFZveUDYV%2F%2Bci%2BAZzUQzHQ%3D&from=3218412987",
+   "ai": {
+    "id": 2,
+    "title": "造谣外卖员加百草枯者被罚",
+    "summary": "一名网友因造谣外卖员向饮料中添加百草枯被警方处罚。该事件因触及公众对外卖食品安全的普遍担忧而迅速发酵。看点在于谣言制造者的动机和处罚结果，以及平台如何保障外卖员和消费者权益。",
+    "category": "社会",
+    "angles": [
+     "反向观点：造谣成本太低？探讨网络谣言的法律责任与平台监管漏洞。",
+     "情绪共鸣：为外卖员群体发声，展现他们的辛苦与不易，谴责造谣者。",
+     "科普视角：科普百草枯的毒性，以及如果遇到食品安全问题如何正确维权。"
+    ],
+    "hook": "外卖员往饮料里加百草枯？真相让人愤怒！",
+    "structure": "前3秒直接抛出谣言截图或处罚公告。中间还原事件经过，采访或展示外卖员日常工作状态，最后科普法律后果，呼吁尊重劳动者。",
+    "format": "口播/街采",
+    "risk": "涉及食品安全和外卖平台，需避免引发对特定品牌的恐慌，引用官方通报，不放大个案。"
+   }
+  },
+  "银行该不该午休": {
+   "title": "银行该不该午休",
+   "desc": "",
+   "platforms": [
+    "weibo",
+    "baidu"
+   ],
+   "links": {
+    "weibo": "https://s.weibo.com/weibo?q=%23%E9%93%B6%E8%A1%8C%E8%AF%A5%E4%B8%8D%E8%AF%A5%E5%8D%88%E4%BC%91%23",
+    "baidu": "https://m.baidu.com/s?word=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E9%93%B6%E8%A1%8C%E8%AF%A5%E4%B8%8D%E8%AF%A5%E5%8D%88%E4%BC%91&sa=fyb_news"
+   },
+   "heat_total": 109,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "weibo": "2026-08-31T14:20:28+08:00",
+    "baidu": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 109
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": {
+    "id": 3,
+    "title": "银行该不该午休引热议",
+    "summary": "银行网点午休关闭窗口，导致上班族办事难，引发网友关于服务行业午休合理性的讨论。该话题因贴近民生、直击打工人痛点而登上热搜。看点在于银行服务效率与员工权益之间的平衡。",
+    "category": "社会",
+    "angles": [
+     "情绪共鸣：吐槽自己排队两小时、办事五分钟的经历，引发打工人共鸣。",
+     "深度解读：分析银行午休背后的成本考量，以及数字化转型对网点功能的影响。",
+     "街采：随机采访市民和银行员工，听取双方真实想法，呈现观点碰撞。"
+    ],
+    "hook": "银行午休两小时，打工人只能在门口干等？",
+    "structure": "前3秒展示银行午休告示或排队人群。中间街采市民和银行员工，呈现不同立场，最后提出改进建议，如弹性排班或预约制。",
+    "format": "街采/口播",
+    "risk": "涉及公共服务行业，需客观呈现双方观点，避免煽动对立情绪。"
+   }
+  },
+  "全球1型糖尿病患者将大幅增长": {
+   "title": "全球1型糖尿病患者将大幅增长",
+   "desc": "",
+   "platforms": [
+    "baidu",
+    "toutiao"
+   ],
+   "links": {
+    "baidu": "https://m.baidu.com/s?word=%E5%85%A8%E7%90%831%E5%9E%8B%E7%B3%96%E5%B0%BF%E7%97%85%E6%82%A3%E8%80%85%E5%B0%86%E5%A4%A7%E5%B9%85%E5%A2%9E%E9%95%BF&sa=fyb_news",
+    "toutiao": "https://www.toutiao.com/trending/7679796560494313518/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227679796560494313518%22%2C%22hot_board_impr_id%22%3A%222026083114185808C40A2EEBC07B8F0E3A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%85%A8%E7%90%831%E5%9E%8B%E7%B3%96%E5%B0%BF%E7%97%85%E6%82%A3%E8%80%85%E5%B0%86%E5%A4%A7%E5%B9%85%E5%A2%9E%E9%95%BF%22%7D&rank=&style_id=40132&topic_id=7679796560494313518"
+   },
+   "heat_total": 74,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "baidu": "2026-08-31T14:20:28+08:00",
+    "toutiao": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 74
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/eec27c3184834385963c425ef7b007eb~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1790726400&x-signature=C6xkbu4mzH2I4sJ%2Fzp9%2BJzv%2BJCU%3D",
+   "ai": {
+    "id": 5,
+    "title": "全球1型糖尿病患者将大幅增长",
+    "summary": "最新医学研究预测，未来几十年全球1型糖尿病患者数量将大幅增加，引发公众对自身健康的担忧。该话题因与每个人息息相关，且数据令人震惊而迅速传播。看点在于如何预防、早期筛查以及医疗资源能否跟上。",
+    "category": "健康",
+    "angles": [
+     "科普视角：用动画或图表解释什么是1型糖尿病，与2型的区别。",
+     "情绪共鸣：采访年轻患者或家属，讲述确诊经历和控糖日常，消除偏见。",
+     "深度解读：分析增长原因，如环境因素、诊断率提升等，并给出预防建议。"
+    ],
+    "hook": "这种糖尿病正在悄悄盯上年轻人，你还不当回事？",
+    "structure": "前3秒用“患者激增”的数据或年轻患者打胰岛素的画面开场。中间科普1型糖尿病知识，穿插患者故事，最后给出健康生活建议。",
+    "format": "口播/图文",
+    "risk": "涉及医疗健康，需引用权威研究数据，避免制造恐慌，不推荐具体药物。"
+   }
+  },
+  "老师开学前一天belike": {
+   "title": "老师开学前一天belike",
+   "desc": "",
+   "platforms": [
+    "douyin",
+    "bili"
+   ],
+   "links": {
+    "douyin": "https://www.douyin.com/search/%E6%98%8E%E5%A4%A9%E5%BC%80%E5%AD%A6belike",
+    "bili": "https://search.bilibili.com/all?keyword=%E8%80%81%E5%B8%88%E5%BC%80%E5%AD%A6%E5%89%8D%E4%B8%80%E5%A4%A9belike"
+   },
+   "heat_total": 73,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "douyin": "2026-08-31T14:20:28+08:00",
+    "bili": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 73
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015c000-ce/owCMACUE9eWfMEOfMwBDUIllEA1qI9DQriTEFC~noop.jpeg?lk3s=bfd515bb&x-expires=1788177600&x-signature=aPl92b1NblrKKVCRe8CE1HOAE%2Fw%3D&from=3218412987",
+   "ai": {
+    "id": 6,
+    "title": "老师开学前一天belike",
+    "summary": "开学前一天，老师们在社交媒体上晒出自己“崩溃”或“疯狂备课”的状态，引发同行共鸣。该话题因真实、幽默地展现了教师群体的工作压力而走红。看点在于老师们的“反差萌”和开学前的众生相。",
+    "category": "娱乐",
+    "angles": [
+     "情绪共鸣：盘点老师开学前朋友圈的搞笑吐槽，引发教师群体共鸣。",
+     "蹭热度：模仿老师开学前一天的vlog，用夸张手法演绎“赶工”日常。",
+     "反向观点：调侃背后是心酸，呼吁社会关注教师工作负担和心理健康。"
+    ],
+    "hook": "开学前一天，老师的朋友圈比学生还崩溃！",
+    "structure": "前3秒展示老师朋友圈截图或搞笑表情包。中间混剪老师们备课、写教案、做PPT的忙碌画面，穿插幽默配音，最后升华到对教师职业的理解。",
+    "format": "混剪/口播",
+    "risk": "无明显风险，但需避免丑化教师形象，保持轻松幽默基调。"
+   }
+  },
+  "“您是我们的家人”": {
+   "title": "“您是我们的家人”",
+   "desc": "",
+   "platforms": [
+    "baidu"
+   ],
+   "links": {
+    "baidu": "https://m.baidu.com/s?word=%E2%80%9C%E6%82%A8%E6%98%AF%E6%88%91%E4%BB%AC%E7%9A%84%E5%AE%B6%E4%BA%BA%E2%80%9D&sa=fyb_news"
+   },
+   "heat_total": 30,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "baidu": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 30
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": {
+    "id": 7,
+    "title": "“您是我们的家人”",
+    "summary": "一句“您是我们的家人”成为网络热梗，源于某地社区或服务窗口对群众的暖心喊话，被网友点赞。该话题因传递了温暖和人情味，在负面新闻较多的当下显得尤为珍贵。看点在于这句话背后的服务理念转变。",
+    "category": "社会",
+    "angles": [
+     "情绪共鸣：收集类似“家人式服务”的暖心案例，传递社会正能量。",
+     "深度解读：探讨“家人式服务”能否推广，以及如何避免流于形式。",
+     "街采：随机采访路人，问他们听到这句话的感受，以及遇到过哪些暖心服务。"
+    ],
+    "hook": "一句“您是我们的家人”，为什么让全网破防？",
+    "structure": "前3秒播放原视频或相关新闻画面。中间展示网友评论和类似案例，采访市民看法，最后探讨服务行业的温度与真诚。",
+    "format": "街采/口播",
+    "risk": "无明显风险，注意素材版权，避免过度拔高或煽情。"
+   }
+  },
+  "黄曲霉素就藏在厨房5个角落": {
+   "title": "黄曲霉素就藏在厨房5个角落",
+   "desc": "",
+   "platforms": [
+    "toutiao"
+   ],
+   "links": {
+    "toutiao": "https://www.toutiao.com/trending/7680008947441352730/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227680008947441352730%22%2C%22hot_board_impr_id%22%3A%222026083114185808C40A2EEBC07B8F0E3A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%BB%84%E6%9B%B2%E9%9C%89%E7%B4%A0%E5%B0%B1%E8%97%8F%E5%9C%A8%E5%8E%A8%E6%88%BF5%E4%B8%AA%E8%A7%92%E8%90%BD%22%7D&rank=&style_id=40132&topic_id=7680008947441352730"
+   },
+   "heat_total": 30,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "toutiao": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 30
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/d84dcdafd4f244278bf34a107061edd4~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1790726400&x-signature=oJv36yDssoEqXz47qco2VgAmNds%3D",
+   "ai": {
+    "id": 8,
+    "title": "黄曲霉素藏在厨房5个角落",
+    "summary": "科普博主指出黄曲霉素可能隐藏在厨房的砧板、筷子、冰箱等5个角落，引发公众对家庭卫生的担忧。该话题因关乎全家健康，且颠覆日常认知而迅速传播。看点在于如何简单有效地清除和预防。",
+    "category": "生活",
+    "angles": [
+     "科普视角：实地探访普通家庭厨房，用检测仪现场检测，直观展示风险。",
+     "情绪共鸣：讲述因黄曲霉素导致健康问题的案例，引发观众重视。",
+     "实用教程：手把手教观众如何清洁和更换厨房用品，给出具体操作步骤。"
+    ],
+    "hook": "你家厨房这5个地方，可能比马桶还脏！",
+    "structure": "前3秒用显微镜下的黄曲霉素画面或检测数据开场。中间逐一指出5个藏身点，并演示清洁方法，最后总结预防要点，提醒定期更换。",
+    "format": "口播/图文",
+    "risk": "涉及健康科普，需引用权威来源，避免夸大危害造成恐慌，注意画面不适感。"
+   }
+  },
+  "李大霄解读8月经济数据": {
+   "title": "李大霄解读8月经济数据",
+   "desc": "",
+   "platforms": [
+    "bili"
+   ],
+   "links": {
+    "bili": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB8%E6%9C%88%E7%BB%8F%E6%B5%8E%E6%95%B0%E6%8D%AE"
+   },
+   "heat_total": 30,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "bili": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 30
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": {
+    "id": 9,
+    "title": "李大霄解读8月经济数据",
+    "summary": "知名经济学家李大霄对8月经济数据进行解读，认为经济稳中向好，引发市场关注和讨论。该话题因涉及股市、楼市等切身利益，且李大霄观点鲜明而备受争议。看点在于数据背后的经济趋势和投资机会。",
+    "category": "财经",
+    "angles": [
+     "深度解读：梳理8月核心经济数据，用通俗语言解释对普通人的影响。",
+     "反向观点：邀请其他经济学家或分析师进行观点PK，呈现不同解读。",
+     "蹭热度：剪辑李大霄过往“婴儿底”“焊牢3000点”等名场面，制造娱乐效果。"
+    ],
+    "hook": "李大霄又喊话了，这次8月数据到底行不行？",
+    "structure": "前3秒抛出李大霄的犀利观点或表情包。中间展示关键数据图表，解读其含义，穿插多方观点，最后给出理性投资建议。",
+    "format": "口播/混剪",
+    "risk": "涉及股市和宏观经济，需注意言论合规，避免诱导投资，引用数据需准确。"
+   }
+  },
+  "陈妍希首谈离婚：相信爱情，却不再相信天长地久，余生不打算再婚": {
+   "title": "陈妍希首谈离婚：相信爱情，却不再相信天长地久，余生不打算再婚",
+   "desc": "",
+   "platforms": [
+    "qq_ent"
+   ],
+   "links": {
+    "qq_ent": "https://view.inews.qq.com/a/20260830V0AR7T00"
+   },
+   "heat_total": 30,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "qq_ent": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 30
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://inews.gtimg.com/om_ls/O71yQ3Q-k4tkPujB-XXWtOGlh59txc61mpXrxhxj6NEfoAA_870492/0",
+   "ai": {
+    "id": 0,
+    "title": "陈妍希首谈离婚：不再相信天长地久",
+    "summary": "陈妍希与陈晓离婚后首次公开接受采访，坦言仍相信爱情但不再相信天长地久，并表示余生不打算再婚。该言论迅速引爆热搜，引发关于婚姻观、独立女性人设及过往情史的激烈讨论。",
+    "category": "娱乐",
+    "angles": [
+     "情绪共鸣：从陈妍希的言论切入，探讨现代女性对婚姻的幻灭与自我重建",
+     "深度解读：分析她过往感情经历与此次发言的关联，解读其人设转变",
+     "反向观点：质疑其'不再婚'宣言是公关话术，还是真实心境"
+    ],
+    "hook": "离婚后她说：爱情可以信，但婚姻的天长地久，我戒了。",
+    "structure": "前3秒用采访原声或金句截图制造冲击，中间穿插两人过往甜蜜画面与如今独美对比，最后抛出'你还会相信天长地久吗'的开放式提问引导评论区。",
+    "format": "混剪",
+    "risk": "涉及明星隐私及过往绯闻，避免过度解读和恶意揣测，素材使用需谨慎，防止侵权。"
+   }
+  },
+  "尼泊尔和中国艰难推进救援工作": {
+   "title": "尼泊尔和中国艰难推进救援工作",
+   "desc": "周日，在经历重大泥石流和山洪灾难之后，尼泊尔和中国的救援工作在泥泞难行的环境中艰难推进，救援人员要应对水位上涨和新形成堰塞湖带来的威胁，全力搜寻数千名失踪者。",
+   "platforms": [
+    "rfi"
+   ],
+   "links": {
+    "rfi": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20260830-%E5%B0%BC%E6%B3%8A%E5%B0%94%E5%92%8C%E4%B8%AD%E5%9B%BD%E8%89%B0%E9%9A%BE%E6%8E%A8%E8%BF%9B%E6%95%91%E6%8F%B4%E5%B7%A5%E4%BD%9C"
+   },
+   "heat_total": 30,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "rfi": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 30
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://s.rfi.fr/media/display/0c6066c4-4505-11ea-93b3-005056bf87d6/w:1024/p:16x9/yao_wen_fen_xi_wb161920-rfi-cn-20150123_news-politics_cartouche.jpg",
+   "ai": {
+    "id": 6,
+    "title": "中尼联合救援在泥泞中艰难推进",
+    "summary": "尼泊尔遭遇重大泥石流和山洪，中国救援队与尼方在恶劣环境中全力搜救数千名失踪者。水位上涨和新形成的堰塞湖使救援工作异常艰难，引发国际关注。",
+    "category": "国际",
+    "angles": [
+     "深度解读：介绍尼泊尔灾情与中尼合作救援细节",
+     "情绪共鸣：致敬救援人员，传递人道主义关怀",
+     "科普：堰塞湖的形成与风险"
+    ],
+    "hook": "泥石流后，救援队正与时间赛跑！",
+    "structure": "前3秒展示灾区震撼画面，中间讲述救援人员面临的困难，结尾传递救援进展与希望。",
+    "format": "混剪",
+    "risk": "涉及国际救援，注意表述准确，避免政治化解读；画面需谨慎选择，避免过于血腥。"
+   }
+  },
+  "绝味鸭脖为啥卖不动了": {
+   "title": "绝味鸭脖为啥卖不动了",
+   "desc": "",
+   "platforms": [
+    "weibo"
+   ],
+   "links": {
+    "weibo": "https://s.weibo.com/weibo?q=%23%E7%BB%9D%E5%91%B3%E9%B8%AD%E8%84%96%E4%B8%BA%E5%95%A5%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86%23"
+   },
+   "heat_total": 29,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "weibo": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 29
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": {
+    "id": 1,
+    "title": "绝味鸭脖卖不动了？卤味巨头遇冷",
+    "summary": "曾经风靡一时的绝味鸭脖近期财报显示业绩下滑，门店数量缩减。消费者普遍反映价格越来越贵、味道变淡，且新兴卤味品牌和零食化选择分流了大量客群。",
+    "category": "财经",
+    "angles": [
+     "科普向：分析卤味行业成本上涨与消费降级的大背景",
+     "街采：随机采访路人'你多久没吃绝味了？'，收集真实吐槽",
+     "深度解读：对比周黑鸭、煌上煌等竞品，剖析绝味掉队的内因"
+    ],
+    "hook": "你上次买绝味鸭脖是什么时候？它可能正在被年轻人抛弃。",
+    "structure": "先抛出业绩下滑数据制造悬念，再用街采吐槽强化共鸣，最后分析价格、口味、竞争三座大山，结尾反问'卤味三巨头还能翻身吗'。",
+    "format": "街采",
+    "risk": "涉及具体上市公司，数据引用需准确，避免主观唱衰引发法律风险。"
+   }
+  },
+  "西藏泥石流已致16死546失联": {
+   "title": "西藏泥石流已致16死546失联",
+   "desc": "",
+   "platforms": [
+    "douyin"
+   ],
+   "links": {
+    "douyin": "https://www.douyin.com/search/%E8%A5%BF%E8%97%8F%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%B7%B2%E8%87%B416%E6%AD%BB546%E5%A4%B1%E8%81%94"
+   },
+   "heat_total": 29,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "douyin": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 29
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/oAYdgEgQEXDAjDrFvGB4cqfysWLA9AFEQCJ5f8~noop.jpeg?lk3s=bfd515bb&x-expires=1788177600&x-signature=4lTjw%2BDe3hnTmhhsUEzP9D16FeU%3D&from=3218412987",
+   "ai": {
+    "id": 0,
+    "title": "西藏泥石流致16死546失联，尼泊尔冰崩引发灾难",
+    "summary": "西藏泥石流灾害已致16人死亡、546人失联，经专家调查，起因是尼泊尔境内冰川断裂引发冰岩崩。这场跨境自然灾害引发广泛关注，救援难度极大，失联人数众多，牵动人心。",
+    "category": "社会",
+    "angles": [
+     "深度解读：冰崩如何引发泥石流？用动画或示意图科普灾害链条",
+     "情绪共鸣：聚焦失联者家属和救援人员，传递人文关怀",
+     "科普视角：全球变暖与冰川断裂的关联，引发环保思考"
+    ],
+    "hook": "546人失联！一场尼泊尔冰崩，为何让西藏伤亡惨重？",
+    "structure": "开头用震撼数据切入，中间用动画或示意图解释冰崩-泥石流链条，结尾呼吁关注救援进展和气候变化。",
+    "format": "混剪",
+    "risk": "涉及重大灾害，需谨慎处理伤亡信息，避免过度渲染悲情，注意素材版权。"
+   }
+  },
+  "边检民警进吉隆口岸搜救 女友也被埋": {
+   "title": "边检民警进吉隆口岸搜救 女友也被埋",
+   "desc": "",
+   "platforms": [
+    "toutiao"
+   ],
+   "links": {
+    "toutiao": "https://www.toutiao.com/trending/7679686575811297290/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227679686575811297290%22%2C%22hot_board_impr_id%22%3A%222026083114185808C40A2EEBC07B8F0E3A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%BE%B9%E6%A3%80%E6%B0%91%E8%AD%A6%E8%BF%9B%E5%90%89%E9%9A%86%E5%8F%A3%E5%B2%B8%E6%90%9C%E6%95%91+%E5%A5%B3%E5%8F%8B%E4%B9%9F%E8%A2%AB%E5%9F%8B%22%7D&rank=&style_id=40132&topic_id=7679686575811297290"
+   },
+   "heat_total": 29,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "toutiao": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 29
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/cb7d5bb358ec47b599acaeadc59065e9~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1790726400&x-signature=iEapY%2Bq6mFQBna%2BpPPHQvFprI8o%3D",
+   "ai": {
+    "id": 2,
+    "title": "边检民警进吉隆口岸搜救，女友也被埋",
+    "summary": "西藏吉隆口岸遭遇山体崩塌，一名边检民警在救援一线奋战，而其女友恰在受灾区域被埋失联。'大家'与'小家'的抉择瞬间击中网友泪点，相关救援进展牵动人心。",
+    "category": "社会",
+    "angles": [
+     "情绪共鸣：聚焦民警个人故事，展现职业使命与个人情感的撕裂",
+     "正能量：记录救援现场的争分夺秒，致敬逆行英雄",
+     "深度解读：科普口岸地质灾害的突发性与救援难度"
+    ],
+    "hook": "他救的是人民群众，可废墟下埋着的，是他的未婚妻。",
+    "structure": "用民警救援的紧张画面与女友失联的信息交叉剪辑，配以沉重音乐，结尾定格在救援队连夜搜救的镜头，打出'愿平安'字幕。",
+    "format": "混剪",
+    "risk": "涉及真实灾难和伤亡，务必核实最新进展，避免消费苦难，画面需打码处理，防止二次伤害。"
+   }
+  },
+  "aspas全年无缘世界赛": {
+   "title": "aspas全年无缘世界赛",
+   "desc": "",
+   "platforms": [
+    "bili"
+   ],
+   "links": {
+    "bili": "https://search.bilibili.com/all?keyword=aspas%E5%85%A8%E5%B9%B4%E6%97%A0%E7%BC%98%E4%B8%96%E7%95%8C%E8%B5%9B"
+   },
+   "heat_total": 29,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "bili": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 29
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": {
+    "id": 3,
+    "title": "aspas全年无缘世界赛，天才选手陨落？",
+    "summary": "巴西电竞选手aspas所在的LEV战队在无畏契约冠军赛败者组出局，宣告其全年无缘世界赛。作为曾被誉为'世界第一决斗'的明星选手，这一结果引发粉丝唏嘘与舆论热议。",
+    "category": "游戏",
+    "angles": [
+     "深度复盘：分析LEV战队战术体系与aspas个人状态的滑坡",
+     "情绪共鸣：剪辑aspas从巅峰到失意的名场面，配文'天才的代价'",
+     "反向观点：讨论'个人英雄主义'在团队电竞中是否已过时"
+    ],
+    "hook": "去年的世界第一决斗，今年连世界赛的门都没摸到。",
+    "structure": "前3秒用aspas遗憾摘耳机画面切入，中间穿插其高光操作与今年失误对比，最后抛出'是版本抛弃了他，还是队伍拖累了他'的争议话题。",
+    "format": "口播",
+    "risk": "电竞圈粉丝情绪激烈，避免引战拉踩，素材使用官方赛事画面，注意版权。"
+   }
+  },
+  "景甜风波后首次现身广州：一身休闲装扮，松弛感十足，在3名私人安保陪同下逛商场": {
+   "title": "景甜风波后首次现身广州：一身休闲装扮，松弛感十足，在3名私人安保陪同下逛商场",
+   "desc": "",
+   "platforms": [
+    "qq_ent"
+   ],
+   "links": {
+    "qq_ent": "https://view.inews.qq.com/a/20260831A03OBN00"
+   },
+   "heat_total": 29,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "qq_ent": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 29
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://inews.gtimg.com/news_ls/OkLgUnuJQ16CsZIkeKzn9QCqa8cuJUjK5ymTWo0VWBpwYAA_294195/0",
+   "ai": {
+    "id": 4,
+    "title": "景甜风波后首现身，安保严密逛商场",
+    "summary": "景甜在经历与张继科的私密视频风波后，首次在广州公开露面。她一身休闲装打扮松弛，身边有3名私人安保随行，状态看似未受影响，引发网友对其复出动态的猜测。",
+    "category": "娱乐",
+    "angles": [
+     "穿搭解析：分析景甜这套'松弛感'穿搭的品牌与搭配技巧",
+     "深度解读：从安保规格和露面时机，分析其团队复出策略",
+     "蹭热度：盘点风波后明星如何通过'街拍'试水舆论"
+    ],
+    "hook": "风波后首次露面，3个保镖贴身，景甜用一身休闲装回应了所有争议。",
+    "structure": "先展示偷拍视角的商场画面，重点突出其表情和穿搭细节，再穿插此前风波时间线，最后点出'这波露面是试水还是正式复出'。",
+    "format": "图文",
+    "risk": "涉及过往敏感隐私事件，严禁提及视频细节，仅聚焦当前公开露面，避免侵权和限流。"
+   }
+  },
+  "香港独立书店“留下书舍”关门停业 大批市民排队告别": {
+   "title": "香港独立书店“留下书舍”关门停业 大批市民排队告别",
+   "desc": "香港独立书店“留下书舍”周日（8月30日）迎来最后一个营业日。大批市民排队进入店内，与店员交谈、选购书籍，向即将关闭的书店告别。该书店7月曾因涉嫌出售煽动性书籍遭警方搜查。经营者表示，决定关门停业还与经营状况不佳、财务压力及香港整体社会环境有关。",
+   "platforms": [
+    "rfi"
+   ],
+   "links": {
+    "rfi": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260830-%E9%A6%99%E6%B8%AF%E7%8B%AC%E7%AB%8B%E4%B9%A6%E5%BA%97-%E7%95%99%E4%B8%8B%E4%B9%A6%E8%88%8D-%E7%BB%93%E4%B8%9A-%E5%A4%A7%E6%89%B9%E5%B8%82%E6%B0%91%E6%8E%92%E9%98%9F%E5%91%8A%E5%88%AB"
+   },
+   "heat_total": 29,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "rfi": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 29
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://s.rfi.fr/media/display/5f3cb77c-a4bb-11f1-b70e-005056bf30b7/w:1024/p:16x9/2026-08-30T145626Z-343587075-RC219NANICFA-RTRMADP-3-HONGKONG-SECURITY-BOOKSTORE.jpg",
+   "ai": {
+    "id": 0,
+    "title": "香港独立书店留下书舍结业，市民排队告别",
+    "summary": "香港独立书店“留下书舍”因涉嫌出售煽动性书籍遭警方搜查，加之经营困难，于8月30日停业。大批市民排队进店选购书籍，与店员告别，场面感人。事件引发对香港言论空间和书店生存现状的讨论。",
+    "category": "社会",
+    "angles": [
+     "情绪共鸣：记录市民告别书店的温情瞬间，引发对实体书店和阅读文化的怀念",
+     "深度解读：分析香港独立书店的生存困境与社会环境变化，探讨言论空间边界",
+     "反向观点：讨论书店停业是否与警方搜查直接相关，还是经营问题为主因"
+    ],
+    "hook": "这家书店的最后一天，门口排起了长队，但再也等不到明天开门。",
+    "structure": "前3秒展示书店门口排队画面和招牌，中间穿插市民采访和店内场景，结尾以书店关门镜头收尾，配以旁白总结。",
+    "format": "混剪",
+    "risk": "涉及香港敏感政治话题，需谨慎处理警方搜查和言论自由表述，避免引发争议。"
+   }
+  },
+  "争分夺秒打通口岸关键通道": {
+   "title": "争分夺秒打通口岸关键通道",
+   "desc": "",
+   "platforms": [
+    "weibo"
+   ],
+   "links": {
+    "weibo": "https://s.weibo.com/weibo?q=%23%E4%BA%89%E5%88%86%E5%A4%BA%E7%A7%92%E6%89%93%E9%80%9A%E5%8F%A3%E5%B2%B8%E5%85%B3%E9%94%AE%E9%80%9A%E9%81%93%23"
+   },
+   "heat_total": 28,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "weibo": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 28
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": {
+    "id": 5,
+    "title": "争分夺秒！打通吉隆口岸关键通道",
+    "summary": "受强降雨影响，西藏吉隆口岸发生严重山体滑坡，通往国门的唯一道路被阻断。救援队伍正在与时间赛跑，争分夺秒抢通这条'生命线'，确保被困群众和物资运输畅通。",
+    "category": "社会",
+    "angles": [
+     "正能量：记录抢通现场的机械轰鸣与人员奋战，致敬中国速度",
+     "科普向：讲解高海拔地区地质灾害抢修的难点与危险",
+     "深度解读：分析吉隆口岸作为中尼贸易要道的重要性"
+    ],
+    "hook": "这条路断了，等于掐住了口岸的脖子，他们正在用命去抢通。",
+    "structure": "用航拍展示滑坡体量之大，切换至现场工人冒雨作业的特写，配合紧张音效，最后展示通道抢通后的车辆通行画面。",
+    "format": "混剪",
+    "risk": "灾难救援题材，避免过度渲染悲情，以官方通报为准，注意画面真实性。"
+   }
+  },
+  "吉隆口岸紧邻国门应急基站投用": {
+   "title": "吉隆口岸紧邻国门应急基站投用",
+   "desc": "",
+   "platforms": [
+    "douyin"
+   ],
+   "links": {
+    "douyin": "https://www.douyin.com/search/%E5%90%89%E9%9A%86%E5%8F%A3%E5%B2%B8%E7%B4%A7%E9%82%BB%E5%9B%BD%E9%97%A8%E5%BA%94%E6%80%A5%E5%9F%BA%E7%AB%99%E6%8A%95%E7%94%A8"
+   },
+   "heat_total": 28,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "douyin": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 28
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/ocY1GLG37BBpRQalJUIQahCAxGYADehUKVek4e~noop.jpeg?lk3s=bfd515bb&x-expires=1788177600&x-signature=A%2FA1eqUK4q18hqmH43DRXpsckD8%3D&from=3218412987",
+   "ai": {
+    "id": 6,
+    "title": "吉隆口岸应急基站投用，通信生命线打通",
+    "summary": "在吉隆口岸受灾区域通信中断的危急时刻，紧邻国门的应急基站火速搭建并投入使用，为灾区救援和群众联络提供了关键信号保障。这一细节体现了应急响应的效率。",
+    "category": "科技",
+    "angles": [
+     "科普向：介绍应急基站的工作原理和搭建难度",
+     "正能量：聚焦通信人逆行抢修的故事，展现科技向善",
+     "深度解读：从基站投用看中国应急通信保障体系的建设"
+    ],
+    "hook": "洪水断了桥，断不了信号，这座基站是灾区人民的救命线。",
+    "structure": "以基站天线立起的延时摄影开场，穿插工作人员调试设备的画面，配合灾区群众报平安的语音，最后总结'这就是中国应急速度'。",
+    "format": "口播",
+    "risk": "涉及应急通信专业领域，技术描述需准确，避免夸大宣传。"
+   }
+  },
+  "“下面都是人民群众 我们去接他们”": {
+   "title": "“下面都是人民群众 我们去接他们”",
+   "desc": "",
+   "platforms": [
+    "baidu"
+   ],
+   "links": {
+    "baidu": "https://m.baidu.com/s?word=%E2%80%9C%E4%B8%8B%E9%9D%A2%E9%83%BD%E6%98%AF%E4%BA%BA%E6%B0%91%E7%BE%A4%E4%BC%97+%E6%88%91%E4%BB%AC%E5%8E%BB%E6%8E%A5%E4%BB%96%E4%BB%AC%E2%80%9D&sa=fyb_news"
+   },
+   "heat_total": 28,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "baidu": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 28
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": {
+    "id": 7,
+    "title": "\"下面都是人民群众，我们去接他们\"",
+    "summary": "在广西崇左抗洪救援中，一名消防员喊出'下面都是人民群众，我们去接他们'后义无反顾冲入洪流。这句话被现场视频记录后疯传网络，成为此次灾害中最动人的瞬间。",
+    "category": "社会",
+    "angles": [
+     "情绪共鸣：剪辑救援现场最燃瞬间，配上这句话，引爆泪点",
+     "正能量：挖掘喊话消防员背后的故事，致敬平凡英雄",
+     "深度解读：从这句话看中国救援人员的职业信仰"
+    ],
+    "hook": "一句'我们去接他们'，让14亿人瞬间破防。",
+    "structure": "前3秒直接放出这句原声，配合消防员冲入洪水的背影，中间穿插被救群众上岸的画面，结尾定格在救援队集体合影，打出'致敬'二字。",
+    "format": "混剪",
+    "risk": "真实救援画面，注意保护被救者隐私，避免血腥镜头，素材需获得授权。"
+   }
+  },
+  "中吉人文交流持续深化": {
+   "title": "中吉人文交流持续深化",
+   "desc": "",
+   "platforms": [
+    "toutiao"
+   ],
+   "links": {
+    "toutiao": "https://www.toutiao.com/article/7679607943171441193"
+   },
+   "heat_total": 28,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "toutiao": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 28
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://p3-sign.toutiaoimg.com/mosaic-legacy/2b29000036f8405561443~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1790726400&x-signature=WUGWmE9ssu6J2xZxIlC3rxywrpg%3D",
+   "ai": {
+    "id": 8,
+    "title": "中吉人文交流深化，口岸见证友谊",
+    "summary": "随着吉隆口岸恢复通关，中吉两国边民往来日益频繁，从边贸生意到文化交流，口岸正成为中吉友谊的生动缩影。相关人文交流活动持续深化，引发媒体关注。",
+    "category": "国际",
+    "angles": [
+     "深度解读：从边民日常看'一带一路'倡议下的民心相通",
+     "生活化：记录口岸两边商贩的生意经和跨国婚姻故事",
+     "正能量：展示中国援建项目给吉方边民带来的生活改变"
+    ],
+    "hook": "这个海拔最高的口岸，每天上演着最暖心的跨国人情味。",
+    "structure": "以口岸清晨开闸的繁忙景象开场，穿插两国边民微笑打招呼的细节，旁白讲述一个具体的贸易或家庭故事，结尾升华至'命运共同体'。",
+    "format": "口播",
+    "risk": "涉及邻国关系，表述需符合外交口径，避免敏感政治词汇，素材避免丑化任何一方。"
+   }
+  },
+  "实地探访洪水过后的广西崇左": {
+   "title": "实地探访洪水过后的广西崇左",
+   "desc": "",
+   "platforms": [
+    "bili"
+   ],
+   "links": {
+    "bili": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E5%9C%B0%E6%8E%A2%E8%AE%BF%E6%B4%AA%E6%B0%B4%E8%BF%87%E5%90%8E%E7%9A%84%E5%B9%BF%E8%A5%BF%E5%B4%87%E5%B7%A6"
+   },
+   "heat_total": 28,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "bili": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 28
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": {
+    "id": 9,
+    "title": "实探广西崇左洪水过后：淤泥与重生",
+    "summary": "广西崇左遭遇罕见洪水，记者实地探访灾后现场，记录下街道满是淤泥的狼藉与居民积极开展自救、重建家园的顽强身影。画面对比强烈，展现了灾难后的希望。",
+    "category": "社会",
+    "angles": [
+     "深度记录：用镜头语言呈现灾后48小时的真实面貌",
+     "情绪共鸣：聚焦受灾商户'什么都没了，但人还在'的乐观",
+     "科普向：讲解洪水过后防疫消杀和淤泥清理的注意事项"
+    ],
+    "hook": "洪水退了，但崇左人的家没了，他们却在淤泥里笑了。",
+    "structure": "先用航拍展示灾后全景，再切入地面特写：被泡坏的家具、厚厚的淤泥，随后画风一转，拍摄居民铲泥、晾晒、互相帮忙的画面，配乐从压抑转向激昂。",
+    "format": "混剪",
+    "risk": "灾后现场画面需注意避免过度惨烈，尊重受灾群众尊严，采访需获得同意。"
+   }
+  },
+  "57岁王菲音乐节蹦跳追星！被大屏拍到迅速趴下！躲闪镜头模样太好笑": {
+   "title": "57岁王菲音乐节蹦跳追星！被大屏拍到迅速趴下！躲闪镜头模样太好笑",
+   "desc": "",
+   "platforms": [
+    "qq_ent"
+   ],
+   "links": {
+    "qq_ent": "https://view.inews.qq.com/a/20260830V0A7KA00"
+   },
+   "heat_total": 28,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "qq_ent": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 28
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://inews.gtimg.com/om_ls/OgWaE0oiF-cWnJfG-yAC8_ym1M8-gvUdPJsRDcKZ7238QAA_870492/0",
+   "ai": {
+    "id": 0,
+    "title": "王菲音乐节蹦跳追星，被镜头拍到秒怂趴下",
+    "summary": "57岁的王菲在音乐节上像小女生一样蹦跳追星，被大屏捕捉后立刻趴下躲镜头，反差萌十足。天后罕见放下身段追星，真实可爱的一面引发网友热议。",
+    "category": "娱乐",
+    "angles": [
+     "蹭热度：盘点王菲历次追星名场面，天后也是小粉丝",
+     "情绪共鸣：57岁还能保持少女心，年龄不是限制快乐的枷锁",
+     "反向观点：明星追星被拍反应真实，人设崩塌还是更接地气？"
+    ],
+    "hook": "57岁的王菲，追起星来比你还疯狂！",
+    "structure": "开头用王菲趴下躲镜头的画面直接切入，制造反差感；中间穿插音乐节现场和网友评论截图，最后总结天后的可爱瞬间，引发观众讨论。",
+    "format": "混剪",
+    "risk": "素材版权风险，需使用官方或授权视频片段"
+   }
+  },
+  "美媒：新疆试飞基地大规模扩建 中国或为轰-20等新型军机测试做准备": {
+   "title": "美媒：新疆试飞基地大规模扩建 中国或为轰-20等新型军机测试做准备",
+   "desc": "美国军事新闻网站“战区”披露，卫星影像显示，中国新疆一座靠近罗布泊的空军基地正在大规模扩建。新增设施可能用于测试轰-20隐形轰炸机等新一代军用飞机，但目前尚无直接证据证明轰-20将在这座基地进行测试或部署。",
+   "platforms": [
+    "rfi"
+   ],
+   "links": {
+    "rfi": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260830-%E7%BE%8E%E5%AA%92-%E6%96%B0%E7%96%86%E8%AF%95%E9%A3%9E%E5%9F%BA%E5%9C%B0%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%89%A9%E5%BB%BA-%E4%B8%AD%E5%9B%BD%E6%88%96%E4%B8%BA%E8%BD%B0-20%E7%AD%89%E6%96%B0%E5%9E%8B%E5%86%9B%E6%9C%BA%E6%B5%8B%E8%AF%95%E5%81%9A%E5%87%86%E5%A4%87"
+   },
+   "heat_total": 28,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "rfi": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 28
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://s.rfi.fr/media/display/33ca8488-a4bc-11f1-aa62-005056a97e36/w:1024/p:16x9/images-276.jpg",
+   "ai": {
+    "id": 2,
+    "title": "美媒曝新疆基地扩建，或为轰-20测试做准备",
+    "summary": "美媒“战区”报道称，卫星影像显示新疆罗布泊附近空军基地大规模扩建，可能用于测试轰-20隐形轰炸机。但无直接证据，引发外界对中国新型军机研发的猜测。",
+    "category": "国际",
+    "angles": [
+     "深度解读：分析轰-20研发进展和基地扩建的军事意义",
+     "科普向：介绍隐形轰炸机技术特点和战略价值",
+     "反向观点：质疑美媒报道的可靠性和炒作意图"
+    ],
+    "hook": "美国卫星拍到了新疆的秘密基地，轰-20真的要来了吗？",
+    "structure": "前3秒展示卫星图或基地画面，中间解释扩建细节和轰-20背景，结尾分析可能影响。",
+    "format": "口播",
+    "risk": "涉及军事机密和地缘政治，需避免泄露敏感信息，表述客观中立。"
+   }
+  },
+  "被邻居的6个车位气笑了": {
+   "title": "被邻居的6个车位气笑了",
+   "desc": "",
+   "platforms": [
+    "weibo"
+   ],
+   "links": {
+    "weibo": "https://s.weibo.com/weibo?q=%23%E8%A2%AB%E9%82%BB%E5%B1%85%E7%9A%846%E4%B8%AA%E8%BD%A6%E4%BD%8D%E6%B0%94%E7%AC%91%E4%BA%86%23"
+   },
+   "heat_total": 27,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "weibo": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 27
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": {
+    "id": 1,
+    "title": "邻居独占6个车位，业主气笑：这操作太绝了",
+    "summary": "一位业主发现邻居私自占用6个公共车位，用各种杂物占位，引发小区其他业主不满。事件因荒诞性和现实共鸣迅速登上热搜，网友纷纷吐槽自己遇到的奇葩占位行为。",
+    "category": "社会",
+    "angles": [
+     "情绪共鸣：你遇到过哪些奇葩占车位行为？评论区吐槽大会",
+     "深度解读：公共车位变私有，小区管理漏洞谁来补？",
+     "反向观点：占6个车位背后，可能是停车难问题的极端缩影"
+    ],
+    "hook": "你家小区有这种‘车位霸主’吗？",
+    "structure": "先用现场照片或视频展示6个车位被占的离谱画面，再采访业主或引用网友评论，最后抛出停车难的社会话题引发讨论。",
+    "format": "口播",
+    "risk": "无明显风险"
+   }
+  },
+  "想方设法 向受灾核心区挺进": {
+   "title": "想方设法 向受灾核心区挺进",
+   "desc": "",
+   "platforms": [
+    "baidu"
+   ],
+   "links": {
+    "baidu": "https://m.baidu.com/s?word=%E6%83%B3%E6%96%B9%E8%AE%BE%E6%B3%95+%E5%90%91%E5%8F%97%E7%81%BE%E6%A0%B8%E5%BF%83%E5%8C%BA%E6%8C%BA%E8%BF%9B&sa=fyb_news"
+   },
+   "heat_total": 27,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "baidu": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 27
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": {
+    "id": 2,
+    "title": "逆行者！救援队想方设法挺进受灾核心区",
+    "summary": "面对自然灾害，救援人员克服交通中断、地形复杂等困难，想方设法向受灾最严重的区域挺进。事件展现了人性光辉，引发全网致敬与关注。",
+    "category": "社会",
+    "angles": [
+     "情绪共鸣：致敬逆行者，每一个生命都值得被守护",
+     "深度解读：救援为何难？核心区路况与物资运输的挑战",
+     "科普向：普通人遇到灾害如何自救？关键时刻能救命"
+    ],
+    "hook": "他们明知前方危险，却依然选择逆行！",
+    "structure": "用救援队挺进核心区的纪实画面开场，配合紧张音乐渲染氛围；中间穿插救援难点解说，最后以致敬语收尾，引发观众情感共鸣。",
+    "format": "混剪",
+    "risk": "涉及灾害画面，注意避免血腥和过度悲情，尊重受灾者"
+   }
+  },
+  "梅艳芳母亲突发意外去世，享年102岁，梅艳芳近7000万遗产将全部捐出": {
+   "title": "梅艳芳母亲突发意外去世，享年102岁，梅艳芳近7000万遗产将全部捐出",
+   "desc": "",
+   "platforms": [
+    "qq_ent"
+   ],
+   "links": {
+    "qq_ent": "https://view.inews.qq.com/a/20260831V03QR900"
+   },
+   "heat_total": 27,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "qq_ent": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 27
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://inews.gtimg.com/om_ls/OJ29KAMlc-UhyzgaHDy6QW_KieLFkgRiRYmU-GrrZxMhMAA_870492/0",
+   "ai": {
+    "id": 3,
+    "title": "梅艳芳母亲去世，7000万遗产将全部捐出",
+    "summary": "梅艳芳母亲覃美金于102岁高龄去世，其名下近7000万遗产将按梅艳芳遗愿全部捐出。梅妈一生与女儿遗产纠葛多年，最终遗产去向引发全网关注。",
+    "category": "娱乐",
+    "angles": [
+     "深度解读：梅艳芳遗产案始末，为何母亲与女儿纠葛多年？",
+     "情绪共鸣：梅艳芳遗愿终达成，天后在天之灵可以安息了",
+     "蹭热度：盘点梅艳芳生前慈善事迹，巨星风范永存"
+    ],
+    "hook": "梅艳芳7000万遗产，终于有了最终归宿！",
+    "structure": "开头用梅艳芳经典舞台画面引入，快速交代母亲去世和遗产捐出消息，中间回顾遗产案争议，最后升华到慈善与遗愿主题。",
+    "format": "口播",
+    "risk": "涉及逝者，注意措辞尊重，避免消费逝者"
+   }
+  },
+  "谷歌地图在美国将“安大略湖”改称“美国湖”": {
+   "title": "谷歌地图在美国将“安大略湖”改称“美国湖”",
+   "desc": "美国白宫周日（8月30日）对谷歌地图面向美国用户将安大略湖更名为“美国湖”表示欢迎。此前，美国总统特朗普单方面决定更改这个美加边界湖泊的名称。",
+   "platforms": [
+    "rfi"
+   ],
+   "links": {
+    "rfi": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260830-%E8%B0%B7%E6%AD%8C%E5%9C%B0%E5%9B%BE%E5%9C%A8%E7%BE%8E%E5%9B%BD%E5%B0%86-%E5%AE%89%E5%A4%A7%E7%95%A5%E6%B9%96-%E6%94%B9%E7%A7%B0-%E7%BE%8E%E5%9B%BD%E6%B9%96"
+   },
+   "heat_total": 27,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "rfi": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 27
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://s.rfi.fr/media/display/f765f0a0-a4ba-11f1-b42f-005056a97e36/w:1024/p:16x9/2026-08-30T022239Z-968980603-RC2J8NASUV8X-RTRMADP-3-USA-TRUMP-CANADA.jpg",
+   "ai": {
+    "id": 6,
+    "title": "谷歌地图将安大略湖改名“美国湖”，白宫欢迎",
+    "summary": "谷歌地图在美国用户端将美加边界的安大略湖更名为“美国湖”，白宫表示欢迎。此举引发加拿大不满和网友嘲讽，被视为特朗普单方面改名的延续。",
+    "category": "国际",
+    "angles": [
+     "娱乐吐槽：盘点特朗普各种“改名”操作，搞笑剪辑",
+     "深度解读：分析改名背后的政治意图和美加关系",
+     "科普向：介绍安大略湖的地理和历史背景"
+    ],
+    "hook": "谷歌地图把安大略湖改成了“美国湖”，加拿大网友炸了！",
+    "structure": "前3秒用地图截图对比切入，中间穿插网友反应和专家分析，结尾以幽默总结收尾。",
+    "format": "口播",
+    "risk": "涉及美加关系，需避免立场偏颇，以事实和网友反应为主。"
+   }
+  },
+  "芭莎之夜 阵容": {
+   "title": "芭莎之夜 阵容",
+   "desc": "",
+   "platforms": [
+    "weibo"
+   ],
+   "links": {
+    "weibo": "https://s.weibo.com/weibo?q=%23%E8%8A%AD%E8%8E%8E%E4%B9%8B%E5%A4%9C%20%E9%98%B5%E5%AE%B9%23"
+   },
+   "heat_total": 26,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "weibo": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 26
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": {
+    "id": 4,
+    "title": "芭莎之夜阵容官宣，顶流齐聚红毯争艳",
+    "summary": "芭莎慈善夜官宣明星阵容，多位顶流艺人确认出席，红毯造型和同框互动成为网友期待焦点。作为娱乐圈年度盛事，话题热度持续攀升。",
+    "category": "娱乐",
+    "angles": [
+     "蹭热度：预测芭莎红毯最佳造型，谁是你心中的MVP？",
+     "深度解读：芭莎之夜背后的慈善意义，明星公益力量有多大？",
+     "情绪共鸣：那些年芭莎红毯的经典名场面，你还记得几个？"
+    ],
+    "hook": "今年芭莎之夜，谁的红毯造型能封神？",
+    "structure": "用历年芭莎红毯名场面混剪开场，快速介绍今年阵容亮点，最后引导观众预测和讨论，增加互动性。",
+    "format": "混剪",
+    "risk": "素材版权风险，使用官方发布物料"
+   }
+  },
+  "8月的最后一天许个愿吧": {
+   "title": "8月的最后一天许个愿吧",
+   "desc": "",
+   "platforms": [
+    "douyin"
+   ],
+   "links": {
+    "douyin": "https://www.douyin.com/search/8%E6%9C%88%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9%E8%AE%B8%E4%B8%AA%E6%84%BF%E5%90%A7"
+   },
+   "heat_total": 26,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "douyin": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 26
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015/osY84oQggBAVpfK8TaWaRgJSc3TueBAkMCL7df~noop.jpeg?lk3s=bfd515bb&x-expires=1788177600&x-signature=wqUdchMjNtdNBYZf6opruX%2BkigU%3D&from=3218412987",
+   "ai": {
+    "id": 5,
+    "title": "8月最后一天，许个愿给9月一个开始",
+    "summary": "8月31日成为网友集体许愿日，大家纷纷在社交平台写下对9月的期许。这个时间节点自带仪式感，引发全网情绪共鸣。",
+    "category": "生活",
+    "angles": [
+     "情绪共鸣：你的9月愿望是什么？评论区写下你的flag",
+     "蹭热度：8月再见，9月你好，适合发朋友圈的文案合集",
+     "反向观点：许愿真的有用吗？不如用行动迎接新月份"
+    ],
+    "hook": "8月最后一天，你的愿望是什么？",
+    "structure": "用日历翻页或时间流逝的画面开场，配上治愈系音乐，展示网友许愿留言，最后鼓励观众在评论区许愿，形成互动。",
+    "format": "图文",
+    "risk": "无明显风险"
+   }
+  },
+  "伊朗打击约旦美军基地以回应美袭击": {
+   "title": "伊朗打击约旦美军基地以回应美袭击",
+   "desc": "",
+   "platforms": [
+    "toutiao"
+   ],
+   "links": {
+    "toutiao": "https://www.toutiao.com/trending/7680054985328954923/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%225%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227680054985328954923%22%2C%22hot_board_impr_id%22%3A%222026083114185808C40A2EEBC07B8F0E3A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BC%8A%E6%9C%97%E6%89%93%E5%87%BB%E7%BA%A6%E6%97%A6%E7%BE%8E%E5%86%9B%E5%9F%BA%E5%9C%B0%E4%BB%A5%E5%9B%9E%E5%BA%94%E7%BE%8E%E8%A2%AD%E5%87%BB%22%7D&rank=&style_id=40132&topic_id=7680054985328954923"
+   },
+   "heat_total": 26,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "toutiao": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 26
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://p3-sign.toutiaoimg.com/top-static-files-outer/breaknews/0f249172-1cc5-452a-bf5e-0b5ff6bd84dc~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1790726400&x-signature=O8r8FYs9tOJZj96U2cTHSM7p60s%3D",
+   "ai": {
+    "id": 6,
+    "title": "伊朗打击约旦美军基地，回应美方袭击",
+    "summary": "伊朗对约旦境内美军基地发动打击，作为对美方此前袭击的回应。中东局势再度紧张，国际社会高度关注。",
+    "category": "国际",
+    "angles": [
+     "深度解读：伊朗为何选择此时反击？中东局势走向何方？",
+     "科普向：约旦美军基地的战略意义，一图看懂",
+     "蹭热度：国际油价会受影响吗？普通人如何应对"
+    ],
+    "hook": "伊朗动手了！美军基地遭打击！",
+    "structure": "用地图和新闻画面快速交代事件，分析伊朗动机和美方可能反应，最后延伸至对全球局势和油价的影响。",
+    "format": "口播",
+    "risk": "涉及国际军事冲突，注意立场客观，避免敏感表述"
+   }
+  },
+  "什么是世界上最性感的芯片": {
+   "title": "什么是世界上最性感的芯片",
+   "desc": "",
+   "platforms": [
+    "bili"
+   ],
+   "links": {
+    "bili": "https://search.bilibili.com/all?keyword=%E4%BB%80%E4%B9%88%E6%98%AF%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E6%80%A7%E6%84%9F%E7%9A%84%E8%8A%AF%E7%89%87"
+   },
+   "heat_total": 26,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "bili": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 26
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": {
+    "id": 7,
+    "title": "世界上最性感的芯片，到底有多强？",
+    "summary": "芯片也能用‘性感’形容？近期一款高性能芯片因设计美学和极致性能出圈，引发科技圈热议。",
+    "category": "科技",
+    "angles": [
+     "科普向：芯片为什么‘性感’？从设计美学到性能解析",
+     "蹭热度：盘点那些颜值与性能并存的科技产品",
+     "深度解读：芯片产业竞争白热化，国产芯片如何突围？"
+    ],
+    "hook": "这颗芯片，凭什么被称为‘最性感’？",
+    "structure": "用芯片特写镜头开场，快速介绍其性能亮点，结合科技圈评论，最后科普芯片设计背后的技术含量。",
+    "format": "口播",
+    "risk": "无明显风险"
+   }
+  },
+  "古天乐演唱会突发状况！宣萱耳返故障直接叫停重唱，港圈老友默契太好嗑": {
+   "title": "古天乐演唱会突发状况！宣萱耳返故障直接叫停重唱，港圈老友默契太好嗑",
+   "desc": "",
+   "platforms": [
+    "qq_ent"
+   ],
+   "links": {
+    "qq_ent": "https://view.inews.qq.com/a/20260831V04MF400"
+   },
+   "heat_total": 26,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "qq_ent": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 26
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://inews.gtimg.com/om_ls/OXXia_kcwe1sFi-Pr_zErPyFptVAkSV-ECh46PqPB4lC0AA_870492/0",
+   "ai": {
+    "id": 8,
+    "title": "古天乐演唱会突发状况，宣萱耳返故障叫停重唱",
+    "summary": "古天乐演唱会现场，宣萱耳返突发故障，她直接叫停要求重唱，古天乐默契配合。港圈老友的默契和敬业精神获网友点赞。",
+    "category": "娱乐",
+    "angles": [
+     "情绪共鸣：港圈老友的神仙友情，默契太让人羡慕了",
+     "蹭热度：古天乐宣萱合作名场面盘点，CP感拉满",
+     "深度解读：演唱会突发状况处理，专业歌手的临场反应"
+    ],
+    "hook": "宣萱一个手势，古天乐秒懂！",
+    "structure": "用演唱会现场视频片段开场，展示耳返故障和重唱过程，穿插两人过往合作画面，最后升华到港圈艺人的专业与友情。",
+    "format": "混剪",
+    "risk": "素材版权风险，使用官方或授权视频"
+   }
+  },
+  "喜马拉雅洪灾前 尼泊尔曾要求中国加强冰川灾害预警": {
+   "title": "喜马拉雅洪灾前 尼泊尔曾要求中国加强冰川灾害预警",
+   "desc": "路透社报道，尼泊尔与中国交界的喜马拉雅山区发生特大洪灾前三个月，两国官员和专家曾举行会议，讨论加强跨境洪水及冰川灾害监测。尼泊尔官员表示，尼泊尔会后未能从中国获得所期望的冰川风险和水位资料，担心信息共享不足可能影响重大灾害的预警和防范。灾难造成的死亡人数周日（8月30日）升至797人，失联人数达3048人。",
+   "platforms": [
+    "rfi"
+   ],
+   "links": {
+    "rfi": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260830-%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85%E6%B4%AA%E7%81%BE%E5%89%8D-%E5%B0%BC%E6%B3%8A%E5%B0%94%E6%9B%BE%E8%A6%81%E6%B1%82%E4%B8%AD%E5%9B%BD%E5%8A%A0%E5%BC%BA%E5%86%B0%E5%B7%9D%E7%81%BE%E5%AE%B3%E9%A2%84%E8%AD%A6"
+   },
+   "heat_total": 26,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "rfi": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 26
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://s.rfi.fr/media/display/a9957b3a-a4b9-11f1-8959-005056bfb2b6/w:1024/p:16x9/2026-08-30T160753Z-1787407806-RC2S8NAT6D35-RTRMADP-3-NEPAL-FLOODS.jpg",
+   "ai": {
+    "id": 9,
+    "title": "尼泊尔洪灾前曾求中国加强冰川预警，信息共享不足",
+    "summary": "路透社报道，尼泊尔在喜马拉雅洪灾前三个月曾与中国开会讨论冰川灾害预警，但会后未获得期望的水位资料。洪灾已致797人死亡，引发对跨境预警机制的质疑。",
+    "category": "国际",
+    "angles": [
+     "深度解读：分析中尼跨境灾害预警合作的现状和挑战",
+     "情绪共鸣：讲述洪灾受灾者的故事，引发对气候变化的关注",
+     "科普向：介绍冰川湖溃决洪水的成因和预警技术"
+    ],
+    "hook": "洪灾前三个月，尼泊尔就向中国求援，但预警信息还是没到位。",
+    "structure": "前3秒用洪灾现场画面切入，中间穿插路透社报道和专家分析，结尾呼吁加强国际合作。",
+    "format": "口播",
+    "risk": "涉及中尼外交和灾害责任，需客观表述，避免引发外交争议。"
+   }
+  },
+  "7天长不出头发赔1万元？洗发水被投诉": {
+   "title": "7天长不出头发赔1万元？洗发水被投诉",
+   "desc": "",
+   "platforms": [
+    "baidu"
+   ],
+   "links": {
+    "baidu": "https://m.baidu.com/s?word=7%E5%A4%A9%E9%95%BF%E4%B8%8D%E5%87%BA%E5%A4%B4%E5%8F%91%E8%B5%941%E4%B8%87%E5%85%83%EF%BC%9F%E6%B4%97%E5%8F%91%E6%B0%B4%E8%A2%AB%E6%8A%95%E8%AF%89&sa=fyb_news"
+   },
+   "heat_total": 25,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "baidu": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 25
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": {
+    "id": 9,
+    "title": "洗发水承诺7天长头发，赔1万？网友：离谱",
+    "summary": "某洗发水品牌打出‘7天长不出头发赔1万元’的广告，引发消费者质疑和吐槽。夸张宣传背后是营销噱头还是真材实料？",
+    "category": "财经",
+    "angles": [
+     "反向观点：7天长头发？科学吗？扒一扒防脱洗发水的真相",
+     "深度解读：离谱广告背后的营销套路，消费者如何避坑？",
+     "情绪共鸣：脱发焦虑被利用，谁在为‘长头发’买单？"
+    ],
+    "hook": "7天长头发？这洗发水是‘神药’还是‘智商税’？",
+    "structure": "用广告截图或视频开场，快速抛出争议点，结合专家或科学观点分析可行性，最后提醒消费者理性看待广告宣传。",
+    "format": "口播",
+    "risk": "涉及虚假宣传争议，注意引用权威观点，避免被投诉"
+   }
+  },
+  "男子编造外卖投毒谣言被处罚": {
+   "title": "男子编造外卖投毒谣言被处罚",
+   "desc": "",
+   "platforms": [
+    "bili"
+   ],
+   "links": {
+    "bili": "https://search.bilibili.com/all?keyword=%E7%94%B7%E5%AD%90%E7%BC%96%E9%80%A0%E5%A4%96%E5%8D%96%E6%8A%95%E6%AF%92%E8%B0%A3%E8%A8%80%E8%A2%AB%E5%A4%84%E7%BD%9A"
+   },
+   "heat_total": 25,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "bili": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 25
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": {
+    "id": 0,
+    "title": "男子编造外卖投毒谣言被处罚",
+    "summary": "一名男子因编造外卖投毒谣言被警方处罚，该事件引发公众对食品安全和网络谣言传播的关注。事件之所以火，是因为它触及了大众对外卖安全的普遍担忧，同时展示了造谣的法律后果。争议点在于谣言如何迅速传播以及平台和监管部门如何更有效地遏制此类行为。",
+    "category": "社会",
+    "angles": [
+     "深度解读：分析谣言传播的心理机制和社会影响，呼吁理性看待网络信息。",
+     "情绪共鸣：从外卖小哥和商家的视角出发，讲述谣言对他们生计的伤害。",
+     "科普向：科普食品安全知识，说明外卖行业的安全监管流程，破除恐慌。"
+    ],
+    "hook": "一条谣言，差点毁掉一个行业？",
+    "structure": "前3秒用谣言截图或新闻标题制造冲击力，中间穿插警方通报和专家采访片段，最后呼吁网友不信谣不传谣，并给出安全点外卖的小贴士。",
+    "format": "口播/混剪",
+    "risk": "涉及网络谣言和执法案例，需确保信息准确，避免传播未经证实细节，防止引发对特定平台或商家的无端指责。"
+   }
+  },
+  "2026年香港小姐获奖名单：袁丝珩夺冠，邓匡闵亚军，李泽欣获双料奖项": {
+   "title": "2026年香港小姐获奖名单：袁丝珩夺冠，邓匡闵亚军，李泽欣获双料奖项",
+   "desc": "",
+   "platforms": [
+    "qq_ent"
+   ],
+   "links": {
+    "qq_ent": "https://view.inews.qq.com/a/20260830V0AZG700"
+   },
+   "heat_total": 25,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "qq_ent": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 25
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://inews.gtimg.com/om_ls/O8QijDRE0G0hBdCuUZrTXyfW_J365Modne_T9J6qljxhIAA_870492/0",
+   "ai": {
+    "id": 7,
+    "title": "2026港姐三甲出炉：袁丝珩夺冠",
+    "summary": "2026年香港小姐竞选结果揭晓，袁丝珩夺得冠军，邓匡闵获亚军，李泽欣拿下双料奖项。选美赛事历来是娱乐热点，本届佳丽的颜值、才艺和背景成为网友讨论焦点。",
+    "category": "娱乐",
+    "angles": [
+     "蹭热度：港姐三甲颜值盘点，谁是你心中的最美？",
+     "深度解读：港姐评选标准变迁，从选美到选“全能艺人”",
+     "娱乐八卦：扒一扒冠军袁丝珩的成长背景和参赛趣事"
+    ],
+    "hook": "2026港姐冠军出炉，这颜值你服吗？",
+    "structure": "前3秒放出三甲佳丽的高光时刻，随后逐一介绍获奖者背景和才艺，穿插网友评论，最后发起“你最喜欢哪位佳丽”的投票。",
+    "format": "图文",
+    "risk": "涉及选美赛事需注意审美评价的客观性，避免物化女性。"
+   }
+  },
+  "冰岛拒绝重启入盟谈判 欧盟尊重选择 扩大进程受阻": {
+   "title": "冰岛拒绝重启入盟谈判 欧盟尊重选择 扩大进程受阻",
+   "desc": "冰岛公民投票否决重启加入欧盟谈判后，欧盟周日（8月30日）表示尊重冰岛人民的选择，但难掩失望。此次公投使布鲁塞尔失去了为欧盟扩大战略注入新动力的机会，也被欧洲疑欧派视为一场胜利。",
+   "platforms": [
+    "rfi"
+   ],
+   "links": {
+    "rfi": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260830-%E5%86%B0%E5%B2%9B%E6%8B%92%E7%BB%9D%E9%87%8D%E5%90%AF%E5%85%A5%E7%9B%9F%E8%B0%88%E5%88%A4-%E6%AC%A7%E7%9B%9F%E5%B0%8A%E9%87%8D%E9%80%89%E6%8B%A9%E4%BD%86%E6%89%A9%E5%A4%A7%E8%BF%9B%E7%A8%8B%E5%8F%97%E9%98%BB"
+   },
+   "heat_total": 25,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "rfi": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 25
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://s.rfi.fr/media/display/4fdd0346-a4ba-11f1-b5c5-005056a90284/w:1024/p:16x9/2026-08-30T041920Z-106411584-RC2P8NACJID9-RTRMADP-3-ICELAND-EU.jpg",
+   "ai": {
+    "id": 1,
+    "title": "冰岛公投拒绝入盟，欧盟扩张受挫",
+    "summary": "冰岛公民投票否决重启加入欧盟谈判，欧盟表示尊重但难掩失望。这一事件被视为欧洲疑欧派的胜利，也凸显了欧盟扩大进程的阻力。看点在于冰岛独特的国情和民意，以及此事对欧盟未来战略的影响。",
+    "category": "国际",
+    "angles": [
+     "深度解读：分析冰岛拒绝入盟的经济、政治和渔业等核心原因，以及欧盟扩大的困境。",
+     "反向观点：探讨冰岛留在欧盟外的好处，如货币独立、渔业资源控制等，打破‘入盟即好’的迷思。",
+     "情绪共鸣：采访或引用冰岛民众和渔民的声音，展现他们对国家主权和生活方式的选择。"
+    ],
+    "hook": "欧盟想拉人入伙，人家却用脚投票？",
+    "structure": "先抛出冰岛公投结果制造悬念，再用地图和数据对比冰岛与欧盟的经济关系，接着分析渔业和主权争议，最后点出欧盟扩张的普遍难题。",
+    "format": "口播/图文",
+    "risk": "涉及国际政治，需保持客观中立，避免主观倾向性评论，不渲染对立情绪。"
+   }
+  },
+  "开学与家人临别那一刻": {
+   "title": "开学与家人临别那一刻",
+   "desc": "",
+   "platforms": [
+    "douyin"
+   ],
+   "links": {
+    "douyin": "https://www.douyin.com/search/%E5%BC%80%E5%AD%A6%E4%B8%8E%E5%AE%B6%E4%BA%BA%E4%B8%B4%E5%88%AB%E9%82%A3%E4%B8%80%E5%88%BB"
+   },
+   "heat_total": 24,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "douyin": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 24
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://p9-sign.douyinpic.com/tos-cn-i-0813/owCECIlTgAp4A01yeifPc1BCFAS9QiAAKAtQAT~noop.jpeg?lk3s=bfd515bb&x-expires=1788177600&x-signature=ywhPlgU87TH%2FgbRjgakNS568e2M%3D&from=3218412987",
+   "ai": null
+  },
+  "爸爸帮女儿改造宿舍用棉线缠床栏杆": {
+   "title": "爸爸帮女儿改造宿舍用棉线缠床栏杆",
+   "desc": "",
+   "platforms": [
+    "toutiao"
+   ],
+   "links": {
+    "toutiao": "https://www.toutiao.com/trending/7679743424962248723/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2212%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227679743424962248723%22%2C%22hot_board_impr_id%22%3A%222026083114185808C40A2EEBC07B8F0E3A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%88%B8%E7%88%B8%E5%B8%AE%E5%A5%B3%E5%84%BF%E6%94%B9%E9%80%A0%E5%AE%BF%E8%88%8D%E7%94%A8%E6%A3%89%E7%BA%BF%E7%BC%A0%E5%BA%8A%E6%A0%8F%E6%9D%86%22%7D&rank=&style_id=40132&topic_id=7679743424962248723"
+   },
+   "heat_total": 24,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "toutiao": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 24
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/1c7a5ba1e75d4e7a92185b7f86858d3d~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1790726400&x-signature=HalcBcRdvtm1kmWZFJWx%2BcSg5I8%3D",
+   "ai": null
+  },
+  "代旭回应恋综第一站哥称号，录《心动9》恨不得把自己按座位上": {
+   "title": "代旭回应恋综第一站哥称号，录《心动9》恨不得把自己按座位上",
+   "desc": "",
+   "platforms": [
+    "qq_ent"
+   ],
+   "links": {
+    "qq_ent": "https://view.inews.qq.com/a/20260830V0A5LQ00"
+   },
+   "heat_total": 24,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "qq_ent": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 24
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://inews.gtimg.com/om_ls/O5NhSBtrLZ8x7cF6wVE0Yx2gF8kfm_4CohSJX2mmqIbWEAA_870492/0",
+   "ai": null
+  },
+  "美网首轮比赛中，佩古拉击败鲁塞": {
+   "title": "美网首轮比赛中，佩古拉击败鲁塞",
+   "desc": "世界排名第三的美国网球选手杰西卡·佩古拉（Jessica Pegula）周日在美网首轮比赛中，击败了罗马尼亚选手埃琳娜-加布里埃拉·鲁塞（Elena-Gabriela Ruse）。",
+   "platforms": [
+    "rfi"
+   ],
+   "links": {
+    "rfi": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260830-%E7%BE%8E%E7%BD%91%E9%A6%96%E8%BD%AE%E6%AF%94%E8%B5%9B%E4%B8%AD%EF%BC%8C%E4%BD%A9%E5%8F%A4%E6%8B%89%E5%87%BB%E8%B4%A5%E9%B2%81%E5%A1%9E"
+   },
+   "heat_total": 24,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "rfi": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 24
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://s.rfi.fr/media/display/60069ece-1693-11ea-a66b-005056a99247/w:1024/p:16x9/a12ad7af597bf3fe702c6dd0d0e0f0ded2190f69.jpg",
+   "ai": null
+  },
+  "花少2只有陈意涵杨洋是真来旅行的": {
+   "title": "花少2只有陈意涵杨洋是真来旅行的",
+   "desc": "",
+   "platforms": [
+    "weibo"
+   ],
+   "links": {
+    "weibo": "https://s.weibo.com/weibo?q=%23%E8%8A%B1%E5%B0%912%E5%8F%AA%E6%9C%89%E9%99%88%E6%84%8F%E6%B6%B5%E6%9D%A8%E6%B4%8B%E6%98%AF%E7%9C%9F%E6%9D%A5%E6%97%85%E8%A1%8C%E7%9A%84%23"
+   },
+   "heat_total": 23,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "weibo": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 23
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": null
+  },
+  "写给00后的一封信英文版": {
+   "title": "写给00后的一封信英文版",
+   "desc": "",
+   "platforms": [
+    "douyin"
+   ],
+   "links": {
+    "douyin": "https://www.douyin.com/search/%E5%86%99%E7%BB%9900%E5%90%8E%E7%9A%84%E4%B8%80%E5%B0%81%E4%BF%A1%E8%8B%B1%E6%96%87%E7%89%88"
+   },
+   "heat_total": 23,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "douyin": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 23
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/oEaOvABaZIIoxBQQ0LiYdiyBIPn3AiZg64yvE~noop.jpeg?lk3s=bfd515bb&x-expires=1788177600&x-signature=rmB%2BFHVnv7D%2Byfbrl%2FWhFGiCmTI%3D&from=3218412987",
+   "ai": null
+  },
+  "燃油车主置换新能源 汽车市场咋变了": {
+   "title": "燃油车主置换新能源 汽车市场咋变了",
+   "desc": "",
+   "platforms": [
+    "baidu"
+   ],
+   "links": {
+    "baidu": "https://m.baidu.com/s?word=%E7%87%83%E6%B2%B9%E8%BD%A6%E4%B8%BB%E7%BD%AE%E6%8D%A2%E6%96%B0%E8%83%BD%E6%BA%90+%E6%B1%BD%E8%BD%A6%E5%B8%82%E5%9C%BA%E5%92%8B%E5%8F%98%E4%BA%86&sa=fyb_news"
+   },
+   "heat_total": 23,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "baidu": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 23
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": null
+  },
+  "俄乌惨烈对轰 谁会先扛不住": {
+   "title": "俄乌惨烈对轰 谁会先扛不住",
+   "desc": "",
+   "platforms": [
+    "toutiao"
+   ],
+   "links": {
+    "toutiao": "https://www.toutiao.com/trending/7680047006399614500/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227680047006399614500%22%2C%22hot_board_impr_id%22%3A%222026083114185808C40A2EEBC07B8F0E3A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%BF%84%E4%B9%8C%E6%83%A8%E7%83%88%E5%AF%B9%E8%BD%B0+%E8%B0%81%E4%BC%9A%E5%85%88%E6%89%9B%E4%B8%8D%E4%BD%8F%22%7D&rank=&style_id=40132&topic_id=7680047006399614500"
+   },
+   "heat_total": 23,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "toutiao": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 23
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/9b7726756e7e42508d4ce395586106d3~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1790726400&x-signature=vJYKlMJ1JonGPcEzZvpn4XKKTe8%3D",
+   "ai": null
+  },
+  "暑假刚开始作业字体vs快结束时": {
+   "title": "暑假刚开始作业字体vs快结束时",
+   "desc": "",
+   "platforms": [
+    "bili"
+   ],
+   "links": {
+    "bili": "https://search.bilibili.com/all?keyword=%E6%9A%91%E5%81%87%E5%88%9A%E5%BC%80%E5%A7%8B%E4%BD%9C%E4%B8%9A%E5%AD%97%E4%BD%93vs%E5%BF%AB%E7%BB%93%E6%9D%9F%E6%97%B6"
+   },
+   "heat_total": 23,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "bili": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 23
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": null
+  },
+  "张颂文用粤语接受港媒采访，直言拿影帝难拉动票房，奖项是对自己的鼓励": {
+   "title": "张颂文用粤语接受港媒采访，直言拿影帝难拉动票房，奖项是对自己的鼓励",
+   "desc": "",
+   "platforms": [
+    "qq_ent"
+   ],
+   "links": {
+    "qq_ent": "https://view.inews.qq.com/a/20260831V05XL100"
+   },
+   "heat_total": 23,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "qq_ent": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 23
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://inews.gtimg.com/om_ls/OPmMBsk3xdAUZoOyMM_5qSPVGOJJwtGzwlGYfTWr5Yx98AA_870492/0",
+   "ai": null
+  },
+  "美议员警告　美国AI资料公司一边服务五角大厦一边做中国生意": {
+   "title": "美议员警告　美国AI资料公司一边服务五角大厦一边做中国生意",
+   "desc": "美中人工智能竞赛升温之际，美国部分AI资料公司一边为美国军方及大型科技企业提供训练资料服务，一边替中国AI实验室工作，引发美国国会对国家安全的疑虑。",
+   "platforms": [
+    "rfi"
+   ],
+   "links": {
+    "rfi": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260830-%E7%BE%8E%E8%AE%AE%E5%91%98%E8%AD%A6%E5%91%8A-%E7%BE%8E%E5%9B%BDai%E8%B5%84%E6%96%99%E5%85%AC%E5%8F%B8%E4%B8%80%E8%BE%B9%E6%9C%8D%E5%8A%A1%E4%BA%94%E8%A7%92%E5%A4%A7%E5%8E%A6%E4%B8%80%E8%BE%B9%E5%81%9A%E4%B8%AD%E5%9B%BD%E7%94%9F%E6%84%8F"
+   },
+   "heat_total": 23,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "rfi": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 23
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://s.rfi.fr/media/display/0b3cec7e-6750-11ee-af96-005056bfb2b6/w:1024/p:16x9/063_1726906176.jpg",
+   "ai": null
+  },
+  "熬夜之后如何正确恢复身体": {
+   "title": "熬夜之后如何正确恢复身体",
+   "desc": "",
+   "platforms": [
+    "weibo"
+   ],
+   "links": {
+    "weibo": "https://s.weibo.com/weibo?q=%23%E7%86%AC%E5%A4%9C%E4%B9%8B%E5%90%8E%E5%A6%82%E4%BD%95%E6%AD%A3%E7%A1%AE%E6%81%A2%E5%A4%8D%E8%BA%AB%E4%BD%93%23"
+   },
+   "heat_total": 22,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "weibo": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 22
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": null
+  },
+  "你怎么舍得让我的泪流向海": {
+   "title": "你怎么舍得让我的泪流向海",
+   "desc": "",
+   "platforms": [
+    "douyin"
+   ],
+   "links": {
+    "douyin": "https://www.douyin.com/search/%E4%BD%A0%E6%80%8E%E4%B9%88%E8%88%8D%E5%BE%97%E8%AE%A9%E6%88%91%E7%9A%84%E6%B3%AA%E6%B5%81%E5%90%91%E6%B5%B7"
+   },
+   "heat_total": 22,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "douyin": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 22
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015c000-ce/oIPhEZckw3x9AQToqrQejsFdAmETo7fvBHEyDx~noop.jpeg?lk3s=bfd515bb&x-expires=1788177600&x-signature=bd2uNfCw%2FL9vntETOb3K%2Fv4Lcto%3D&from=3218412987",
+   "ai": null
+  },
+  "AI电视剧登陆湖南卫视黄金档": {
+   "title": "AI电视剧登陆湖南卫视黄金档",
+   "desc": "",
+   "platforms": [
+    "baidu"
+   ],
+   "links": {
+    "baidu": "https://m.baidu.com/s?word=AI%E7%94%B5%E8%A7%86%E5%89%A7%E7%99%BB%E9%99%86%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E9%BB%84%E9%87%91%E6%A1%A3&sa=fyb_news"
+   },
+   "heat_total": 22,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "baidu": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 22
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": null
+  },
+  "泰国女排主帅称中国队100%晋级奥运会": {
+   "title": "泰国女排主帅称中国队100%晋级奥运会",
+   "desc": "",
+   "platforms": [
+    "toutiao"
+   ],
+   "links": {
+    "toutiao": "https://www.toutiao.com/trending/7678855925746171923/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227678855925746171923%22%2C%22hot_board_impr_id%22%3A%222026083114185808C40A2EEBC07B8F0E3A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%B3%B0%E5%9B%BD%E5%A5%B3%E6%8E%92%E4%B8%BB%E5%B8%85%E7%A7%B0%E4%B8%AD%E5%9B%BD%E9%98%9F100%25%E6%99%8B%E7%BA%A7%E5%A5%A5%E8%BF%90%E4%BC%9A%22%7D&rank=&style_id=40132&topic_id=7678855925746171923"
+   },
+   "heat_total": 22,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "toutiao": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 22
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/5cc40ef0d0824a4c93ff765de2906180~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1790726400&x-signature=GpVEGmBLvEiRJjRkPZw6mlbVgAg%3D",
+   "ai": null
+  },
+  "大学新生群里的新老嘉豪": {
+   "title": "大学新生群里的新老嘉豪",
+   "desc": "",
+   "platforms": [
+    "bili"
+   ],
+   "links": {
+    "bili": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E5%AD%A6%E6%96%B0%E7%94%9F%E7%BE%A4%E9%87%8C%E7%9A%84%E6%96%B0%E8%80%81%E5%98%89%E8%B1%AA"
+   },
+   "heat_total": 22,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "bili": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 22
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": null
+  },
+  "“旺仔小乔解封”登上热搜，账号被限制超1年后，抖音已掉粉超900万": {
+   "title": "“旺仔小乔解封”登上热搜，账号被限制超1年后，抖音已掉粉超900万",
+   "desc": "",
+   "platforms": [
+    "qq_ent"
+   ],
+   "links": {
+    "qq_ent": "https://view.inews.qq.com/a/20260830A08ZQ000"
+   },
+   "heat_total": 22,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "qq_ent": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 22
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://inews.gtimg.com/om_ls/O_0XxXdyf6gFz5jDWk6B1rzgoJrYGJeUM_g4ftqj7N9RMAA_294195/0",
+   "ai": null
+  },
+  "瑞士狂欢派对爆枪击1死5伤  警方全面出动追捕嫌凶": {
+   "title": "瑞士狂欢派对爆枪击1死5伤  警方全面出动追捕嫌凶",
+   "desc": "周日，瑞士各地警方全面出动，试图缉拿一名嫌凶，此人在周六深夜至周日凌晨于苏黎世附近的阿劳一场狂欢派对上开枪射击、导致一名意大利年轻女子死亡、五人受伤。",
+   "platforms": [
+    "rfi"
+   ],
+   "links": {
+    "rfi": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260830-%E7%91%9E%E5%A3%AB%E7%8B%82%E6%AC%A2%E6%B4%BE%E5%AF%B9%E7%88%86%E6%9E%AA%E5%87%BB1%E6%AD%BB5%E4%BC%A4-%E8%AD%A6%E6%96%B9%E5%85%A8%E9%9D%A2%E5%87%BA%E5%8A%A8%E8%BF%BD%E6%8D%95%E5%AB%8C%E5%87%B6"
+   },
+   "heat_total": 22,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "rfi": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 22
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://s.rfi.fr/media/display/0fedf98c-a499-11f1-833b-005056bfb2b6/w:1024/p:16x9/AP26242425852996.jpg",
+   "ai": null
+  },
+  "井柏然花少下沉口碑": {
+   "title": "井柏然花少下沉口碑",
+   "desc": "",
+   "platforms": [
+    "weibo"
+   ],
+   "links": {
+    "weibo": "https://s.weibo.com/weibo?q=%23%E4%BA%95%E6%9F%8F%E7%84%B6%E8%8A%B1%E5%B0%91%E4%B8%8B%E6%B2%89%E5%8F%A3%E7%A2%91%23"
+   },
+   "heat_total": 21,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "weibo": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 21
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": null
+  },
+  "凉薄的秋天自带疏离感": {
+   "title": "凉薄的秋天自带疏离感",
+   "desc": "",
+   "platforms": [
+    "douyin"
+   ],
+   "links": {
+    "douyin": "https://www.douyin.com/search/%E5%87%89%E8%96%84%E7%9A%84%E7%A7%8B%E5%A4%A9%E8%87%AA%E5%B8%A6%E7%96%8F%E7%A6%BB%E6%84%9F"
+   },
+   "heat_total": 21,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "douyin": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 21
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://p11-sign.douyinpic.com/tos-cn-i-0813c001/o0bJ7PceVQEABABqfEJXpJ1QgfMAjXA7FA8AUL~noop.jpeg?lk3s=bfd515bb&x-expires=1788177600&x-signature=3Ly7jMCqZGfHq%2FDq%2By9ViDf91cY%3D&from=3218412987",
+   "ai": null
+  },
+  "今年“港姐”竞争太激烈了": {
+   "title": "今年“港姐”竞争太激烈了",
+   "desc": "",
+   "platforms": [
+    "baidu"
+   ],
+   "links": {
+    "baidu": "https://m.baidu.com/s?word=%E4%BB%8A%E5%B9%B4%E2%80%9C%E6%B8%AF%E5%A7%90%E2%80%9D%E7%AB%9E%E4%BA%89%E5%A4%AA%E6%BF%80%E7%83%88%E4%BA%86&sa=fyb_news"
+   },
+   "heat_total": 21,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "baidu": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 21
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": null
+  },
+  "贵州女孩到北京上大学父亲哭了5次": {
+   "title": "贵州女孩到北京上大学父亲哭了5次",
+   "desc": "",
+   "platforms": [
+    "toutiao"
+   ],
+   "links": {
+    "toutiao": "https://www.toutiao.com/trending/7679780336297738281/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%228%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227679780336297738281%22%2C%22hot_board_impr_id%22%3A%222026083114185808C40A2EEBC07B8F0E3A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%B4%B5%E5%B7%9E%E5%A5%B3%E5%AD%A9%E5%88%B0%E5%8C%97%E4%BA%AC%E4%B8%8A%E5%A4%A7%E5%AD%A6%E7%88%B6%E4%BA%B2%E5%93%AD%E4%BA%865%E6%AC%A1%22%7D&rank=&style_id=40132&topic_id=7679780336297738281"
+   },
+   "heat_total": 21,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "toutiao": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 21
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/88a568e7785d42d6aa3b6c2ae870a3fb~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1790726400&x-signature=E4Li7opQIrqRcsMM5QSQU9iolz4%3D",
+   "ai": null
+  },
+  "人民币距离国际货币有多远": {
+   "title": "人民币距离国际货币有多远",
+   "desc": "",
+   "platforms": [
+    "bili"
+   ],
+   "links": {
+    "bili": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E6%B0%91%E5%B8%81%E8%B7%9D%E7%A6%BB%E5%9B%BD%E9%99%85%E8%B4%A7%E5%B8%81%E6%9C%89%E5%A4%9A%E8%BF%9C"
+   },
+   "heat_total": 21,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "bili": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 21
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": null
+  },
+  "薛之谦演唱会耍帅翻车，抛酒杯环节精准砸中头部，帅气舞台秒变喜剧现场": {
+   "title": "薛之谦演唱会耍帅翻车，抛酒杯环节精准砸中头部，帅气舞台秒变喜剧现场",
+   "desc": "",
+   "platforms": [
+    "qq_ent"
+   ],
+   "links": {
+    "qq_ent": "https://view.inews.qq.com/a/20260831V026LL00"
+   },
+   "heat_total": 21,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "qq_ent": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 21
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://inews.gtimg.com/om_ls/OYjQ0x1mmcS_R8OITCsv_BZmwzHnz37E0rKaEzAeNPxVQAA_870492/0",
+   "ai": null
+  },
+  "俄罗斯称正准备对乌克兰“能源领域”发动“大规模打击”": {
+   "title": "俄罗斯称正准备对乌克兰“能源领域”发动“大规模打击”",
+   "desc": "法新社8月30日莫斯科消息，在过去数月袭击明显加剧的背景下，俄罗斯周日宣布正准备对乌克兰的“能源设施”发动“大规模打击”。",
+   "platforms": [
+    "rfi"
+   ],
+   "links": {
+    "rfi": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260830-%E4%BF%84%E7%BD%97%E6%96%AF%E7%A7%B0%E6%AD%A3%E5%87%86%E5%A4%87%E5%AF%B9%E4%B9%8C%E5%85%8B%E5%85%B0-%E8%83%BD%E6%BA%90%E9%A2%86%E5%9F%9F-%E5%8F%91%E5%8A%A8-%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%89%93%E5%87%BB"
+   },
+   "heat_total": 21,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "rfi": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 21
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://s.rfi.fr/media/display/c55d7b6c-a390-11f1-81f8-005056bfb2b6/w:1024/p:16x9/000-C6RW968.jpg",
+   "ai": null
+  },
+  "多家医院通知解聘": {
+   "title": "多家医院通知解聘",
+   "desc": "",
+   "platforms": [
+    "weibo"
+   ],
+   "links": {
+    "weibo": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%AE%B6%E5%8C%BB%E9%99%A2%E9%80%9A%E7%9F%A5%E8%A7%A3%E8%81%98%23"
+   },
+   "heat_total": 20,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "weibo": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 20
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": null
+  },
+  "曼联5:2伊普斯维奇取赛季首胜": {
+   "title": "曼联5:2伊普斯维奇取赛季首胜",
+   "desc": "",
+   "platforms": [
+    "douyin"
+   ],
+   "links": {
+    "douyin": "https://www.douyin.com/search/%E6%9B%BC%E8%81%945%3A2%E4%BC%8A%E6%99%AE%E6%96%AF%E7%BB%B4%E5%A5%87%E5%8F%96%E8%B5%9B%E5%AD%A3%E9%A6%96%E8%83%9C"
+   },
+   "heat_total": 20,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "douyin": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 20
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/osfDCUfIdgAVN93Nxkr9oeHVkAIDvEGUqgw2fL~noop.jpeg?lk3s=bfd515bb&x-expires=1788177600&x-signature=6DS%2BzR%2BqHYn4S8fwBBavQpRzf8k%3D&from=3218412987",
+   "ai": null
+  },
+  "8月“科学”流言榜发布": {
+   "title": "8月“科学”流言榜发布",
+   "desc": "",
+   "platforms": [
+    "toutiao"
+   ],
+   "links": {
+    "toutiao": "https://www.toutiao.com/trending/7680005760529170458/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227680005760529170458%22%2C%22hot_board_impr_id%22%3A%222026083114185808C40A2EEBC07B8F0E3A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%228%E6%9C%88%E2%80%9C%E7%A7%91%E5%AD%A6%E2%80%9D%E6%B5%81%E8%A8%80%E6%A6%9C%E5%8F%91%E5%B8%83%22%7D&rank=&style_id=40132&topic_id=7680005760529170458"
+   },
+   "heat_total": 20,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "toutiao": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 20
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://p3-sign.toutiaoimg.com/mosaic-legacy/2b29000036f8405561443~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1790726400&x-signature=WUGWmE9ssu6J2xZxIlC3rxywrpg%3D",
+   "ai": null
+  },
+  "今晚开播！《重案六组》前传来袭，演员阵容强大，3大看点有爆款潜质": {
+   "title": "今晚开播！《重案六组》前传来袭，演员阵容强大，3大看点有爆款潜质",
+   "desc": "",
+   "platforms": [
+    "qq_ent"
+   ],
+   "links": {
+    "qq_ent": "https://view.inews.qq.com/a/20260831A03C4X00"
+   },
+   "heat_total": 20,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "qq_ent": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 20
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://inews.gtimg.com/om_ls/OFYIZ-7x8XwG9E7xhV3RKbiT4GGqvBEmoUNp6PSVvU0Q0AA_870492/0",
+   "ai": null
+  },
+  "冰岛公投结果出炉：拒绝重启加入欧盟谈判": {
+   "title": "冰岛公投结果出炉：拒绝重启加入欧盟谈判",
+   "desc": "冰岛周六的公投否决了重启加入欧盟谈判的提议，这对欢迎冰岛入盟的布鲁塞尔来说，无疑是一记重击。对于自1995年以来就未曾吸纳过富裕国家加入的欧盟而言，冰岛的加入本可成为一个积极示范窗口，召唤富裕的挪威，同时也能帮助欧盟扩大在北极地区的表态权与存在感。",
+   "platforms": [
+    "rfi"
+   ],
+   "links": {
+    "rfi": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260830-%E5%86%B0%E5%B2%9B%E5%85%AC%E6%8A%95%E7%BB%93%E6%9E%9C%E5%87%BA%E7%82%89-%E6%8B%92%E7%BB%9D%E9%87%8D%E5%90%AF%E5%8A%A0%E5%85%A5%E6%AC%A7%E7%9B%9F%E8%B0%88%E5%88%A4"
+   },
+   "heat_total": 20,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "rfi": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 20
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://s.rfi.fr/media/display/50f8384c-a490-11f1-be49-005056bfb2b6/w:1024/p:16x9/AP26239720376171.jpg",
+   "ai": null
+  },
+  "蒋欣经纪人说蒋欣吃凉拌黄瓜都会胖": {
+   "title": "蒋欣经纪人说蒋欣吃凉拌黄瓜都会胖",
+   "desc": "",
+   "platforms": [
+    "weibo"
+   ],
+   "links": {
+    "weibo": "https://s.weibo.com/weibo?q=%23%E8%92%8B%E6%AC%A3%E7%BB%8F%E7%BA%AA%E4%BA%BA%E8%AF%B4%E8%92%8B%E6%AC%A3%E5%90%83%E5%87%89%E6%8B%8C%E9%BB%84%E7%93%9C%E9%83%BD%E4%BC%9A%E8%83%96%23"
+   },
+   "heat_total": 19,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "weibo": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 19
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": null
+  },
+  "国安部披露军工双料间谍案细节": {
+   "title": "国安部披露军工双料间谍案细节",
+   "desc": "",
+   "platforms": [
+    "douyin"
+   ],
+   "links": {
+    "douyin": "https://www.douyin.com/search/%E5%9B%BD%E5%AE%89%E9%83%A8%E6%8A%AB%E9%9C%B2%E5%86%9B%E5%B7%A5%E5%8F%8C%E6%96%99%E9%97%B4%E8%B0%8D%E6%A1%88%E7%BB%86%E8%8A%82"
+   },
+   "heat_total": 19,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "douyin": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 19
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015/ogDW3ASf9qEzcDA1BYDpIrFPguilgAkI9IeGQA~noop.jpeg?lk3s=bfd515bb&x-expires=1788177600&x-signature=4iSvgbul3MTj%2FoR0R2ctIhO2sFQ%3D&from=3218412987",
+   "ai": null
+  },
+  "那英现场忘词直接大喊：我要看歌词！全场笑疯｜Jumppark": {
+   "title": "那英现场忘词直接大喊：我要看歌词！全场笑疯｜Jumppark",
+   "desc": "",
+   "platforms": [
+    "qq_ent"
+   ],
+   "links": {
+    "qq_ent": "https://view.inews.qq.com/a/20260830V0ADHS00"
+   },
+   "heat_total": 19,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "qq_ent": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 19
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://inews.gtimg.com/om_ls/Owb3kniAh31Oihj4-YjHlLaCgbE55qqrEGQ2Gzi9XwQ40AA_870492_compress/0",
+   "ai": null
+  },
+  "NASA“罗曼”太空望远镜正式发射 将绘制新的“宇宙图鉴”": {
+   "title": "NASA“罗曼”太空望远镜正式发射 将绘制新的“宇宙图鉴”",
+   "desc": "美国宇航局（NASA）周日发射了“罗曼”太空望远镜，该望远镜旨在绘制宇宙地图。这项历时数年的任务旨在揭开一些最重大的物理谜团。",
+   "platforms": [
+    "rfi"
+   ],
+   "links": {
+    "rfi": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260830-nasa-%E7%BD%97%E6%9B%BC-%E5%A4%AA%E7%A9%BA%E6%9C%9B%E8%BF%9C%E9%95%9C%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B0%84-%E5%B0%86%E7%BB%98%E5%88%B6%E6%96%B0%E7%9A%84-%E5%AE%87%E5%AE%99%E5%9B%BE%E9%89%B4"
+   },
+   "heat_total": 19,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "rfi": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 19
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://s.rfi.fr/media/display/89e41d5e-a483-11f1-9bee-005056bf30b7/w:1024/p:16x9/AP26242482531860.jpg",
+   "ai": null
+  },
+  "买完瑞幸出门摔倒致后脑勺出血": {
+   "title": "买完瑞幸出门摔倒致后脑勺出血",
+   "desc": "",
+   "platforms": [
+    "weibo"
+   ],
+   "links": {
+    "weibo": "https://s.weibo.com/weibo?q=%23%E4%B9%B0%E5%AE%8C%E7%91%9E%E5%B9%B8%E5%87%BA%E9%97%A8%E6%91%94%E5%80%92%E8%87%B4%E5%90%8E%E8%84%91%E5%8B%BA%E5%87%BA%E8%A1%80%23"
+   },
+   "heat_total": 18,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "weibo": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 18
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": null
+  },
+  "夜跑女子被路过小朋友夸美": {
+   "title": "夜跑女子被路过小朋友夸美",
+   "desc": "",
+   "platforms": [
+    "baidu"
+   ],
+   "links": {
+    "baidu": "https://m.baidu.com/s?word=%E5%A4%9C%E8%B7%91%E5%A5%B3%E5%AD%90%E8%A2%AB%E8%B7%AF%E8%BF%87%E5%B0%8F%E6%9C%8B%E5%8F%8B%E5%A4%B8%E7%BE%8E&sa=fyb_news"
+   },
+   "heat_total": 18,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "baidu": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 18
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": null
+  },
+  "中国男人为什么突然不爱皮鞋了": {
+   "title": "中国男人为什么突然不爱皮鞋了",
+   "desc": "",
+   "platforms": [
+    "toutiao"
+   ],
+   "links": {
+    "toutiao": "https://www.toutiao.com/trending/7679838986369502763/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227679838986369502763%22%2C%22hot_board_impr_id%22%3A%222026083114185808C40A2EEBC07B8F0E3A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E5%9B%BD%E7%94%B7%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E7%AA%81%E7%84%B6%E4%B8%8D%E7%88%B1%E7%9A%AE%E9%9E%8B%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7679838986369502763"
+   },
+   "heat_total": 18,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "toutiao": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 18
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/ea3e8962ea8b4eb789baa49a8ba44613~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1790726400&x-signature=25rE%2BRMV88EnE421xmdEoM3KyMI%3D",
+   "ai": null
+  },
+  "曼联新赛季有望夺冠吗": {
+   "title": "曼联新赛季有望夺冠吗",
+   "desc": "",
+   "platforms": [
+    "bili"
+   ],
+   "links": {
+    "bili": "https://search.bilibili.com/all?keyword=%E6%9B%BC%E8%81%94%E6%96%B0%E8%B5%9B%E5%AD%A3%E6%9C%89%E6%9C%9B%E5%A4%BA%E5%86%A0%E5%90%97"
+   },
+   "heat_total": 18,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "bili": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 18
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": null
+  },
+  "从追梗到追人，《脱友3》如何让脱口秀演员被更多人看见？": {
+   "title": "从追梗到追人，《脱友3》如何让脱口秀演员被更多人看见？",
+   "desc": "",
+   "platforms": [
+    "qq_ent"
+   ],
+   "links": {
+    "qq_ent": "https://view.inews.qq.com/a/20260830A093D200"
+   },
+   "heat_total": 18,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "qq_ent": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 18
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://inews.gtimg.com/news_ls/Ov5YFGW-IXLmIfY0xt-W2IztONdAVoNmeFvtKQkU_96e0AA_294195/0",
+   "ai": null
+  },
+  "俄罗斯“非洲军团”协助尼日尔军政府平息兵变": {
+   "title": "俄罗斯“非洲军团”协助尼日尔军政府平息兵变",
+   "desc": "尼日尔军政府周六在俄罗斯伙伴的协助下平息了一场兵变，此前，该国首都尼亚美的一处重要军事基地已被夺回，该地自周五深夜至周六凌晨一直战况激烈。",
+   "platforms": [
+    "rfi"
+   ],
+   "links": {
+    "rfi": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260830-%E4%BF%84%E7%BD%97%E6%96%AF-%E9%9D%9E%E6%B4%B2%E5%86%9B%E5%9B%A2-%E5%8D%8F%E5%8A%A9%E5%B0%BC%E6%97%A5%E5%B0%94%E5%86%9B%E6%94%BF%E5%BA%9C%E5%B9%B3%E6%81%AF%E5%85%B5%E5%8F%98"
+   },
+   "heat_total": 18,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "rfi": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 18
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://s.rfi.fr/media/display/54349da0-a479-11f1-8b58-005056a90284/w:1024/p:16x9/AP26190328942057.jpg",
+   "ai": null
+  },
+  "英雄联盟": {
+   "title": "英雄联盟",
+   "desc": "",
+   "platforms": [
+    "weibo"
+   ],
+   "links": {
+    "weibo": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%23"
+   },
+   "heat_total": 17,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "weibo": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 17
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": null
+  },
+  "开学前最后一条视频": {
+   "title": "开学前最后一条视频",
+   "desc": "",
+   "platforms": [
+    "douyin"
+   ],
+   "links": {
+    "douyin": "https://www.douyin.com/search/%E5%BC%80%E5%AD%A6%E5%89%8D%E6%9C%80%E5%90%8E%E4%B8%80%E6%9D%A1%E8%A7%86%E9%A2%91"
+   },
+   "heat_total": 17,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "douyin": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 17
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015/oEDz5EuEuIul6FIAtDafmpw9IewTB9gaUqILAA~noop.jpeg?lk3s=bfd515bb&x-expires=1788177600&x-signature=0JyDMpi1WcXxpAyjTBy%2FPksoLys%3D&from=3218412987",
+   "ai": null
+  },
+  "宇树股价正式“腰斩”": {
+   "title": "宇树股价正式“腰斩”",
+   "desc": "",
+   "platforms": [
+    "baidu"
+   ],
+   "links": {
+    "baidu": "https://m.baidu.com/s?word=%E5%AE%87%E6%A0%91%E8%82%A1%E4%BB%B7%E6%AD%A3%E5%BC%8F%E2%80%9C%E8%85%B0%E6%96%A9%E2%80%9D&sa=fyb_news"
+   },
+   "heat_total": 17,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "baidu": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 17
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": null
+  },
+  "陈粒回应疑似被性骚扰": {
+   "title": "陈粒回应疑似被性骚扰",
+   "desc": "",
+   "platforms": [
+    "toutiao"
+   ],
+   "links": {
+    "toutiao": "https://www.toutiao.com/trending/7680020863684480522/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227680020863684480522%22%2C%22hot_board_impr_id%22%3A%222026083114185808C40A2EEBC07B8F0E3A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E9%99%88%E7%B2%92%E5%9B%9E%E5%BA%94%E7%96%91%E4%BC%BC%E8%A2%AB%E6%80%A7%E9%AA%9A%E6%89%B0%22%7D&rank=&style_id=40132&topic_id=7680020863684480522"
+   },
+   "heat_total": 17,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "toutiao": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 17
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/c131505b23dc4be1bb832dae7133aab1~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1790726400&x-signature=vCt4A2%2B3RyyFX2qB2YRow%2FP%2Bztk%3D",
+   "ai": null
+  },
+  "暑期热梗大盘点": {
+   "title": "暑期热梗大盘点",
+   "desc": "",
+   "platforms": [
+    "bili"
+   ],
+   "links": {
+    "bili": "https://search.bilibili.com/all?keyword=%E6%9A%91%E6%9C%9F%E7%83%AD%E6%A2%97%E5%A4%A7%E7%9B%98%E7%82%B9"
+   },
+   "heat_total": 17,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "bili": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 17
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": null
+  },
+  "TVH花旦高海宁自曝被“包养”真相！15年跑龙套曾重度抑郁，狗仔杜撰毁了她半条命！": {
+   "title": "TVH花旦高海宁自曝被“包养”真相！15年跑龙套曾重度抑郁，狗仔杜撰毁了她半条命！",
+   "desc": "",
+   "platforms": [
+    "qq_ent"
+   ],
+   "links": {
+    "qq_ent": "https://view.inews.qq.com/a/20260831V031L900"
+   },
+   "heat_total": 17,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "qq_ent": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 17
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://inews.gtimg.com/om_ls/OCIqkBzSaRl1LKfd_xZffSkofmld8arajl4haW7fygjpsAA_870492/0",
+   "ai": null
+  },
+  "太平洋岛国论坛开幕：大国竞争背景下的中台角力": {
+   "title": "太平洋岛国论坛开幕：大国竞争背景下的中台角力",
+   "desc": "2026太平洋岛国论坛30日在帕劳开幕。如果说尽管有北京当局的一再阻挠，台湾中华民国仍得以应邀出席这次论坛活动无疑是台湾的一项外交胜利的话，随着中美两大国全面战略竞争日益激烈，台海两岸的外交角力也日渐成为太平洋地区牵扯多国利益的多国实力博弈中的一环。",
+   "platforms": [
+    "rfi"
+   ],
+   "links": {
+    "rfi": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20260830-%E5%A4%AA%E5%B9%B3%E6%B4%8B%E5%B2%9B%E5%9B%BD%E8%AE%BA%E5%9D%9B%E5%BC%80%E5%B9%95-%E5%A4%A7%E5%9B%BD%E7%AB%9E%E4%BA%89%E8%83%8C%E6%99%AF%E4%B8%8B%E7%9A%84%E4%B8%AD%E5%8F%B0%E8%A7%92%E5%8A%9B"
+   },
+   "heat_total": 17,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "rfi": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 17
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://s.rfi.fr/media/display/e0db2994-a47f-11f1-8a9b-005056a90284/w:1024/p:16x9/AP26242288342437.jpg",
+   "ai": null
+  },
+  "巩俐易烊千玺无双大片": {
+   "title": "巩俐易烊千玺无双大片",
+   "desc": "",
+   "platforms": [
+    "weibo"
+   ],
+   "links": {
+    "weibo": "https://s.weibo.com/weibo?q=%23%E5%B7%A9%E4%BF%90%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%97%A0%E5%8F%8C%E5%A4%A7%E7%89%87%23"
+   },
+   "heat_total": 16,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "weibo": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 16
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": null
+  },
+  "皇马4:0马拉加": {
+   "title": "皇马4:0马拉加",
+   "desc": "",
+   "platforms": [
+    "douyin"
+   ],
+   "links": {
+    "douyin": "https://www.douyin.com/search/%E7%9A%87%E9%A9%AC4%3A0%E9%A9%AC%E6%8B%89%E5%8A%A0"
+   },
+   "heat_total": 16,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "douyin": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 16
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/osf32mINSBAiAiAIHICy72AmNz3g71zJBAeUiS~noop.jpeg?lk3s=bfd515bb&x-expires=1788177600&x-signature=K5140oh3uQ1zMj1i6pUNXDJWxnw%3D&from=3218412987",
+   "ai": null
+  },
+  "一捆伍角纸币面值500元竟卖5800": {
+   "title": "一捆伍角纸币面值500元竟卖5800",
+   "desc": "",
+   "platforms": [
+    "baidu"
+   ],
+   "links": {
+    "baidu": "https://m.baidu.com/s?word=%E4%B8%80%E6%8D%86%E4%BC%8D%E8%A7%92%E7%BA%B8%E5%B8%81%E9%9D%A2%E5%80%BC500%E5%85%83%E7%AB%9F%E5%8D%965800&sa=fyb_news"
+   },
+   "heat_total": 16,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "baidu": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 16
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": null
+  },
+  "日本樱岛火山今天多次喷发": {
+   "title": "日本樱岛火山今天多次喷发",
+   "desc": "",
+   "platforms": [
+    "toutiao"
+   ],
+   "links": {
+    "toutiao": "https://www.toutiao.com/trending/7680023217003872777/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227680023217003872777%22%2C%22hot_board_impr_id%22%3A%222026083114185808C40A2EEBC07B8F0E3A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%97%A5%E6%9C%AC%E6%A8%B1%E5%B2%9B%E7%81%AB%E5%B1%B1%E4%BB%8A%E5%A4%A9%E5%A4%9A%E6%AC%A1%E5%96%B7%E5%8F%91%22%7D&rank=&style_id=40132&topic_id=7680023217003872777"
+   },
+   "heat_total": 16,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "toutiao": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 16
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/d39ee0c4c60a4c3e94a6c1171e6e92f1~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1790726400&x-signature=cCMsjcq65bHY%2B4pQTcNYSojr6dM%3D",
+   "ai": null
+  },
+  "冉莹颖家像是抽中抓马剧本！冉爸再婚三次为生儿子，折腾一圈身边只有女儿": {
+   "title": "冉莹颖家像是抽中抓马剧本！冉爸再婚三次为生儿子，折腾一圈身边只有女儿",
+   "desc": "",
+   "platforms": [
+    "qq_ent"
+   ],
+   "links": {
+    "qq_ent": "https://view.inews.qq.com/a/20260830V0BA5Z00"
+   },
+   "heat_total": 16,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "qq_ent": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 16
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://inews.gtimg.com/om_ls/Os3jL3JkuaFA3W-iMTTTkadTCBl_M52lw5kEypXBX4DAoAA_870492/0",
+   "ai": null
+  },
+  "中国公布261名外国失踪人员国籍包括两名法国人": {
+   "title": "中国公布261名外国失踪人员国籍包括两名法国人",
+   "desc": "中国央视（CCTV）周日报道，喜马拉雅山毁灭性洪灾在中国一侧死亡人数已升至16人，另有546人，包括两名法国人，仍下落不明。",
+   "platforms": [
+    "rfi"
+   ],
+   "links": {
+    "rfi": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260830-%E4%B8%AD%E5%9B%BD%E5%85%AC%E5%B8%83261%E5%90%8D%E5%A4%96%E5%9B%BD%E5%A4%B1%E8%B8%AA%E4%BA%BA%E5%91%98%E5%9B%BD%E7%B1%8D%E5%8C%85%E6%8B%AC%E4%B8%A4%E5%90%8D%E6%B3%95%E5%9B%BD%E4%BA%BA"
+   },
+   "heat_total": 16,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "rfi": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 16
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://s.rfi.fr/media/display/d2116fc0-a2e7-11f1-bade-005056bf30b7/w:1024/p:16x9/2026-08-28T082454Z-1037140858-RC2C7NABEI2P-RTRMADP-3-NEPAL-FLOODS-CHINA.jpg",
+   "ai": null
+  },
+  "关晓彤吃无米版徐福烩饭": {
+   "title": "关晓彤吃无米版徐福烩饭",
+   "desc": "",
+   "platforms": [
+    "weibo"
+   ],
+   "links": {
+    "weibo": "https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%90%83%E6%97%A0%E7%B1%B3%E7%89%88%E5%BE%90%E7%A6%8F%E7%83%A9%E9%A5%AD%23"
+   },
+   "heat_total": 15,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "weibo": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 15
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": null
+  },
+  "天下第一懒人": {
+   "title": "天下第一懒人",
+   "desc": "",
+   "platforms": [
+    "douyin"
+   ],
+   "links": {
+    "douyin": "https://www.douyin.com/search/%E5%A4%A9%E4%B8%8B%E7%AC%AC%E4%B8%80%E6%87%92%E4%BA%BA"
+   },
+   "heat_total": 15,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "douyin": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 15
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/oQ8iPpAI8AIXaPcwBM7VefCesQBaXBrgdrqQPM~noop.jpeg?lk3s=bfd515bb&x-expires=1788177600&x-signature=4zP0P5bYAE8tNDzT3AcgjczA7Hg%3D&from=3218412987",
+   "ai": null
+  },
+  "第一批买网红小家电的人已经后悔了": {
+   "title": "第一批买网红小家电的人已经后悔了",
+   "desc": "",
+   "platforms": [
+    "baidu"
+   ],
+   "links": {
+    "baidu": "https://m.baidu.com/s?word=%E7%AC%AC%E4%B8%80%E6%89%B9%E4%B9%B0%E7%BD%91%E7%BA%A2%E5%B0%8F%E5%AE%B6%E7%94%B5%E7%9A%84%E4%BA%BA%E5%B7%B2%E7%BB%8F%E5%90%8E%E6%82%94%E4%BA%86&sa=fyb_news"
+   },
+   "heat_total": 15,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "baidu": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 15
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": null
+  },
+  "宇树会成为下一个苹果或特斯拉吗": {
+   "title": "宇树会成为下一个苹果或特斯拉吗",
+   "desc": "",
+   "platforms": [
+    "toutiao"
+   ],
+   "links": {
+    "toutiao": "https://www.toutiao.com/trending/7680060210156670470/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227680060210156670470%22%2C%22hot_board_impr_id%22%3A%222026083114185808C40A2EEBC07B8F0E3A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%AE%87%E6%A0%91%E4%BC%9A%E6%88%90%E4%B8%BA%E4%B8%8B%E4%B8%80%E4%B8%AA%E8%8B%B9%E6%9E%9C%E6%88%96%E7%89%B9%E6%96%AF%E6%8B%89%E5%90%97%22%7D&rank=&style_id=40132&topic_id=7680060210156670470"
+   },
+   "heat_total": 15,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "toutiao": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 15
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://p3-sign.toutiaoimg.com/mosaic-legacy/2b28f000370774e5fabc5~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1790726400&x-signature=dZTj2J1VLVYGPHx4kXMCAXInIAo%3D",
+   "ai": null
+  },
+  "喜马拉雅洪灾遇难者升至约750人 尼泊尔开始掩埋 急需冻柜及DNA试剂盒": {
+   "title": "喜马拉雅洪灾遇难者升至约750人 尼泊尔开始掩埋 急需冻柜及DNA试剂盒",
+   "desc": "法新社8月30日综述喜马拉雅洪灾的最新进展说，根据中尼两国当局公布的最新信息，目前死亡人数至少为750人，其中尼泊尔境内734人，中国西藏地区16人。失踪人数为3044人，其中尼泊尔境内2498人，中国境内546人。",
+   "platforms": [
+    "rfi"
+   ],
+   "links": {
+    "rfi": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260830-%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85%E6%B4%AA%E7%81%BE%E9%81%87%E9%9A%BE%E8%80%85%E5%8D%87%E8%87%B3%E7%BA%A6750%E4%BA%BA-%E5%B0%BC%E6%B3%8A%E5%B0%94%E5%BC%80%E5%A7%8B%E6%8E%A9%E5%9F%8B-%E6%80%A5%E9%9C%80%E5%86%BB%E6%9F%9C%E5%8F%8Adna%E8%AF%95%E5%89%82%E7%9B%92"
+   },
+   "heat_total": 15,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "rfi": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 15
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://s.rfi.fr/media/display/03601c52-a441-11f1-b5ff-005056a90284/w:1024/p:16x9/2026-08-30T051741Z-966283871-RC2S8NAA0NU0-RTRMADP-3-NEPAL-FLOODS.jpg",
+   "ai": null
+  },
+  "华为三折叠采用全新展翼形态": {
+   "title": "华为三折叠采用全新展翼形态",
+   "desc": "",
+   "platforms": [
+    "weibo"
+   ],
+   "links": {
+    "weibo": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E4%B8%89%E6%8A%98%E5%8F%A0%E9%87%87%E7%94%A8%E5%85%A8%E6%96%B0%E5%B1%95%E7%BF%BC%E5%BD%A2%E6%80%81%23"
+   },
+   "heat_total": 14,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "weibo": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 14
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": null
+  },
+  "我们的少年时代2收官": {
+   "title": "我们的少年时代2收官",
+   "desc": "",
+   "platforms": [
+    "douyin"
+   ],
+   "links": {
+    "douyin": "https://www.douyin.com/search/%E6%88%91%E4%BB%AC%E7%9A%84%E5%B0%91%E5%B9%B4%E6%97%B6%E4%BB%A32%E6%94%B6%E5%AE%98"
+   },
+   "heat_total": 14,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "douyin": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 14
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015/ocrDAZfDNI8Q9kqAeh3rmlmIUB5AqEd4FAr3Ig~noop.jpeg?lk3s=bfd515bb&x-expires=1788177600&x-signature=w3GTcfXuwpfpNclwZI6JU4wRTws%3D&from=3218412987",
+   "ai": null
+  },
+  "小区选择不要物业 居民自己管自己": {
+   "title": "小区选择不要物业 居民自己管自己",
+   "desc": "",
+   "platforms": [
+    "baidu"
+   ],
+   "links": {
+    "baidu": "https://m.baidu.com/s?word=%E5%B0%8F%E5%8C%BA%E9%80%89%E6%8B%A9%E4%B8%8D%E8%A6%81%E7%89%A9%E4%B8%9A+%E5%B1%85%E6%B0%91%E8%87%AA%E5%B7%B1%E7%AE%A1%E8%87%AA%E5%B7%B1&sa=fyb_news"
+   },
+   "heat_total": 14,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "baidu": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 14
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": null
+  },
+  "媒体：中国女排需要找准自己的路": {
+   "title": "媒体：中国女排需要找准自己的路",
+   "desc": "",
+   "platforms": [
+    "toutiao"
+   ],
+   "links": {
+    "toutiao": "https://www.toutiao.com/trending/7680024840207601158/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227680024840207601158%22%2C%22hot_board_impr_id%22%3A%222026083114185808C40A2EEBC07B8F0E3A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%AA%92%E4%BD%93%EF%BC%9A%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E9%9C%80%E8%A6%81%E6%89%BE%E5%87%86%E8%87%AA%E5%B7%B1%E7%9A%84%E8%B7%AF%22%7D&rank=&style_id=40132&topic_id=7680024840207601158"
+   },
+   "heat_total": 14,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "toutiao": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 14
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/8c4658a4945042efa4fe1d924b2a7ccf~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1790726400&x-signature=LUerjARcsz7lhLP8yL3Rz5Xk0%2FI%3D",
+   "ai": null
+  },
+  "世界报论坛：「极地丝绸之路」非商业突破 应被视为揭示中国雄心的对冲战略": {
+   "title": "世界报论坛：「极地丝绸之路」非商业突破 应被视为揭示中国雄心的对冲战略",
+   "desc": "中国刚刚开通了一条经由北极航向欧洲的新海上丝绸之路。在《世界报》周末版（8月29-30日）的一篇评论文章中，西班牙经济学家阿丽西亚·加西亚·埃雷罗（Alicia Garcia Herrero ）分析了北京的这项战略。",
+   "platforms": [
+    "rfi"
+   ],
+   "links": {
+    "rfi": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20260830-%E4%B8%96%E7%95%8C%E6%8A%A5%E8%AE%BA%E5%9D%9B-%E6%9E%81%E5%9C%B0%E4%B8%9D%E7%BB%B8%E4%B9%8B%E8%B7%AF-%E9%9D%9E%E5%95%86%E4%B8%9A%E7%AA%81%E7%A0%B4-%E5%BA%94%E8%A2%AB%E8%A7%86%E4%B8%BA%E6%8F%AD%E7%A4%BA%E4%B8%AD%E5%9B%BD%E9%9B%84%E5%BF%83%E7%9A%84%E5%AF%B9%E5%86%B2%E6%88%98%E7%95%A5"
+   },
+   "heat_total": 14,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "rfi": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 14
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://s.rfi.fr/media/display/f500fb32-9594-11f1-b70f-005056bfb2b6/w:1024/p:16x9/Screenshot-2026-08-11-165521.png",
+   "ai": null
+  },
+  "Ryan是王菲早期大粉": {
+   "title": "Ryan是王菲早期大粉",
+   "desc": "",
+   "platforms": [
+    "weibo"
+   ],
+   "links": {
+    "weibo": "https://s.weibo.com/weibo?q=%23Ryan%E6%98%AF%E7%8E%8B%E8%8F%B2%E6%97%A9%E6%9C%9F%E5%A4%A7%E7%B2%89%23"
+   },
+   "heat_total": 13,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "weibo": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 13
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": null
+  },
+  "初音未来19周年": {
+   "title": "初音未来19周年",
+   "desc": "",
+   "platforms": [
+    "douyin"
+   ],
+   "links": {
+    "douyin": "https://www.douyin.com/search/%E5%88%9D%E9%9F%B3%E6%9C%AA%E6%9D%A519%E5%91%A8%E5%B9%B4"
+   },
+   "heat_total": 13,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "douyin": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 13
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015/oUqRQaD9iAWzJ0D7AlgFzk3fIfbPqtEBUDapmA~noop.jpeg?lk3s=bfd515bb&x-expires=1788177600&x-signature=6zQCrkS15O7C7wPuXFXzxWNn%2F3s%3D&from=3218412987",
+   "ai": null
+  },
+  "时隔30年 东南亚将迎来第二艘航母": {
+   "title": "时隔30年 东南亚将迎来第二艘航母",
+   "desc": "",
+   "platforms": [
+    "baidu"
+   ],
+   "links": {
+    "baidu": "https://m.baidu.com/s?word=%E6%97%B6%E9%9A%9430%E5%B9%B4+%E4%B8%9C%E5%8D%97%E4%BA%9A%E5%B0%86%E8%BF%8E%E6%9D%A5%E7%AC%AC%E4%BA%8C%E8%89%98%E8%88%AA%E6%AF%8D&sa=fyb_news"
+   },
+   "heat_total": 13,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "baidu": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 13
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": null
+  },
+  "白宫发“白头鹰暴打加拿大鹅”被群嘲": {
+   "title": "白宫发“白头鹰暴打加拿大鹅”被群嘲",
+   "desc": "",
+   "platforms": [
+    "toutiao"
+   ],
+   "links": {
+    "toutiao": "https://www.toutiao.com/trending/7679683647384977451/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227679683647384977451%22%2C%22hot_board_impr_id%22%3A%222026083114185808C40A2EEBC07B8F0E3A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%99%BD%E5%AE%AB%E5%8F%91%E2%80%9C%E7%99%BD%E5%A4%B4%E9%B9%B0%E6%9A%B4%E6%89%93%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%B9%85%E2%80%9D%E8%A2%AB%E7%BE%A4%E5%98%B2%22%7D&rank=&style_id=40132&topic_id=7679683647384977451"
+   },
+   "heat_total": 13,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "toutiao": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 13
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/fb81947a0d2c47e285aae55a3aa4077e~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1790726400&x-signature=udtzhgyhJyKZ%2BbcbHrktBofvDqo%3D",
+   "ai": null
+  },
+  "Spirit EWC夺冠Vlog": {
+   "title": "Spirit EWC夺冠Vlog",
+   "desc": "",
+   "platforms": [
+    "bili"
+   ],
+   "links": {
+    "bili": "https://search.bilibili.com/all?keyword=Spirit%20EWC%E5%A4%BA%E5%86%A0Vlog"
+   },
+   "heat_total": 13,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "bili": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 13
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": null
+  },
+  "中美角逐乌兰察布": {
+   "title": "中美角逐乌兰察布",
+   "desc": "",
+   "platforms": [
+    "weibo"
+   ],
+   "links": {
+    "weibo": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E8%A7%92%E9%80%90%E4%B9%8C%E5%85%B0%E5%AF%9F%E5%B8%83%23"
+   },
+   "heat_total": 12,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "weibo": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 12
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": null
+  },
+  "费大厨开到美国 辣椒炒肉210元一份": {
+   "title": "费大厨开到美国 辣椒炒肉210元一份",
+   "desc": "",
+   "platforms": [
+    "baidu"
+   ],
+   "links": {
+    "baidu": "https://m.baidu.com/s?word=%E8%B4%B9%E5%A4%A7%E5%8E%A8%E5%BC%80%E5%88%B0%E7%BE%8E%E5%9B%BD+%E8%BE%A3%E6%A4%92%E7%82%92%E8%82%89210%E5%85%83%E4%B8%80%E4%BB%BD&sa=fyb_news"
+   },
+   "heat_total": 12,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "baidu": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 12
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": null
+  },
+  "中国男篮迎背水一战": {
+   "title": "中国男篮迎背水一战",
+   "desc": "",
+   "platforms": [
+    "toutiao"
+   ],
+   "links": {
+    "toutiao": "https://www.toutiao.com/trending/7680046971888881195/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227680046971888881195%22%2C%22hot_board_impr_id%22%3A%222026083114185808C40A2EEBC07B8F0E3A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E8%BF%8E%E8%83%8C%E6%B0%B4%E4%B8%80%E6%88%98%22%7D&rank=&style_id=40132&topic_id=7680046971888881195"
+   },
+   "heat_total": 12,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "toutiao": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 12
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/991ed4e3d83f41cabf0ef364b85acd87~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1790726400&x-signature=9l2HQto19aXqmoH1hVK8XC8lqsQ%3D",
+   "ai": null
+  },
+  "尼泊尔900名学生泥石流10秒前撤离": {
+   "title": "尼泊尔900名学生泥石流10秒前撤离",
+   "desc": "",
+   "platforms": [
+    "weibo"
+   ],
+   "links": {
+    "weibo": "https://s.weibo.com/weibo?q=%23%E5%B0%BC%E6%B3%8A%E5%B0%94900%E5%90%8D%E5%AD%A6%E7%94%9F%E6%B3%A5%E7%9F%B3%E6%B5%8110%E7%A7%92%E5%89%8D%E6%92%A4%E7%A6%BB%23"
+   },
+   "heat_total": 11,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "weibo": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 11
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": null
+  },
+  "井柏然进行曲音乐起": {
+   "title": "井柏然进行曲音乐起",
+   "desc": "",
+   "platforms": [
+    "douyin"
+   ],
+   "links": {
+    "douyin": "https://www.douyin.com/search/%E4%BA%95%E6%9F%8F%E7%84%B6%E8%BF%9B%E8%A1%8C%E6%9B%B2%E9%9F%B3%E4%B9%90%E8%B5%B7"
+   },
+   "heat_total": 11,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "douyin": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 11
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-i-0813/oEPjIQCyTIDAgY8iAPCBTcAPiaAcAp0PI1E1U~noop.jpeg?lk3s=bfd515bb&x-expires=1788177600&x-signature=GwNsgMYtLcIEic%2FHU%2Fo2W7B%2F%2Brc%3D&from=3218412987",
+   "ai": null
+  },
+  "房东验房发现屋里全是人吓到报警": {
+   "title": "房东验房发现屋里全是人吓到报警",
+   "desc": "",
+   "platforms": [
+    "baidu"
+   ],
+   "links": {
+    "baidu": "https://m.baidu.com/s?word=%E6%88%BF%E4%B8%9C%E9%AA%8C%E6%88%BF%E5%8F%91%E7%8E%B0%E5%B1%8B%E9%87%8C%E5%85%A8%E6%98%AF%E4%BA%BA%E5%90%93%E5%88%B0%E6%8A%A5%E8%AD%A6&sa=fyb_news"
+   },
+   "heat_total": 11,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "baidu": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 11
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": null
+  },
+  "网友意外拍到泥石流暴发瞬间": {
+   "title": "网友意外拍到泥石流暴发瞬间",
+   "desc": "",
+   "platforms": [
+    "toutiao"
+   ],
+   "links": {
+    "toutiao": "https://www.toutiao.com/trending/7679390702224051775/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227679390702224051775%22%2C%22hot_board_impr_id%22%3A%222026083114185808C40A2EEBC07B8F0E3A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%BD%91%E5%8F%8B%E6%84%8F%E5%A4%96%E6%8B%8D%E5%88%B0%E6%B3%A5%E7%9F%B3%E6%B5%81%E6%9A%B4%E5%8F%91%E7%9E%AC%E9%97%B4%22%7D&rank=&style_id=40132&topic_id=7679390702224051775"
+   },
+   "heat_total": 11,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "toutiao": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 11
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/e7ff7a2b1c09411e85c5cd05db735d70~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1790726400&x-signature=wtBuMLuvgMDL%2FabxCy%2B8AxZr930%3D",
+   "ai": null
+  },
+  "吉隆泥石流痕迹近20层楼高": {
+   "title": "吉隆泥石流痕迹近20层楼高",
+   "desc": "",
+   "platforms": [
+    "bili"
+   ],
+   "links": {
+    "bili": "https://search.bilibili.com/all?keyword=%E5%90%89%E9%9A%86%E6%B3%A5%E7%9F%B3%E6%B5%81%E7%97%95%E8%BF%B9%E8%BF%9120%E5%B1%82%E6%A5%BC%E9%AB%98"
+   },
+   "heat_total": 11,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "bili": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 11
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": null
+  },
+  "央视曝光医美注射乱象": {
+   "title": "央视曝光医美注射乱象",
+   "desc": "",
+   "platforms": [
+    "weibo"
+   ],
+   "links": {
+    "weibo": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%8C%BB%E7%BE%8E%E6%B3%A8%E5%B0%84%E4%B9%B1%E8%B1%A1%23"
+   },
+   "heat_total": 10,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "weibo": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 10
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": null
+  },
+  "10公里要30元 景区摆渡车非坐不可吗": {
+   "title": "10公里要30元 景区摆渡车非坐不可吗",
+   "desc": "",
+   "platforms": [
+    "baidu"
+   ],
+   "links": {
+    "baidu": "https://m.baidu.com/s?word=10%E5%85%AC%E9%87%8C%E8%A6%8130%E5%85%83+%E6%99%AF%E5%8C%BA%E6%91%86%E6%B8%A1%E8%BD%A6%E9%9D%9E%E5%9D%90%E4%B8%8D%E5%8F%AF%E5%90%97&sa=fyb_news"
+   },
+   "heat_total": 10,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "baidu": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 10
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": null
+  },
+  "中央纪委副书记孙新阳当选新职": {
+   "title": "中央纪委副书记孙新阳当选新职",
+   "desc": "",
+   "platforms": [
+    "toutiao"
+   ],
+   "links": {
+    "toutiao": "https://www.toutiao.com/trending/7679754993324048403/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%220%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227679754993324048403%22%2C%22hot_board_impr_id%22%3A%222026083114185808C40A2EEBC07B8F0E3A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E5%A4%AE%E7%BA%AA%E5%A7%94%E5%89%AF%E4%B9%A6%E8%AE%B0%E5%AD%99%E6%96%B0%E9%98%B3%E5%BD%93%E9%80%89%E6%96%B0%E8%81%8C%22%7D&rank=&style_id=40132&topic_id=7679754993324048403"
+   },
+   "heat_total": 10,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "toutiao": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 10
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/5f1f3925406d4a1a9873f2d3a041d151~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1790726400&x-signature=Spq2farVt9L43LzNuoE5WRkVmyw%3D",
+   "ai": null
+  },
+  "三甲医院 解聘": {
+   "title": "三甲医院 解聘",
+   "desc": "",
+   "platforms": [
+    "weibo"
+   ],
+   "links": {
+    "weibo": "https://s.weibo.com/weibo?q=%23%E4%B8%89%E7%94%B2%E5%8C%BB%E9%99%A2%20%E8%A7%A3%E8%81%98%23"
+   },
+   "heat_total": 9,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "weibo": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 9
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": null
+  },
+  "歼10CE正式加入乌兹别克斯坦空军": {
+   "title": "歼10CE正式加入乌兹别克斯坦空军",
+   "desc": "",
+   "platforms": [
+    "douyin"
+   ],
+   "links": {
+    "douyin": "https://www.douyin.com/search/%E6%AD%BC10CE%E6%AD%A3%E5%BC%8F%E5%8A%A0%E5%85%A5%E4%B9%8C%E5%85%B9%E5%88%AB%E5%85%8B%E6%96%AF%E5%9D%A6%E7%A9%BA%E5%86%9B"
+   },
+   "heat_total": 9,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "douyin": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 9
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015/ossHV4IQQBAVv5KevxLEpfse63dRwBA1GCc7DN~noop.jpeg?lk3s=bfd515bb&x-expires=1788177600&x-signature=5M8LzZ4wQ1fZnvlK9mrG8okmdqg%3D&from=3218412987",
+   "ai": null
+  },
+  "7000亿足疗市场跑不出一家上市龙头": {
+   "title": "7000亿足疗市场跑不出一家上市龙头",
+   "desc": "",
+   "platforms": [
+    "baidu"
+   ],
+   "links": {
+    "baidu": "https://m.baidu.com/s?word=7000%E4%BA%BF%E8%B6%B3%E7%96%97%E5%B8%82%E5%9C%BA%E8%B7%91%E4%B8%8D%E5%87%BA%E4%B8%80%E5%AE%B6%E4%B8%8A%E5%B8%82%E9%BE%99%E5%A4%B4&sa=fyb_news"
+   },
+   "heat_total": 9,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "baidu": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 9
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": null
+  },
+  "大学生开学装备“两极分化”": {
+   "title": "大学生开学装备“两极分化”",
+   "desc": "",
+   "platforms": [
+    "toutiao"
+   ],
+   "links": {
+    "toutiao": "https://www.toutiao.com/trending/7679974875146485798/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227679974875146485798%22%2C%22hot_board_impr_id%22%3A%222026083114185808C40A2EEBC07B8F0E3A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%BC%80%E5%AD%A6%E8%A3%85%E5%A4%87%E2%80%9C%E4%B8%A4%E6%9E%81%E5%88%86%E5%8C%96%E2%80%9D%22%7D&rank=&style_id=40132&topic_id=7679974875146485798"
+   },
+   "heat_total": 9,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "toutiao": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 9
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/33b5d97d744945db8df86e6604da8933~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1790726400&x-signature=uWVYjgQU6XnEWNvtyGGY%2FYnMcV8%3D",
+   "ai": null
+  },
+  "那英还是太权威了！把音乐节开成了演唱会，并首唱《这一秒过火》主题曲": {
+   "title": "那英还是太权威了！把音乐节开成了演唱会，并首唱《这一秒过火》主题曲",
+   "desc": "",
+   "platforms": [
+    "qq_ent"
+   ],
+   "links": {
+    "qq_ent": "https://view.inews.qq.com/a/20260831V00DV100"
+   },
+   "heat_total": 9,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "qq_ent": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 9
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://inews.gtimg.com/om_ls/OH7hUPKImSJ52f9Fy8lAhNXZfhMtevpqnfO5cID_fFK_kAA_870492_compress/0",
+   "ai": null
+  },
+  "Ryan对欧阳娜娜也是搂搂抱抱": {
+   "title": "Ryan对欧阳娜娜也是搂搂抱抱",
+   "desc": "",
+   "platforms": [
+    "weibo"
+   ],
+   "links": {
+    "weibo": "https://s.weibo.com/weibo?q=%23Ryan%E5%AF%B9%E6%AC%A7%E9%98%B3%E5%A8%9C%E5%A8%9C%E4%B9%9F%E6%98%AF%E6%90%82%E6%90%82%E6%8A%B1%E6%8A%B1%23"
+   },
+   "heat_total": 8,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "weibo": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 8
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": null
+  },
+  "美国大峡谷山洪致20余人失联": {
+   "title": "美国大峡谷山洪致20余人失联",
+   "desc": "",
+   "platforms": [
+    "douyin"
+   ],
+   "links": {
+    "douyin": "https://www.douyin.com/search/%E7%BE%8E%E5%9B%BD%E5%A4%A7%E5%B3%A1%E8%B0%B7%E5%B1%B1%E6%B4%AA%E8%87%B420%E4%BD%99%E4%BA%BA%E5%A4%B1%E8%81%94"
+   },
+   "heat_total": 8,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "douyin": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 8
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015c000-ce/oEMpi3avBXAX9LU3pXXgPBiIAkZvPnyEJSKth~noop.jpeg?lk3s=bfd515bb&x-expires=1788177600&x-signature=UfEwxER6g%2B5dwxvvVMalNvrzN2Q%3D&from=3218412987",
+   "ai": null
+  },
+  "梅艳芳母亲3个子女均因患癌去世": {
+   "title": "梅艳芳母亲3个子女均因患癌去世",
+   "desc": "",
+   "platforms": [
+    "baidu"
+   ],
+   "links": {
+    "baidu": "https://m.baidu.com/s?word=%E6%A2%85%E8%89%B3%E8%8A%B3%E6%AF%8D%E4%BA%B23%E4%B8%AA%E5%AD%90%E5%A5%B3%E5%9D%87%E5%9B%A0%E6%82%A3%E7%99%8C%E5%8E%BB%E4%B8%96&sa=fyb_news"
+   },
+   "heat_total": 8,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "baidu": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 8
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": null
+  },
+  "老铺黄金董事长：金价大跌时选择观望": {
+   "title": "老铺黄金董事长：金价大跌时选择观望",
+   "desc": "",
+   "platforms": [
+    "toutiao"
+   ],
+   "links": {
+    "toutiao": "https://www.toutiao.com/trending/7680008702467771923/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227680008702467771923%22%2C%22hot_board_impr_id%22%3A%222026083114185808C40A2EEBC07B8F0E3A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%80%81%E9%93%BA%E9%BB%84%E9%87%91%E8%91%A3%E4%BA%8B%E9%95%BF%EF%BC%9A%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C%E6%97%B6%E9%80%89%E6%8B%A9%E8%A7%82%E6%9C%9B%22%7D&rank=&style_id=40132&topic_id=7680008702467771923"
+   },
+   "heat_total": 8,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "toutiao": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 8
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/340695bd0a6d4732b6e7b386d2c5320f~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1790726400&x-signature=H50kZqigtfKVmZPLtbJGipPMJq0%3D",
+   "ai": null
+  },
+  "ZmjjKK 我觉得这个世界疯了": {
+   "title": "ZmjjKK 我觉得这个世界疯了",
+   "desc": "",
+   "platforms": [
+    "weibo"
+   ],
+   "links": {
+    "weibo": "https://s.weibo.com/weibo?q=%23ZmjjKK%20%E6%88%91%E8%A7%89%E5%BE%97%E8%BF%99%E4%B8%AA%E4%B8%96%E7%95%8C%E7%96%AF%E4%BA%86%23"
+   },
+   "heat_total": 7,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "weibo": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 7
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": null
+  },
+  "保洁刚拖地孕妇滑倒 商场该不该负责": {
+   "title": "保洁刚拖地孕妇滑倒 商场该不该负责",
+   "desc": "",
+   "platforms": [
+    "baidu"
+   ],
+   "links": {
+    "baidu": "https://m.baidu.com/s?word=%E4%BF%9D%E6%B4%81%E5%88%9A%E6%8B%96%E5%9C%B0%E5%AD%95%E5%A6%87%E6%BB%91%E5%80%92+%E5%95%86%E5%9C%BA%E8%AF%A5%E4%B8%8D%E8%AF%A5%E8%B4%9F%E8%B4%A3&sa=fyb_news"
+   },
+   "heat_total": 7,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "baidu": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 7
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": null
+  },
+  "中期选举将至特朗普会打“台湾牌”吗": {
+   "title": "中期选举将至特朗普会打“台湾牌”吗",
+   "desc": "",
+   "platforms": [
+    "toutiao"
+   ],
+   "links": {
+    "toutiao": "https://www.toutiao.com/trending/7678652491379507236/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227678652491379507236%22%2C%22hot_board_impr_id%22%3A%222026083114185808C40A2EEBC07B8F0E3A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%B0%86%E8%87%B3%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E6%89%93%E2%80%9C%E5%8F%B0%E6%B9%BE%E7%89%8C%E2%80%9D%E5%90%97%22%7D&rank=&style_id=40132&topic_id=7678652491379507236"
+   },
+   "heat_total": 7,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "toutiao": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 7
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/cb353670e8594525b7af92f8dad1188d~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1790726400&x-signature=OuC3ZUiZ4NWi7BFSlXNr6V0Th%2B0%3D",
+   "ai": null
+  },
+  "窦靖童李嫣后台扭打一团！王菲躲闪神同步，这家人亲情松弛感绝了": {
+   "title": "窦靖童李嫣后台扭打一团！王菲躲闪神同步，这家人亲情松弛感绝了",
+   "desc": "",
+   "platforms": [
+    "qq_ent"
+   ],
+   "links": {
+    "qq_ent": "https://view.inews.qq.com/a/20260830V09H8M00"
+   },
+   "heat_total": 7,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "qq_ent": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 7
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://inews.gtimg.com/om_ls/O8BX1UC555iKNp4oBlSGxdV0b9dt6AJs8wCxWwxt-Xu4YAA_870492/0",
+   "ai": null
+  },
+  "女性出现4种异常就要查妇科": {
+   "title": "女性出现4种异常就要查妇科",
+   "desc": "",
+   "platforms": [
+    "weibo"
+   ],
+   "links": {
+    "weibo": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%80%A7%E5%87%BA%E7%8E%B04%E7%A7%8D%E5%BC%82%E5%B8%B8%E5%B0%B1%E8%A6%81%E6%9F%A5%E5%A6%87%E7%A7%91%23"
+   },
+   "heat_total": 6,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "weibo": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 6
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": null
+  },
+  "2026香港小姐三甲出炉": {
+   "title": "2026香港小姐三甲出炉",
+   "desc": "",
+   "platforms": [
+    "douyin"
+   ],
+   "links": {
+    "douyin": "https://www.douyin.com/search/2026%E9%A6%99%E6%B8%AF%E5%B0%8F%E5%A7%90%E4%B8%89%E7%94%B2%E5%87%BA%E7%82%89"
+   },
+   "heat_total": 6,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "douyin": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 6
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/oQgBSLVYXCsKBYGlgefEzGQAIgfVMKVbDpvA7H~noop.jpeg?lk3s=bfd515bb&x-expires=1788177600&x-signature=hVTyhQoB20AIt1a15fd25ZrH4BY%3D&from=3218412987",
+   "ai": null
+  },
+  "幼虎被饲养员踢至昏迷？园方：已停职": {
+   "title": "幼虎被饲养员踢至昏迷？园方：已停职",
+   "desc": "",
+   "platforms": [
+    "baidu"
+   ],
+   "links": {
+    "baidu": "https://m.baidu.com/s?word=%E5%B9%BC%E8%99%8E%E8%A2%AB%E9%A5%B2%E5%85%BB%E5%91%98%E8%B8%A2%E8%87%B3%E6%98%8F%E8%BF%B7%EF%BC%9F%E5%9B%AD%E6%96%B9%EF%BC%9A%E5%B7%B2%E5%81%9C%E8%81%8C&sa=fyb_news"
+   },
+   "heat_total": 6,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "baidu": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 6
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": null
+  },
+  "朱一龙献唱《空枪》主题曲，歌词直击人心，低沉嗓音道尽万梓强的命运空局": {
+   "title": "朱一龙献唱《空枪》主题曲，歌词直击人心，低沉嗓音道尽万梓强的命运空局",
+   "desc": "",
+   "platforms": [
+    "qq_ent"
+   ],
+   "links": {
+    "qq_ent": "https://view.inews.qq.com/a/20260831V060XL00"
+   },
+   "heat_total": 6,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "qq_ent": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 6
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://inews.gtimg.com/om_ls/OJbH_rveOYQzoftK0p49vniznOdpsaw3M0s0XGOOr0jt8AA_870492/0",
+   "ai": null
+  },
+  "东北虎你吃吧我实在吃不下了": {
+   "title": "东北虎你吃吧我实在吃不下了",
+   "desc": "",
+   "platforms": [
+    "weibo"
+   ],
+   "links": {
+    "weibo": "https://s.weibo.com/weibo?q=%23%E4%B8%9C%E5%8C%97%E8%99%8E%E4%BD%A0%E5%90%83%E5%90%A7%E6%88%91%E5%AE%9E%E5%9C%A8%E5%90%83%E4%B8%8D%E4%B8%8B%E4%BA%86%23"
+   },
+   "heat_total": 5,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "weibo": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 5
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": null
+  },
+  "细把眉眼描摹": {
+   "title": "细把眉眼描摹",
+   "desc": "",
+   "platforms": [
+    "douyin"
+   ],
+   "links": {
+    "douyin": "https://www.douyin.com/search/%E7%BB%86%E6%8A%8A%E7%9C%89%E7%9C%BC%E6%8F%8F%E6%91%B9"
+   },
+   "heat_total": 5,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "douyin": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 5
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://p3-sign.douyinpic.com/tos-cn-i-0813c000-ce/oYi42qAEfAElALDvAtfg1JQw1F99Gk9ABeEIEa~noop.jpeg?lk3s=bfd515bb&x-expires=1788177600&x-signature=BlxoIa4wZUb1j0lCaxinbtWwYHU%3D&from=3218412987",
+   "ai": null
+  },
+  "郎平陈忠和督战": {
+   "title": "郎平陈忠和督战",
+   "desc": "",
+   "platforms": [
+    "baidu"
+   ],
+   "links": {
+    "baidu": "https://m.baidu.com/s?word=%E9%83%8E%E5%B9%B3%E9%99%88%E5%BF%A0%E5%92%8C%E7%9D%A3%E6%88%98&sa=fyb_news"
+   },
+   "heat_total": 5,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "baidu": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 5
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": null
+  },
+  "小沈阳看女儿MV恋爱剧情疯狂吃醋！留言你扒拉我干啥，全网爆笑出圈": {
+   "title": "小沈阳看女儿MV恋爱剧情疯狂吃醋！留言你扒拉我干啥，全网爆笑出圈",
+   "desc": "",
+   "platforms": [
+    "qq_ent"
+   ],
+   "links": {
+    "qq_ent": "https://view.inews.qq.com/a/20260830V0AUOK00"
+   },
+   "heat_total": 5,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "qq_ent": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 5
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://inews.gtimg.com/om_ls/Opkdr6f-z5Z8Uwi-ZiqNZAyETtVQEQp4_amD_JWK_77asAA_870492/0",
+   "ai": null
+  },
+  "薛甄珠演过家有儿女": {
+   "title": "薛甄珠演过家有儿女",
+   "desc": "",
+   "platforms": [
+    "weibo"
+   ],
+   "links": {
+    "weibo": "https://s.weibo.com/weibo?q=%23%E8%96%9B%E7%94%84%E7%8F%A0%E6%BC%94%E8%BF%87%E5%AE%B6%E6%9C%89%E5%84%BF%E5%A5%B3%23"
+   },
+   "heat_total": 4,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "weibo": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 4
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": null
+  },
+  "早春晴朗正数第一越吵越爱": {
+   "title": "早春晴朗正数第一越吵越爱",
+   "desc": "",
+   "platforms": [
+    "douyin"
+   ],
+   "links": {
+    "douyin": "https://www.douyin.com/search/%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%E6%AD%A3%E6%95%B0%E7%AC%AC%E4%B8%80%E8%B6%8A%E5%90%B5%E8%B6%8A%E7%88%B1"
+   },
+   "heat_total": 4,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "douyin": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 4
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/oI0qqINVbANfC9MsgIFPkEDDtfT084xEAABqTI~noop.jpeg?lk3s=bfd515bb&x-expires=1788177600&x-signature=DmyC96xdJC6GXlbZAUtZBoTHuP0%3D&from=3218412987",
+   "ai": null
+  },
+  "影院“隐形配置” 观影者直呼太遭罪": {
+   "title": "影院“隐形配置” 观影者直呼太遭罪",
+   "desc": "",
+   "platforms": [
+    "baidu"
+   ],
+   "links": {
+    "baidu": "https://m.baidu.com/s?word=%E5%BD%B1%E9%99%A2%E2%80%9C%E9%9A%90%E5%BD%A2%E9%85%8D%E7%BD%AE%E2%80%9D+%E8%A7%82%E5%BD%B1%E8%80%85%E7%9B%B4%E5%91%BC%E5%A4%AA%E9%81%AD%E7%BD%AA&sa=fyb_news"
+   },
+   "heat_total": 4,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "baidu": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 4
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": null
+  },
+  "徐良演唱会杀出黑马！新来伴舞小哥意外爆火，小奶狗反差感拉满": {
+   "title": "徐良演唱会杀出黑马！新来伴舞小哥意外爆火，小奶狗反差感拉满",
+   "desc": "",
+   "platforms": [
+    "qq_ent"
+   ],
+   "links": {
+    "qq_ent": "https://view.inews.qq.com/a/20260830V0AVIG00"
+   },
+   "heat_total": 4,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "qq_ent": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 4
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://inews.gtimg.com/om_ls/OrGLHPiYwfB1nc5OFM5rMD5T2-xIcAvYSWzUDkJSEOtHwAA_870492/0",
+   "ai": null
+  },
+  "优酷5年7部破万现偶剧": {
+   "title": "优酷5年7部破万现偶剧",
+   "desc": "",
+   "platforms": [
+    "weibo"
+   ],
+   "links": {
+    "weibo": "https://s.weibo.com/weibo?q=%23%E4%BC%98%E9%85%B75%E5%B9%B47%E9%83%A8%E7%A0%B4%E4%B8%87%E7%8E%B0%E5%81%B6%E5%89%A7%23"
+   },
+   "heat_total": 3,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "weibo": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 3
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": null
+  },
+  "张雨绮拍了呀吖摇太权威了": {
+   "title": "张雨绮拍了呀吖摇太权威了",
+   "desc": "",
+   "platforms": [
+    "douyin"
+   ],
+   "links": {
+    "douyin": "https://www.douyin.com/search/%E5%BC%A0%E9%9B%A8%E7%BB%AE%E6%8B%8D%E4%BA%86%E5%91%80%E5%90%96%E6%91%87%E5%A4%AA%E6%9D%83%E5%A8%81%E4%BA%86"
+   },
+   "heat_total": 3,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "douyin": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 3
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://p9-sign.douyinpic.com/tos-cn-p-0015/oIAAAhkUtt1IfBU82iBgDEMgDSCeiTigcX8A0u~noop.jpeg?lk3s=bfd515bb&x-expires=1788177600&x-signature=GaG623ad6UOvd2Cgsiq7DHv7zqk%3D&from=3218412987",
+   "ai": null
+  },
+  "藿香正气水≠藿香正气口服液": {
+   "title": "藿香正气水≠藿香正气口服液",
+   "desc": "",
+   "platforms": [
+    "baidu"
+   ],
+   "links": {
+    "baidu": "https://m.baidu.com/s?word=%E8%97%BF%E9%A6%99%E6%AD%A3%E6%B0%94%E6%B0%B4%E2%89%A0%E8%97%BF%E9%A6%99%E6%AD%A3%E6%B0%94%E5%8F%A3%E6%9C%8D%E6%B6%B2&sa=fyb_news"
+   },
+   "heat_total": 3,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "baidu": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 3
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": null
+  },
+  "A股粮食概念持续走强": {
+   "title": "A股粮食概念持续走强",
+   "desc": "",
+   "platforms": [
+    "toutiao"
+   ],
+   "links": {
+    "toutiao": "https://www.toutiao.com/trending/7680026834561483274/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2215%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227680026834561483274%22%2C%22hot_board_impr_id%22%3A%222026083114185808C40A2EEBC07B8F0E3A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22A%E8%82%A1%E7%B2%AE%E9%A3%9F%E6%A6%82%E5%BF%B5%E6%8C%81%E7%BB%AD%E8%B5%B0%E5%BC%BA%22%7D&rank=&style_id=40132&topic_id=7680026834561483274"
+   },
+   "heat_total": 3,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "toutiao": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 3
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/21272a6a44b547a8bd8f6066eb64eb03~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1790726400&x-signature=4DcMS6Pf1lVqIXWAqR%2B2XSBEkNs%3D",
+   "ai": null
+  },
+  "孔雪儿邓凯合唱《一念》，一开口梦回《逐玉》｜Jumppark": {
+   "title": "孔雪儿邓凯合唱《一念》，一开口梦回《逐玉》｜Jumppark",
+   "desc": "",
+   "platforms": [
+    "qq_ent"
+   ],
+   "links": {
+    "qq_ent": "https://view.inews.qq.com/a/20260830V09F7O00"
+   },
+   "heat_total": 3,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "qq_ent": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 3
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://inews.gtimg.com/om_ls/OyB0-sjuDwwd3KpzCm3Cvacypn5FIisphZRAK927VSrHoAA_870492/0",
+   "ai": null
+  },
+  "抖火公寓男团出道": {
+   "title": "抖火公寓男团出道",
+   "desc": "",
+   "platforms": [
+    "douyin"
+   ],
+   "links": {
+    "douyin": "https://www.douyin.com/search/%E6%8A%96%E7%81%AB%E5%85%AC%E5%AF%93%E7%94%B7%E5%9B%A2%E5%87%BA%E9%81%93"
+   },
+   "heat_total": 2,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "douyin": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 2
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/oQ8qsrH0DAfpD9nxgIFAloDDjfJzltKEAABGUQ~noop.jpeg?lk3s=bfd515bb&x-expires=1788177600&x-signature=akljS4jhrlfSYIeKsiyNumtL%2FZ4%3D&from=3218412987",
+   "ai": null
+  },
+  "美国“明抢”委内瑞拉油田": {
+   "title": "美国“明抢”委内瑞拉油田",
+   "desc": "",
+   "platforms": [
+    "baidu"
+   ],
+   "links": {
+    "baidu": "https://m.baidu.com/s?word=%E7%BE%8E%E5%9B%BD%E2%80%9C%E6%98%8E%E6%8A%A2%E2%80%9D%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E6%B2%B9%E7%94%B0&sa=fyb_news"
+   },
+   "heat_total": 2,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "baidu": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 2
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": null
+  },
+  "巴黎欧莱雅美发代言人张凌赫": {
+   "title": "巴黎欧莱雅美发代言人张凌赫",
+   "desc": "",
+   "platforms": [
+    "weibo"
+   ],
+   "links": {
+    "weibo": "https://s.weibo.com/weibo?q=%23%E5%B7%B4%E9%BB%8E%E6%AC%A7%E8%8E%B1%E9%9B%85%E7%BE%8E%E5%8F%91%E4%BB%A3%E8%A8%80%E4%BA%BA%E5%BC%A0%E5%87%8C%E8%B5%AB%23"
+   },
+   "heat_total": 1,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "weibo": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 1
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": null
+  },
+  "妈妈第一次坐飞机是送儿子上民航大学": {
+   "title": "妈妈第一次坐飞机是送儿子上民航大学",
+   "desc": "",
+   "platforms": [
+    "baidu"
+   ],
+   "links": {
+    "baidu": "https://m.baidu.com/s?word=%E5%A6%88%E5%A6%88%E7%AC%AC%E4%B8%80%E6%AC%A1%E5%9D%90%E9%A3%9E%E6%9C%BA%E6%98%AF%E9%80%81%E5%84%BF%E5%AD%90%E4%B8%8A%E6%B0%91%E8%88%AA%E5%A4%A7%E5%AD%A6&sa=fyb_news"
+   },
+   "heat_total": 1,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "baidu": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 1
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "",
+   "ai": null
+  },
+  "外媒：中国为何不惧特朗普2.0": {
+   "title": "外媒：中国为何不惧特朗普2.0",
+   "desc": "",
+   "platforms": [
+    "toutiao"
+   ],
+   "links": {
+    "toutiao": "https://www.toutiao.com/trending/7680017832783908379/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227680017832783908379%22%2C%22hot_board_impr_id%22%3A%222026083114185808C40A2EEBC07B8F0E3A%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A4%96%E5%AA%92%EF%BC%9A%E4%B8%AD%E5%9B%BD%E4%B8%BA%E4%BD%95%E4%B8%8D%E6%83%A7%E7%89%B9%E6%9C%97%E6%99%AE2.0%22%7D&rank=&style_id=40132&topic_id=7680017832783908379"
+   },
+   "heat_total": 1,
+   "appearances": 1,
+   "days": [
+    "2026-08-31"
+   ],
+   "first_seen": "2026-08-31T14:20:28+08:00",
+   "platform_first_seen": {
+    "toutiao": "2026-08-31T14:20:28+08:00"
+   },
+   "heat_log": [
+    {
+     "time": "2026-08-31T14:20:28+08:00",
+     "heat": 1
+    }
+   ],
+   "last_seen": "2026-08-31T14:20:28+08:00",
+   "cover": "https://p3-sign.toutiaoimg.com/top-static-files-outer/breaknews/378fc3b5-8eb9-46e5-a97a-37871946d4fc~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1790726400&x-signature=KsZkqK4IrK3kHKWMd80%2FQK8aT0g%3D",
    "ai": null
   }
  }
