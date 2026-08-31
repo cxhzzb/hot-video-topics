@@ -55,6 +55,7 @@ function planHtml(ai) {
 
 const HOT3D_TAB = "🔥3日最热";
 const ANALYSIS_TAB = "📡传播分析";
+const POWER_TAB = "⚡电力宣传";
 
 /* ---------- 传播分析版面 ---------- */
 
@@ -132,8 +133,15 @@ function statsBodyHtml(stats, platformNames) {
       <p>${stats.days} 天 · 出现 ${stats.appearances} 轮</p></div>`;
 }
 
-function cardHtml(t, i, platformNames) {
+function cardHtml(t, i, platformNames, showPower) {
   const ai = t.ai;
+  const pw = ai && ai.power;
+  const pwScore = pw ? Number(pw.score) || 0 : 0;
+  // 电力宣传：≥7分常驻小闪电标记；电力版面显示完整植入角度
+  const powerTag = pwScore >= 7 ? `<span class="power-tag">⚡${pwScore}</span>` : "";
+  const powerRow = (showPower && pw)
+    ? `<div class="plan-row power-row"><span class="plan-label">⚡ 植入适配 ${pwScore}/10</span><p>${escapeHtml(pw.angle)}</p></div>`
+    : "";
   // 重点内容：有 AI 用 AI 摘要，没有就用平台原始描述兜底
   const descText = t.desc ? t.desc.slice(0, 120) + (t.desc.length > 120 ? "…" : "") : "";
   const keyText = (ai && ai.summary) || descText;
@@ -170,9 +178,10 @@ function cardHtml(t, i, platformNames) {
         <span class="card-title">${escapeHtml(t.title)}</span>
         ${thumb}
       </div>
-      <div class="badges">${badgeHtml(t, platformNames)}${catTag}<span class="heat">${heatText}</span></div>
+      <div class="badges">${badgeHtml(t, platformNames)}${catTag}${powerTag}<span class="heat">${heatText}</span></div>
       ${statsBar}
       ${aiBody}
+      ${powerRow}
       ${t.stats ? `<button class="plan-toggle stats-toggle-btn" data-label="📊 详细传播数据（趋势图/在榜记录）">📊 详细传播数据</button>
       <div class="plan stats-body">${statsBodyHtml(t.stats, platformNames)}</div>` : ""}
       <button class="video-btn" data-idx="${i}">🎬 AI 视频化（30秒剧本 · Seedance）</button>
@@ -181,12 +190,12 @@ function cardHtml(t, i, platformNames) {
 
 function render(data, activeCat, query) {
   const topics = data.topics || [];
-  const cats = [...FALLBACK_CATEGORIES, HOT3D_TAB, ANALYSIS_TAB,
+  const cats = [...FALLBACK_CATEGORIES, HOT3D_TAB, ANALYSIS_TAB, POWER_TAB,
     ...new Set(topics.map(topicCategory).filter(c => c && c !== "其他")), "其他"]
     .filter((c, i, arr) => arr.indexOf(c) === i);
 
   query = (query || "").trim().toLowerCase();
-  let filtered, hintHtml = "";
+  let filtered, hintHtml = "", showPower = false;
   if (query) {
     // 搜索模式：跨全部分类匹配
     filtered = topics.filter(t => topicText(t).includes(query));
@@ -228,6 +237,13 @@ function render(data, activeCat, query) {
       render(data, cat, "");
     });
     return;
+  } else if (activeCat === POWER_TAB) {
+    // 电力宣传版面：按植入适配度降序（≥3 分）
+    filtered = topics
+      .filter(t => t.ai && t.ai.power && (Number(t.ai.power.score) || 0) >= 3)
+      .sort((a, b) => (Number(b.ai.power.score) || 0) - (Number(a.ai.power.score) || 0));
+    hintHtml = `<p class="search-hint">按电力宣传植入适配度排序（≥3分），分数越高越适合借势植入电网宣传；涉及伤亡/重大负面的话题已自动降分</p>`;
+    showPower = true;
   } else {
     filtered = activeCat === "全部"
       ? topics
@@ -236,7 +252,7 @@ function render(data, activeCat, query) {
 
   const main = document.getElementById("topics");
   main.innerHTML = hintHtml + (filtered.length
-    ? filtered.map((t, i) => cardHtml(t, i, data.platform_names || {})).join("")
+    ? filtered.map((t, i) => cardHtml(t, i, data.platform_names || {}, showPower)).join("")
     : (query ? "" : `<p class="empty">该分类暂无热点</p>`));
 
   // 方案/数据区展开收起

@@ -139,6 +139,18 @@ header h1::before { content: "🔥 "; }
   font-size: 11px; padding: 2px 8px; border-radius: 4px;
   background: #fef3c7; color: #b45309;
 }
+.power-tag {
+  font-size: 11px; padding: 2px 8px; border-radius: 4px;
+  background: #fef9c3; color: #a16207; font-weight: 600;
+}
+.power-row {
+  margin: 10px 0 0 38px;
+  background: #fefce8;
+  border-left: 3px solid #eab308;
+  border-radius: 6px;
+  padding: 8px 10px;
+}
+.power-row .plan-label { color: #a16207; }
 
 .summary { margin: 10px 0 0 38px; font-size: 14px; color: #374151; }
 .no-ai { margin: 10px 0 0 38px; font-size: 13px; color: var(--text-dim); font-style: italic; }
@@ -395,7 +407,7 @@ footer {
 @media (max-width: 480px) {
   header h1 { font-size: 22px; }
   .card { padding: 14px; }
-  .summary, .no-ai, .plan-toggle, .plan, .badges { margin-left: 0; }
+  .summary, .no-ai, .plan-toggle, .plan, .badges, .power-row { margin-left: 0; }
   .card-top { flex-wrap: wrap; }
   .thumb { width: 84px; height: 56px; }
 }

@@ -3,7 +3,7 @@
  * 热点数据：网络优先（保证新鲜），断网时回退到最近一次缓存
  */
 // 注意：每次部署前端改动必须递增版本号，否则老用户会看到缓存的旧页面
-const CACHE_NAME = "hot-spot-v4";
+const CACHE_NAME = "hot-spot-v5";
 const STATIC_ASSETS = [
   "./",
   "./index.html",
