@@ -12,6 +12,7 @@
         "appearances": 出现次数（运行轮次）,
         "days": ["2026-08-28", ...],
         "last_seen": ISO 时间,
+        "cover": 缩略图 URL（可能为空）,
         "ai": {...} 或 None
     }
   }
@@ -112,6 +113,7 @@ def update_history(history, topics, now):
                 "platform_first_seen": {},
                 "heat_log": [],
                 "last_seen": "",
+                "cover": topic.get("cover", ""),
                 "ai": None,
             }
         e = entries[key]
@@ -133,6 +135,8 @@ def update_history(history, topics, now):
         e["links"].update({k: v for k, v in topic["links"].items() if v})
         if len(topic["desc"]) > len(e["desc"]):
             e["desc"] = topic["desc"]
+        if topic.get("cover"):  # 封面始终刷新为最新的
+            e["cover"] = topic["cover"]
         if topic.get("ai"):
             e["ai"] = topic["ai"]
         # 记录本轮热度（趋势图数据源）
@@ -161,6 +165,7 @@ def top_3d(history):
             "desc": e["desc"],
             "platforms": e["platforms"],
             "links": e["links"],
+            "cover": e.get("cover", ""),
             "heat": e["heat_total"],
             "days": len(e["days"]),
             "ai": e.get("ai"),

@@ -9,6 +9,7 @@
     "platform": "weibo",        # 平台标识
     "title": "...",             # 热点标题
     "desc": "...",              # 详情描述（可能为空）
+    "cover": "https://...",     # 缩略图（微博/B站无图，为空字符串）
     "link": "https://...",      # 原文链接
     "rank": 1,                  # 榜内排名（1 起）
 }
@@ -45,7 +46,7 @@ def _get(url, referer=None, retries=1):
 
 # ---------- 60s 聚合 API ----------
 
-def _fetch_60s(endpoint, platform, title_key, desc_key, link_key):
+def _fetch_60s(endpoint, platform, title_key, desc_key, link_key, cover_key=None):
     data = None
     for base in API_BASES:
         data = _get(f"{base}/{endpoint}")
@@ -63,6 +64,7 @@ def _fetch_60s(endpoint, platform, title_key, desc_key, link_key):
             "platform": platform,
             "title": title,
             "desc": (raw.get(desc_key) or "").strip() if desc_key else "",
+            "cover": (raw.get(cover_key) or "").strip() if cover_key else "",
             "link": raw.get(link_key) or "",
             "rank": i + 1,
         })
@@ -86,6 +88,7 @@ def _weibo_official():
             "platform": "weibo",
             "title": title,
             "desc": "",
+            "cover": "",
             "link": f"https://s.weibo.com/weibo?q={quote('#' + title + '#')}",
             "rank": len(items) + 1,
         })
@@ -104,10 +107,12 @@ def _douyin_official():
         title = (raw.get("word") or "").strip()
         if not title:
             continue
+        cover_list = (raw.get("word_cover") or {}).get("url_list") or []
         items.append({
             "platform": "douyin",
             "title": title,
             "desc": "",
+            "cover": cover_list[0] if cover_list else "",
             "link": f"https://www.douyin.com/search/{quote(title)}",
             "rank": len(items) + 1,
         })
@@ -145,6 +150,7 @@ def _baidu_official():
             "platform": "baidu",
             "title": title,
             "desc": (raw.get("desc") or "").strip(),
+            "cover": (raw.get("img") or "").strip(),
             "link": raw.get("url") or f"https://www.baidu.com/s?wd={quote(title)}",
             "rank": len(items) + 1,
         })
@@ -165,6 +171,7 @@ def _toutiao_official():
             "platform": "toutiao",
             "title": title,
             "desc": "",
+            "cover": ((raw.get("Image") or {}).get("url") or "").strip(),
             "link": raw.get("Url") or "",
             "rank": len(items) + 1,
         })
@@ -184,10 +191,12 @@ def _qq_ent_official():
         title = (raw.get("title") or "").strip()
         if not title:
             continue
+        covers = raw.get("thumbnails_qqnews") or raw.get("thumbnails") or []
         items.append({
             "platform": "qq_ent",
             "title": title,
             "desc": "",
+            "cover": covers[0] if covers else "",
             "link": raw.get("url") or f"https://view.inews.qq.com/a/{raw.get('id', '')}",
             "rank": len(items) + 1,
         })
@@ -220,10 +229,13 @@ def _rfi_rss():
         if not title:
             continue
         desc = re.sub(r"<[^>]+>", "", entry.findtext("description") or "").strip()
+        enclosure = entry.find("enclosure")
+        cover = enclosure.get("url", "") if enclosure is not None else ""
         items.append({
             "platform": "rfi",
             "title": title,
             "desc": desc,
+            "cover": cover.strip(),
             "link": (entry.findtext("link") or "").strip(),
             "rank": len(items) + 1,
         })
@@ -245,6 +257,7 @@ def _bili_official():
             "platform": "bili",
             "title": title,
             "desc": "",
+            "cover": "",
             "link": f"https://search.bilibili.com/all?keyword={quote(title)}",
             "rank": len(items) + 1,
         })
@@ -277,7 +290,7 @@ def fetch_weibo():
 
 def fetch_douyin():
     return _with_fallback("douyin", [
-        ("60s", lambda: _fetch_60s("douyin", "douyin", "title", None, "link")),
+        ("60s", lambda: _fetch_60s("douyin", "douyin", "title", None, "link", "cover")),
         ("官方", _douyin_official),
     ])
 
@@ -285,20 +298,20 @@ def fetch_douyin():
 def fetch_zhihu():
     # 知乎官方接口需要登录态，暂无可用备用源
     return _with_fallback("zhihu", [
-        ("60s", lambda: _fetch_60s("zhihu", "zhihu", "title", "detail", "link")),
+        ("60s", lambda: _fetch_60s("zhihu", "zhihu", "title", "detail", "link", "cover")),
     ])
 
 
 def fetch_baidu():
     return _with_fallback("baidu", [
-        ("60s", lambda: _fetch_60s("baidu/hot", "baidu", "title", "desc", "url")),
+        ("60s", lambda: _fetch_60s("baidu/hot", "baidu", "title", "desc", "url", "cover")),
         ("官方", _baidu_official),
     ])
 
 
 def fetch_toutiao():
     return _with_fallback("toutiao", [
-        ("60s", lambda: _fetch_60s("toutiao", "toutiao", "title", None, "link")),
+        ("60s", lambda: _fetch_60s("toutiao", "toutiao", "title", None, "link", "cover")),
         ("官方", _toutiao_official),
     ])
 

@@ -36,6 +36,7 @@ def merge_topics(items):
         "desc": 最长的描述,
         "platforms": ["weibo", "zhihu"],
         "links": {"weibo": "...", ...},
+        "cover": 缩略图 URL（取第一个有图的成员，可能为空）,
         "heat": 热度分,
         "titles": [所有原始标题],   # 供 LLM 参考
     }
@@ -57,6 +58,8 @@ def merge_topics(items):
                 best["links"][item["platform"]] = item["link"]
             if len(item["desc"]) > len(best["desc"]):
                 best["desc"] = item["desc"]
+            if not best["cover"] and item.get("cover"):
+                best["cover"] = item["cover"]
             if _heat_score(item) > best["_best_item_heat"]:
                 best["_best_item_heat"] = _heat_score(item)
                 best["title"] = item["title"]
@@ -66,6 +69,7 @@ def merge_topics(items):
                 "desc": item["desc"],
                 "platforms": [item["platform"]],
                 "links": {item["platform"]: item["link"]} if item["link"] else {},
+                "cover": item.get("cover", ""),
                 "heat": _heat_score(item),
                 "titles": [item["title"]],
                 "_best_item_heat": _heat_score(item),

@@ -108,6 +108,21 @@ header h1::before { content: "🔥 "; }
 }
 .card:nth-child(1) .rank, .card:nth-child(2) .rank, .card:nth-child(3) .rank { color: var(--accent); }
 .card-title { font-size: 16px; font-weight: 600; flex: 1; }
+.thumb {
+  flex: none;
+  width: 108px;
+  height: 72px;
+  object-fit: cover;
+  border-radius: 8px;
+  background: var(--bg);
+}
+.kc-label {
+  display: block;
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--accent);
+  margin-bottom: 2px;
+}
 
 .badges { display: flex; flex-wrap: wrap; gap: 6px; margin: 8px 0 0 38px; }
 .badge {
@@ -382,4 +397,5 @@ footer {
   .card { padding: 14px; }
   .summary, .no-ai, .plan-toggle, .plan, .badges { margin-left: 0; }
   .card-top { flex-wrap: wrap; }
+  .thumb { width: 84px; height: 56px; }
 }

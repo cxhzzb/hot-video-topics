@@ -134,12 +134,21 @@ function statsBodyHtml(stats, platformNames) {
 
 function cardHtml(t, i, platformNames) {
   const ai = t.ai;
+  // 重点内容：有 AI 用 AI 摘要，没有就用平台原始描述兜底
+  const descText = t.desc ? t.desc.slice(0, 120) + (t.desc.length > 120 ? "…" : "") : "";
+  const keyText = (ai && ai.summary) || descText;
+  const keyHtml = keyText
+    ? `<p class="summary"><span class="kc-label">📌 重点内容</span>${escapeHtml(keyText)}</p>`
+    : (ai ? "" : `<p class="no-ai">AI 分析生成中，下次更新后可见</p>`);
   const aiBody = ai
-    ? `<p class="summary">${escapeHtml(ai.summary)}</p>
+    ? `${keyHtml}
        <div class="plan-toggle" data-label="▶ 查看视频制作方案">▶ 查看视频制作方案</div>
        <div class="plan">${planHtml(ai)}</div>`
-    : `<p class="no-ai">AI 分析生成中，下次更新后可见</p>
-       ${t.desc ? `<p class="summary">${escapeHtml(t.desc.slice(0, 120))}${t.desc.length > 120 ? "…" : ""}</p>` : ""}`;
+    : keyHtml;
+  // 缩略图：加载失败（防盗链/失效）时自动移除，不留破图
+  const thumb = t.cover
+    ? `<img class="thumb" src="${escapeHtml(t.cover)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">`
+    : "";
   const catTag = ai ? `<span class="cat-tag">${escapeHtml(ai.category)}</span>` : "";
   const heatText = t.days ? `热度 ${t.heat} · 在榜${t.days}天` : `热度 ${t.heat}`;
   // 传播数据摘要行：常驻显示，不用点开
@@ -159,6 +168,7 @@ function cardHtml(t, i, platformNames) {
       <div class="card-top">
         <span class="rank">${i + 1}</span>
         <span class="card-title">${escapeHtml(t.title)}</span>
+        ${thumb}
       </div>
       <div class="badges">${badgeHtml(t, platformNames)}${catTag}<span class="heat">${heatText}</span></div>
       ${statsBar}

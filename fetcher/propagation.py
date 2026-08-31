@@ -88,6 +88,7 @@ def analyze(history, now):
             "desc": e["desc"],
             "platforms": e["platforms"],
             "links": e["links"],
+            "cover": e.get("cover", ""),
             "heat": round(score),
             "age_min": int((now - _parse(fs)).total_seconds() // 60),
             "ai": e.get("ai"),

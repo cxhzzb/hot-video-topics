@@ -83,6 +83,7 @@ def main():
                 "desc": t["desc"],
                 "platforms": t["platforms"],
                 "links": t["links"],
+                "cover": t.get("cover", ""),
                 "heat": t["heat"],
                 "ai": t.get("ai"),
                 "stats": t.get("stats"),
