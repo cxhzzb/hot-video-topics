@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-26T03:36:28+08:00",
+ "updated_at": "2026-09-26T06:52:03+08:00",
  "platform_names": {
   "weibo": "微博",
   "douyin": "抖音",
@@ -579,6 +579,174 @@
     "trend": "up",
     "days": 2,
     "appearances": 10
+   }
+  },
+  {
+   "title": "中美两国元首夫妇茶叙",
+   "raw_title": "中美两国元首夫妇茶叙",
+   "desc": "",
+   "platforms": [
+    "weibo",
+    "toutiao",
+    "baidu",
+    "bili"
+   ],
+   "links": {
+    "weibo": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E4%B8%A4%E5%9B%BD%E5%85%83%E9%A6%96%E5%A4%AB%E5%A6%87%E5%8F%82%E8%A7%82%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%AE%B6%E6%A1%A3%E6%A1%88%E9%A6%86%23",
+    "toutiao": "https://www.toutiao.com/trending/7689024369510665791/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227689024369510665791%22%2C%22hot_board_impr_id%22%3A%222026092606513900FD3F3F80DC9E3B056F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E7%BE%8E%E4%B8%A4%E5%9B%BD%E5%85%83%E9%A6%96%E5%A4%AB%E5%A6%87%E8%8C%B6%E5%8F%99%22%7D&rank=&style_id=40132&topic_id=7689024369510665791",
+    "baidu": "https://m.baidu.com/s?word=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E5%A4%AB%E5%A6%87%E5%8F%82%E8%A7%82%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%AE%B6%E6%A1%A3%E6%A1%88%E9%A6%86&sa=fyb_news",
+    "bili": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E4%B8%A4%E5%9B%BD%E5%85%83%E9%A6%96%E5%A4%AB%E5%A6%87%E5%8F%82%E8%A7%82%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%AE%B6%E6%A1%A3%E6%A1%88%E9%A6%86"
+   },
+   "cover": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/810a545c2a9a41d1aacc085ac8c167a3~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1792886400&x-signature=5Wrik8lzqXgZUyXH5wjNAk7%2FGtE%3D",
+   "heat": 661,
+   "days": 2,
+   "ai": {
+    "id": 2,
+    "title": "中美两国元首夫妇茶叙",
+    "summary": "中美两国元首夫妇举行茶叙，氛围轻松友好。这一外交互动被外界视为两国关系缓和的积极信号，引发广泛关注和解读。",
+    "category": "国际",
+    "angles": [
+     "深度解读：茶叙外交背后的中美关系新动向",
+     "花边切入：元首夫妇茶叙的礼仪细节和穿搭亮点",
+     "情绪共鸣：从一杯茶看大国交往的温度与分寸"
+    ],
+    "hook": "一杯茶，两个大国，这场茶叙不简单。",
+    "structure": "开头用茶叙画面+关键词字幕点题，中间简要梳理中美近期互动脉络，结尾用'茶叙传递了什么信号'收束，保持客观。",
+    "format": "口播/图文",
+    "risk": "高度敏感外交话题，必须严格使用官方通稿表述，避免任何主观解读和调侃。",
+    "power": {
+     "score": 1,
+     "angle": "不建议植入"
+    }
+   },
+   "stats": {
+    "first_seen": "2026-09-25T23:36:47+08:00",
+    "origin_platform": "weibo",
+    "path": [
+     {
+      "platform": "weibo",
+      "time": "2026-09-25T23:36:47+08:00"
+     },
+     {
+      "platform": "toutiao",
+      "time": "2026-09-25T23:36:47+08:00"
+     },
+     {
+      "platform": "baidu",
+      "time": "2026-09-26T03:36:28+08:00"
+     },
+     {
+      "platform": "bili",
+      "time": "2026-09-26T03:36:28+08:00"
+     }
+    ],
+    "heat_log": [
+     {
+      "time": "2026-09-25T23:36:47+08:00",
+      "heat": 110
+     },
+     {
+      "time": "2026-09-26T03:36:28+08:00",
+      "heat": 265
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
+      "heat": 286
+     }
+    ],
+    "trend": "new",
+    "days": 2,
+    "appearances": 3
+   }
+  },
+  {
+   "title": "陈妤颉100米夺金，短跑新星闪耀赛场",
+   "raw_title": "陈妤颉亚运会100米夺冠",
+   "desc": "",
+   "platforms": [
+    "douyin",
+    "toutiao",
+    "bili",
+    "weibo"
+   ],
+   "links": {
+    "douyin": "https://www.douyin.com/search/%E9%99%88%E5%A6%A4%E9%A2%89%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%99%BE%E7%B1%B3%E5%A4%BA%E5%86%A0",
+    "toutiao": "https://www.toutiao.com/trending/7688791634830082074/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227688791634830082074%22%2C%22hot_board_impr_id%22%3A%222026092606513900FD3F3F80DC9E3B056F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%2217%E5%B2%81%E9%99%88%E5%A6%A4%E9%A2%89%E5%A5%B3%E5%AD%90%E7%99%BE%E7%B1%B3%E5%A4%BA%E5%86%A0%22%7D&rank=&style_id=40132&topic_id=7688791634830082074",
+    "bili": "https://search.bilibili.com/all?keyword=%E9%99%88%E5%A6%A4%E9%A2%89%E4%BA%9A%E8%BF%90%E4%BC%9A100%E7%B1%B3%E5%A4%BA%E5%86%A0",
+    "weibo": "https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A6%A4%E9%A2%89100%E7%B1%B3%E5%A4%BA%E9%87%91%23"
+   },
+   "cover": "https://p11-sign.douyinpic.com/tos-cn-i-dy/c13520f04f8544249e8a8b175aee9ca9~noop.jpeg?lk3s=bfd515bb&x-expires=1790395200&x-signature=szIYpia86hm7u73nAYLXntRiBKA%3D&from=3218412987",
+   "heat": 606,
+   "days": 2,
+   "ai": {
+    "id": 5,
+    "title": "陈妤颉100米夺金，短跑新星闪耀赛场",
+    "summary": "中国短跑选手陈妤颉在100米比赛中夺金，展现出强劲的冲刺实力。作为年轻新星，她的表现引发对田径后备力量和未来国际大赛前景的热议。",
+    "category": "体育",
+    "angles": [
+     "热血向：陈妤颉冲刺瞬间逐帧回放",
+     "深度解读：中国短跑新生代能否接棒",
+     "情绪共鸣：从默默无闻到夺金，她经历了什么"
+    ],
+    "hook": "最后30米直接拉开！陈妤颉这枚100米金牌含金量有多高？",
+    "structure": "开头播放夺金冲刺高光片段，中间分析技术特点和训练背景，结尾展望未来国际赛事表现。",
+    "format": "混剪/口播",
+    "risk": "注意赛事版权，使用比赛画面需确认授权；避免过度吹捧给运动员压力。",
+    "power": {
+     "score": 1,
+     "angle": "不建议植入"
+    }
+   },
+   "stats": {
+    "first_seen": "2026-09-25T23:36:47+08:00",
+    "origin_platform": "douyin",
+    "path": [
+     {
+      "platform": "douyin",
+      "time": "2026-09-25T23:36:47+08:00"
+     },
+     {
+      "platform": "toutiao",
+      "time": "2026-09-25T23:36:47+08:00"
+     },
+     {
+      "platform": "bili",
+      "time": "2026-09-25T23:36:47+08:00"
+     },
+     {
+      "platform": "weibo",
+      "time": "2026-09-25T23:36:47+08:00"
+     }
+    ],
+    "heat_log": [
+     {
+      "time": "2026-09-25T23:36:47+08:00",
+      "heat": 181
+     },
+     {
+      "time": "2026-09-25T23:36:47+08:00",
+      "heat": 29
+     },
+     {
+      "time": "2026-09-26T03:36:28+08:00",
+      "heat": 177
+     },
+     {
+      "time": "2026-09-26T03:36:28+08:00",
+      "heat": 21
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
+      "heat": 172
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
+      "heat": 26
+     }
+    ],
+    "trend": "down",
+    "days": 2,
+    "appearances": 6
    }
   },
   {
@@ -1388,88 +1556,6 @@
    }
   },
   {
-   "title": "陈妤颉亚运会100米夺冠",
-   "raw_title": "陈妤颉亚运会100米夺冠",
-   "desc": "",
-   "platforms": [
-    "douyin",
-    "toutiao",
-    "bili",
-    "weibo"
-   ],
-   "links": {
-    "douyin": "https://www.douyin.com/search/%E9%99%88%E5%A6%A4%E9%A2%89%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%99%BE%E7%B1%B3%E5%A4%BA%E5%86%A0",
-    "toutiao": "https://www.toutiao.com/trending/7688791634830082074/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227688791634830082074%22%2C%22hot_board_impr_id%22%3A%2220260926033605AE544A1FD00ED02272E8%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%2217%E5%B2%81%E9%99%88%E5%A6%A4%E9%A2%89%E5%A5%B3%E5%AD%90%E7%99%BE%E7%B1%B3%E5%A4%BA%E5%86%A0%22%7D&rank=&style_id=40132&topic_id=7688791634830082074",
-    "bili": "https://search.bilibili.com/all?keyword=%E9%99%88%E5%A6%A4%E9%A2%89%E4%BA%9A%E8%BF%90%E4%BC%9A100%E7%B1%B3%E5%A4%BA%E5%86%A0",
-    "weibo": "https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A6%A4%E9%A2%89100%E7%B1%B3%E5%A4%BA%E9%87%91%23"
-   },
-   "cover": "https://p3-sign.douyinpic.com/tos-cn-i-dy/c13520f04f8544249e8a8b175aee9ca9~noop.jpeg?lk3s=bfd515bb&x-expires=1790384400&x-signature=CEfV1rc%2BeYltc6jen6koL%2BoS2lg%3D&from=3218412987",
-   "heat": 408,
-   "days": 2,
-   "ai": {
-    "id": 0,
-    "title": "陈妤颉亚运会100米夺冠",
-    "summary": "中国短跑新星陈妤颉在亚运会女子100米决赛中夺冠，一战成名。她年纪轻轻便站上亚洲之巅，引发网友对'天才少女'成长故事和训练日常的强烈好奇，相关话题迅速冲上热搜。",
-    "category": "体育",
-    "angles": [
-     "蹭热度：盘点陈妤颉夺冠瞬间的高燃混剪，配燃向BGM",
-     "深度解读：从'天才少女'到亚洲冠军，她背后付出了什么",
-     "情绪共鸣：年轻小将扛起中国短跑大旗，网友直呼'未来可期'"
-    ],
-    "hook": "她跑得有多快？对手连她的背影都没看清！",
-    "structure": "前3秒放夺冠冲刺画面制造冲击，中间快速剪辑她的成长经历和训练花絮，结尾用她赛后采访金句收尾引发共鸣。",
-    "format": "混剪",
-    "risk": "注意赛事版权素材使用，避免未授权比赛画面被限流。",
-    "power": {
-     "score": 2,
-     "angle": "不建议植入"
-    }
-   },
-   "stats": {
-    "first_seen": "2026-09-25T23:36:47+08:00",
-    "origin_platform": "douyin",
-    "path": [
-     {
-      "platform": "douyin",
-      "time": "2026-09-25T23:36:47+08:00"
-     },
-     {
-      "platform": "toutiao",
-      "time": "2026-09-25T23:36:47+08:00"
-     },
-     {
-      "platform": "bili",
-      "time": "2026-09-25T23:36:47+08:00"
-     },
-     {
-      "platform": "weibo",
-      "time": "2026-09-25T23:36:47+08:00"
-     }
-    ],
-    "heat_log": [
-     {
-      "time": "2026-09-25T23:36:47+08:00",
-      "heat": 181
-     },
-     {
-      "time": "2026-09-25T23:36:47+08:00",
-      "heat": 29
-     },
-     {
-      "time": "2026-09-26T03:36:28+08:00",
-      "heat": 177
-     },
-     {
-      "time": "2026-09-26T03:36:28+08:00",
-      "heat": 21
-     }
-    ],
-    "trend": "down",
-    "days": 2,
-    "appearances": 4
-   }
-  },
-  {
    "title": "我国首批航天员已全部停航停训",
    "raw_title": "我国首批航天员已全部停航停训",
    "desc": "",
@@ -1613,80 +1699,6 @@
     "trend": "flat",
     "days": 2,
     "appearances": 4
-   }
-  },
-  {
-   "title": "中美两国元首夫妇茶叙",
-   "raw_title": "中美两国元首夫妇茶叙",
-   "desc": "",
-   "platforms": [
-    "weibo",
-    "toutiao",
-    "baidu",
-    "bili"
-   ],
-   "links": {
-    "weibo": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E4%B8%A4%E5%9B%BD%E5%85%83%E9%A6%96%E5%A4%AB%E5%A6%87%E5%8F%82%E8%A7%82%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%AE%B6%E6%A1%A3%E6%A1%88%E9%A6%86%23",
-    "toutiao": "https://www.toutiao.com/trending/7689024369510665791/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227689024369510665791%22%2C%22hot_board_impr_id%22%3A%2220260926033605AE544A1FD00ED02272E8%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E7%BE%8E%E4%B8%A4%E5%9B%BD%E5%85%83%E9%A6%96%E5%A4%AB%E5%A6%87%E8%8C%B6%E5%8F%99%22%7D&rank=&style_id=40132&topic_id=7689024369510665791",
-    "baidu": "https://m.baidu.com/s?word=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E5%A4%AB%E5%A6%87%E5%8F%82%E8%A7%82%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%AE%B6%E6%A1%A3%E6%A1%88%E9%A6%86&sa=fyb_news",
-    "bili": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E4%B8%A4%E5%9B%BD%E5%85%83%E9%A6%96%E5%A4%AB%E5%A6%87%E5%8F%82%E8%A7%82%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%AE%B6%E6%A1%A3%E6%A1%88%E9%A6%86"
-   },
-   "cover": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/810a545c2a9a41d1aacc085ac8c167a3~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1792886400&x-signature=5Wrik8lzqXgZUyXH5wjNAk7%2FGtE%3D",
-   "heat": 375,
-   "days": 2,
-   "ai": {
-    "id": 2,
-    "title": "中美两国元首夫妇茶叙",
-    "summary": "中美两国元首夫妇举行茶叙，氛围轻松友好。这一外交互动被外界视为两国关系缓和的积极信号，引发广泛关注和解读。",
-    "category": "国际",
-    "angles": [
-     "深度解读：茶叙外交背后的中美关系新动向",
-     "花边切入：元首夫妇茶叙的礼仪细节和穿搭亮点",
-     "情绪共鸣：从一杯茶看大国交往的温度与分寸"
-    ],
-    "hook": "一杯茶，两个大国，这场茶叙不简单。",
-    "structure": "开头用茶叙画面+关键词字幕点题，中间简要梳理中美近期互动脉络，结尾用'茶叙传递了什么信号'收束，保持客观。",
-    "format": "口播/图文",
-    "risk": "高度敏感外交话题，必须严格使用官方通稿表述，避免任何主观解读和调侃。",
-    "power": {
-     "score": 1,
-     "angle": "不建议植入"
-    }
-   },
-   "stats": {
-    "first_seen": "2026-09-25T23:36:47+08:00",
-    "origin_platform": "weibo",
-    "path": [
-     {
-      "platform": "weibo",
-      "time": "2026-09-25T23:36:47+08:00"
-     },
-     {
-      "platform": "toutiao",
-      "time": "2026-09-25T23:36:47+08:00"
-     },
-     {
-      "platform": "baidu",
-      "time": "2026-09-26T03:36:28+08:00"
-     },
-     {
-      "platform": "bili",
-      "time": "2026-09-26T03:36:28+08:00"
-     }
-    ],
-    "heat_log": [
-     {
-      "time": "2026-09-25T23:36:47+08:00",
-      "heat": 110
-     },
-     {
-      "time": "2026-09-26T03:36:28+08:00",
-      "heat": 265
-     }
-    ],
-    "trend": "new",
-    "days": 2,
-    "appearances": 2
    }
   },
   {
@@ -2018,6 +2030,92 @@
    }
   },
   {
+   "title": "央视中秋晚会",
+   "raw_title": "央视中秋晚会节目单官宣",
+   "desc": "",
+   "platforms": [
+    "weibo",
+    "baidu",
+    "toutiao",
+    "douyin"
+   ],
+   "links": {
+    "weibo": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E4%B8%AD%E7%A7%8B%E6%99%9A%E4%BC%9A%E8%8A%82%E7%9B%AE%E5%8D%95%E5%AE%98%E5%AE%A3%23",
+    "baidu": "https://m.baidu.com/s?word=%E5%A4%AE%E8%A7%86%E4%B8%AD%E7%A7%8B%E6%99%9A%E4%BC%9A&sa=fyb_news",
+    "toutiao": "https://www.toutiao.com/trending/7688885305096830986/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227688885305096830986%22%2C%22hot_board_impr_id%22%3A%22202609251837262F526F27BB1D304CA8E6%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A4%AE%E8%A7%86%E4%B8%AD%E7%A7%8B%E6%99%9A%E4%BC%9A%E8%8A%82%E7%9B%AE%E5%8D%95%E5%AE%98%E5%AE%A3%22%7D&rank=&style_id=40132&topic_id=7688885305096830986",
+    "douyin": "https://www.douyin.com/search/%E4%B8%80%E8%B5%B7%E6%9D%A5%E7%9C%8B%E4%B8%AD%E7%A7%8B%E6%99%9A%E4%BC%9A%E5%90%A7"
+   },
+   "cover": "https://p26-sign.douyinpic.com/tos-cn-i-dy/352e5132da004bca96b0147307f874e5~noop.jpeg?lk3s=bfd515bb&x-expires=1790395200&x-signature=LoxsBEnsILxbzwnq7J8iC%2FBr9YQ%3D&from=3218412987",
+   "heat": 337,
+   "days": 2,
+   "ai": {
+    "id": 6,
+    "title": "央视中秋晚会",
+    "summary": "央视中秋晚会如期播出，明星阵容、节目编排和舞台造型成为网友热议焦点。多个节目片段和艺人造型迅速登上热搜，引发广泛讨论。",
+    "category": "娱乐",
+    "angles": [
+     "花边切入：中秋晚会明星造型红黑榜，谁惊艳谁翻车",
+     "综艺名场面：盘点中秋晚会上最出圈的舞台瞬间",
+     "反向观点：中秋晚会越来越'卷'，但观众真的买账吗？"
+    ],
+    "hook": "中秋晚会造型大赏，有人美上热搜有人被群嘲！",
+    "structure": "开头用最出圈的一个舞台画面吸引眼球，中间快速盘点3-4个明星造型或节目亮点，结尾抛出'你心中的最佳舞台是哪个'引导评论。",
+    "format": "混剪/图文",
+    "risk": "注意晚会节目版权，避免大段使用未授权视频素材；评价明星造型时避免人身攻击。",
+    "power": {
+     "score": 3,
+     "angle": "不建议植入"
+    }
+   },
+   "stats": {
+    "first_seen": "2026-09-25T13:37:51+08:00",
+    "origin_platform": "weibo",
+    "path": [
+     {
+      "platform": "weibo",
+      "time": "2026-09-25T13:37:51+08:00"
+     },
+     {
+      "platform": "baidu",
+      "time": "2026-09-25T13:37:51+08:00"
+     },
+     {
+      "platform": "toutiao",
+      "time": "2026-09-25T18:38:02+08:00"
+     },
+     {
+      "platform": "douyin",
+      "time": "2026-09-25T23:36:47+08:00"
+     }
+    ],
+    "heat_log": [
+     {
+      "time": "2026-09-25T13:37:51+08:00",
+      "heat": 85
+     },
+     {
+      "time": "2026-09-25T18:38:02+08:00",
+      "heat": 90
+     },
+     {
+      "time": "2026-09-25T23:36:47+08:00",
+      "heat": 83
+     },
+     {
+      "time": "2026-09-26T03:36:28+08:00",
+      "heat": 39
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
+      "heat": 40
+     }
+    ],
+    "trend": "down",
+    "days": 2,
+    "appearances": 5
+   }
+  },
+  {
    "title": "特朗普遗憾欢迎晚宴座位不够多",
    "raw_title": "特朗普遗憾欢迎晚宴座位不够多",
    "desc": "",
@@ -2180,6 +2278,82 @@
    }
   },
   {
+   "title": "从一撇一捺看中美青年双向奔赴",
+   "raw_title": "一撇一捺 中美青年“双向奔赴”",
+   "desc": "",
+   "platforms": [
+    "toutiao",
+    "weibo",
+    "douyin"
+   ],
+   "links": {
+    "toutiao": "https://www.toutiao.com/article/7689324096919831050",
+    "weibo": "https://s.weibo.com/weibo?q=%23%E4%BB%8E%E4%B8%80%E6%92%87%E4%B8%80%E6%8D%BA%E7%9C%8B%E4%B8%AD%E7%BE%8E%E9%9D%92%E5%B9%B4%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%23",
+    "douyin": "https://www.douyin.com/search/%E4%B8%AD%E7%BE%8E%E9%9D%92%E5%B9%B4%E2%80%9C%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%E2%80%9D"
+   },
+   "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/okQDqtQ8iZLkABOgiiEAEgeAESDR21rQkgfF9Q~noop.jpeg?lk3s=bfd515bb&x-expires=1790395200&x-signature=8nBeJFcy8RET5pzCL7CpJROzqL4%3D&from=3218412987",
+   "heat": 340,
+   "days": 2,
+   "ai": {
+    "id": 4,
+    "title": "从一撇一捺看中美青年双向奔赴",
+    "summary": "以'一撇一捺'为切入点，讲述中美青年之间的文化交流与双向奔赴故事。话题聚焦民间外交和青年互动，传递积极友好的信号。",
+    "category": "国际",
+    "angles": [
+     "情绪共鸣：中美青年用汉字架起友谊桥梁的暖心故事",
+     "深度解读：民间交流如何成为中美关系的'润滑剂'",
+     "花边切入：美国青年写毛笔字的翻车名场面合集"
+    ],
+    "hook": "一个汉字，让中美年轻人成了朋友。",
+    "structure": "开头用美国青年写汉字的趣味画面吸引注意，中间讲述一两个具体交流故事，结尾升华到'民间友好是两国关系的根基'。",
+    "format": "混剪/街采",
+    "risk": "涉及中美关系，保持正面友好基调，避免任何可能被解读为'站队'的表述。",
+    "power": {
+     "score": 1,
+     "angle": "不建议植入"
+    }
+   },
+   "stats": {
+    "first_seen": "2026-09-25T18:38:02+08:00",
+    "origin_platform": "toutiao",
+    "path": [
+     {
+      "platform": "toutiao",
+      "time": "2026-09-25T18:38:02+08:00"
+     },
+     {
+      "platform": "weibo",
+      "time": "2026-09-25T23:36:47+08:00"
+     },
+     {
+      "platform": "douyin",
+      "time": "2026-09-25T23:36:47+08:00"
+     }
+    ],
+    "heat_log": [
+     {
+      "time": "2026-09-25T18:38:02+08:00",
+      "heat": 22
+     },
+     {
+      "time": "2026-09-25T23:36:47+08:00",
+      "heat": 106
+     },
+     {
+      "time": "2026-09-26T03:36:28+08:00",
+      "heat": 106
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
+      "heat": 106
+     }
+    ],
+    "trend": "up",
+    "days": 2,
+    "appearances": 4
+   }
+  },
+  {
    "title": "今日秋分，昼夜平分秋意渐浓",
    "raw_title": "今日秋分",
    "desc": "",
@@ -2332,78 +2506,6 @@
    }
   },
   {
-   "title": "王楚钦谈林诗栋不敌16岁小将",
-   "raw_title": "王楚钦谈林诗栋不敌16岁小将",
-   "desc": "",
-   "platforms": [
-    "weibo",
-    "baidu",
-    "toutiao"
-   ],
-   "links": {
-    "weibo": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%B0%88%E6%9E%97%E8%AF%97%E6%A0%8B%E4%B8%8D%E6%95%8C16%E5%B2%81%E5%B0%8F%E5%B0%86%23",
-    "baidu": "https://m.baidu.com/s?word=%E6%9E%97%E8%AF%97%E6%A0%8B2-3%E4%B8%8D%E6%95%8C%E6%B3%B0%E5%9B%BD16%E5%B2%81%E5%B0%8F%E5%B0%86&sa=fyb_news",
-    "toutiao": "https://www.toutiao.com/trending/7687457520557981702/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%223%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227687457520557981702%22%2C%22hot_board_impr_id%22%3A%22202609222347232A11F75125115E04DE6E%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%9E%97%E8%AF%97%E6%A0%8B%E4%B8%8D%E6%95%8C%E6%B3%B0%E5%9B%BD16%E5%B2%81%E5%B0%8F%E5%B0%86%22%7D&rank=&style_id=40132&topic_id=7687457520557981702"
-   },
-   "cover": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/982f8a4bb93345e7b702b7ddba32a1e2~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1792627200&x-signature=GXHSvVOUAmNO5VResZslcaGZT%2BA%3D",
-   "heat": 326,
-   "days": 2,
-   "ai": {
-    "id": 1,
-    "title": "王楚钦谈林诗栋不敌16岁小将",
-    "summary": "亚运会乒乓球比赛中，国乒小将林诗栋意外不敌16岁对手，赛后王楚钦接受采访谈及此事。王楚钦的回应被网友解读为'高情商护队友'还是'暗批状态差'，引发球迷激烈讨论。国乒新老交替话题再度被推上风口。",
-    "category": "体育",
-    "angles": [
-     "花边解读向：逐帧分析王楚钦采访微表情，他到底在护谁？",
-     "争议向：林诗栋输16岁小将，国乒'养狼计划'反噬了吗？",
-     "情绪共鸣向：从王楚钦的回应看顶级运动员的团队担当"
-    ],
-    "hook": "王楚钦这句话，到底是护队友还是在敲打？",
-    "structure": "前3秒放王楚钦采访原声+字幕放大争议句；中段对比网友两派解读，穿插比赛失误画面；结尾抛出'你觉得他是哪种意思'引导互动投票。",
-    "format": "口播+混剪",
-    "risk": "避免过度解读运动员言论引发粉丝对立；不传播未经证实的'内讧'猜测。",
-    "power": {
-     "score": 1,
-     "angle": "不建议植入"
-    }
-   },
-   "stats": {
-    "first_seen": "2026-09-22T23:48:16+08:00",
-    "origin_platform": "weibo",
-    "path": [
-     {
-      "platform": "weibo",
-      "time": "2026-09-22T23:48:16+08:00"
-     },
-     {
-      "platform": "baidu",
-      "time": "2026-09-22T23:48:16+08:00"
-     },
-     {
-      "platform": "toutiao",
-      "time": "2026-09-22T23:48:16+08:00"
-     }
-    ],
-    "heat_log": [
-     {
-      "time": "2026-09-22T23:48:16+08:00",
-      "heat": 171
-     },
-     {
-      "time": "2026-09-23T03:18:53+08:00",
-      "heat": 83
-     },
-     {
-      "time": "2026-09-23T06:20:22+08:00",
-      "heat": 72
-     }
-    ],
-    "trend": "new",
-    "days": 2,
-    "appearances": 3
-   }
-  },
-  {
    "title": "四川博主自称真刀郎，称火的是表哥整容假扮",
    "raw_title": "刀郎是假的？四川博主爆料自己才是真刀郎，火了30年的是他表哥整容假扮",
    "desc": "",
@@ -2498,117 +2600,35 @@
     "days": 3,
     "appearances": 12
    }
-  },
-  {
-   "title": "央视中秋晚会",
-   "raw_title": "央视中秋晚会节目单官宣",
-   "desc": "",
-   "platforms": [
-    "weibo",
-    "baidu",
-    "toutiao",
-    "douyin"
-   ],
-   "links": {
-    "weibo": "https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E4%B8%AD%E7%A7%8B%E6%99%9A%E4%BC%9A%E8%8A%82%E7%9B%AE%E5%8D%95%E5%AE%98%E5%AE%A3%23",
-    "baidu": "https://m.baidu.com/s?word=%E5%A4%AE%E8%A7%86%E4%B8%AD%E7%A7%8B%E6%99%9A%E4%BC%9A&sa=fyb_news",
-    "toutiao": "https://www.toutiao.com/trending/7688885305096830986/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227688885305096830986%22%2C%22hot_board_impr_id%22%3A%22202609251837262F526F27BB1D304CA8E6%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%A4%AE%E8%A7%86%E4%B8%AD%E7%A7%8B%E6%99%9A%E4%BC%9A%E8%8A%82%E7%9B%AE%E5%8D%95%E5%AE%98%E5%AE%A3%22%7D&rank=&style_id=40132&topic_id=7688885305096830986",
-    "douyin": "https://www.douyin.com/search/%E4%B8%80%E8%B5%B7%E6%9D%A5%E7%9C%8B%E4%B8%AD%E7%A7%8B%E6%99%9A%E4%BC%9A%E5%90%A7"
-   },
-   "cover": "https://p3-sign.douyinpic.com/tos-cn-i-dy/352e5132da004bca96b0147307f874e5~noop.jpeg?lk3s=bfd515bb&x-expires=1790384400&x-signature=scxld5LotbbJTE7QCFcQ4Mth71Q%3D&from=3218412987",
-   "heat": 297,
-   "days": 2,
-   "ai": {
-    "id": 6,
-    "title": "央视中秋晚会",
-    "summary": "央视中秋晚会如期播出，明星阵容、节目编排和舞台造型成为网友热议焦点。多个节目片段和艺人造型迅速登上热搜，引发广泛讨论。",
-    "category": "娱乐",
-    "angles": [
-     "花边切入：中秋晚会明星造型红黑榜，谁惊艳谁翻车",
-     "综艺名场面：盘点中秋晚会上最出圈的舞台瞬间",
-     "反向观点：中秋晚会越来越'卷'，但观众真的买账吗？"
-    ],
-    "hook": "中秋晚会造型大赏，有人美上热搜有人被群嘲！",
-    "structure": "开头用最出圈的一个舞台画面吸引眼球，中间快速盘点3-4个明星造型或节目亮点，结尾抛出'你心中的最佳舞台是哪个'引导评论。",
-    "format": "混剪/图文",
-    "risk": "注意晚会节目版权，避免大段使用未授权视频素材；评价明星造型时避免人身攻击。",
-    "power": {
-     "score": 3,
-     "angle": "不建议植入"
-    }
-   },
-   "stats": {
-    "first_seen": "2026-09-25T13:37:51+08:00",
-    "origin_platform": "weibo",
-    "path": [
-     {
-      "platform": "weibo",
-      "time": "2026-09-25T13:37:51+08:00"
-     },
-     {
-      "platform": "baidu",
-      "time": "2026-09-25T13:37:51+08:00"
-     },
-     {
-      "platform": "toutiao",
-      "time": "2026-09-25T18:38:02+08:00"
-     },
-     {
-      "platform": "douyin",
-      "time": "2026-09-25T23:36:47+08:00"
-     }
-    ],
-    "heat_log": [
-     {
-      "time": "2026-09-25T13:37:51+08:00",
-      "heat": 85
-     },
-     {
-      "time": "2026-09-25T18:38:02+08:00",
-      "heat": 90
-     },
-     {
-      "time": "2026-09-25T23:36:47+08:00",
-      "heat": 83
-     },
-     {
-      "time": "2026-09-26T03:36:28+08:00",
-      "heat": 39
-     }
-    ],
-    "trend": "flat",
-    "days": 2,
-    "appearances": 4
-   }
   }
  ],
  "analysis": {
-  "generated_at": "2026-09-26T03:36:28+08:00",
+  "generated_at": "2026-09-26T06:52:03+08:00",
   "origin_rank": [
    {
     "platform": "baidu",
-    "origin_count": 99,
-    "avg_delay_min": 254
+    "origin_count": 94,
+    "avg_delay_min": 265
    },
    {
     "platform": "toutiao",
-    "origin_count": 72,
-    "avg_delay_min": 320
+    "origin_count": 65,
+    "avg_delay_min": 343
    },
    {
     "platform": "weibo",
-    "origin_count": 57,
-    "avg_delay_min": 264
+    "origin_count": 55,
+    "avg_delay_min": 272
    },
    {
     "platform": "douyin",
-    "origin_count": 30,
-    "avg_delay_min": 380
+    "origin_count": 28,
+    "avg_delay_min": 390
    },
    {
     "platform": "bili",
     "origin_count": 13,
-    "avg_delay_min": 672
+    "avg_delay_min": 665
    }
   ],
   "paths": [
@@ -2854,6 +2874,90 @@
      "structure": "前5秒点出会晤核心议题，中间25秒分点梳理贸易、外交等成果，最后10秒展望后续影响。",
      "format": "口播",
      "risk": "高度敏感话题，须严格以官方通稿为准，不添加主观分析，避免被平台判定为时政敏感内容。",
+     "power": {
+      "score": 1,
+      "angle": "不建议植入"
+     }
+    }
+   },
+   {
+    "title": "中美两国元首夫妇茶叙",
+    "path": [
+     {
+      "platform": "weibo",
+      "time": "2026-09-25T23:36:47+08:00"
+     },
+     {
+      "platform": "toutiao",
+      "time": "2026-09-25T23:36:47+08:00"
+     },
+     {
+      "platform": "baidu",
+      "time": "2026-09-26T03:36:28+08:00"
+     },
+     {
+      "platform": "bili",
+      "time": "2026-09-26T03:36:28+08:00"
+     }
+    ],
+    "span_min": 239,
+    "heat": 661,
+    "ai": {
+     "id": 2,
+     "title": "中美两国元首夫妇茶叙",
+     "summary": "中美两国元首夫妇举行茶叙，氛围轻松友好。这一外交互动被外界视为两国关系缓和的积极信号，引发广泛关注和解读。",
+     "category": "国际",
+     "angles": [
+      "深度解读：茶叙外交背后的中美关系新动向",
+      "花边切入：元首夫妇茶叙的礼仪细节和穿搭亮点",
+      "情绪共鸣：从一杯茶看大国交往的温度与分寸"
+     ],
+     "hook": "一杯茶，两个大国，这场茶叙不简单。",
+     "structure": "开头用茶叙画面+关键词字幕点题，中间简要梳理中美近期互动脉络，结尾用'茶叙传递了什么信号'收束，保持客观。",
+     "format": "口播/图文",
+     "risk": "高度敏感外交话题，必须严格使用官方通稿表述，避免任何主观解读和调侃。",
+     "power": {
+      "score": 1,
+      "angle": "不建议植入"
+     }
+    }
+   },
+   {
+    "title": "陈妤颉100米夺金，短跑新星闪耀赛场",
+    "path": [
+     {
+      "platform": "douyin",
+      "time": "2026-09-25T23:36:47+08:00"
+     },
+     {
+      "platform": "toutiao",
+      "time": "2026-09-25T23:36:47+08:00"
+     },
+     {
+      "platform": "bili",
+      "time": "2026-09-25T23:36:47+08:00"
+     },
+     {
+      "platform": "weibo",
+      "time": "2026-09-25T23:36:47+08:00"
+     }
+    ],
+    "span_min": 0,
+    "heat": 606,
+    "ai": {
+     "id": 5,
+     "title": "陈妤颉100米夺金，短跑新星闪耀赛场",
+     "summary": "中国短跑选手陈妤颉在100米比赛中夺金，展现出强劲的冲刺实力。作为年轻新星，她的表现引发对田径后备力量和未来国际大赛前景的热议。",
+     "category": "体育",
+     "angles": [
+      "热血向：陈妤颉冲刺瞬间逐帧回放",
+      "深度解读：中国短跑新生代能否接棒",
+      "情绪共鸣：从默默无闻到夺金，她经历了什么"
+     ],
+     "hook": "最后30米直接拉开！陈妤颉这枚100米金牌含金量有多高？",
+     "structure": "开头播放夺金冲刺高光片段，中间分析技术特点和训练背景，结尾展望未来国际赛事表现。",
+     "format": "混剪/口播",
+     "risk": "注意赛事版权，使用比赛画面需确认授权；避免过度吹捧给运动员压力。",
      "power": {
       "score": 1,
       "angle": "不建议植入"
@@ -3153,225 +3257,53 @@
       "angle": "不建议植入"
      }
     }
-   },
-   {
-    "title": "多家银行存款利息涨了",
-    "path": [
-     {
-      "platform": "baidu",
-      "time": "2026-09-22T23:48:16+08:00"
-     },
-     {
-      "platform": "toutiao",
-      "time": "2026-09-23T03:18:53+08:00"
-     }
-    ],
-    "span_min": 210,
-    "heat": 420,
-    "ai": {
-     "id": 3,
-     "title": "多家银行存款利息涨了",
-     "summary": "近期多家银行上调存款利率，引发储户关注。在利率整体下行背景下，部分银行逆势上调利息，被认为与揽储压力和季末考核有关。网友热议'钱该往哪放'。",
-     "category": "财经",
-     "angles": [
-      "实用科普：哪些银行涨了？涨了多少？普通人怎么存更划算",
-      "深度解读：利率下行大趋势下，银行为什么反而加息揽储",
-      "情绪共鸣：存款利息涨了，但普通人真的能多赚多少？算笔账"
-     ],
-     "hook": "存款利息突然涨了，你的钱该挪窝吗？",
-     "structure": "前3秒抛出'利息涨了'的信息差，中间用具体数据对比不同银行利率并给出存款建议，结尾提醒关注利率变化趋势。",
-     "format": "口播",
-     "risk": "涉及金融信息需确保数据准确，避免推荐具体银行产品引发合规风险；不做投资建议。",
-     "power": {
-      "score": 3,
-      "angle": "不建议植入"
-     }
-    }
-   },
-   {
-    "title": "世界技能大赛上的色香味",
-    "path": [
-     {
-      "platform": "baidu",
-      "time": "2026-09-24T23:32:37+08:00"
-     },
-     {
-      "platform": "toutiao",
-      "time": "2026-09-24T23:32:37+08:00"
-     }
-    ],
-    "span_min": 0,
-    "heat": 420,
-    "ai": {
-     "id": 6,
-     "title": "世界技能大赛上的色香味",
-     "summary": "世界技能大赛中烹饪、烘焙等项目选手作品惊艳亮相，色香味俱全引发网友围观。话题因美食视觉冲击力走红。看点在于技能选手的精湛技艺与创意呈现。",
-     "category": "社会",
-     "angles": [
-      "蹭热度：世界技能大赛上的神仙作品，看完饿了",
-      "科普向：世界技能大赛到底比什么，含金量有多高",
-      "情绪共鸣：这些00后技能选手的手艺让人佩服"
-     ],
-     "hook": "这是比赛作品？我以为是米其林摆盘！",
-     "structure": "前5秒用美食特写快剪抓眼球，中间介绍2-3个惊艳作品和选手背景，结尾科普大赛含金量。",
-     "format": "混剪/图文",
-     "risk": "使用大赛官方素材需注意版权，避免贬低其他参赛国家作品。",
-     "power": {
-      "score": 3,
-      "angle": "不建议植入"
-     }
-    }
    }
   ],
   "emerging": [
    {
-    "title": "习近平圆满结束对美国的国事访问",
-    "raw_title": "习近平圆满结束对美国的国事访问",
-    "desc": "",
-    "platforms": [
-     "baidu"
-    ],
-    "links": {
-     "baidu": "https://m.baidu.com/s?word=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%9C%86%E6%BB%A1%E7%BB%93%E6%9D%9F%E5%AF%B9%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%9B%BD%E4%BA%8B%E8%AE%BF%E9%97%AE&sa=fyb_news"
-    },
-    "cover": "",
-    "heat": 29,
-    "age_min": 0,
-    "ai": {
-     "id": 3,
-     "title": "习近平圆满结束对美国的国事访问",
-     "summary": "习近平主席结束对美国的国事访问回国，此次访问涵盖多场双边会晤和公开活动。外界关注访问成果是否涉及经贸、气候、军事沟通等具体领域，以及中美关系下一步走向。",
-     "category": "国际",
-     "angles": [
-      "深度解读：这次访美到底谈成了什么，成果清单逐条拆解",
-      "反向观点：一次访问能改变中美关系吗？理性看待外交成果",
-      "背景科普：国事访问和正式访问有什么区别，外交规格怎么看"
-     ],
-     "hook": "访美结束，成果清单来了，哪些和你我有关？",
-     "structure": "前5秒概括访问整体成果，中间分经贸、气候、人文交流等板块逐条解读，结尾给出对中美关系短期走向的判断。",
-     "format": "口播/图文",
-     "risk": "严格以官方通稿为准，避免过度解读或猜测未公开内容；不使用外媒未经证实的报道。",
-     "power": {
-      "score": 1,
-      "angle": "不建议植入"
-     }
-    },
-    "stats": {
-     "first_seen": "2026-09-26T03:36:28+08:00",
-     "origin_platform": "baidu",
-     "path": [
-      {
-       "platform": "baidu",
-       "time": "2026-09-26T03:36:28+08:00"
-      }
-     ],
-     "heat_log": [
-      {
-       "time": "2026-09-26T03:36:28+08:00",
-       "heat": 29
-      }
-     ],
-     "trend": "new",
-     "days": 1,
-     "appearances": 1
-    }
-   },
-   {
-    "title": "进一步丰富中美关系定位的内涵",
-    "raw_title": "进一步丰富中美关系定位的内涵",
-    "desc": "",
-    "platforms": [
-     "baidu"
-    ],
-    "links": {
-     "baidu": "https://m.baidu.com/s?word=%E8%BF%9B%E4%B8%80%E6%AD%A5%E4%B8%B0%E5%AF%8C%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB%E5%AE%9A%E4%BD%8D%E7%9A%84%E5%86%85%E6%B6%B5&sa=fyb_news"
-    },
-    "cover": "",
-    "heat": 28,
-    "age_min": 0,
-    "ai": {
-     "id": 5,
-     "title": "进一步丰富中美关系定位的内涵",
-     "summary": "官方表述中提出'进一步丰富中美关系定位的内涵'，引发国际关系学者和网友解读。这一提法被认为是对中美关系框架的补充和细化，涉及竞争、合作、管控分歧等多个维度。",
-     "category": "国际",
-     "angles": [
-      "深度解读：'丰富中美关系定位内涵'到底是什么意思，专家逐字拆解",
-      "背景科普：中美关系定位从'建设性合作'到'新型大国关系'的演变史",
-      "反向观点：定位再好听，关键还是看行动"
-     ],
-     "hook": "这句话信息量很大，中美关系定位又有新说法。",
-     "structure": "前5秒点出官方表述原文，中间梳理中美关系定位的历史演变，结尾分析新提法的现实指向和可能影响。",
-     "format": "口播/图文",
-     "risk": "严格引用官方表述，避免个人过度解读；不涉及敏感历史事件。",
-     "power": {
-      "score": 1,
-      "angle": "不建议植入"
-     }
-    },
-    "stats": {
-     "first_seen": "2026-09-26T03:36:28+08:00",
-     "origin_platform": "baidu",
-     "path": [
-      {
-       "platform": "baidu",
-       "time": "2026-09-26T03:36:28+08:00"
-      }
-     ],
-     "heat_log": [
-      {
-       "time": "2026-09-26T03:36:28+08:00",
-       "heat": 28
-      }
-     ],
-     "trend": "new",
-     "days": 1,
-     "appearances": 1
-    }
-   },
-   {
-    "title": "王楚钦说和孙颖莎配了很多年混双",
-    "raw_title": "王楚钦说和孙颖莎配了很多年混双",
+    "title": "国乒包揽冠亚军庆中秋",
+    "raw_title": "国乒包揽冠亚军庆祝中秋",
     "desc": "",
     "platforms": [
      "weibo"
     ],
     "links": {
-     "weibo": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%AF%B4%E5%92%8C%E5%AD%99%E9%A2%96%E8%8E%8E%E9%85%8D%E4%BA%86%E5%BE%88%E5%A4%9A%E5%B9%B4%E6%B7%B7%E5%8F%8C%23"
+     "weibo": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E5%8C%85%E6%8F%BD%E5%86%A0%E4%BA%9A%E5%86%9B%E5%BA%86%E7%A5%9D%E4%B8%AD%E7%A7%8B%23"
     },
     "cover": "",
     "heat": 27,
     "age_min": 0,
     "ai": {
      "id": 6,
-     "title": "王楚钦说和孙颖莎配了很多年混双",
-     "summary": "王楚钦在采访中谈到与孙颖莎多年混双搭档的默契，引发'莎头CP'粉丝热议。两人从青少年时期就开始配对，成绩斐然，粉丝对两人的关系和默契度持续关注。争议点在于运动员是否应该被过度'CP化'。",
+     "title": "国乒包揽冠亚军庆中秋",
+     "summary": "国乒在国际赛事中包揽冠亚军，恰逢中秋佳节，队员用优异成绩献礼节日。话题引发网友对国乒统治力、运动员拼搏精神的讨论和节日情绪共鸣。",
      "category": "体育",
      "angles": [
-      "花边向：王楚钦孙颖莎的默契瞬间混剪，配了这么多年到底有多懂对方",
-      "反向观点：运动员不是偶像，过度CP化对他们是负担",
-      "深度解读：莎头组合的技术互补性分析，为什么他们能赢"
+      "国乒包揽冠亚军背后的训练日常：冠军是怎么炼成的",
+      "中秋夺冠名场面混剪：国乒的节日仪式感",
+      "国乒为什么总能赢？从青训体系到心理建设的深度解析"
      ],
-     "hook": "配了这么多年，王楚钦一句话暴露了和孙颖莎的真实关系。",
-     "structure": "前3秒用采访原声+比赛默契画面切入，中间盘点两人经典配合瞬间，结尾引导理性追星、关注赛场表现。",
+     "hook": "中秋之夜，国乒又双叒包揽冠亚军了——这就是中国排面！",
+     "structure": "开头用夺冠瞬间+中秋元素混剪制造情绪高潮，中间盘点本次比赛亮点和运动员故事，结尾升华'团圆与荣耀'的情感主题。",
      "format": "混剪/口播",
-     "risk": "避免过度炒作运动员私人关系，防止引发粉丝互撕；使用采访素材注意版权。",
+     "risk": "注意赛事版权，避免使用未经授权的比赛画面。",
      "power": {
-      "score": 1,
-      "angle": "不建议植入"
+      "score": 3,
+      "angle": "大型赛事保电→赛场灯光与转播背后的电力保障→致敬幕后电力工作者"
      }
     },
     "stats": {
-     "first_seen": "2026-09-26T03:36:28+08:00",
+     "first_seen": "2026-09-26T06:52:03+08:00",
      "origin_platform": "weibo",
      "path": [
       {
        "platform": "weibo",
-       "time": "2026-09-26T03:36:28+08:00"
+       "time": "2026-09-26T06:52:03+08:00"
       }
      ],
      "heat_log": [
       {
-       "time": "2026-09-26T03:36:28+08:00",
+       "time": "2026-09-26T06:52:03+08:00",
        "heat": 27
       }
      ],
@@ -3381,187 +3313,31 @@
     }
    },
    {
-    "title": "网红长蛋挞能火多久",
-    "raw_title": "网红长蛋挞能火多久",
-    "desc": "",
-    "platforms": [
-     "bili"
-    ],
-    "links": {
-     "bili": "https://search.bilibili.com/all?keyword=%E7%BD%91%E7%BA%A2%E9%95%BF%E8%9B%8B%E6%8C%9E%E8%83%BD%E7%81%AB%E5%A4%9A%E4%B9%85"
-    },
-    "cover": "",
-    "heat": 26,
-    "age_min": 0,
-    "ai": {
-     "id": 8,
-     "title": "网红长蛋挞能火多久",
-     "summary": "一种超长尺寸的蛋挞在社交平台走红，成为打卡新宠。商家排队购买、黄牛加价、口感争议等话题随之而来。核心讨论在于：这类网红美食是昙花一现还是能持续迭代。",
-     "category": "生活",
-     "angles": [
-      "测评向：排了2小时买到的网红长蛋挞，到底值不值",
-      "深度解读：从脏脏包到长蛋挞，网红美食的生命周期为什么越来越短",
-      "反向观点：网红美食收割的是智商税还是社交货币"
-     ],
-     "hook": "排队两小时，就为了这一口长蛋挞？",
-     "structure": "前3秒展示长蛋挞的视觉冲击和排队盛况，中间实测口感和价格性价比，结尾讨论网红美食的流量逻辑和能火多久。",
-     "format": "街采/口播",
-     "risk": "避免为商家做硬广嫌疑；测评需客观，不夸大也不恶意贬低。",
-     "power": {
-      "score": 1,
-      "angle": "不建议植入"
-     }
-    },
-    "stats": {
-     "first_seen": "2026-09-26T03:36:28+08:00",
-     "origin_platform": "bili",
-     "path": [
-      {
-       "platform": "bili",
-       "time": "2026-09-26T03:36:28+08:00"
-      }
-     ],
-     "heat_log": [
-      {
-       "time": "2026-09-26T03:36:28+08:00",
-       "heat": 26
-      }
-     ],
-     "trend": "new",
-     "days": 1,
-     "appearances": 1
-    }
-   },
-   {
-    "title": "戚薇造型被指撞脸蔡明引热议",
-    "raw_title": "戚薇造型 致敬蔡明",
+    "title": "宁波小孩姐陈妤颉成亚洲女子飞人",
+    "raw_title": "宁波小孩姐陈妤颉成亚洲女子飞人",
     "desc": "",
     "platforms": [
      "weibo"
     ],
     "links": {
-     "weibo": "https://s.weibo.com/weibo?q=%23%E6%88%9A%E8%96%87%E9%80%A0%E5%9E%8B%20%E8%87%B4%E6%95%AC%E8%94%A1%E6%98%8E%23"
-    },
-    "cover": "",
-    "heat": 25,
-    "age_min": 0,
-    "ai": {
-     "id": 0,
-     "title": "戚薇造型被指撞脸蔡明引热议",
-     "summary": "戚薇在某活动/节目中的造型曝光后，被网友发现与蔡明的经典造型高度相似，相关对比图迅速传播。话题核心在于明星造型审美争议与'撞脸'梗的娱乐性，网友调侃与粉丝维护形成讨论热度。",
-     "category": "娱乐",
-     "angles": [
-      "蹭热度：盘点戚薇历年造型进化史，哪一版最像蔡明",
-      "反向观点：撞脸蔡明不丢人，蔡明才是被低估的时尚icon",
-      "情绪共鸣：从戚薇造型争议聊女明星'造型翻车'的舆论压力"
-     ],
-     "hook": "戚薇这次造型，网友第一眼喊出了蔡明的名字！",
-     "structure": "前3秒放出对比图制造冲击，中间快速剪辑两人相似造型名场面并穿插网友神评论，结尾抛出'你觉得像不像'引导互动。",
-     "format": "混剪",
-     "risk": "避免恶意嘲讽艺人外貌，注意使用正版活动图，防止粉丝举报引战。",
-     "power": {
-      "score": 1,
-      "angle": "不建议植入"
-     }
-    },
-    "stats": {
-     "first_seen": "2026-09-26T03:36:28+08:00",
-     "origin_platform": "weibo",
-     "path": [
-      {
-       "platform": "weibo",
-       "time": "2026-09-26T03:36:28+08:00"
-      }
-     ],
-     "heat_log": [
-      {
-       "time": "2026-09-26T03:36:28+08:00",
-       "heat": 25
-      }
-     ],
-     "trend": "new",
-     "days": 1,
-     "appearances": 1
-    }
-   },
-   {
-    "title": "女篮三分13投0中，高快结合打法遇困境",
-    "raw_title": "三分球13投0中凸显女篮高快结合困境",
-    "desc": "",
-    "platforms": [
-     "toutiao"
-    ],
-    "links": {
-     "toutiao": "https://www.toutiao.com/trending/7689477961749106214/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227689477961749106214%22%2C%22hot_board_impr_id%22%3A%2220260926033605AE544A1FD00ED02272E8%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%89%E5%88%86%E7%90%8313%E6%8A%950%E4%B8%AD%E5%87%B8%E6%98%BE%E5%A5%B3%E7%AF%AE%E9%AB%98%E5%BF%AB%E7%BB%93%E5%90%88%E5%9B%B0%E5%A2%83%22%7D&rank=&style_id=40132&topic_id=7689477961749106214"
-    },
-    "cover": "https://p3-sign.toutiaoimg.com/mosaic-legacy/2b29000036f8405561443~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1792886400&x-signature=ce3807AVCNv%2Fmd9F4mDS35nAzWs%3D",
-    "heat": 25,
-    "age_min": 0,
-    "ai": {
-     "id": 0,
-     "title": "女篮三分13投0中，高快结合打法遇困境",
-     "summary": "中国女篮在一场比赛中三分球13投0中，暴露出球队在高快结合战术体系下的投射短板。球迷热议球队外线火力不足、战术执行僵化，教练组用人策略也遭到质疑。",
-     "category": "体育",
-     "angles": [
-      "数据复盘：13中0背后是手感问题还是战术问题",
-      "对比分析：世界强队如何破解高快结合投射难题",
-      "情绪共鸣：球迷恨铁不成钢，女篮到底差在哪"
-     ],
-     "hook": "三分13投0中！中国女篮的高快结合，怎么就成了高快'打铁'？",
-     "structure": "前3秒抛出13中0的扎心数据，中间快速拆解几个关键回合的进攻选择，结尾抛出问题引导评论区讨论女篮出路。",
-     "format": "口播/混剪",
-     "risk": "避免过度批评运动员个人，注意不要引发性别对立言论。",
-     "power": {
-      "score": 1,
-      "angle": "不建议植入"
-     }
-    },
-    "stats": {
-     "first_seen": "2026-09-26T03:36:28+08:00",
-     "origin_platform": "toutiao",
-     "path": [
-      {
-       "platform": "toutiao",
-       "time": "2026-09-26T03:36:28+08:00"
-      }
-     ],
-     "heat_log": [
-      {
-       "time": "2026-09-26T03:36:28+08:00",
-       "heat": 25
-      }
-     ],
-     "trend": "new",
-     "days": 1,
-     "appearances": 1
-    }
-   },
-   {
-    "title": "对谈一饭封神2总冠军邓华东",
-    "raw_title": "对谈一饭封神2总冠军邓华东",
-    "desc": "",
-    "platforms": [
-     "bili"
-    ],
-    "links": {
-     "bili": "https://search.bilibili.com/all?keyword=%E5%AF%B9%E8%B0%88%E4%B8%80%E9%A5%AD%E5%B0%81%E7%A5%9E2%E6%80%BB%E5%86%A0%E5%86%9B%E9%82%93%E5%8D%8E%E4%B8%9C"
+     "weibo": "https://s.weibo.com/weibo?q=%23%E5%AE%81%E6%B3%A2%E5%B0%8F%E5%AD%A9%E5%A7%90%E9%99%88%E5%A6%A4%E9%A2%89%E6%88%90%E4%BA%9A%E6%B4%B2%E5%A5%B3%E5%AD%90%E9%A3%9E%E4%BA%BA%23"
     },
     "cover": "",
     "heat": 24,
     "age_min": 0,
     "ai": null,
     "stats": {
-     "first_seen": "2026-09-26T03:36:28+08:00",
-     "origin_platform": "bili",
+     "first_seen": "2026-09-26T06:52:03+08:00",
+     "origin_platform": "weibo",
      "path": [
       {
-       "platform": "bili",
-       "time": "2026-09-26T03:36:28+08:00"
+       "platform": "weibo",
+       "time": "2026-09-26T06:52:03+08:00"
       }
      ],
      "heat_log": [
       {
-       "time": "2026-09-26T03:36:28+08:00",
+       "time": "2026-09-26T06:52:03+08:00",
        "heat": 24
       }
      ],
@@ -3571,32 +3347,32 @@
     }
    },
    {
-    "title": "赵星棠下线了",
-    "raw_title": "赵星棠下线了",
+    "title": "戚薇 用小推车推着走红毯",
+    "raw_title": "戚薇 用小推车推着走红毯",
     "desc": "",
     "platforms": [
      "weibo"
     ],
     "links": {
-     "weibo": "https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%98%9F%E6%A3%A0%E4%B8%8B%E7%BA%BF%E4%BA%86%23"
+     "weibo": "https://s.weibo.com/weibo?q=%23%E6%88%9A%E8%96%87%20%E7%94%A8%E5%B0%8F%E6%8E%A8%E8%BD%A6%E6%8E%A8%E7%9D%80%E8%B5%B0%E7%BA%A2%E6%AF%AF%23"
     },
     "cover": "",
-    "heat": 23,
+    "heat": 14,
     "age_min": 0,
     "ai": null,
     "stats": {
-     "first_seen": "2026-09-26T03:36:28+08:00",
+     "first_seen": "2026-09-26T06:52:03+08:00",
      "origin_platform": "weibo",
      "path": [
       {
        "platform": "weibo",
-       "time": "2026-09-26T03:36:28+08:00"
+       "time": "2026-09-26T06:52:03+08:00"
       }
      ],
      "heat_log": [
       {
-       "time": "2026-09-26T03:36:28+08:00",
-       "heat": 23
+       "time": "2026-09-26T06:52:03+08:00",
+       "heat": 14
       }
      ],
      "trend": "new",
@@ -3605,32 +3381,32 @@
     }
    },
    {
-    "title": "吴艳妮 林雨薇",
-    "raw_title": "吴艳妮 林雨薇",
+    "title": "王楚钦说团体失利心情低落",
+    "raw_title": "王楚钦说团体失利心情低落",
     "desc": "",
     "platforms": [
      "weibo"
     ],
     "links": {
-     "weibo": "https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%89%B3%E5%A6%AE%20%E6%9E%97%E9%9B%A8%E8%96%87%23"
+     "weibo": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%AF%B4%E5%9B%A2%E4%BD%93%E5%A4%B1%E5%88%A9%E5%BF%83%E6%83%85%E4%BD%8E%E8%90%BD%23"
     },
     "cover": "",
-    "heat": 22,
+    "heat": 11,
     "age_min": 0,
     "ai": null,
     "stats": {
-     "first_seen": "2026-09-26T03:36:28+08:00",
+     "first_seen": "2026-09-26T06:52:03+08:00",
      "origin_platform": "weibo",
      "path": [
       {
        "platform": "weibo",
-       "time": "2026-09-26T03:36:28+08:00"
+       "time": "2026-09-26T06:52:03+08:00"
       }
      ],
      "heat_log": [
       {
-       "time": "2026-09-26T03:36:28+08:00",
-       "heat": 22
+       "time": "2026-09-26T06:52:03+08:00",
+       "heat": 11
       }
      ],
      "trend": "new",
@@ -3639,168 +3415,32 @@
     }
    },
    {
-    "title": "NRG MADA冠军赛专访",
-    "raw_title": "NRG MADA冠军赛专访",
-    "desc": "",
-    "platforms": [
-     "bili"
-    ],
-    "links": {
-     "bili": "https://search.bilibili.com/all?keyword=NRG%20MADA%E5%86%A0%E5%86%9B%E8%B5%9B%E4%B8%93%E8%AE%BF"
-    },
-    "cover": "",
-    "heat": 22,
-    "age_min": 0,
-    "ai": null,
-    "stats": {
-     "first_seen": "2026-09-26T03:36:28+08:00",
-     "origin_platform": "bili",
-     "path": [
-      {
-       "platform": "bili",
-       "time": "2026-09-26T03:36:28+08:00"
-      }
-     ],
-     "heat_log": [
-      {
-       "time": "2026-09-26T03:36:28+08:00",
-       "heat": 22
-      }
-     ],
-     "trend": "new",
-     "days": 1,
-     "appearances": 1
-    }
-   },
-   {
-    "title": "琵琶曲但是纯手绘",
-    "raw_title": "琵琶曲但是纯手绘",
-    "desc": "",
-    "platforms": [
-     "bili"
-    ],
-    "links": {
-     "bili": "https://search.bilibili.com/all?keyword=%E7%90%B5%E7%90%B6%E6%9B%B2%E4%BD%86%E6%98%AF%E7%BA%AF%E6%89%8B%E7%BB%98"
-    },
-    "cover": "",
-    "heat": 21,
-    "age_min": 0,
-    "ai": null,
-    "stats": {
-     "first_seen": "2026-09-26T03:36:28+08:00",
-     "origin_platform": "bili",
-     "path": [
-      {
-       "platform": "bili",
-       "time": "2026-09-26T03:36:28+08:00"
-      }
-     ],
-     "heat_log": [
-      {
-       "time": "2026-09-26T03:36:28+08:00",
-       "heat": 21
-      }
-     ],
-     "trend": "new",
-     "days": 1,
-     "appearances": 1
-    }
-   },
-   {
-    "title": "男子输液后自尽留观室监控曝光",
-    "raw_title": "男子输液后自尽留观室监控曝光",
-    "desc": "",
-    "platforms": [
-     "weibo"
-    ],
-    "links": {
-     "weibo": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%BE%93%E6%B6%B2%E5%90%8E%E8%87%AA%E5%B0%BD%E7%95%99%E8%A7%82%E5%AE%A4%E7%9B%91%E6%8E%A7%E6%9B%9D%E5%85%89%23"
-    },
-    "cover": "",
-    "heat": 20,
-    "age_min": 0,
-    "ai": null,
-    "stats": {
-     "first_seen": "2026-09-26T03:36:28+08:00",
-     "origin_platform": "weibo",
-     "path": [
-      {
-       "platform": "weibo",
-       "time": "2026-09-26T03:36:28+08:00"
-      }
-     ],
-     "heat_log": [
-      {
-       "time": "2026-09-26T03:36:28+08:00",
-       "heat": 20
-      }
-     ],
-     "trend": "new",
-     "days": 1,
-     "appearances": 1
-    }
-   },
-   {
-    "title": "新华社为王楚钦发声",
-    "raw_title": "新华社为王楚钦发声",
-    "desc": "",
-    "platforms": [
-     "weibo"
-    ],
-    "links": {
-     "weibo": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8D%8E%E7%A4%BE%E4%B8%BA%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%8F%91%E5%A3%B0%23"
-    },
-    "cover": "",
-    "heat": 19,
-    "age_min": 0,
-    "ai": null,
-    "stats": {
-     "first_seen": "2026-09-26T03:36:28+08:00",
-     "origin_platform": "weibo",
-     "path": [
-      {
-       "platform": "weibo",
-       "time": "2026-09-26T03:36:28+08:00"
-      }
-     ],
-     "heat_log": [
-      {
-       "time": "2026-09-26T03:36:28+08:00",
-       "heat": 19
-      }
-     ],
-     "trend": "new",
-     "days": 1,
-     "appearances": 1
-    }
-   },
-   {
-    "title": "陈妤颉：妈妈我有出息了",
-    "raw_title": "陈妤颉：妈妈我有出息了",
+    "title": "新手父母过中秋的新方式",
+    "raw_title": "新手父母过中秋的新方式",
     "desc": "",
     "platforms": [
      "douyin"
     ],
     "links": {
-     "douyin": "https://www.douyin.com/search/%E9%99%88%E5%A6%A4%E9%A2%89%EF%BC%9A%E5%A6%88%E5%A6%88%E6%88%91%E6%9C%89%E5%87%BA%E6%81%AF%E4%BA%86"
+     "douyin": "https://www.douyin.com/search/%E6%96%B0%E6%89%8B%E7%88%B6%E6%AF%8D%E8%BF%87%E4%B8%AD%E7%A7%8B%E7%9A%84%E6%96%B0%E6%96%B9%E5%BC%8F"
     },
-    "cover": "https://p26-sign.douyinpic.com/tos-cn-i-0813c000-ce/oUMqPovIBZ8iCNa3PjTlrAajiA672TATBEjAA~noop.jpeg?lk3s=bfd515bb&x-expires=1790384400&x-signature=kqT3M91nsOnIulqRiADxysa4Kh0%3D&from=3218412987",
-    "heat": 19,
+    "cover": "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015/ocO2UUgWfAIhQEGoKBe1zCBRDiANiAYIIwxIbx~noop.jpeg?lk3s=bfd515bb&x-expires=1790395200&x-signature=VdWN6b8Nj7XS3EQWBUv%2FkH94B3Q%3D&from=3218412987",
+    "heat": 6,
     "age_min": 0,
     "ai": null,
     "stats": {
-     "first_seen": "2026-09-26T03:36:28+08:00",
+     "first_seen": "2026-09-26T06:52:03+08:00",
      "origin_platform": "douyin",
      "path": [
       {
        "platform": "douyin",
-       "time": "2026-09-26T03:36:28+08:00"
+       "time": "2026-09-26T06:52:03+08:00"
       }
      ],
      "heat_log": [
       {
-       "time": "2026-09-26T03:36:28+08:00",
-       "heat": 19
+       "time": "2026-09-26T06:52:03+08:00",
+       "heat": 6
       }
      ],
      "trend": "new",
@@ -3809,32 +3449,338 @@
     }
    },
    {
-    "title": "毛晓彤中秋晚会造型好美",
-    "raw_title": "毛晓彤中秋晚会造型好美",
+    "title": "这个中秋古味很重",
+    "raw_title": "这个中秋古味很重",
+    "desc": "",
+    "platforms": [
+     "douyin"
+    ],
+    "links": {
+     "douyin": "https://www.douyin.com/search/%E8%BF%99%E4%B8%AA%E4%B8%AD%E7%A7%8B%E5%8F%A4%E5%91%B3%E5%BE%88%E9%87%8D"
+    },
+    "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015c000-ce/oEx0rhPAPEthiB5A6yhJAIp1XMPVakv9GxibV~noop.jpeg?lk3s=bfd515bb&x-expires=1790395200&x-signature=YqbSaO%2FBgKE5iGavAL8qAcJpIs0%3D&from=3218412987",
+    "heat": 5,
+    "age_min": 0,
+    "ai": null,
+    "stats": {
+     "first_seen": "2026-09-26T06:52:03+08:00",
+     "origin_platform": "douyin",
+     "path": [
+      {
+       "platform": "douyin",
+       "time": "2026-09-26T06:52:03+08:00"
+      }
+     ],
+     "heat_log": [
+      {
+       "time": "2026-09-26T06:52:03+08:00",
+       "heat": 5
+      }
+     ],
+     "trend": "new",
+     "days": 1,
+     "appearances": 1
+    }
+   },
+   {
+    "title": "粤港澳大湾区中秋晚会",
+    "raw_title": "粤港澳大湾区中秋晚会",
     "desc": "",
     "platforms": [
      "baidu"
     ],
     "links": {
-     "baidu": "https://m.baidu.com/s?word=%E6%AF%9B%E6%99%93%E5%BD%A4%E4%B8%AD%E7%A7%8B%E6%99%9A%E4%BC%9A%E9%80%A0%E5%9E%8B%E5%A5%BD%E7%BE%8E&sa=fyb_news"
+     "baidu": "https://m.baidu.com/s?word=%E7%B2%A4%E6%B8%AF%E6%BE%B3%E5%A4%A7%E6%B9%BE%E5%8C%BA%E4%B8%AD%E7%A7%8B%E6%99%9A%E4%BC%9A&sa=fyb_news"
     },
     "cover": "",
-    "heat": 18,
+    "heat": 5,
     "age_min": 0,
     "ai": null,
     "stats": {
-     "first_seen": "2026-09-26T03:36:28+08:00",
+     "first_seen": "2026-09-26T06:52:03+08:00",
      "origin_platform": "baidu",
      "path": [
       {
        "platform": "baidu",
-       "time": "2026-09-26T03:36:28+08:00"
+       "time": "2026-09-26T06:52:03+08:00"
       }
      ],
      "heat_log": [
       {
-       "time": "2026-09-26T03:36:28+08:00",
-       "heat": 18
+       "time": "2026-09-26T06:52:03+08:00",
+       "heat": 5
+      }
+     ],
+     "trend": "new",
+     "days": 1,
+     "appearances": 1
+    }
+   },
+   {
+    "title": "晒出你家的中秋家宴",
+    "raw_title": "晒出你家的中秋家宴",
+    "desc": "",
+    "platforms": [
+     "douyin"
+    ],
+    "links": {
+     "douyin": "https://www.douyin.com/search/%E6%99%92%E5%87%BA%E4%BD%A0%E5%AE%B6%E7%9A%84%E4%B8%AD%E7%A7%8B%E5%AE%B6%E5%AE%B4"
+    },
+    "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/ooZ4ICMNaBAK3ZZA1mi4Ae1FiAYgVBBWItfb0i~noop.jpeg?lk3s=bfd515bb&x-expires=1790395200&x-signature=HB21iFum5X%2FRZDXtLQBtDchnC7c%3D&from=3218412987",
+    "heat": 4,
+    "age_min": 0,
+    "ai": null,
+    "stats": {
+     "first_seen": "2026-09-26T06:52:03+08:00",
+     "origin_platform": "douyin",
+     "path": [
+      {
+       "platform": "douyin",
+       "time": "2026-09-26T06:52:03+08:00"
+      }
+     ],
+     "heat_log": [
+      {
+       "time": "2026-09-26T06:52:03+08:00",
+       "heat": 4
+      }
+     ],
+     "trend": "new",
+     "days": 1,
+     "appearances": 1
+    }
+   },
+   {
+    "title": "“中国天眼”十岁了",
+    "raw_title": "“中国天眼”十岁了",
+    "desc": "",
+    "platforms": [
+     "baidu"
+    ],
+    "links": {
+     "baidu": "https://m.baidu.com/s?word=%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%A4%A9%E7%9C%BC%E2%80%9D%E5%8D%81%E5%B2%81%E4%BA%86&sa=fyb_news"
+    },
+    "cover": "",
+    "heat": 4,
+    "age_min": 0,
+    "ai": null,
+    "stats": {
+     "first_seen": "2026-09-26T06:52:03+08:00",
+     "origin_platform": "baidu",
+     "path": [
+      {
+       "platform": "baidu",
+       "time": "2026-09-26T06:52:03+08:00"
+      }
+     ],
+     "heat_log": [
+      {
+       "time": "2026-09-26T06:52:03+08:00",
+       "heat": 4
+      }
+     ],
+     "trend": "new",
+     "days": 1,
+     "appearances": 1
+    }
+   },
+   {
+    "title": "为什么中秋要在八月十五",
+    "raw_title": "为什么中秋要在八月十五",
+    "desc": "",
+    "platforms": [
+     "baidu"
+    ],
+    "links": {
+     "baidu": "https://m.baidu.com/s?word=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%AD%E7%A7%8B%E8%A6%81%E5%9C%A8%E5%85%AB%E6%9C%88%E5%8D%81%E4%BA%94&sa=fyb_news"
+    },
+    "cover": "",
+    "heat": 3,
+    "age_min": 0,
+    "ai": null,
+    "stats": {
+     "first_seen": "2026-09-26T06:52:03+08:00",
+     "origin_platform": "baidu",
+     "path": [
+      {
+       "platform": "baidu",
+       "time": "2026-09-26T06:52:03+08:00"
+      }
+     ],
+     "heat_log": [
+      {
+       "time": "2026-09-26T06:52:03+08:00",
+       "heat": 3
+      }
+     ],
+     "trend": "new",
+     "days": 1,
+     "appearances": 1
+    }
+   },
+   {
+    "title": "白宫晚宴各环节遍布中国元素",
+    "raw_title": "白宫晚宴各环节遍布中国元素",
+    "desc": "",
+    "platforms": [
+     "douyin"
+    ],
+    "links": {
+     "douyin": "https://www.douyin.com/search/%E7%99%BD%E5%AE%AB%E6%99%9A%E5%AE%B4%E5%90%84%E7%8E%AF%E8%8A%82%E9%81%8D%E5%B8%83%E4%B8%AD%E5%9B%BD%E5%85%83%E7%B4%A0"
+    },
+    "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/oMCA9GiW4IBGizDAfq2gvYi911IbeqPADW7tvB~noop.jpeg?lk3s=bfd515bb&x-expires=1790395200&x-signature=CTTQrOB0zLA43H0ivOyYgfbCDsU%3D&from=3218412987",
+    "heat": 2,
+    "age_min": 0,
+    "ai": null,
+    "stats": {
+     "first_seen": "2026-09-26T06:52:03+08:00",
+     "origin_platform": "douyin",
+     "path": [
+      {
+       "platform": "douyin",
+       "time": "2026-09-26T06:52:03+08:00"
+      }
+     ],
+     "heat_log": [
+      {
+       "time": "2026-09-26T06:52:03+08:00",
+       "heat": 2
+      }
+     ],
+     "trend": "new",
+     "days": 1,
+     "appearances": 1
+    }
+   },
+   {
+    "title": "孙颖莎王艺迪入围WTT香港总决赛",
+    "raw_title": "孙颖莎王艺迪入围WTT香港总决赛",
+    "desc": "",
+    "platforms": [
+     "toutiao"
+    ],
+    "links": {
+     "toutiao": "https://www.toutiao.com/trending/7688860873632530475/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227688860873632530475%22%2C%22hot_board_impr_id%22%3A%222026092606513900FD3F3F80DC9E3B056F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%AD%99%E9%A2%96%E8%8E%8E%E7%8E%8B%E8%89%BA%E8%BF%AA%E5%85%A5%E5%9B%B4WTT%E9%A6%99%E6%B8%AF%E6%80%BB%E5%86%B3%E8%B5%9B%22%7D&rank=&style_id=40132&topic_id=7688860873632530475"
+    },
+    "cover": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/e8a068cb29d842099dd25282ba8781c7~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1792886400&x-signature=4Z3N1FvAhYMpYKAM76ZDupeXLhk%3D",
+    "heat": 2,
+    "age_min": 0,
+    "ai": null,
+    "stats": {
+     "first_seen": "2026-09-26T06:52:03+08:00",
+     "origin_platform": "toutiao",
+     "path": [
+      {
+       "platform": "toutiao",
+       "time": "2026-09-26T06:52:03+08:00"
+      }
+     ],
+     "heat_log": [
+      {
+       "time": "2026-09-26T06:52:03+08:00",
+       "heat": 2
+      }
+     ],
+     "trend": "new",
+     "days": 1,
+     "appearances": 1
+    }
+   },
+   {
+    "title": "苏炳添9秒83的含金量还在上升",
+    "raw_title": "苏炳添9秒83的含金量还在上升",
+    "desc": "",
+    "platforms": [
+     "weibo"
+    ],
+    "links": {
+     "weibo": "https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB9%E7%A7%9283%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F%E8%BF%98%E5%9C%A8%E4%B8%8A%E5%8D%87%23"
+    },
+    "cover": "",
+    "heat": 1,
+    "age_min": 0,
+    "ai": null,
+    "stats": {
+     "first_seen": "2026-09-26T06:52:03+08:00",
+     "origin_platform": "weibo",
+     "path": [
+      {
+       "platform": "weibo",
+       "time": "2026-09-26T06:52:03+08:00"
+      }
+     ],
+     "heat_log": [
+      {
+       "time": "2026-09-26T06:52:03+08:00",
+       "heat": 1
+      }
+     ],
+     "trend": "new",
+     "days": 1,
+     "appearances": 1
+    }
+   },
+   {
+    "title": "李现新剧师父也是仇人",
+    "raw_title": "李现新剧师父也是仇人",
+    "desc": "",
+    "platforms": [
+     "douyin"
+    ],
+    "links": {
+     "douyin": "https://www.douyin.com/search/%E6%9D%8E%E7%8E%B0%E6%96%B0%E5%89%A7%E5%B8%88%E7%88%B6%E4%B9%9F%E6%98%AF%E4%BB%87%E4%BA%BA"
+    },
+    "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/o0OgcriYBIWj21xjAAiEDge6cBfs1DAIiQgHAW~noop.jpeg?lk3s=bfd515bb&x-expires=1790395200&x-signature=XKJmnceoySJMW4O1Cs8cuBuVDjs%3D&from=3218412987",
+    "heat": 1,
+    "age_min": 0,
+    "ai": null,
+    "stats": {
+     "first_seen": "2026-09-26T06:52:03+08:00",
+     "origin_platform": "douyin",
+     "path": [
+      {
+       "platform": "douyin",
+       "time": "2026-09-26T06:52:03+08:00"
+      }
+     ],
+     "heat_log": [
+      {
+       "time": "2026-09-26T06:52:03+08:00",
+       "heat": 1
+      }
+     ],
+     "trend": "new",
+     "days": 1,
+     "appearances": 1
+    }
+   },
+   {
+    "title": "网友称为抢票下5个候补订单 花1万多",
+    "raw_title": "网友称为抢票下5个候补订单 花1万多",
+    "desc": "",
+    "platforms": [
+     "baidu"
+    ],
+    "links": {
+     "baidu": "https://m.baidu.com/s?word=%E7%BD%91%E5%8F%8B%E7%A7%B0%E4%B8%BA%E6%8A%A2%E7%A5%A8%E4%B8%8B5%E4%B8%AA%E5%80%99%E8%A1%A5%E8%AE%A2%E5%8D%95+%E8%8A%B11%E4%B8%87%E5%A4%9A&sa=fyb_news"
+    },
+    "cover": "",
+    "heat": 1,
+    "age_min": 0,
+    "ai": null,
+    "stats": {
+     "first_seen": "2026-09-26T06:52:03+08:00",
+     "origin_platform": "baidu",
+     "path": [
+      {
+       "platform": "baidu",
+       "time": "2026-09-26T06:52:03+08:00"
+      }
+     ],
+     "heat_log": [
+      {
+       "time": "2026-09-26T06:52:03+08:00",
+       "heat": 1
       }
      ],
      "trend": "new",
@@ -3858,11 +3804,11 @@
    "links": {
     "weibo": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E4%B8%A4%E5%9B%BD%E5%85%83%E9%A6%96%E5%A4%AB%E5%A6%87%E5%8F%82%E8%A7%82%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%AE%B6%E6%A1%A3%E6%A1%88%E9%A6%86%23",
     "baidu": "https://m.baidu.com/s?word=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E5%A4%AB%E5%A6%87%E5%8F%82%E8%A7%82%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%AE%B6%E6%A1%A3%E6%A1%88%E9%A6%86&sa=fyb_news",
-    "toutiao": "https://www.toutiao.com/trending/7689024369510665791/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227689024369510665791%22%2C%22hot_board_impr_id%22%3A%2220260926033605AE544A1FD00ED02272E8%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E7%BE%8E%E4%B8%A4%E5%9B%BD%E5%85%83%E9%A6%96%E5%A4%AB%E5%A6%87%E8%8C%B6%E5%8F%99%22%7D&rank=&style_id=40132&topic_id=7689024369510665791",
+    "toutiao": "https://www.toutiao.com/trending/7689024369510665791/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227689024369510665791%22%2C%22hot_board_impr_id%22%3A%222026092606513900FD3F3F80DC9E3B056F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E7%BE%8E%E4%B8%A4%E5%9B%BD%E5%85%83%E9%A6%96%E5%A4%AB%E5%A6%87%E8%8C%B6%E5%8F%99%22%7D&rank=&style_id=40132&topic_id=7689024369510665791",
     "bili": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E4%B8%A4%E5%9B%BD%E5%85%83%E9%A6%96%E5%A4%AB%E5%A6%87%E5%8F%82%E8%A7%82%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%AE%B6%E6%A1%A3%E6%A1%88%E9%A6%86"
    },
    "cover": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/810a545c2a9a41d1aacc085ac8c167a3~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1792886400&x-signature=5Wrik8lzqXgZUyXH5wjNAk7%2FGtE%3D",
-   "heat": 265,
+   "heat": 286,
    "ai": {
     "id": 2,
     "title": "中美两国元首夫妇茶叙",
@@ -3911,11 +3857,15 @@
      {
       "time": "2026-09-26T03:36:28+08:00",
       "heat": 265
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
+      "heat": 286
      }
     ],
     "trend": "new",
     "days": 2,
-    "appearances": 2
+    "appearances": 3
    }
   },
   {
@@ -3929,11 +3879,11 @@
    ],
    "links": {
     "douyin": "https://www.douyin.com/search/%E9%99%88%E5%A6%A4%E9%A2%89%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%99%BE%E7%B1%B3%E5%A4%BA%E5%86%A0",
-    "toutiao": "https://www.toutiao.com/trending/7688791634830082074/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227688791634830082074%22%2C%22hot_board_impr_id%22%3A%2220260926033605AE544A1FD00ED02272E8%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%2217%E5%B2%81%E9%99%88%E5%A6%A4%E9%A2%89%E5%A5%B3%E5%AD%90%E7%99%BE%E7%B1%B3%E5%A4%BA%E5%86%A0%22%7D&rank=&style_id=40132&topic_id=7688791634830082074",
+    "toutiao": "https://www.toutiao.com/trending/7688791634830082074/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227688791634830082074%22%2C%22hot_board_impr_id%22%3A%222026092606513900FD3F3F80DC9E3B056F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%2217%E5%B2%81%E9%99%88%E5%A6%A4%E9%A2%89%E5%A5%B3%E5%AD%90%E7%99%BE%E7%B1%B3%E5%A4%BA%E5%86%A0%22%7D&rank=&style_id=40132&topic_id=7688791634830082074",
     "bili": "https://search.bilibili.com/all?keyword=%E9%99%88%E5%A6%A4%E9%A2%89%E4%BA%9A%E8%BF%90%E4%BC%9A100%E7%B1%B3%E5%A4%BA%E5%86%A0"
    },
-   "cover": "https://p3-sign.douyinpic.com/tos-cn-i-dy/c13520f04f8544249e8a8b175aee9ca9~noop.jpeg?lk3s=bfd515bb&x-expires=1790384400&x-signature=CEfV1rc%2BeYltc6jen6koL%2BoS2lg%3D&from=3218412987",
-   "heat": 177,
+   "cover": "https://p11-sign.douyinpic.com/tos-cn-i-dy/c13520f04f8544249e8a8b175aee9ca9~noop.jpeg?lk3s=bfd515bb&x-expires=1790395200&x-signature=szIYpia86hm7u73nAYLXntRiBKA%3D&from=3218412987",
+   "heat": 172,
    "ai": {
     "id": 0,
     "title": "陈妤颉亚运会100米夺冠",
@@ -3986,11 +3936,19 @@
      {
       "time": "2026-09-26T03:36:28+08:00",
       "heat": 177
+     },
+     {
+      "time": "2026-09-26T03:36:28+08:00",
+      "heat": 21
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
+      "heat": 172
      }
     ],
-    "trend": "new",
+    "trend": "flat",
     "days": 2,
-    "appearances": 3
+    "appearances": 5
    }
   },
   {
@@ -4047,11 +4005,15 @@
      {
       "time": "2026-09-26T03:36:28+08:00",
       "heat": 110
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
+      "heat": 110
      }
     ],
     "trend": "new",
     "days": 2,
-    "appearances": 2
+    "appearances": 3
    }
   },
   {
@@ -4066,7 +4028,7 @@
     "weibo": "https://s.weibo.com/weibo?q=%23%E4%BB%8E%E4%B8%80%E6%92%87%E4%B8%80%E6%8D%BA%E7%9C%8B%E4%B8%AD%E7%BE%8E%E9%9D%92%E5%B9%B4%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%23",
     "douyin": "https://www.douyin.com/search/%E4%B8%AD%E7%BE%8E%E9%9D%92%E5%B9%B4%E2%80%9C%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4%E2%80%9D"
    },
-   "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015/okQDqtQ8iZLkABOgiiEAEgeAESDR21rQkgfF9Q~noop.jpeg?lk3s=bfd515bb&x-expires=1790384400&x-signature=STeVd%2FmOWPwERD5NgPMQaWGWHRs%3D&from=3218412987",
+   "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/okQDqtQ8iZLkABOgiiEAEgeAESDR21rQkgfF9Q~noop.jpeg?lk3s=bfd515bb&x-expires=1790395200&x-signature=8nBeJFcy8RET5pzCL7CpJROzqL4%3D&from=3218412987",
    "heat": 106,
    "ai": {
     "id": 4,
@@ -4116,11 +4078,84 @@
      {
       "time": "2026-09-26T03:36:28+08:00",
       "heat": 106
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
+      "heat": 106
      }
     ],
-    "trend": "new",
+    "trend": "up",
     "days": 2,
-    "appearances": 3
+    "appearances": 4
+   }
+  },
+  {
+   "title": "孙颖莎王楚钦晋级混双半决赛",
+   "raw_title": "孙颖莎王楚钦晋级混双决赛",
+   "desc": "",
+   "platforms": [
+    "weibo",
+    "douyin"
+   ],
+   "links": {
+    "weibo": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E%20%E6%B7%B7%E5%8F%8C%E5%8D%8A%E5%86%B3%E8%B5%9B%23",
+    "douyin": "https://www.douyin.com/search/%E5%AD%99%E9%A2%96%E8%8E%8E%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%99%8B%E7%BA%A7%E6%B7%B7%E5%8F%8C%E5%86%B3%E8%B5%9B"
+   },
+   "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/oURtDfkKAEoNII1fSEqgFBI1I89dAcOQmACSHb~noop.jpeg?lk3s=bfd515bb&x-expires=1790395200&x-signature=6y7OEtDQBmVpx6kxJbxnCvr2%2Bug%3D&from=3218412987",
+   "heat": 96,
+   "ai": {
+    "id": 4,
+    "title": "孙颖莎王楚钦晋级混双半决赛",
+    "summary": "孙颖莎与王楚钦在混双比赛中成功晋级半决赛，'莎头组合'再度展现强大实力。两人默契配合引发球迷狂欢，相关话题迅速登上热搜，网友期待他们冲击冠军，也有讨论对手实力与夺冠前景。",
+    "category": "体育",
+    "angles": [
+     "莎头组合默契名场面盘点，眼神交流太绝了",
+     "技术流分析：孙颖莎王楚钦混双强在哪",
+     "反向角度：混双压力有多大，两人如何互相成就"
+    ],
+    "hook": "莎头组合又赢了！这默契简直像一个人！",
+    "structure": "开头用比赛高光得分瞬间，中间分析配合亮点与晋级形势，结尾预测决赛并引导球迷加油。",
+    "format": "混剪/口播",
+    "risk": "注意使用赛事版权画面需授权，避免引战其他选手粉丝。",
+    "power": {
+     "score": 2,
+     "angle": "不建议植入"
+    }
+   },
+   "stats": {
+    "first_seen": "2026-09-25T13:37:51+08:00",
+    "origin_platform": "weibo",
+    "path": [
+     {
+      "platform": "weibo",
+      "time": "2026-09-25T13:37:51+08:00"
+     },
+     {
+      "platform": "douyin",
+      "time": "2026-09-25T13:37:51+08:00"
+     }
+    ],
+    "heat_log": [
+     {
+      "time": "2026-09-25T13:37:51+08:00",
+      "heat": 89
+     },
+     {
+      "time": "2026-09-25T18:38:02+08:00",
+      "heat": 26
+     },
+     {
+      "time": "2026-09-26T03:36:28+08:00",
+      "heat": 73
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
+      "heat": 96
+     }
+    ],
+    "trend": "flat",
+    "days": 2,
+    "appearances": 4
    }
   },
   {
@@ -4133,10 +4168,10 @@
    ],
    "links": {
     "baidu": "https://m.baidu.com/s?word=%E6%B3%B0%E5%9B%BD%E9%80%89%E6%89%8B%E6%89%93%E7%A0%B4%E8%8B%8F%E7%82%B3%E6%B7%BB%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%BA%AA%E5%BD%95&sa=fyb_news",
-    "toutiao": "https://www.toutiao.com/trending/7688954157013155883/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227688954157013155883%22%2C%22hot_board_impr_id%22%3A%2220260926033605AE544A1FD00ED02272E8%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%B3%B0%E5%9B%BD%E9%80%89%E6%89%8B%E6%89%93%E7%A0%B4%E8%8B%8F%E7%82%B3%E6%B7%BB%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%BA%AA%E5%BD%95%22%7D&rank=&style_id=40132&topic_id=7688954157013155883"
+    "toutiao": "https://www.toutiao.com/trending/7688954157013155883/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227688954157013155883%22%2C%22hot_board_impr_id%22%3A%222026092606513900FD3F3F80DC9E3B056F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%B3%B0%E5%9B%BD%E9%80%89%E6%89%8B%E6%89%93%E7%A0%B4%E8%8B%8F%E7%82%B3%E6%B7%BB%E4%BA%9A%E8%BF%90%E4%BC%9A%E7%BA%AA%E5%BD%95%22%7D&rank=&style_id=40132&topic_id=7688954157013155883"
    },
    "cover": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/edd07f15d0d24cbcb9083263bba19038~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1792886400&x-signature=1Xr0dVMyu0Jspsyl3%2F2hDnGuJIQ%3D",
-   "heat": 93,
+   "heat": 89,
    "ai": {
     "id": 0,
     "title": "泰国选手打破苏炳添亚运会纪录",
@@ -4177,11 +4212,15 @@
      {
       "time": "2026-09-26T03:36:28+08:00",
       "heat": 93
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
+      "heat": 89
      }
     ],
     "trend": "new",
     "days": 2,
-    "appearances": 2
+    "appearances": 3
    }
   },
   {
@@ -4194,7 +4233,7 @@
    ],
    "links": {
     "baidu": "https://m.baidu.com/s?word=%E6%9C%88%E9%A5%BC%E5%92%8C%E8%9E%83%E8%9F%B9%E4%B8%80%E8%B5%B7%E5%90%83%E4%BC%9A%E4%B8%AD%E6%AF%92%EF%BC%9F%E5%81%87%E7%9A%84&sa=fyb_news",
-    "toutiao": "https://www.toutiao.com/trending/7689038155554541119/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227689038155554541119%22%2C%22hot_board_impr_id%22%3A%2220260926033605AE544A1FD00ED02272E8%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%9C%88%E9%A5%BC%E5%92%8C%E8%9E%83%E8%9F%B9%E4%B8%80%E8%B5%B7%E5%90%83%E4%BC%9A%E4%B8%AD%E6%AF%92%EF%BC%9F%E5%81%87%22%7D&rank=&style_id=40132&topic_id=7689038155554541119"
+    "toutiao": "https://www.toutiao.com/trending/7689038155554541119/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227689038155554541119%22%2C%22hot_board_impr_id%22%3A%222026092606513900FD3F3F80DC9E3B056F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%9C%88%E9%A5%BC%E5%92%8C%E8%9E%83%E8%9F%B9%E4%B8%80%E8%B5%B7%E5%90%83%E4%BC%9A%E4%B8%AD%E6%AF%92%EF%BC%9F%E5%81%87%22%7D&rank=&style_id=40132&topic_id=7689038155554541119"
    },
    "cover": "https://p3-sign.toutiaoimg.com/top-static-files-outer/breaknews/9e38c1e6-0e87-4781-a08e-7f9ae5368e64~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1792886400&x-signature=qzHLEsLcPbGj3V8qevJbrLlxhbk%3D",
    "heat": 89,
@@ -4242,6 +4281,75 @@
      {
       "time": "2026-09-26T03:36:28+08:00",
       "heat": 89
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
+      "heat": 89
+     }
+    ],
+    "trend": "up",
+    "days": 2,
+    "appearances": 4
+   }
+  },
+  {
+   "title": "前TVB花旦唐宁被经纪公司起诉，曝患重度抑郁症",
+   "raw_title": "前TVB花旦唐宁被经纪公司起诉！曝其患重度抑郁症及自残细节",
+   "desc": "",
+   "platforms": [
+    "baidu",
+    "qq_ent"
+   ],
+   "links": {
+    "baidu": "https://m.baidu.com/s?word=%E5%89%8DTVB%E8%8A%B1%E6%97%A6%E5%94%90%E5%AE%81%E8%A2%AB%E7%BB%8F%E7%BA%AA%E5%85%AC%E5%8F%B8%E8%B5%B7%E8%AF%89&sa=fyb_news",
+    "qq_ent": "https://view.inews.qq.com/a/20260925A073CM00"
+   },
+   "cover": "https://inews.gtimg.com/om_ls/OMSSvjUNk41pVtNsPqkLl9Z8fiyLU0_NotA0n5JW3LmCwAA_294195/0",
+   "heat": 83,
+   "ai": {
+    "id": 0,
+    "title": "前TVB花旦唐宁被经纪公司起诉，曝患重度抑郁症",
+    "summary": "前TVB花旦唐宁遭经纪公司起诉，诉讼中曝光其患重度抑郁症及自残细节，引发网友对其身心状况和合约纠纷的关注。事件涉及艺人健康隐私与经纪合约矛盾，舆论焦点在于公司是否消费艺人病情。",
+    "category": "娱乐",
+    "angles": [
+     "深扒唐宁从TVB花旦到抑郁自残的落差人生",
+     "经纪公司公开艺人病情是否越界？法律与道德边界讨论",
+     "TVB离巢艺人现状盘点：光环褪去后的生存困境"
+    ],
+    "hook": "曾经的TVB当家花旦，如今被公司告上法庭，还曝出重度抑郁和自残……",
+    "structure": "前3秒用唐宁经典角色画面勾起回忆杀，中间梳理事件时间线和双方争议点，结尾抛出'艺人心理健康谁来守护'引发讨论。",
+    "format": "口播/混剪",
+    "risk": "涉及抑郁症、自残等敏感内容，避免过度渲染细节，注意平台对心理健康话题的审核尺度，不消费艺人痛苦。",
+    "power": {
+     "score": 0,
+     "angle": "不建议植入"
+    }
+   },
+   "stats": {
+    "first_seen": "2026-09-25T23:36:47+08:00",
+    "origin_platform": "qq_ent",
+    "path": [
+     {
+      "platform": "qq_ent",
+      "time": "2026-09-25T23:36:47+08:00"
+     },
+     {
+      "platform": "baidu",
+      "time": "2026-09-26T06:52:03+08:00"
+     }
+    ],
+    "heat_log": [
+     {
+      "time": "2026-09-25T23:36:47+08:00",
+      "heat": 19
+     },
+     {
+      "time": "2026-09-26T03:36:28+08:00",
+      "heat": 23
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
+      "heat": 83
      }
     ],
     "trend": "new",
@@ -4259,10 +4367,10 @@
    ],
    "links": {
     "baidu": "https://m.baidu.com/s?word=%E5%88%9A%E6%AD%BB%E4%B8%8D%E4%B9%85%E7%9A%84%E8%9E%83%E8%9F%B9%E8%BF%98%E8%83%BD%E5%90%83%E5%90%97&sa=fyb_news",
-    "toutiao": "https://www.toutiao.com/trending/7689446709818654758/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227689446709818654758%22%2C%22hot_board_impr_id%22%3A%2220260926033605AE544A1FD00ED02272E8%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%88%9A%E6%AD%BB%E4%B8%8D%E4%B9%85%E7%9A%84%E8%9E%83%E8%9F%B9%E8%BF%98%E8%83%BD%E5%90%83%E5%90%97%22%7D&rank=&style_id=40132&topic_id=7689446709818654758"
+    "toutiao": "https://www.toutiao.com/trending/7689446709818654758/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227689446709818654758%22%2C%22hot_board_impr_id%22%3A%222026092606513900FD3F3F80DC9E3B056F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%88%9A%E6%AD%BB%E4%B8%8D%E4%B9%85%E7%9A%84%E8%9E%83%E8%9F%B9%E8%BF%98%E8%83%BD%E5%90%83%E5%90%97%22%7D&rank=&style_id=40132&topic_id=7689446709818654758"
    },
    "cover": "https://p3-sign.toutiaoimg.com/mosaic-legacy/2b28f000370774e5fabc5~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1792886400&x-signature=29aYIA4c4c0cLku%2BmOFMaxikc58%3D",
-   "heat": 84,
+   "heat": 77,
    "ai": {
     "id": 1,
     "title": "刚死不久的螃蟹还能吃吗",
@@ -4303,71 +4411,10 @@
      {
       "time": "2026-09-26T03:36:28+08:00",
       "heat": 84
-     }
-    ],
-    "trend": "new",
-    "days": 2,
-    "appearances": 2
-   }
-  },
-  {
-   "title": "孙颖莎王楚钦晋级混双半决赛",
-   "raw_title": "王楚钦孙颖莎 混双半决赛",
-   "desc": "",
-   "platforms": [
-    "weibo",
-    "douyin"
-   ],
-   "links": {
-    "weibo": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E%20%E6%B7%B7%E5%8F%8C%E5%8D%8A%E5%86%B3%E8%B5%9B%23",
-    "douyin": "https://www.douyin.com/search/%E5%AD%99%E9%A2%96%E8%8E%8E%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%99%8B%E7%BA%A7%E6%B7%B7%E5%8F%8C%E5%86%B3%E8%B5%9B"
-   },
-   "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015/oURtDfkKAEoNII1fSEqgFBI1I89dAcOQmACSHb~noop.jpeg?lk3s=bfd515bb&x-expires=1790384400&x-signature=POofcZq7CZanRBB4i5AxVTGa59g%3D&from=3218412987",
-   "heat": 73,
-   "ai": {
-    "id": 4,
-    "title": "孙颖莎王楚钦晋级混双半决赛",
-    "summary": "孙颖莎与王楚钦在混双比赛中成功晋级半决赛，'莎头组合'再度展现强大实力。两人默契配合引发球迷狂欢，相关话题迅速登上热搜，网友期待他们冲击冠军，也有讨论对手实力与夺冠前景。",
-    "category": "体育",
-    "angles": [
-     "莎头组合默契名场面盘点，眼神交流太绝了",
-     "技术流分析：孙颖莎王楚钦混双强在哪",
-     "反向角度：混双压力有多大，两人如何互相成就"
-    ],
-    "hook": "莎头组合又赢了！这默契简直像一个人！",
-    "structure": "开头用比赛高光得分瞬间，中间分析配合亮点与晋级形势，结尾预测决赛并引导球迷加油。",
-    "format": "混剪/口播",
-    "risk": "注意使用赛事版权画面需授权，避免引战其他选手粉丝。",
-    "power": {
-     "score": 2,
-     "angle": "不建议植入"
-    }
-   },
-   "stats": {
-    "first_seen": "2026-09-25T13:37:51+08:00",
-    "origin_platform": "weibo",
-    "path": [
-     {
-      "platform": "weibo",
-      "time": "2026-09-25T13:37:51+08:00"
      },
      {
-      "platform": "douyin",
-      "time": "2026-09-25T13:37:51+08:00"
-     }
-    ],
-    "heat_log": [
-     {
-      "time": "2026-09-25T13:37:51+08:00",
-      "heat": 89
-     },
-     {
-      "time": "2026-09-25T18:38:02+08:00",
-      "heat": 26
-     },
-     {
-      "time": "2026-09-26T03:36:28+08:00",
-      "heat": 73
+      "time": "2026-09-26T06:52:03+08:00",
+      "heat": 77
      }
     ],
     "trend": "new",
@@ -4385,8 +4432,8 @@
    "links": {
     "douyin": "https://www.douyin.com/search/%E4%B8%80%E8%B5%B7%E6%9D%A5%E7%9C%8B%E4%B8%AD%E7%A7%8B%E6%99%9A%E4%BC%9A%E5%90%A7"
    },
-   "cover": "https://p3-sign.douyinpic.com/tos-cn-i-dy/352e5132da004bca96b0147307f874e5~noop.jpeg?lk3s=bfd515bb&x-expires=1790384400&x-signature=scxld5LotbbJTE7QCFcQ4Mth71Q%3D&from=3218412987",
-   "heat": 39,
+   "cover": "https://p26-sign.douyinpic.com/tos-cn-i-dy/352e5132da004bca96b0147307f874e5~noop.jpeg?lk3s=bfd515bb&x-expires=1790395200&x-signature=LoxsBEnsILxbzwnq7J8iC%2FBr9YQ%3D&from=3218412987",
+   "heat": 40,
    "ai": {
     "id": 6,
     "title": "央视中秋晚会",
@@ -4443,11 +4490,15 @@
      {
       "time": "2026-09-26T03:36:28+08:00",
       "heat": 39
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
+      "heat": 40
      }
     ],
-    "trend": "flat",
+    "trend": "down",
     "days": 2,
-    "appearances": 4
+    "appearances": 5
    }
   },
   {
@@ -4461,7 +4512,7 @@
     "qq_ent": "https://view.inews.qq.com/a/20260925A04GDL00"
    },
    "cover": "https://inews.gtimg.com/news_ls/Omqez2oPtKCPReX1Bvo5ugUYxMBeMx58SN67e6NMFltuMAA_294195/0",
-   "heat": 33,
+   "heat": 35,
    "ai": {
     "id": 1,
     "title": "央视2026中秋晚会节目单正式官宣",
@@ -4498,11 +4549,86 @@
      {
       "time": "2026-09-26T03:36:28+08:00",
       "heat": 33
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
+      "heat": 35
      }
     ],
     "trend": "new",
     "days": 2,
-    "appearances": 2
+    "appearances": 3
+   }
+  },
+  {
+   "title": "华晨宇南京演唱会燃爆全场",
+   "raw_title": "华晨宇南京演唱会",
+   "desc": "",
+   "platforms": [
+    "douyin"
+   ],
+   "links": {
+    "douyin": "https://www.douyin.com/search/%E5%8D%8E%E6%99%A8%E5%AE%87%E5%8D%97%E4%BA%AC%E6%BC%94%E5%94%B1%E4%BC%9A"
+   },
+   "cover": "https://p9-sign.douyinpic.com/tos-cn-p-0015/ogIQA17PoAIi47NPawXurBy16TiIOOJIUykg9~noop.jpeg?lk3s=bfd515bb&x-expires=1790395200&x-signature=hEuGh5xNYhfwOcAT8S0sjqsjpms%3D&from=3218412987",
+   "heat": 32,
+   "ai": {
+    "id": 0,
+    "title": "华晨宇南京演唱会燃爆全场",
+    "summary": "华晨宇南京演唱会如期举行，现场粉丝热情高涨，多个话题登上热搜。看点集中在舞台造型、现场唱功以及粉丝应援名场面，也有网友讨论其演唱会风格和票价争议。",
+    "category": "娱乐",
+    "angles": [
+     "现场名场面盘点：华晨宇演唱会最炸的5个瞬间",
+     "造型解析：华晨宇这次舞台穿搭什么水平？",
+     "反向观点：华晨宇演唱会到底值不值票价？路人视角实测"
+    ],
+    "hook": "华晨宇南京演唱会，现场粉丝直接哭成一片！",
+    "structure": "前3秒用演唱会高燃片段吸引眼球，中间快速剪辑3-4个名场面配合解说，结尾抛出互动问题引导评论。",
+    "format": "混剪",
+    "risk": "演唱会现场素材需注意版权，避免使用官方直播画面；粉丝向内容注意控评引导。",
+    "power": {
+     "score": 3,
+     "angle": "不建议植入"
+    }
+   },
+   "stats": {
+    "first_seen": "2026-09-25T08:57:37+08:00",
+    "origin_platform": "douyin",
+    "path": [
+     {
+      "platform": "douyin",
+      "time": "2026-09-25T08:57:37+08:00"
+     }
+    ],
+    "heat_log": [
+     {
+      "time": "2026-09-25T08:57:37+08:00",
+      "heat": 14
+     },
+     {
+      "time": "2026-09-25T13:37:51+08:00",
+      "heat": 19
+     },
+     {
+      "time": "2026-09-25T18:38:02+08:00",
+      "heat": 23
+     },
+     {
+      "time": "2026-09-25T23:36:47+08:00",
+      "heat": 26
+     },
+     {
+      "time": "2026-09-26T03:36:28+08:00",
+      "heat": 25
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
+      "heat": 32
+     }
+    ],
+    "trend": "up",
+    "days": 2,
+    "appearances": 6
    }
   },
   {
@@ -4515,7 +4641,7 @@
    "links": {
     "douyin": "https://www.douyin.com/search/%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E8%B0%88"
    },
-   "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015/ogQWGQDdQFAvQrBtmEENklA3AsU8f9lqqBelgW~noop.jpeg?lk3s=bfd515bb&x-expires=1790384400&x-signature=vcxe7OiWbFVB7Reayc4O%2F66xfCg%3D&from=3218412987",
+   "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/ogQWGQDdQFAvQrBtmEENklA3AsU8f9lqqBelgW~noop.jpeg?lk3s=bfd515bb&x-expires=1790395200&x-signature=IQhFB%2BlSekFKamfpcr%2FQHpaaDR0%3D&from=3218412987",
    "heat": 30,
    "ai": {
     "id": 2,
@@ -4553,50 +4679,54 @@
      {
       "time": "2026-09-26T03:36:28+08:00",
       "heat": 30
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
+      "heat": 30
      }
     ],
     "trend": "new",
     "days": 2,
-    "appearances": 2
+    "appearances": 3
    }
   },
   {
-   "title": "特朗普习近平华盛顿会谈，中美关系走向引关注",
-   "raw_title": "特朗普习近平华盛顿会谈 美中关系向哪走？",
-   "desc": "美国总统特朗普（Donald Trump）与中国国家主席习近平在华盛顿举行会谈，双方都强调避免冲突及加强合作，但台湾、贸易、先进芯片、人工智能（AI）及伊朗等问题仍存在分歧。",
+   "title": "赵本山儿女联手推《来东北转转》魔性洗脑",
+   "raw_title": "赵本山儿女联手放大招！《来东北转转》魔性洗脑，网友：这味儿太正了",
+   "desc": "",
    "platforms": [
-    "rfi"
+    "qq_ent"
    ],
    "links": {
-    "rfi": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%BE%8E%E5%9B%BD%E4%B8%93%E6%A0%8F/20260925-%E7%89%B9%E6%9C%97%E6%99%AE%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8D%8E%E7%9B%9B%E9%A1%BF%E4%BC%9A%E8%B0%88-%E7%BE%8E%E4%B8%AD%E5%85%B3%E7%B3%BB%E5%90%91%E5%93%AA%E8%B5%B0"
+    "qq_ent": "https://view.inews.qq.com/a/20260925V06BCI00"
    },
-   "cover": "https://s.rfi.fr/media/display/08851b1c-b8c1-11f1-b446-11fa9f8a3b4f/w:1024/p:16x9/2026-09-25T001728Z-254026030-RC20QNACJ8JL-RTRMADP-3-USA-CHINA.jpg",
+   "cover": "https://inews.gtimg.com/om_ls/OOXrRM5tMg7752Ptux9-e-qQNtgAioU72e09H9Y2RHqUgAA_870492/0",
    "heat": 30,
    "ai": {
-    "id": 4,
-    "title": "特朗普习近平华盛顿会谈，中美关系走向引关注",
-    "summary": "美国总统特朗普与中国国家主席习近平在华盛顿举行会谈，双方强调避免冲突及加强合作，但台湾、贸易、先进芯片、AI及伊朗等问题仍存分歧。国际社会高度关注中美关系下一步走向。",
-    "category": "国际",
+    "id": 3,
+    "title": "赵本山儿女联手推《来东北转转》魔性洗脑",
+    "summary": "赵本山儿女合作推出魔性歌曲《来东北转转》，旋律洗脑、东北味十足，网友直呼'这味儿太正了'。话题围绕星二代能否继承赵本山喜剧衣钵、东北文化输出等展开讨论。",
+    "category": "娱乐",
     "angles": [
-     "深度解读：从会谈细节看中美博弈新格局",
-     "科普向：芯片和AI为什么成了中美核心议题",
-     "反向观点：'避免冲突'的表态能落实多少"
+     "蹭热度：赵本山家族喜剧基因到底传没传下去",
+     "深度解读：东北文化为何总能制造洗脑神曲",
+     "争议向：星二代靠父辈光环还是真有实力"
     ],
-    "hook": "华盛顿会谈结束，中美关系的下一个爆点可能在这三个领域。",
-    "structure": "开头点明会谈基调，中间聚焦台湾、芯片、AI三个分歧点做拆解，结尾分析对全球格局的影响。",
-    "format": "口播/图文",
-    "risk": "高度敏感话题，必须严格依据官方通稿表述，避免任何倾向性评论。",
+    "hook": "赵本山儿女一开口，全网东北DNA动了——但这歌到底谁写的？",
+    "structure": "开头播放魔性片段抓耳，中间分析歌曲出圈原因和家族喜剧传承话题，结尾引导网友评价'能不能接赵本山的班'。",
+    "format": "混剪/口播",
+    "risk": "注意版权问题，使用歌曲片段需控制时长；避免对赵本山家庭成员做人身评价。",
     "power": {
-     "score": 1,
+     "score": 2,
      "angle": "不建议植入"
     }
    },
    "stats": {
     "first_seen": "2026-09-25T23:36:47+08:00",
-    "origin_platform": "rfi",
+    "origin_platform": "qq_ent",
     "path": [
      {
-      "platform": "rfi",
+      "platform": "qq_ent",
       "time": "2026-09-25T23:36:47+08:00"
      }
     ],
@@ -4607,66 +4737,121 @@
      },
      {
       "time": "2026-09-26T03:36:28+08:00",
+      "heat": 20
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
       "heat": 30
      }
     ],
     "trend": "new",
     "days": 2,
-    "appearances": 2
+    "appearances": 3
    }
   },
   {
-   "title": "特朗普演讲中秀中文引热议",
-   "raw_title": "特朗普演讲中秀中文",
+   "title": "教皇良十四世访法点燃8万青年热情",
+   "raw_title": "教皇何以一路点燃法国人的热情",
+   "desc": "9月25日夜，聚集在巴黎近郊法兰西体育场的8万名青年，与教皇良十四世一起祈祷守夜。教皇来到法国，点燃了无数人的热情，青年人尤甚，正值战争带来的恐惧驱之不散， AI最终可能毁灭人类的说法甚嚣尘上，无数青年人在迷茫中寻求人生意义与归属感之时，良十四世的到来为他们带来了温馨、希望和憧憬。",
+   "platforms": [
+    "rfi"
+   ],
+   "links": {
+    "rfi": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260925-%E6%95%99%E7%9A%87%E4%BD%95%E4%BB%A5%E4%B8%80%E8%B7%AF%E7%82%B9%E7%87%83%E6%B3%95%E5%9B%BD%E4%BA%BA%E7%9A%84%E7%83%AD%E6%83%85"
+   },
+   "cover": "https://s.rfi.fr/media/display/47eaffae-b92c-11f1-9397-11fa9f8a3b4f/w:1024/p:16x9/2026-09-25T191215Z-464627725-RC2JQNAYHX3F-RTRMADP-3-POPE-FRANCE.jpg",
+   "heat": 30,
+   "ai": {
+    "id": 1,
+    "title": "教皇良十四世访法点燃8万青年热情",
+    "summary": "教皇良十四世到访法国，在巴黎近郊法兰西体育场与8万名青年一起祈祷守夜，在战争恐惧和AI焦虑弥漫的当下，为迷茫青年带来希望与归属感。事件引发对信仰力量与青年精神困境的广泛讨论。",
+    "category": "国际",
+    "angles": [
+     "为什么这届年轻人开始重新拥抱信仰？",
+     "8万人守夜的震撼现场：信仰能否对抗时代焦虑",
+     "从教皇访法看欧洲青年的精神危机与归属感缺失"
+    ],
+    "hook": "8万个年轻人涌进体育场，只为和一个老人一起祈祷——他们在寻找什么？",
+    "structure": "开头用体育场人海画面制造视觉冲击，中间分析当代青年迷茫根源（战争、AI威胁、意义感缺失），结尾探讨信仰与归属感的普世话题。",
+    "format": "混剪/口播",
+    "risk": "涉及宗教话题，注意平台对宗教内容的审核，避免传教倾向，保持客观叙述。",
+    "power": {
+     "score": 1,
+     "angle": "不建议植入"
+    }
+   },
+   "stats": {
+    "first_seen": "2026-09-26T06:52:03+08:00",
+    "origin_platform": "rfi",
+    "path": [
+     {
+      "platform": "rfi",
+      "time": "2026-09-26T06:52:03+08:00"
+     }
+    ],
+    "heat_log": [
+     {
+      "time": "2026-09-26T06:52:03+08:00",
+      "heat": 30
+     }
+    ],
+    "trend": "new",
+    "days": 1,
+    "appearances": 1
+   }
+  },
+  {
+   "title": "国家出手调控油价",
+   "raw_title": "国家出手调控油价了",
    "desc": "",
    "platforms": [
     "weibo"
    ],
    "links": {
-    "weibo": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%BC%94%E8%AE%B2%E4%B8%AD%E7%A7%80%E4%B8%AD%E6%96%87%23"
+    "weibo": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%87%BA%E6%89%8B%E8%B0%83%E6%8E%A7%E6%B2%B9%E4%BB%B7%E4%BA%86%23"
    },
    "cover": "",
    "heat": 29,
    "ai": {
-    "id": 9,
-    "title": "特朗普演讲中秀中文引热议",
-    "summary": "特朗普在某场演讲中突然秀了几句中文，发音和用词引发网友爆笑与热议。片段在社交平台快速传播，有人调侃其'中文水平'，也有人分析其政治意图。",
-    "category": "国际",
+    "id": 2,
+    "title": "国家出手调控油价",
+    "summary": "国家相关部门出台油价调控措施，应对国际油价波动对国内经济和民生的影响。话题引发网友对油价涨跌、出行成本和能源政策的广泛讨论。",
+    "category": "财经",
     "angles": [
-     "特朗普中文发音逐句点评，笑点密集",
-     "反向解读：秀中文背后的大选算盘",
-     "盘点外国政要秀中文名场面，谁最标准"
+     "油价调控背后的经济逻辑：为什么国家要出手？",
+     "油价涨跌对普通人的钱包影响有多大？算一笔账",
+     "新能源车主笑了？油价波动与电动车性价比对比"
     ],
-    "hook": "特朗普突然飙中文，现场老外全懵了！",
-    "structure": "前3秒放特朗普说中文的原声片段，中间逐句拆解发音和含义，结尾对比其他政要中文水平制造笑点。",
-    "format": "混剪/口播",
-    "risk": "涉及美国政治人物，避免过度嘲讽引发平台判定为政治敏感；视频片段版权需确认。",
+    "hook": "油价又要变了！国家这次直接出手，你的钱包能省多少？",
+    "structure": "前3秒抛出油价调整具体数字，中间解读调控原因和对生活的影响，结尾引导观众讨论'你会因此考虑换电车吗'。",
+    "format": "口播/图文",
+    "risk": "涉及国家政策解读，避免过度解读或唱反调，以官方信息为准。",
     "power": {
-     "score": 1,
-     "angle": "不建议植入"
+     "score": 6,
+     "angle": "油价上涨→新能源车充电成本优势凸显→充电桩建设加速→绿色出行与电网服务保障"
     }
    },
    "stats": {
-    "first_seen": "2026-09-25T23:36:47+08:00",
+    "first_seen": "2026-09-26T03:36:28+08:00",
     "origin_platform": "weibo",
     "path": [
      {
       "platform": "weibo",
-      "time": "2026-09-25T23:36:47+08:00"
+      "time": "2026-09-26T03:36:28+08:00"
      }
     ],
     "heat_log": [
      {
-      "time": "2026-09-25T23:36:47+08:00",
-      "heat": 26
+      "time": "2026-09-26T03:36:28+08:00",
+      "heat": 13
      },
      {
-      "time": "2026-09-26T03:36:28+08:00",
+      "time": "2026-09-26T06:52:03+08:00",
       "heat": 29
      }
     ],
     "trend": "new",
-    "days": 2,
+    "days": 1,
     "appearances": 2
    }
   },
@@ -4680,7 +4865,7 @@
    "links": {
     "douyin": "https://www.douyin.com/search/%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%A4%AB%E5%A6%87%E5%87%BA%E5%B8%AD%E6%AC%A2%E8%BF%8E%E5%AE%B4%E4%BC%9A"
    },
-   "cover": "https://p26-sign.douyinpic.com/obj/webcast-cover/7689098774375222070?lk3s=bfd515bb&x-expires=1790384400&x-signature=1KwKIc05ZvAHVCeq3NGzx5nTXuA%3D&from=3218412987",
+   "cover": "https://p9-sign.douyinpic.com/obj/webcast-cover/7689098774375222070?lk3s=bfd515bb&x-expires=1790395200&x-signature=H0cTYcDoQJ07n4zVK1cbKOFvEBI%3D&from=3218412987",
    "heat": 29,
    "ai": {
     "id": 2,
@@ -4722,11 +4907,15 @@
      {
       "time": "2026-09-26T03:36:28+08:00",
       "heat": 29
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
+      "heat": 29
      }
     ],
     "trend": "new",
     "days": 2,
-    "appearances": 2
+    "appearances": 3
    }
   },
   {
@@ -4773,11 +4962,15 @@
      {
       "time": "2026-09-26T03:36:28+08:00",
       "heat": 29
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
+      "heat": 29
      }
     ],
     "trend": "new",
     "days": 1,
-    "appearances": 1
+    "appearances": 2
    }
   },
   {
@@ -4788,7 +4981,7 @@
     "toutiao"
    ],
    "links": {
-    "toutiao": "https://www.toutiao.com/trending/7688809346276261915/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227688809346276261915%22%2C%22hot_board_impr_id%22%3A%2220260926033605AE544A1FD00ED02272E8%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%99%BD%E5%AE%AB%E6%AC%A2%E8%BF%8E%E5%9B%BD%E5%AE%B4%E4%B8%8A%E5%96%9D%E7%9A%84%E9%85%92%E4%B8%8D%E7%AE%80%E5%8D%95%22%7D&rank=&style_id=40132&topic_id=7688809346276261915"
+    "toutiao": "https://www.toutiao.com/trending/7688809346276261915/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227688809346276261915%22%2C%22hot_board_impr_id%22%3A%222026092606513900FD3F3F80DC9E3B056F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%99%BD%E5%AE%AB%E6%AC%A2%E8%BF%8E%E5%9B%BD%E5%AE%B4%E4%B8%8A%E5%96%9D%E7%9A%84%E9%85%92%E4%B8%8D%E7%AE%80%E5%8D%95%22%7D&rank=&style_id=40132&topic_id=7688809346276261915"
    },
    "cover": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/226c42665c424496b4959171d5c6c94c~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1792886400&x-signature=j1GqSqR5Lh%2Fian42KVg0t4af%2BmU%3D",
    "heat": 29,
@@ -4828,41 +5021,45 @@
      {
       "time": "2026-09-26T03:36:28+08:00",
       "heat": 29
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
+      "heat": 29
      }
     ],
     "trend": "new",
     "days": 2,
-    "appearances": 2
+    "appearances": 3
    }
   },
   {
-   "title": "从济公到爷叔，他用一生诠释没有小角色",
-   "raw_title": "从“济公”到“爷叔”，他用一生诠释“没有小角色，只有小演员”",
+   "title": "鹭卓喻言中秋晚会国风舞台意境绝美",
+   "raw_title": "鹭卓喻言《千里月明》国风舞台意境绝美，和声温柔直击人心｜湖南中秋晚会",
    "desc": "",
    "platforms": [
     "qq_ent"
    ],
    "links": {
-    "qq_ent": "https://view.inews.qq.com/a/20260925A02JEA00"
+    "qq_ent": "https://view.inews.qq.com/a/20260925V09EHB00"
    },
-   "cover": "https://inews.gtimg.com/news_ls/OZpPAzSIsdTV0dWfHifHSVHIab2vhPN7ILaZYyZWTzrNYAA_294195/0",
+   "cover": "https://inews.gtimg.com/om_ls/OfYcfmVFLtE9nFVK2Kv-Rt-wL14plL71hKeNzq3brbcBUAA_870492/0",
    "heat": 29,
    "ai": {
-    "id": 4,
-    "title": "从济公到爷叔，他用一生诠释没有小角色",
-    "summary": "游本昌从'济公'到《繁花》'爷叔'，跨越数十年的演艺生涯引发全网致敬。他甘当配角、深耕表演的故事被大量转发，成为'老戏骨'精神的代表。看点在于老艺术家的职业态度与当下流量文化的对比。",
+    "id": 3,
+    "title": "鹭卓喻言中秋晚会国风舞台意境绝美",
+    "summary": "湖南中秋晚会上鹭卓与喻言合作演绎《千里月明》，国风舞台意境唯美，和声温柔直击人心，成为晚会高光时刻。网友热议舞台美学、两人默契配合及国风音乐的破圈传播。",
     "category": "娱乐",
     "angles": [
-     "情绪共鸣：游本昌90岁还在演戏，我们有什么理由不努力",
-     "深度解读：从济公到爷叔，一个演员的自我修养",
-     "反向观点：'没有小角色'是理想，但娱乐圈现实是流量为王"
+     "逐帧拆解《千里月明》舞台美学：国风为什么越来越能打？",
+     "鹭卓喻言和声为什么这么绝？音乐博主专业解析",
+     "中秋晚会名场面盘点：今年哪个舞台最出圈？"
     ],
-    "hook": "90岁的他，用一辈子证明了什么叫'没有小角色'。",
-    "structure": "前5秒用济公和爷叔的经典画面混剪制造回忆杀，中间讲游本昌的敬业故事和幕后细节，结尾升华到对演艺圈现状的思考。",
-    "format": "混剪/口播",
-    "risk": "使用影视片段注意版权；避免过度煽情引发审美疲劳。",
+    "hook": "这段和声一出来，弹幕全炸了——今年中秋最美的三分钟。",
+    "structure": "开头直接放最惊艳的和声片段做钩子，中间拆解舞台设计、服装造型和编曲亮点，结尾对比历年中秋晚会出圈舞台。",
+    "format": "混剪/图文",
+    "risk": "注意晚会版权素材使用，避免完整搬运，建议使用短片段加解说。",
     "power": {
-     "score": 1,
+     "score": 2,
      "angle": "不建议植入"
     }
    },
@@ -4878,71 +5075,71 @@
     "heat_log": [
      {
       "time": "2026-09-25T23:36:47+08:00",
-      "heat": 25
+      "heat": 1
      },
      {
       "time": "2026-09-26T03:36:28+08:00",
+      "heat": 7
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
       "heat": 29
      }
     ],
     "trend": "new",
     "days": 2,
-    "appearances": 2
+    "appearances": 3
    }
   },
   {
-   "title": "泽连斯基称特朗普同意乌生产爱国者导弹",
-   "raw_title": "泽连斯基称特朗普已同意向基辅提供生产“爱国者”导弹许可",
-   "desc": "乌克兰总统泽连斯基周五表示，美国总统特朗普已就向乌克兰提供生产“爱国者”防空导弹所需的许可证一事作出“最终决定”，基辅方面此前曾要求获得该许可证，以应对俄罗斯的弹道导弹袭击。",
+   "title": "习近平访美：中美努力向世界展示什么",
+   "raw_title": "习近平访美：中美双方在努力向世界展示什么？",
+   "desc": "法国世界报表示，中美双方在关键问题上没有取得重大进展，其实，双方也没有预期会在核心问题上取得重大突破，双方的共识是避免再度出现任何重大危机。因此，这次访问更多地集中在礼仪和场面上。营造形象以及公开说些双方都接受的话，就被放在了比实质内容更重要的位置。",
    "platforms": [
     "rfi"
    ],
    "links": {
-    "rfi": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260925-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E5%B7%B2%E5%90%8C%E6%84%8F%E5%90%91%E5%9F%BA%E8%BE%85%E6%8F%90%E4%BE%9B%E7%94%9F%E4%BA%A7-%E7%88%B1%E5%9B%BD%E8%80%85-%E5%AF%BC%E5%BC%B9%E8%AE%B8%E5%8F%AF"
+    "rfi": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20260925-%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E-%E4%B8%AD%E7%BE%8E%E5%8F%8C%E6%96%B9%E5%9C%A8%E5%8A%AA%E5%8A%9B%E5%90%91%E4%B8%96%E7%95%8C%E5%B1%95%E7%A4%BA%E4%BB%80%E4%B9%88"
    },
-   "cover": "https://s.rfi.fr/media/display/6331e548-9e60-11f1-9c98-005056bfb2b6/w:1024/p:16x9/000-B68B7UY.jpg",
+   "cover": "https://s.rfi.fr/media/display/bddd2032-0bde-11ea-9862-005056bff430/w:1024/p:16x9/fa_guo_shi_jie_bao_wb161923-rfi-cn-20150123_cartouche.jpg",
    "heat": 29,
    "ai": {
-    "id": 8,
-    "title": "泽连斯基称特朗普同意乌生产爱国者导弹",
-    "summary": "乌克兰总统泽连斯基表示，美国总统特朗普已就向乌克兰提供生产'爱国者'防空导弹所需许可证作出最终决定。此举被视为美国对乌军事支持的重要升级，引发国际关注。",
+    "id": 4,
+    "title": "习近平访美：中美努力向世界展示什么",
+    "summary": "法国世界报分析习近平访美，指出中美在关键问题上未取得重大进展，双方共识是避免重大危机，访问更多集中在礼仪和场面上。引发对中美关系实质走向的讨论。",
     "category": "国际",
     "angles": [
-     "深度解读：本土生产爱国者意味着什么",
-     "科普向：爱国者导弹为什么对乌克兰这么重要",
-     "反向观点：这是援乌升级还是甩包袱"
+     "中美峰会的礼仪与实质：外交场面背后的博弈",
+     "法媒视角看习访美：为什么说'没有突破就是突破'",
+     "中美关系的底线思维：避免危机比达成协议更重要"
     ],
-    "hook": "特朗普点头了？乌克兰要自己造爱国者导弹，这事没那么简单。",
-    "structure": "开头点出泽连斯基表态的核心信息，中间分析许可证的实际意义和战场影响，结尾讨论对俄乌局势的走向。",
+    "hook": "一场没有突破的峰会，为什么双方都说'成功'？",
+    "structure": "开头用法媒报道切入提供第三方视角，中间分析中美各自诉求和底线，结尾讨论大国关系'管控分歧'的现实意义。",
     "format": "口播/图文",
-    "risk": "涉及军事冲突话题，避免渲染战争情绪；严格引用官方信源，不做主观推测。",
+    "risk": "涉及中美外交敏感话题，严格以官方表述为准，避免主观臆断和情绪化表达。",
     "power": {
-     "score": 1,
+     "score": 0,
      "angle": "不建议植入"
     }
    },
    "stats": {
-    "first_seen": "2026-09-25T23:36:47+08:00",
+    "first_seen": "2026-09-26T06:52:03+08:00",
     "origin_platform": "rfi",
     "path": [
      {
       "platform": "rfi",
-      "time": "2026-09-25T23:36:47+08:00"
+      "time": "2026-09-26T06:52:03+08:00"
      }
     ],
     "heat_log": [
      {
-      "time": "2026-09-25T23:36:47+08:00",
-      "heat": 29
-     },
-     {
-      "time": "2026-09-26T03:36:28+08:00",
+      "time": "2026-09-26T06:52:03+08:00",
       "heat": 29
      }
     ],
     "trend": "new",
-    "days": 2,
-    "appearances": 2
+    "days": 1,
+    "appearances": 1
    }
   },
   {
@@ -4989,11 +5186,15 @@
      {
       "time": "2026-09-26T03:36:28+08:00",
       "heat": 28
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
+      "heat": 28
      }
     ],
     "trend": "new",
     "days": 1,
-    "appearances": 1
+    "appearances": 2
    }
   },
   {
@@ -5044,166 +5245,111 @@
      {
       "time": "2026-09-26T03:36:28+08:00",
       "heat": 28
-     }
-    ],
-    "trend": "new",
-    "days": 2,
-    "appearances": 2
-   }
-  },
-  {
-   "title": "徐子尧中秋晚会再唱《珊瑚颂》",
-   "raw_title": "徐子尧秋月之夜再唱《珊瑚颂》，用青春之声唱出时代颂歌｜北京中秋晚会",
-   "desc": "",
-   "platforms": [
-    "qq_ent"
-   ],
-   "links": {
-    "qq_ent": "https://view.inews.qq.com/a/20260925V09SO300"
-   },
-   "cover": "https://inews.gtimg.com/om_ls/O5uzHpLmFJO7Aa6-tUZcLABFXHmHYIXMz7n9SoOLPfNooAA_870492/0",
-   "heat": 28,
-   "ai": {
-    "id": 2,
-    "title": "徐子尧中秋晚会再唱《珊瑚颂》",
-    "summary": "徐子尧在北京中秋晚会用青春嗓音重新演绎经典歌曲《珊瑚颂》，引发跨代际讨论。老一辈观众感动于经典传承，年轻观众则讨论'红歌新唱'是否失去原味，话题兼具情怀与争议。",
-    "category": "娱乐",
-    "angles": [
-     "徐子尧造型解析：中秋晚会穿搭什么水平",
-     "经典红歌新唱盘点，谁改得最惊艳谁翻车",
-     "现场观众反应抓拍，真实评价街采"
-    ],
-    "hook": "徐子尧一开口，台下老艺术家表情亮了！",
-    "structure": "前3秒放演唱高光片段+观众反应对比，中间穿插原唱与新版对比，结尾抛出'经典该不该改编'引导互动。",
-    "format": "混剪/街采",
-    "risk": "涉及红色经典歌曲改编，注意评论区政治敏感言论；晚会画面版权需确认。",
-    "power": {
-     "score": 3,
-     "angle": "不建议植入"
-    }
-   },
-   "stats": {
-    "first_seen": "2026-09-25T23:36:47+08:00",
-    "origin_platform": "qq_ent",
-    "path": [
-     {
-      "platform": "qq_ent",
-      "time": "2026-09-25T23:36:47+08:00"
-     }
-    ],
-    "heat_log": [
-     {
-      "time": "2026-09-25T23:36:47+08:00",
-      "heat": 28
      },
      {
-      "time": "2026-09-26T03:36:28+08:00",
+      "time": "2026-09-26T06:52:03+08:00",
       "heat": 28
      }
     ],
     "trend": "new",
     "days": 2,
-    "appearances": 2
+    "appearances": 3
    }
   },
   {
-   "title": "伊朗称条件满足可七天内重开霍尔木兹海峡",
-   "raw_title": "伊朗称满足条件后可在七天内重开霍尔木兹海峡",
-   "desc": "伊朗外长阿拉格齐（Abbas Araghchi）表示，德黑兰已向美国提出一项方案，如果相关条件得到满足，伊朗将在七天内重新开放霍尔木兹海峡，并启动谈判。",
+   "title": "特朗普要求中方停止支持伊朗",
+   "raw_title": "特习会 特朗普要求中方停止支持伊朗",
+   "desc": "美国总统特朗普周五表示，习近平的访问对两国都很有利，并与中国国家主席习近平专门谈了伊朗战争，美国驻中国大使庞德伟表示，特朗普已要求中方停止向伊朗提供任何援助。",
    "platforms": [
     "rfi"
    ],
    "links": {
-    "rfi": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260925-%E4%BC%8A%E6%9C%97%E7%A7%B0%E6%BB%A1%E8%B6%B3%E6%9D%A1%E4%BB%B6%E5%90%8E%E5%8F%AF%E5%9C%A8%E4%B8%83%E5%A4%A9%E5%86%85%E9%87%8D%E5%BC%80%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1"
+    "rfi": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260925-%E7%89%B9%E4%B9%A0%E4%BC%9A-%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E6%B1%82%E4%B8%AD%E6%96%B9%E5%81%9C%E6%AD%A2%E6%94%AF%E6%8C%81%E4%BC%8A%E6%9C%97"
    },
-   "cover": "https://s.rfi.fr/media/display/f354fbe2-b8be-11f1-ae7b-91cf9f3cd539/w:1024/p:16x9/063-2296748498.jpg",
+   "cover": "https://s.rfi.fr/media/display/4f789cf6-b92a-11f1-9f4f-852b23529bb9/w:1024/p:16x9/2026-09-25T164945Z-1103828899-RC2GQNAAGEO6-RTRMADP-3-USA-CHINA.jpg",
    "heat": 28,
    "ai": {
-    "id": 3,
-    "title": "伊朗称条件满足可七天内重开霍尔木兹海峡",
-    "summary": "伊朗外长阿拉格齐表示已向美国提出方案，若相关条件满足，伊朗将在七天内重新开放霍尔木兹海峡并启动谈判。霍尔木兹海峡是全球石油运输咽喉，此举被视为伊朗在制裁博弈中的策略性表态。",
+    "id": 5,
+    "title": "特朗普要求中方停止支持伊朗",
+    "summary": "特朗普在习近平时表示已要求中方停止向伊朗提供任何援助，美驻华大使庞德伟确认此事。话题涉及中美关系与中东地缘政治，引发对中方立场和大国博弈的关注。",
     "category": "国际",
     "angles": [
-     "霍尔木兹海峡有多重要？三分钟看懂全球石油命脉",
-     "伊朗这步棋到底在赌什么，地缘博弈深度解读",
-     "反向观点：七天重开是诚意还是缓兵之计"
+     "特朗普当面提伊朗问题：中美博弈的新焦点",
+     "中方会如何回应？解析中国在中东的战略立场",
+     "从伊朗问题看中美关系的'合作与对抗'并存"
     ],
-    "hook": "全球1/5石油经过这里，伊朗一句话让油价抖三抖！",
-    "structure": "前3秒用地图动画展示海峡位置+石油流量数据，中间解读伊朗条件与美方可能反应，结尾分析对中国能源安全的影响。",
+    "hook": "特朗普当面提要求，中方怎么接？伊朗问题成中美新博弈点。",
+    "structure": "开头用特朗普原话做钩子，中间梳理中美在中东问题上的立场差异，结尾分析中方可能的外交应对策略。",
     "format": "口播/图文",
-    "risk": "涉及国际地缘政治与石油能源，避免过度解读或站队；数据引用需标注来源。",
+    "risk": "涉及中美关系、伊朗局势等敏感话题，严格以官方信息为准，避免猜测性言论。",
     "power": {
-     "score": 4,
-     "angle": "霍尔木兹海峡局势→全球油价波动→中国能源安全与电网保供储备→特高压输电降低对海运能源依赖"
+     "score": 0,
+     "angle": "不建议植入"
     }
    },
    "stats": {
-    "first_seen": "2026-09-25T23:36:47+08:00",
+    "first_seen": "2026-09-26T06:52:03+08:00",
     "origin_platform": "rfi",
     "path": [
      {
       "platform": "rfi",
-      "time": "2026-09-25T23:36:47+08:00"
+      "time": "2026-09-26T06:52:03+08:00"
      }
     ],
     "heat_log": [
      {
-      "time": "2026-09-25T23:36:47+08:00",
-      "heat": 28
-     },
-     {
-      "time": "2026-09-26T03:36:28+08:00",
+      "time": "2026-09-26T06:52:03+08:00",
       "heat": 28
      }
     ],
     "trend": "new",
-    "days": 2,
-    "appearances": 2
+    "days": 1,
+    "appearances": 1
    }
   },
   {
-   "title": "王楚钦说和孙颖莎配了很多年混双",
-   "raw_title": "王楚钦说和孙颖莎配了很多年混双",
+   "title": "国乒包揽冠亚军庆中秋",
+   "raw_title": "国乒包揽冠亚军庆祝中秋",
    "desc": "",
    "platforms": [
     "weibo"
    ],
    "links": {
-    "weibo": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%AF%B4%E5%92%8C%E5%AD%99%E9%A2%96%E8%8E%8E%E9%85%8D%E4%BA%86%E5%BE%88%E5%A4%9A%E5%B9%B4%E6%B7%B7%E5%8F%8C%23"
+    "weibo": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E5%8C%85%E6%8F%BD%E5%86%A0%E4%BA%9A%E5%86%9B%E5%BA%86%E7%A5%9D%E4%B8%AD%E7%A7%8B%23"
    },
    "cover": "",
    "heat": 27,
    "ai": {
     "id": 6,
-    "title": "王楚钦说和孙颖莎配了很多年混双",
-    "summary": "王楚钦在采访中谈到与孙颖莎多年混双搭档的默契，引发'莎头CP'粉丝热议。两人从青少年时期就开始配对，成绩斐然，粉丝对两人的关系和默契度持续关注。争议点在于运动员是否应该被过度'CP化'。",
+    "title": "国乒包揽冠亚军庆中秋",
+    "summary": "国乒在国际赛事中包揽冠亚军，恰逢中秋佳节，队员用优异成绩献礼节日。话题引发网友对国乒统治力、运动员拼搏精神的讨论和节日情绪共鸣。",
     "category": "体育",
     "angles": [
-     "花边向：王楚钦孙颖莎的默契瞬间混剪，配了这么多年到底有多懂对方",
-     "反向观点：运动员不是偶像，过度CP化对他们是负担",
-     "深度解读：莎头组合的技术互补性分析，为什么他们能赢"
+     "国乒包揽冠亚军背后的训练日常：冠军是怎么炼成的",
+     "中秋夺冠名场面混剪：国乒的节日仪式感",
+     "国乒为什么总能赢？从青训体系到心理建设的深度解析"
     ],
-    "hook": "配了这么多年，王楚钦一句话暴露了和孙颖莎的真实关系。",
-    "structure": "前3秒用采访原声+比赛默契画面切入，中间盘点两人经典配合瞬间，结尾引导理性追星、关注赛场表现。",
+    "hook": "中秋之夜，国乒又双叒包揽冠亚军了——这就是中国排面！",
+    "structure": "开头用夺冠瞬间+中秋元素混剪制造情绪高潮，中间盘点本次比赛亮点和运动员故事，结尾升华'团圆与荣耀'的情感主题。",
     "format": "混剪/口播",
-    "risk": "避免过度炒作运动员私人关系，防止引发粉丝互撕；使用采访素材注意版权。",
+    "risk": "注意赛事版权，避免使用未经授权的比赛画面。",
     "power": {
-     "score": 1,
-     "angle": "不建议植入"
+     "score": 3,
+     "angle": "大型赛事保电→赛场灯光与转播背后的电力保障→致敬幕后电力工作者"
     }
    },
    "stats": {
-    "first_seen": "2026-09-26T03:36:28+08:00",
+    "first_seen": "2026-09-26T06:52:03+08:00",
     "origin_platform": "weibo",
     "path": [
      {
       "platform": "weibo",
-      "time": "2026-09-26T03:36:28+08:00"
+      "time": "2026-09-26T06:52:03+08:00"
      }
     ],
     "heat_log": [
      {
-      "time": "2026-09-26T03:36:28+08:00",
+      "time": "2026-09-26T06:52:03+08:00",
       "heat": 27
      }
     ],
@@ -5222,7 +5368,7 @@
    "links": {
     "douyin": "https://www.douyin.com/search/%E6%9C%88%E6%BB%A1%E4%B8%AD%E7%A7%8B%E6%89%80%E6%84%BF%E7%9A%86%E5%9C%86"
    },
-   "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/oAQRAifDNQr19kqAaFf6dt6IpB4AKEjqFB95Qg~noop.jpeg?lk3s=bfd515bb&x-expires=1790384400&x-signature=lxarYea8bunJXdspTDy5BgVyuGY%3D&from=3218412987",
+   "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/oAQRAifDNQr19kqAaFf6dt6IpB4AKEjqFB95Qg~noop.jpeg?lk3s=bfd515bb&x-expires=1790395200&x-signature=XKCCtg99aXyTZzYAHV5bm4HV%2Fug%3D&from=3218412987",
    "heat": 27,
    "ai": {
     "id": 9,
@@ -5264,11 +5410,15 @@
      {
       "time": "2026-09-26T03:36:28+08:00",
       "heat": 27
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
+      "heat": 27
      }
     ],
-    "trend": "new",
+    "trend": "flat",
     "days": 2,
-    "appearances": 3
+    "appearances": 4
    }
   },
   {
@@ -5319,11 +5469,15 @@
      {
       "time": "2026-09-26T03:36:28+08:00",
       "heat": 27
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
+      "heat": 27
      }
     ],
     "trend": "new",
     "days": 2,
-    "appearances": 2
+    "appearances": 3
    }
   },
   {
@@ -5334,7 +5488,7 @@
     "toutiao"
    ],
    "links": {
-    "toutiao": "https://www.toutiao.com/trending/7689271303358152723/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227689271303358152723%22%2C%22hot_board_impr_id%22%3A%2220260926033605AE544A1FD00ED02272E8%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%89%B9%E6%9C%97%E6%99%AE%E8%B5%A0%E4%B8%AD%E6%96%B9%E9%9B%95%E5%83%8F%EF%BC%9A%E6%88%91%E4%BA%B2%E8%87%AA%E5%8F%82%E4%B8%8E%E8%AE%BE%E8%AE%A1%22%7D&rank=&style_id=40132&topic_id=7689271303358152723"
+    "toutiao": "https://www.toutiao.com/trending/7689271303358152723/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227689271303358152723%22%2C%22hot_board_impr_id%22%3A%222026092606513900FD3F3F80DC9E3B056F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%89%B9%E6%9C%97%E6%99%AE%E8%B5%A0%E4%B8%AD%E6%96%B9%E9%9B%95%E5%83%8F%EF%BC%9A%E6%88%91%E4%BA%B2%E8%87%AA%E5%8F%82%E4%B8%8E%E8%AE%BE%E8%AE%A1%22%7D&rank=&style_id=40132&topic_id=7689271303358152723"
    },
    "cover": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/a1777c5ce5784418bb5eca36928e9685~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1792886400&x-signature=nYLh7fi8MjcnAnbY9lZKqdQgysI%3D",
    "heat": 27,
@@ -5382,11 +5536,15 @@
      {
       "time": "2026-09-26T03:36:28+08:00",
       "heat": 27
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
+      "heat": 27
      }
     ],
     "trend": "new",
     "days": 2,
-    "appearances": 2
+    "appearances": 3
    }
   },
   {
@@ -5437,170 +5595,174 @@
      {
       "time": "2026-09-26T03:36:28+08:00",
       "heat": 27
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
+      "heat": 27
      }
     ],
     "trend": "new",
     "days": 2,
-    "appearances": 2
+    "appearances": 3
    }
   },
   {
-   "title": "假刀郎被刀迷围堵当面质问后承认冒充",
-   "raw_title": "假刀郎再也装不下去了，被刀迷围堵当面质问，无奈亲口承认是冒充的",
+   "title": "从济公到爷叔，他用一生诠释没有小角色",
+   "raw_title": "从“济公”到“爷叔”，他用一生诠释“没有小角色，只有小演员”",
    "desc": "",
    "platforms": [
     "qq_ent"
    ],
    "links": {
-    "qq_ent": "https://view.inews.qq.com/a/20260924V0BUYR00"
+    "qq_ent": "https://view.inews.qq.com/a/20260925A02JEA00"
    },
-   "cover": "https://inews.gtimg.com/om_ls/OwAoVrfnHWYfyPgc2Q7nZVgDjBYWAJpkeGSpUYM5OLTS8AA_870492/0",
+   "cover": "https://inews.gtimg.com/news_ls/OZpPAzSIsdTV0dWfHifHSVHIab2vhPN7ILaZYyZWTzrNYAA_294195/0",
+   "heat": 27,
+   "ai": {
+    "id": 4,
+    "title": "从济公到爷叔，他用一生诠释没有小角色",
+    "summary": "游本昌从'济公'到《繁花》'爷叔'，跨越数十年的演艺生涯引发全网致敬。他甘当配角、深耕表演的故事被大量转发，成为'老戏骨'精神的代表。看点在于老艺术家的职业态度与当下流量文化的对比。",
+    "category": "娱乐",
+    "angles": [
+     "情绪共鸣：游本昌90岁还在演戏，我们有什么理由不努力",
+     "深度解读：从济公到爷叔，一个演员的自我修养",
+     "反向观点：'没有小角色'是理想，但娱乐圈现实是流量为王"
+    ],
+    "hook": "90岁的他，用一辈子证明了什么叫'没有小角色'。",
+    "structure": "前5秒用济公和爷叔的经典画面混剪制造回忆杀，中间讲游本昌的敬业故事和幕后细节，结尾升华到对演艺圈现状的思考。",
+    "format": "混剪/口播",
+    "risk": "使用影视片段注意版权；避免过度煽情引发审美疲劳。",
+    "power": {
+     "score": 1,
+     "angle": "不建议植入"
+    }
+   },
+   "stats": {
+    "first_seen": "2026-09-25T23:36:47+08:00",
+    "origin_platform": "qq_ent",
+    "path": [
+     {
+      "platform": "qq_ent",
+      "time": "2026-09-25T23:36:47+08:00"
+     }
+    ],
+    "heat_log": [
+     {
+      "time": "2026-09-25T23:36:47+08:00",
+      "heat": 25
+     },
+     {
+      "time": "2026-09-26T03:36:28+08:00",
+      "heat": 29
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
+      "heat": 27
+     }
+    ],
+    "trend": "new",
+    "days": 2,
+    "appearances": 3
+   }
+  },
+  {
+   "title": "特朗普盛大接待习近平引国会两党质疑",
+   "raw_title": "特朗普盛大接待习近平引国会两党质疑",
+   "desc": "美国总统特朗普（Donald Trump）周四在白宫盛大接待中国国家主席习近平，不过美国国会两党议员对峰会成果及接待安排提出质疑。",
+   "platforms": [
+    "rfi"
+   ],
+   "links": {
+    "rfi": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260925-%E7%89%B9%E6%9C%97%E6%99%AE%E7%9B%9B%E5%A4%A7%E6%8E%A5%E5%BE%85%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%BC%95%E5%9B%BD%E4%BC%9A%E4%B8%A4%E5%85%9A%E8%B4%A8%E7%96%91"
+   },
+   "cover": "https://s.rfi.fr/media/display/bd5bbc08-b92a-11f1-a04d-852b23529bb9/w:1024/p:16x9/2026-09-25T145018Z-846543336-RC2EQNAFHR13-RTRMADP-3-USA-CHINA.jpg",
    "heat": 27,
    "ai": {
     "id": 7,
-    "title": "假刀郎被刀迷围堵当面质问后承认冒充",
-    "summary": "一名冒充刀郎的男子被刀迷围堵当面质问，最终无奈承认是冒充。事件引发网友对'山寨明星'现象的热议和调侃。",
-    "category": "娱乐",
+    "title": "特朗普盛大接待习近平引国会两党质疑",
+    "summary": "特朗普在白宫盛大接待习近平，但美国国会两党议员对峰会成果及接待安排提出质疑，认为礼仪规格过高而实质成果不足。引发对美国对华政策内部分歧的讨论。",
+    "category": "国际",
     "angles": [
-     "搞笑向：假刀郎被围堵时的表情变化，堪称年度最佳'社死'现场",
-     "深度解读：山寨明星产业链有多野，从模仿到冒充的边界在哪",
-     "反向观点：刀迷围堵质问，是维权还是网暴"
+     "美国会两党为何质疑接待规格？内部对华分歧浮出水面",
+     "盛大接待vs实质成果：美国舆论场的中美关系争论",
+     "从国会质疑看特朗普对华政策的'两面性'"
     ],
-    "hook": "假刀郎被围堵那一刻，演技突然在线了",
-    "structure": "开头用围堵现场视频+字幕特效制造喜剧效果，中间快速剪辑假刀郎'翻车'名场面，结尾抛出'模仿和冒充的界限在哪'引发讨论。",
-    "format": "混剪",
-    "risk": "避免对当事人进行人身攻击或过度嘲讽，注意肖像权和视频素材版权。",
+    "hook": "白宫铺红毯，国会却炸了锅——美国内部对华态度撕裂有多深？",
+    "structure": "开头用国会质疑的激烈言论做钩子，中间分析美国两党对华政策分歧，结尾讨论这种内部分歧对中美关系的影响。",
+    "format": "口播/图文",
+    "risk": "涉及美国内政与中美关系，保持客观中立，避免站队式表达。",
     "power": {
      "score": 0,
      "angle": "不建议植入"
     }
    },
    "stats": {
-    "first_seen": "2026-09-25T08:57:37+08:00",
-    "origin_platform": "qq_ent",
-    "path": [
-     {
-      "platform": "qq_ent",
-      "time": "2026-09-25T08:57:37+08:00"
-     }
-    ],
-    "heat_log": [
-     {
-      "time": "2026-09-25T08:57:37+08:00",
-      "heat": 29
-     },
-     {
-      "time": "2026-09-25T13:37:51+08:00",
-      "heat": 30
-     },
-     {
-      "time": "2026-09-25T18:38:02+08:00",
-      "heat": 29
-     },
-     {
-      "time": "2026-09-25T23:36:47+08:00",
-      "heat": 24
-     },
-     {
-      "time": "2026-09-26T03:36:28+08:00",
-      "heat": 27
-     }
-    ],
-    "trend": "flat",
-    "days": 2,
-    "appearances": 5
-   }
-  },
-  {
-   "title": "水利专家质疑平陆运河破坏生态",
-   "raw_title": "王维洛：平陆运河打破分水岭是对生态环境的绝对破坏",
-   "desc": "中国广西长达134公里的人造运河平陆运河于9月16日正式通航，中国媒体高调报道了这一耗资727亿元的工程，声称它将改变西南地区未来与市场、产业乃至世界连接的“经济距离。9月23日，通过平陆运河的首艘外贸货轮抵达越南完成了首航。 不过，旅居德国的水利专家王维洛先生对平陆运河的环境后果深表担忧，他认为该运河的修建打破水利工程的一大禁忌，破坏了广西河流的分水岭，对当地近年来频频发生的水灾负有直接的责任。他还对平陆运河的经济收益存有疑虑，担心这或许又是一大赔钱的工程。此外，他还就环球网文章将平陆运河与苏伊士运河相提并论提出质疑。",
-   "platforms": [
-    "rfi"
-   ],
-   "links": {
-    "rfi": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%8E%AF%E5%A2%83%E4%B8%8E%E5%8F%91%E5%B1%95/20260925-%E7%8E%8B%E7%BB%B4%E6%B4%9B-%E5%B9%B3%E9%99%86%E8%BF%90%E6%B2%B3%E6%89%93%E7%A0%B4%E5%88%86%E6%B0%B4%E5%B2%AD%E6%98%AF%E5%AF%B9%E7%94%9F%E6%80%81%E7%8E%AF%E5%A2%83%E7%9A%84%E7%BB%9D%E5%AF%B9%E7%A0%B4%E5%9D%8F"
-   },
-   "cover": "https://s.rfi.fr/media/display/3b70375a-b335-11f1-a48b-8bce42b8e305/w:1024/p:16x9/000-C8FE7JB.jpg",
-   "heat": 27,
-   "ai": {
-    "id": 8,
-    "title": "水利专家质疑平陆运河破坏生态",
-    "summary": "旅德水利专家王维洛公开质疑平陆运河打破分水岭将对生态环境造成绝对破坏。此番言论与官媒高调庆祝通航形成鲜明对比，引发网友对大型工程生态代价的讨论。",
-    "category": "社会",
-    "angles": [
-     "王维洛是谁？他的质疑有科学依据吗",
-     "平陆运河生态争议：支持方与反对方观点碰撞",
-     "反向观点：发展经济就一定要牺牲环境吗"
-    ],
-    "hook": "727亿的运河，专家说这是生态灾难？",
-    "structure": "前3秒抛出专家质疑核心观点，中间梳理正反双方论据，结尾引导观众思考大型工程的生态评估机制。",
-    "format": "口播/图文",
-    "risk": "涉及重大工程负面评价与专家争议，需平衡呈现；避免被认定为散布不实信息或恶意抹黑。",
-    "power": {
-     "score": 2,
-     "angle": "不建议植入"
-    }
-   },
-   "stats": {
-    "first_seen": "2026-09-25T23:36:47+08:00",
+    "first_seen": "2026-09-26T06:52:03+08:00",
     "origin_platform": "rfi",
     "path": [
      {
       "platform": "rfi",
-      "time": "2026-09-25T23:36:47+08:00"
+      "time": "2026-09-26T06:52:03+08:00"
      }
     ],
     "heat_log": [
      {
-      "time": "2026-09-25T23:36:47+08:00",
-      "heat": 27
-     },
-     {
-      "time": "2026-09-26T03:36:28+08:00",
+      "time": "2026-09-26T06:52:03+08:00",
       "heat": 27
      }
     ],
     "trend": "new",
-    "days": 2,
-    "appearances": 2
+    "days": 1,
+    "appearances": 1
    }
   },
   {
-   "title": "月饼",
-   "raw_title": "月饼",
+   "title": "陈妤颉100米夺金，短跑新星闪耀赛场",
+   "raw_title": "陈妤颉100米夺金",
    "desc": "",
    "platforms": [
     "weibo"
    ],
    "links": {
-    "weibo": "https://s.weibo.com/weibo?q=%23%E6%9C%88%E9%A5%BC%23"
+    "weibo": "https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A6%A4%E9%A2%89100%E7%B1%B3%E5%A4%BA%E9%87%91%23"
    },
    "cover": "",
    "heat": 26,
    "ai": {
-    "id": 7,
-    "title": "月饼",
-    "summary": "中秋临近，月饼相关话题持续升温，涵盖奇葩口味测评、天价月饼争议、品牌联名、自制月饼教程等。每年中秋月饼都是流量密码，今年主打'健康化'和'国潮风'。",
-    "category": "生活",
+    "id": 5,
+    "title": "陈妤颉100米夺金，短跑新星闪耀赛场",
+    "summary": "中国短跑选手陈妤颉在100米比赛中夺金，展现出强劲的冲刺实力。作为年轻新星，她的表现引发对田径后备力量和未来国际大赛前景的热议。",
+    "category": "体育",
     "angles": [
-     "测评向：今年最离谱的月饼口味大盘点，螺蛳粉月饼你敢吃吗",
-     "反向观点：月饼越来越贵，到底是在吃饼还是吃包装",
-     "科普：无糖月饼真的无糖吗？配料表逐行拆解"
+     "热血向：陈妤颉冲刺瞬间逐帧回放",
+     "深度解读：中国短跑新生代能否接棒",
+     "情绪共鸣：从默默无闻到夺金，她经历了什么"
     ],
-    "hook": "今年最离谱的月饼，我替你尝了。",
-    "structure": "前3秒展示最猎奇月饼制造视觉冲击，中间快速测评3-5款不同口味给出真实反应，结尾推荐1-2款真正好吃的或教大家避坑。",
-    "format": "街采/口播",
-    "risk": "食品测评需真实客观，避免虚假宣传；注意不要浪费食物引发反感。",
+    "hook": "最后30米直接拉开！陈妤颉这枚100米金牌含金量有多高？",
+    "structure": "开头播放夺金冲刺高光片段，中间分析技术特点和训练背景，结尾展望未来国际赛事表现。",
+    "format": "混剪/口播",
+    "risk": "注意赛事版权，使用比赛画面需确认授权；避免过度吹捧给运动员压力。",
     "power": {
-     "score": 2,
+     "score": 1,
      "angle": "不建议植入"
     }
    },
    "stats": {
     "first_seen": "2026-09-25T23:36:47+08:00",
-    "origin_platform": "weibo",
+    "origin_platform": "douyin",
     "path": [
+     {
+      "platform": "douyin",
+      "time": "2026-09-25T23:36:47+08:00"
+     },
+     {
+      "platform": "toutiao",
+      "time": "2026-09-25T23:36:47+08:00"
+     },
+     {
+      "platform": "bili",
+      "time": "2026-09-25T23:36:47+08:00"
+     },
      {
       "platform": "weibo",
       "time": "2026-09-25T23:36:47+08:00"
@@ -5609,83 +5771,87 @@
     "heat_log": [
      {
       "time": "2026-09-25T23:36:47+08:00",
-      "heat": 4
+      "heat": 181
+     },
+     {
+      "time": "2026-09-25T23:36:47+08:00",
+      "heat": 29
      },
      {
       "time": "2026-09-26T03:36:28+08:00",
+      "heat": 177
+     },
+     {
+      "time": "2026-09-26T03:36:28+08:00",
+      "heat": 21
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
+      "heat": 172
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
+      "heat": 26
+     }
+    ],
+    "trend": "down",
+    "days": 2,
+    "appearances": 6
+   }
+  },
+  {
+   "title": "中国45小时连发4枚火箭，印媒看懵",
+   "raw_title": "中国45小时连发4枚火箭 印媒直呼看懵",
+   "desc": "",
+   "platforms": [
+    "toutiao"
+   ],
+   "links": {
+    "toutiao": "https://www.toutiao.com/trending/7689095772238217262/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2212%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227689095772238217262%22%2C%22hot_board_impr_id%22%3A%222026092606513900FD3F3F80DC9E3B056F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E5%9B%BD45%E5%B0%8F%E6%97%B6%E8%BF%9E%E5%8F%914%E6%9E%9A%E7%81%AB%E7%AE%AD+%E5%8D%B0%E5%AA%92%E7%9B%B4%E5%91%BC%E7%9C%8B%E6%87%B5%22%7D&rank=&style_id=40132&topic_id=7689095772238217262"
+   },
+   "cover": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/429fedc7461748438564e3ef12c29b64~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1792886400&x-signature=X8ngNp4fR5hODhBU8OvoUCtK17Y%3D",
+   "heat": 26,
+   "ai": {
+    "id": 8,
+    "title": "中国45小时连发4枚火箭，印媒看懵",
+    "summary": "中国在45小时内连续发射4枚火箭，展现航天发射高频次能力，印度媒体对此表示震惊。话题引发对中美航天竞争、中国航天实力的热议。",
+    "category": "科技",
+    "angles": [
+     "45小时4枚火箭：中国航天为什么能这么快？",
+     "印媒看懵背后：全球航天竞争格局正在改写",
+     "从发射频率看中国航天商业化提速"
+    ],
+    "hook": "45小时，4枚火箭，印度媒体直接看懵了——中国航天到底有多强？",
+    "structure": "开头用发射倒计时混剪制造紧张感，中间科普一箭多星、快速发射等技术亮点，结尾对比全球航天发射数据展现中国速度。",
+    "format": "混剪/口播",
+    "risk": "涉及航天技术，注意保密信息，以公开报道为准，避免过度吹捧引发反感。",
+    "power": {
+     "score": 4,
+     "angle": "航天发射需要高可靠电力保障→发射场电网建设与特高压输电→电力科技支撑大国重器"
+    }
+   },
+   "stats": {
+    "first_seen": "2026-09-25T23:36:47+08:00",
+    "origin_platform": "toutiao",
+    "path": [
+     {
+      "platform": "toutiao",
+      "time": "2026-09-25T23:36:47+08:00"
+     }
+    ],
+    "heat_log": [
+     {
+      "time": "2026-09-25T23:36:47+08:00",
+      "heat": 13
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
       "heat": 26
      }
     ],
     "trend": "new",
     "days": 2,
     "appearances": 2
-   }
-  },
-  {
-   "title": "中秋文案",
-   "raw_title": "中秋文案",
-   "desc": "",
-   "platforms": [
-    "douyin"
-   ],
-   "links": {
-    "douyin": "https://www.douyin.com/search/%E4%B8%AD%E7%A7%8B%E6%96%87%E6%A1%88"
-   },
-   "cover": "https://p11-sign.douyinpic.com/tos-cn-i-0813/ocDzAEnAjI2tSFPANDKfCPmNs8AjC9gf0qENAA~noop.jpeg?lk3s=bfd515bb&x-expires=1790384400&x-signature=XRP0N43RAUpTzXy%2FXvObhDPdK3A%3D&from=3218412987",
-   "heat": 26,
-   "ai": {
-    "id": 7,
-    "title": "中秋文案",
-    "summary": "中秋节期间，各类中秋文案在社交平台刷屏，从温情团圆到搞笑吐槽，网友纷纷借用文案表达节日心情。中秋文案成为节日社交的'刚需'。",
-    "category": "生活",
-    "angles": [
-     "情绪共鸣：10条中秋文案，总有一条戳中你",
-     "反向观点：中秋文案越来越卷，但真心话越来越少？",
-     "花边切入：明星中秋文案大赏，谁走心谁敷衍"
-    ],
-    "hook": "中秋发朋友圈，这10条文案直接抄！",
-    "structure": "开头用'中秋文案怎么发'切入，中间快速展示5-8条不同风格文案配画面，结尾引导'你最喜欢哪一条'。",
-    "format": "图文/口播",
-    "risk": "无明显风险。",
-    "power": {
-     "score": 2,
-     "angle": "不建议植入"
-    }
-   },
-   "stats": {
-    "first_seen": "2026-09-25T08:57:37+08:00",
-    "origin_platform": "weibo",
-    "path": [
-     {
-      "platform": "weibo",
-      "time": "2026-09-25T08:57:37+08:00"
-     },
-     {
-      "platform": "douyin",
-      "time": "2026-09-25T18:38:02+08:00"
-     }
-    ],
-    "heat_log": [
-     {
-      "time": "2026-09-25T08:57:37+08:00",
-      "heat": 13
-     },
-     {
-      "time": "2026-09-25T18:38:02+08:00",
-      "heat": 24
-     },
-     {
-      "time": "2026-09-25T23:36:47+08:00",
-      "heat": 76
-     },
-     {
-      "time": "2026-09-26T03:36:28+08:00",
-      "heat": 26
-     }
-    ],
-    "trend": "up",
-    "days": 2,
-    "appearances": 4
    }
   },
   {
@@ -5732,39 +5898,43 @@
      {
       "time": "2026-09-26T03:36:28+08:00",
       "heat": 26
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
+      "heat": 26
      }
     ],
     "trend": "new",
     "days": 1,
-    "appearances": 1
+    "appearances": 2
    }
   },
   {
-   "title": "冯巩坐二等座回老家过中秋",
-   "raw_title": "冯巩坐二等座回老家过中秋，饭菜简单无排场，和姐姐同框简直共用一张脸",
+   "title": "张家齐大方谈直播赚钱，刘思远满眼认同",
+   "raw_title": "直播赚多少钱算够？张家齐大大方方谈钱，刘思远在一旁听得满眼认同丨我家那闺女",
    "desc": "",
    "platforms": [
     "qq_ent"
    ],
    "links": {
-    "qq_ent": "https://view.inews.qq.com/a/20260925V07D0Z00"
+    "qq_ent": "https://view.inews.qq.com/a/20260925V0318D00"
    },
-   "cover": "https://inews.gtimg.com/om_ls/OZEU45tUjjqzdCvexiVQiB1gC9UyFcQN2xjeFTMZx5fqwAA_870492/0",
+   "cover": "https://inews.gtimg.com/om_ls/OHGn9JFaxdjxeRjC8PesKj6JLJfDp0w0UVI7cCwQHDNfgAA_870492/0",
    "heat": 26,
    "ai": {
     "id": 9,
-    "title": "冯巩坐二等座回老家过中秋",
-    "summary": "冯巩被拍到坐高铁二等座回老家过中秋，饭菜简单、与姐姐同框长相相似引发热议。网友称赞其低调朴素，也有人讨论明星出行方式是否应该被过度关注。看点在于老艺术家的接地气人设。",
+    "title": "张家齐大方谈直播赚钱，刘思远满眼认同",
+    "summary": "张家齐在综艺《我家那闺女》中大方谈论直播收入，直言'赚多少算够'，刘思远在一旁听得满眼认同。话题引发对运动员转型、直播经济和个人价值追求的讨论。",
     "category": "娱乐",
     "angles": [
-     "情绪共鸣：冯巩坐二等座回老家，这才是真正的艺术家",
-     "花边向：冯巩和姐姐同框简直共用一张脸，基因太强大了",
-     "反向观点：明星坐二等座就上热搜，是不是我们对明星太宽容了"
+     "张家齐谈钱为什么圈粉？运动员转型直播的真实一面",
+     "从奥运冠军到带货主播：运动员退役后的生存图鉴",
+     "'赚多少算够'引共鸣：年轻人对金钱与幸福的重新定义"
     ],
-    "hook": "冯巩坐二等座回老家，饭菜简单得让人心疼。",
-    "structure": "前5秒用冯巩经典台词'我想死你们了'开场+二等座画面，中间讲他低调朴素的生活细节，结尾引发'什么才是真正的明星'的讨论。",
+    "hook": "奥运冠军直播赚多少钱？张家齐大大方方说了，旁边刘思远的表情亮了。",
+    "structure": "开头放张家齐谈钱的综艺原片片段，中间讨论运动员转型直播的现状与争议，结尾引发'多少钱才算够'的价值观讨论。",
     "format": "混剪/口播",
-    "risk": "注意不要过度打扰艺人私生活；使用路人拍摄素材注意肖像权。",
+    "risk": "注意综艺版权，使用短片段；避免对运动员转型做道德评判。",
     "power": {
      "score": 1,
      "angle": "不建议植入"
@@ -5782,71 +5952,71 @@
     "heat_log": [
      {
       "time": "2026-09-25T23:36:47+08:00",
-      "heat": 5
+      "heat": 22
      },
      {
       "time": "2026-09-26T03:36:28+08:00",
+      "heat": 13
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
       "heat": 26
      }
     ],
     "trend": "new",
     "days": 2,
-    "appearances": 2
+    "appearances": 3
    }
   },
   {
-   "title": "菲律宾指责中国阻挠仁爱礁补给任务",
-   "raw_title": "菲律宾指责中国阻挠其在仁爱礁补给任务",
-   "desc": "菲律宾于9月25日指责中国海警和军舰阻挠其昨天前往南海阿云津礁（Ayungin）上进行补给任务。",
+   "title": "习近平结束访美 中美领导人年内将再会晤",
+   "raw_title": "习近平结束访美 美中领导人拟于11月和12月再次会晤",
+   "desc": "中国国家主席习近平周五（9月25日）结束对美国为期三天的国事访问。美国总统特朗普称此次会面“非常积极”。两国领导人表示，计划于11月在中国举行的亚太经合组织领导人会议及12月在美国举行的二十国集团峰会期间再次会晤。特朗普以高规格礼遇接待这位近三年来首次访美的中国领导人，以及他与习近平展现的“亲近姿态”也引发美国国内批评。法新社指出，尽管两国领导人强调双边关系的稳定与合作，此访在缓解经贸等领域的分歧方面，公开宣布的具体成果仍然有限。",
    "platforms": [
     "rfi"
    ],
    "links": {
-    "rfi": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260925-%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%8C%87%E8%B4%A3%E4%B8%AD%E5%9B%BD%E9%98%BB%E6%8C%A0%E5%85%B6%E5%9C%A8%E4%BB%81%E7%88%B1%E7%A4%81%E8%A1%A5%E7%BB%99%E4%BB%BB%E5%8A%A1"
+    "rfi": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260925-%E4%B9%A0%E8%BF%91%E5%B9%B3%E7%BB%93%E6%9D%9F%E8%AE%BF%E7%BE%8E-%E7%BE%8E%E4%B8%AD%E9%A2%86%E5%AF%BC%E4%BA%BA%E6%8B%9F%E4%BA%8E11%E6%9C%88%E5%92%8C12%E6%9C%88%E5%86%8D%E6%AC%A1%E4%BC%9A%E6%99%A4"
    },
-   "cover": "https://s.rfi.fr/media/display/27ba2efe-352b-11ee-b92f-005056bf30b7/w:1024/p:16x9/AP21322088406976.jpg",
+   "cover": "https://s.rfi.fr/media/display/f8a68bde-b926-11f1-89b0-555a0aff87a4/w:1024/p:16x9/2026-09-25T164415Z-1747530527-RC2GQNAPZ5BG-RTRMADP-3-USA-CHINA.jpg",
    "heat": 26,
    "ai": {
-    "id": 4,
-    "title": "菲律宾指责中国阻挠仁爱礁补给任务",
-    "summary": "菲律宾于9月25日指责中国海警和军舰阻挠其前往南海阿云津礁的补给任务，中方尚未正式回应。事件涉及南海主权争议，引发国际关注。",
+    "id": 0,
+    "title": "习近平结束访美 中美领导人年内将再会晤",
+    "summary": "中国国家主席习近平结束为期三天的对美访问，特朗普称会面'非常积极'，双方计划在11月APEC峰会和12月G20峰会期间再次会晤。这是习近平近三年来首次访美，特朗普以高规格礼遇接待，两人展现'亲近姿态'，引发全球对中美关系走向的高度关注。",
     "category": "国际",
     "angles": [
-     "事实梳理：仁爱礁补给争议的来龙去脉",
-     "深度解读：菲律宾为何此时炒作南海话题？",
-     "反向观点：南海问题背后的域外势力博弈"
+     "深度解读：中美关系'回暖'信号背后的博弈与试探",
+     "细节放大：从接待规格和肢体语言看两国关系微妙变化",
+     "反向观点：会晤频繁但实质成果有限，别被'亲近姿态'带偏"
     ],
-    "hook": "菲律宾又来了！这次直接指责中国阻挠补给！",
-    "structure": "开头用新闻画面+地图定位说明事件，中间梳理时间线和各方表态，结尾客观分析后续走向。",
-    "format": "口播",
-    "risk": "涉及国际关系和领土主权，措辞需严谨，避免情绪化表达；建议引用官方表态，避免被限流。",
+    "hook": "三年首次访美，特朗普高规格接待，中美关系要变天了？",
+    "structure": "前3秒点出'三年首次'制造稀缺感，中间快速梳理会晤关键细节和双方表态，结尾抛出'11月、12月还要见两次'引发对后续走向的讨论。",
+    "format": "口播/图文",
+    "risk": "涉及国际外交敏感话题，需严格使用官方表述，避免主观臆测或过度解读两国关系，平台对时政类内容审核较严。",
     "power": {
-     "score": 0,
+     "score": 1,
      "angle": "不建议植入"
     }
    },
    "stats": {
-    "first_seen": "2026-09-25T23:36:47+08:00",
+    "first_seen": "2026-09-26T06:52:03+08:00",
     "origin_platform": "rfi",
     "path": [
      {
       "platform": "rfi",
-      "time": "2026-09-25T23:36:47+08:00"
+      "time": "2026-09-26T06:52:03+08:00"
      }
     ],
     "heat_log": [
      {
-      "time": "2026-09-25T23:36:47+08:00",
-      "heat": 26
-     },
-     {
-      "time": "2026-09-26T03:36:28+08:00",
+      "time": "2026-09-26T06:52:03+08:00",
       "heat": 26
      }
     ],
     "trend": "new",
-    "days": 2,
-    "appearances": 2
+    "days": 1,
+    "appearances": 1
    }
   },
   {
@@ -5893,78 +6063,15 @@
      {
       "time": "2026-09-26T03:36:28+08:00",
       "heat": 25
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
+      "heat": 25
      }
     ],
     "trend": "new",
     "days": 1,
-    "appearances": 1
-   }
-  },
-  {
-   "title": "华晨宇南京演唱会燃爆全场",
-   "raw_title": "周杰伦南京演唱会",
-   "desc": "",
-   "platforms": [
-    "douyin"
-   ],
-   "links": {
-    "douyin": "https://www.douyin.com/search/%E5%91%A8%E6%9D%B0%E4%BC%A6%E5%8D%97%E4%BA%AC%E6%BC%94%E5%94%B1%E4%BC%9A"
-   },
-   "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015/ogLixFLAEIiEgwteS1f3drHA9PKxqDNEABqcBi~noop.jpeg?lk3s=bfd515bb&x-expires=1790384400&x-signature=OzZAKWz9zo03h1%2B6Zgov1yj1TUY%3D&from=3218412987",
-   "heat": 25,
-   "ai": {
-    "id": 0,
-    "title": "华晨宇南京演唱会燃爆全场",
-    "summary": "华晨宇南京演唱会如期举行，现场粉丝热情高涨，多个话题登上热搜。看点集中在舞台造型、现场唱功以及粉丝应援名场面，也有网友讨论其演唱会风格和票价争议。",
-    "category": "娱乐",
-    "angles": [
-     "现场名场面盘点：华晨宇演唱会最炸的5个瞬间",
-     "造型解析：华晨宇这次舞台穿搭什么水平？",
-     "反向观点：华晨宇演唱会到底值不值票价？路人视角实测"
-    ],
-    "hook": "华晨宇南京演唱会，现场粉丝直接哭成一片！",
-    "structure": "前3秒用演唱会高燃片段吸引眼球，中间快速剪辑3-4个名场面配合解说，结尾抛出互动问题引导评论。",
-    "format": "混剪",
-    "risk": "演唱会现场素材需注意版权，避免使用官方直播画面；粉丝向内容注意控评引导。",
-    "power": {
-     "score": 3,
-     "angle": "不建议植入"
-    }
-   },
-   "stats": {
-    "first_seen": "2026-09-25T08:57:37+08:00",
-    "origin_platform": "douyin",
-    "path": [
-     {
-      "platform": "douyin",
-      "time": "2026-09-25T08:57:37+08:00"
-     }
-    ],
-    "heat_log": [
-     {
-      "time": "2026-09-25T08:57:37+08:00",
-      "heat": 14
-     },
-     {
-      "time": "2026-09-25T13:37:51+08:00",
-      "heat": 19
-     },
-     {
-      "time": "2026-09-25T18:38:02+08:00",
-      "heat": 23
-     },
-     {
-      "time": "2026-09-25T23:36:47+08:00",
-      "heat": 26
-     },
-     {
-      "time": "2026-09-26T03:36:28+08:00",
-      "heat": 25
-     }
-    ],
-    "trend": "up",
-    "days": 2,
-    "appearances": 5
+    "appearances": 2
    }
   },
   {
@@ -6015,41 +6122,45 @@
      {
       "time": "2026-09-26T03:36:28+08:00",
       "heat": 25
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
+      "heat": 25
      }
     ],
     "trend": "new",
     "days": 2,
-    "appearances": 2
+    "appearances": 3
    }
   },
   {
-   "title": "女篮三分13投0中，高快结合打法遇困境",
-   "raw_title": "三分球13投0中凸显女篮高快结合困境",
+   "title": "中国女足主帅称这是一场沮丧的胜利",
+   "raw_title": "中国女足主帅：这是一场沮丧的胜利",
    "desc": "",
    "platforms": [
     "toutiao"
    ],
    "links": {
-    "toutiao": "https://www.toutiao.com/trending/7689477961749106214/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%2213%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227689477961749106214%22%2C%22hot_board_impr_id%22%3A%2220260926033605AE544A1FD00ED02272E8%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%89%E5%88%86%E7%90%8313%E6%8A%950%E4%B8%AD%E5%87%B8%E6%98%BE%E5%A5%B3%E7%AF%AE%E9%AB%98%E5%BF%AB%E7%BB%93%E5%90%88%E5%9B%B0%E5%A2%83%22%7D&rank=&style_id=40132&topic_id=7689477961749106214"
+    "toutiao": "https://www.toutiao.com/trending/7689368858377420836/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227689368858377420836%22%2C%22hot_board_impr_id%22%3A%222026092606513900FD3F3F80DC9E3B056F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3%E4%B8%BB%E5%B8%85%EF%BC%9A%E8%BF%99%E6%98%AF%E4%B8%80%E5%9C%BA%E6%B2%AE%E4%B8%A7%E7%9A%84%E8%83%9C%E5%88%A9%22%7D&rank=&style_id=40132&topic_id=7689368858377420836"
    },
-   "cover": "https://p3-sign.toutiaoimg.com/mosaic-legacy/2b29000036f8405561443~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1792886400&x-signature=ce3807AVCNv%2Fmd9F4mDS35nAzWs%3D",
+   "cover": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/c8aad3ec2b5b47ffbc77564a7825335e~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1792886400&x-signature=rSSBWf1PB7%2FIUtaw7b2sd4HznJE%3D",
    "heat": 25,
    "ai": {
-    "id": 0,
-    "title": "女篮三分13投0中，高快结合打法遇困境",
-    "summary": "中国女篮在一场比赛中三分球13投0中，暴露出球队在高快结合战术体系下的投射短板。球迷热议球队外线火力不足、战术执行僵化，教练组用人策略也遭到质疑。",
+    "id": 1,
+    "title": "中国女足主帅称这是一场沮丧的胜利",
+    "summary": "中国女足在一场比赛中虽然取胜，但主帅赛后直言'这是一场沮丧的胜利'，暗示球队表现远未达到预期。此番言论引发球迷热议：赢了为什么还不满意？是对球员态度不满还是战术执行出了问题？争议点在于'胜利'与'沮丧'的反差。",
     "category": "体育",
     "angles": [
-     "数据复盘：13中0背后是手感问题还是战术问题",
-     "对比分析：世界强队如何破解高快结合投射难题",
-     "情绪共鸣：球迷恨铁不成钢，女篮到底差在哪"
+     "情绪共鸣：赢了还被骂？主帅这句话戳中了多少打工人的心",
+     "深度解读：从主帅发言看中国女足当前的真实困境",
+     "争议切入：'沮丧的胜利'到底是高要求还是甩锅球员？"
     ],
-    "hook": "三分13投0中！中国女篮的高快结合，怎么就成了高快'打铁'？",
-    "structure": "前3秒抛出13中0的扎心数据，中间快速拆解几个关键回合的进攻选择，结尾抛出问题引导评论区讨论女篮出路。",
+    "hook": "赢了球，主帅却说'沮丧'——中国女足到底怎么了？",
+    "structure": "前3秒用'赢了还不高兴'制造反差悬念，中间分析比赛过程和主帅发言的深层含义，结尾引导观众讨论：你觉得问题出在哪？",
     "format": "口播/混剪",
-    "risk": "避免过度批评运动员个人，注意不要引发性别对立言论。",
+    "risk": "避免过度批评球员或主帅引发粉丝对立，注意不要涉及女足内部矛盾猜测。",
     "power": {
-     "score": 1,
+     "score": 2,
      "angle": "不建议植入"
     }
    },
@@ -6065,40 +6176,44 @@
     "heat_log": [
      {
       "time": "2026-09-26T03:36:28+08:00",
+      "heat": 10
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
       "heat": 25
      }
     ],
     "trend": "new",
     "days": 1,
-    "appearances": 1
+    "appearances": 2
    }
   },
   {
-   "title": "综艺《下一个是谁》幕后揭秘引关注",
-   "raw_title": "下一个是谁幕后揭秘",
+   "title": "卖不完的月饼都去哪了",
+   "raw_title": "卖不完的月饼都去哪了",
    "desc": "",
    "platforms": [
     "bili"
    ],
    "links": {
-    "bili": "https://search.bilibili.com/all?keyword=%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%98%AF%E8%B0%81%E5%B9%95%E5%90%8E%E6%8F%AD%E7%A7%98"
+    "bili": "https://search.bilibili.com/all?keyword=%E5%8D%96%E4%B8%8D%E5%AE%8C%E7%9A%84%E6%9C%88%E9%A5%BC%E9%83%BD%E5%8E%BB%E5%93%AA%E4%BA%86"
    },
    "cover": "",
    "heat": 25,
    "ai": {
-    "id": 1,
-    "title": "综艺《下一个是谁》幕后揭秘引关注",
-    "summary": "《下一个是谁》节目幕后花絮或制作内幕被曝光，涉及嘉宾互动、赛制设计或剪辑争议等内容。话题因观众对综艺真实性的好奇而升温，幕后故事往往比正片更有话题性。",
-    "category": "娱乐",
+    "id": 2,
+    "title": "卖不完的月饼都去哪了",
+    "summary": "中秋节后，大量未售出的月饼去向引发网友好奇。有报道称部分月饼被回收再利用、低价甩卖或作为福利发放，也有传言称被'冷冻留到明年'。话题戳中了公众对食品安全和浪费问题的关注，争议点在于厂家处理方式是否透明合规。",
+    "category": "社会",
     "angles": [
-     "深度解读：拆解节目赛制套路，幕后到底有多少'剧本'",
-     "蹭热度：盘点节目中诞生的名场面与嘉宾真实反应",
-     "反向观点：幕后揭秘越多，综艺的'真实感'还剩多少"
+     "科普向：月饼回收后的真实去向，比你想象的复杂",
+     "情绪共鸣：中秋一过月饼'身价暴跌'，你捡漏了吗？",
+     "反向观点：与其关心卖不完的月饼，不如反思过度包装和浪费"
     ],
-    "hook": "你以为的综艺名场面，幕后其实是这样的！",
-    "structure": "开头用正片高光片段与幕后花絮对比制造反差，中段逐条揭秘制作细节，结尾引导观众讨论'综艺还有多少是真的'。",
-    "format": "口播/混剪",
-    "risk": "涉及节目组内幕需注意信息来源真实性，避免造谣侵权，素材注意版权。",
+    "hook": "中秋一过，超市月饼一夜消失——它们到底去哪了？",
+    "structure": "前3秒用'一夜消失'制造好奇，中间快速盘点几种真实去向（回收、打折、福利、销毁），结尾抛出'过度生产才是根源'引发思考。",
+    "format": "口播/图文",
+    "risk": "避免传播未经证实的'冷冻月饼第二年再卖'等谣言，需引用正规媒体报道。",
     "power": {
      "score": 2,
      "angle": "不建议植入"
@@ -6116,10 +6231,10 @@
     "heat_log": [
      {
       "time": "2026-09-25T23:36:47+08:00",
-      "heat": 24
+      "heat": 11
      },
      {
-      "time": "2026-09-26T03:36:28+08:00",
+      "time": "2026-09-26T06:52:03+08:00",
       "heat": 25
      }
     ],
@@ -6129,36 +6244,18 @@
    }
   },
   {
-   "title": "周杰伦南京演唱会点歌环节杀疯了",
-   "raw_title": "周杰伦南京演唱会杀疯了！贴脸开大刘畊宏，点歌环节《千山万水》大合唱",
+   "title": "冯巩坐二等座回老家过中秋，饭菜简单无排场，和姐姐同框简直共用一张脸",
+   "raw_title": "冯巩坐二等座回老家过中秋，饭菜简单无排场，和姐姐同框简直共用一张脸",
    "desc": "",
    "platforms": [
     "qq_ent"
    ],
    "links": {
-    "qq_ent": "https://view.inews.qq.com/a/20260925V050ZO00"
+    "qq_ent": "https://view.inews.qq.com/a/20260925V07D0Z00"
    },
-   "cover": "https://inews.gtimg.com/om_ls/OBs9p9z_45D9cnVeIEb0OGa4LWH-DEXd5Ybt2lQ1hoD1AAA_870492/0",
+   "cover": "https://inews.gtimg.com/om_ls/OZEU45tUjjqzdCvexiVQiB1gC9UyFcQN2xjeFTMZx5fqwAA_870492/0",
    "heat": 25,
-   "ai": {
-    "id": 7,
-    "title": "周杰伦南京演唱会点歌环节杀疯了",
-    "summary": "周杰伦南京演唱会点歌环节，刘畊宏被'贴脸开大'，全场大合唱《千山万水》。粉丝互动名场面频出，刘畊宏反应成为笑点，演唱会片段在短视频平台疯狂传播。",
-    "category": "娱乐",
-    "angles": [
-     "周杰伦刘畊宏互怼名场面合集，笑不活了",
-     "《千山万水》大合唱现场，情怀拉满",
-     "点歌环节盘点：哪一站最炸裂"
-    ],
-    "hook": "周杰伦当着刘畊宏面唱这首歌，全场笑疯！",
-    "structure": "前3秒放刘畊宏被'贴脸开大'的爆笑反应，中间快速剪辑点歌互动高光，结尾用全场大合唱画面收尾引发情怀共鸣。",
-    "format": "混剪",
-    "risk": "演唱会现场视频版权归属需确认，避免使用官方禁止传播的片段；粉丝向内容注意不要拉踩其他歌手。",
-    "power": {
-     "score": 2,
-     "angle": "不建议植入"
-    }
-   },
+   "ai": null,
    "stats": {
     "first_seen": "2026-09-25T23:36:47+08:00",
     "origin_platform": "qq_ent",
@@ -6171,127 +6268,86 @@
     "heat_log": [
      {
       "time": "2026-09-25T23:36:47+08:00",
-      "heat": 27
+      "heat": 5
      },
      {
       "time": "2026-09-26T03:36:28+08:00",
+      "heat": 26
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
       "heat": 25
      }
     ],
     "trend": "new",
     "days": 2,
-    "appearances": 2
+    "appearances": 3
    }
   },
   {
-   "title": "埃塞俄比亚北部彻夜激战，通讯网中断",
-   "raw_title": "埃塞俄比亚北部彻夜激战，通讯网中断",
-   "desc": "法新社发自亚的斯亚贝巴消息，周四夜至周五凌晨，在激烈的交火中，埃塞俄比亚军队阻止了“提格雷”叛军进入埃塞俄比亚北部的阿巴拉市。该市与邻近的“阿法尔”地区接壤，近期该地区再度爆发战事。",
+   "title": "习近平访美：彭丽媛以文化交流展现中国软实力",
+   "raw_title": "习近平访美：彭丽媛以文化交流展现中国软实力",
+   "desc": "中国国家主席习近平访问华盛顿期间，夫人彭丽媛的一系列公开活动受到关注。她无需翻译，便与美国第一夫人梅拉尼娅·特朗普用英语交谈；听少年合唱团演唱时，她轻声跟唱。身着融入现代设计的中式服装，彭丽媛展现出从容、亲切的形象。路透社报道称，在美中围绕贸易、台湾等问题存在分歧之际，彭丽媛的亮相成为中国展示软实力的一个窗口。",
    "platforms": [
     "rfi"
    ],
    "links": {
-    "rfi": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20260925-%E5%9F%83%E5%A1%9E%E4%BF%84%E6%AF%94%E4%BA%9A%E5%8C%97%E9%83%A8%E5%BD%BB%E5%A4%9C%E6%BF%80%E6%88%98%EF%BC%8C%E9%80%9A%E8%AE%AF%E7%BD%91%E4%B8%AD%E6%96%AD"
+    "rfi": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260925-%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E-%E5%BD%AD%E4%B8%BD%E5%AA%9B%E4%BB%A5%E6%96%87%E5%8C%96%E4%BA%A4%E6%B5%81%E5%B1%95%E7%8E%B0%E4%B8%AD%E5%9B%BD%E8%BD%AF%E5%AE%9E%E5%8A%9B"
    },
-   "cover": "https://s.rfi.fr/media/display/a0761e16-9563-11f1-9e6e-005056a97e36/w:1024/p:16x9/ee6b62455937fba6d9ab1d92fad3ae3e33723a01-1.jpeg",
+   "cover": "https://s.rfi.fr/media/display/6d315416-b927-11f1-9546-c959b9d22ec6/w:1024/p:16x9/2026-09-25T172316Z-749041562-RC29QNAUZKBV-RTRMADP-3-USA-CHINA.jpg",
    "heat": 25,
    "ai": null,
    "stats": {
-    "first_seen": "2026-09-25T23:36:47+08:00",
+    "first_seen": "2026-09-26T06:52:03+08:00",
     "origin_platform": "rfi",
     "path": [
      {
       "platform": "rfi",
-      "time": "2026-09-25T23:36:47+08:00"
+      "time": "2026-09-26T06:52:03+08:00"
      }
     ],
     "heat_log": [
      {
-      "time": "2026-09-25T23:36:47+08:00",
-      "heat": 25
-     },
-     {
-      "time": "2026-09-26T03:36:28+08:00",
+      "time": "2026-09-26T06:52:03+08:00",
       "heat": 25
      }
     ],
     "trend": "new",
-    "days": 2,
-    "appearances": 2
+    "days": 1,
+    "appearances": 1
    }
   },
   {
-   "title": "芭莎之夜",
-   "raw_title": "芭莎之夜",
+   "title": "宁波小孩姐陈妤颉成亚洲女子飞人",
+   "raw_title": "宁波小孩姐陈妤颉成亚洲女子飞人",
    "desc": "",
    "platforms": [
     "weibo"
    ],
    "links": {
-    "weibo": "https://s.weibo.com/weibo?q=%23%E8%8A%AD%E8%8E%8E%E4%B9%8B%E5%A4%9C%23"
+    "weibo": "https://s.weibo.com/weibo?q=%23%E5%AE%81%E6%B3%A2%E5%B0%8F%E5%AD%A9%E5%A7%90%E9%99%88%E5%A6%A4%E9%A2%89%E6%88%90%E4%BA%9A%E6%B4%B2%E5%A5%B3%E5%AD%90%E9%A3%9E%E4%BA%BA%23"
    },
    "cover": "",
    "heat": 24,
    "ai": null,
    "stats": {
-    "first_seen": "2026-09-25T23:36:47+08:00",
+    "first_seen": "2026-09-26T06:52:03+08:00",
     "origin_platform": "weibo",
     "path": [
      {
       "platform": "weibo",
-      "time": "2026-09-25T23:36:47+08:00"
+      "time": "2026-09-26T06:52:03+08:00"
      }
     ],
     "heat_log": [
      {
-      "time": "2026-09-25T23:36:47+08:00",
-      "heat": 22
-     },
-     {
-      "time": "2026-09-26T03:36:28+08:00",
+      "time": "2026-09-26T06:52:03+08:00",
       "heat": 24
      }
     ],
     "trend": "new",
-    "days": 2,
-    "appearances": 2
-   }
-  },
-  {
-   "title": "张展硕的抖音bgm是山东王",
-   "raw_title": "张展硕的抖音bgm是山东王",
-   "desc": "",
-   "platforms": [
-    "douyin"
-   ],
-   "links": {
-    "douyin": "https://www.douyin.com/search/%E5%BC%A0%E5%B1%95%E7%A1%95%E7%9A%84%E6%8A%96%E9%9F%B3bgm%E6%98%AF%E5%B1%B1%E4%B8%9C%E7%8E%8B"
-   },
-   "cover": "https://p26-sign.douyinpic.com/tos-cn-i-0813c001/o07s0VmEIImPALgFNAGIAABfblAbEeGIBQpe7g~noop.jpeg?lk3s=bfd515bb&x-expires=1790384400&x-signature=sIE4cypUK6KegjTdwO2c65CM7Oo%3D&from=3218412987",
-   "heat": 24,
-   "ai": null,
-   "stats": {
-    "first_seen": "2026-09-25T23:36:47+08:00",
-    "origin_platform": "douyin",
-    "path": [
-     {
-      "platform": "douyin",
-      "time": "2026-09-25T23:36:47+08:00"
-     }
-    ],
-    "heat_log": [
-     {
-      "time": "2026-09-25T23:36:47+08:00",
-      "heat": 24
-     },
-     {
-      "time": "2026-09-26T03:36:28+08:00",
-      "heat": 24
-     }
-    ],
-    "trend": "new",
-    "days": 2,
-    "appearances": 2
+    "days": 1,
+    "appearances": 1
    }
   },
   {
@@ -6302,7 +6358,7 @@
     "toutiao"
    ],
    "links": {
-    "toutiao": "https://www.toutiao.com/trending/7689262718079028745/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227689262718079028745%22%2C%22hot_board_impr_id%22%3A%2220260926033605AE544A1FD00ED02272E8%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%AC%E5%88%B0%E5%A4%A7%E7%86%8A%E7%8C%AB%E5%B0%86%E8%90%BD%E6%88%B7%E7%BE%8E%E5%9B%BD%E7%AC%91%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7689262718079028745"
+    "toutiao": "https://www.toutiao.com/trending/7689262718079028745/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227689262718079028745%22%2C%22hot_board_impr_id%22%3A%222026092606513900FD3F3F80DC9E3B056F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%AC%E5%88%B0%E5%A4%A7%E7%86%8A%E7%8C%AB%E5%B0%86%E8%90%BD%E6%88%B7%E7%BE%8E%E5%9B%BD%E7%AC%91%E4%BA%86%22%7D&rank=&style_id=40132&topic_id=7689262718079028745"
    },
    "cover": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/286f7607e8ce4872953494090ccf2f31~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1792886400&x-signature=7P2ZLqhXbOBn%2BgGEg2chAzEhdls%3D",
    "heat": 24,
@@ -6336,11 +6392,15 @@
      {
       "time": "2026-09-26T03:36:28+08:00",
       "heat": 24
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
+      "heat": 24
      }
     ],
     "trend": "down",
     "days": 2,
-    "appearances": 4
+    "appearances": 5
    }
   },
   {
@@ -6369,24 +6429,28 @@
      {
       "time": "2026-09-26T03:36:28+08:00",
       "heat": 24
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
+      "heat": 24
      }
     ],
     "trend": "new",
     "days": 1,
-    "appearances": 1
+    "appearances": 2
    }
   },
   {
-   "title": "李现李一桐新剧首播，热度口碑招商三赢！以骗破局越看越上头",
-   "raw_title": "李现李一桐新剧首播，热度口碑招商三赢！以骗破局越看越上头",
+   "title": "假刀郎再也装不下去了，被刀迷围堵当面质问，无奈亲口承认是冒充的",
+   "raw_title": "假刀郎再也装不下去了，被刀迷围堵当面质问，无奈亲口承认是冒充的",
    "desc": "",
    "platforms": [
     "qq_ent"
    ],
    "links": {
-    "qq_ent": "https://view.inews.qq.com/a/20260925A006C500"
+    "qq_ent": "https://view.inews.qq.com/a/20260924V0BUYR00"
    },
-   "cover": "https://inews.gtimg.com/om_ls/O5C1l9EAj3jdgfmaOCOmtxwXgGgJLpvnLt5GPe231v0_MAA_870492/0",
+   "cover": "https://inews.gtimg.com/om_ls/OwAoVrfnHWYfyPgc2Q7nZVgDjBYWAJpkeGSpUYM5OLTS8AA_870492/0",
    "heat": 24,
    "ai": null,
    "stats": {
@@ -6401,94 +6465,147 @@
     "heat_log": [
      {
       "time": "2026-09-25T08:57:37+08:00",
-      "heat": 27
+      "heat": 29
+     },
+     {
+      "time": "2026-09-25T13:37:51+08:00",
+      "heat": 30
      },
      {
       "time": "2026-09-25T18:38:02+08:00",
-      "heat": 21
+      "heat": 29
      },
      {
       "time": "2026-09-25T23:36:47+08:00",
-      "heat": 21
+      "heat": 24
      },
      {
       "time": "2026-09-26T03:36:28+08:00",
+      "heat": 27
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
       "heat": 24
      }
     ],
     "trend": "flat",
     "days": 2,
-    "appearances": 4
+    "appearances": 6
    }
   },
   {
-   "title": "习近平：特朗普“唯一尊重的外国元首”",
-   "raw_title": "习近平：特朗普“唯一尊重的外国元首”",
-   "desc": "9月25日出刊的法国主流日刊集中大篇幅关注了教皇利奥十四世访问法国引发的轰动与思考。国际版面，多家报刊分析了习近平访美之旅。在本期法国报纸摘要节目中，我们为您选取这些与中国相关的话题做综述。",
+   "title": "《金融时报》：欧盟促英国提高中国汽车关税 争取“欧洲制造”待遇",
+   "raw_title": "《金融时报》：欧盟促英国提高中国汽车关税 争取“欧洲制造”待遇",
+   "desc": "英国《金融时报》周五（9月25日）报道，欧盟已向英国首相伯纳姆表示，英国如果希望避免重要出口产品受到欧盟拟议中的“欧洲制造”规则限制，就需要提高对中国汽车的关税，并使本国贸易政策与欧盟更加一致。",
    "platforms": [
     "rfi"
    ],
    "links": {
-    "rfi": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20260925-%E4%B9%A0%E8%BF%91%E5%B9%B3-%E7%89%B9%E6%9C%97%E6%99%AE-%E5%94%AF%E4%B8%80%E5%B0%8A%E9%87%8D%E7%9A%84%E5%A4%96%E5%9B%BD%E5%85%83%E9%A6%96"
+    "rfi": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260925-%E9%87%91%E8%9E%8D%E6%97%B6%E6%8A%A5-%E6%AC%A7%E7%9B%9F%E4%BF%83%E8%8B%B1%E5%9B%BD%E6%8F%90%E9%AB%98%E4%B8%AD%E5%9B%BD%E6%B1%BD%E8%BD%A6%E5%85%B3%E7%A8%8E-%E4%BA%89%E5%8F%96-%E6%AC%A7%E6%B4%B2%E5%88%B6%E9%80%A0-%E5%BE%85%E9%81%87"
    },
-   "cover": "https://s.rfi.fr/media/display/f22e5dce-b8d9-11f1-816d-91cf9f3cd539/w:1024/p:16x9/2026-09-25T004415Z-646520138-RC20QNAW1HJ7-RTRMADP-3-USA-CHINA.jpg",
+   "cover": "https://s.rfi.fr/media/display/51804850-b92a-11f1-9faa-c959b9d22ec6/w:1024/p:16x9/2026-09-18T072048Z-1547338697-RC2KVKA5ALSK-RTRMADP-3-USA-CHINA-CEOS.jpg",
    "heat": 24,
    "ai": null,
    "stats": {
-    "first_seen": "2026-09-25T23:36:47+08:00",
+    "first_seen": "2026-09-26T06:52:03+08:00",
     "origin_platform": "rfi",
     "path": [
      {
       "platform": "rfi",
+      "time": "2026-09-26T06:52:03+08:00"
+     }
+    ],
+    "heat_log": [
+     {
+      "time": "2026-09-26T06:52:03+08:00",
+      "heat": 24
+     }
+    ],
+    "trend": "new",
+    "days": 1,
+    "appearances": 1
+   }
+  },
+  {
+   "title": "月饼",
+   "raw_title": "月饼",
+   "desc": "",
+   "platforms": [
+    "weibo"
+   ],
+   "links": {
+    "weibo": "https://s.weibo.com/weibo?q=%23%E6%9C%88%E9%A5%BC%23"
+   },
+   "cover": "",
+   "heat": 23,
+   "ai": null,
+   "stats": {
+    "first_seen": "2026-09-25T23:36:47+08:00",
+    "origin_platform": "weibo",
+    "path": [
+     {
+      "platform": "weibo",
       "time": "2026-09-25T23:36:47+08:00"
      }
     ],
     "heat_log": [
      {
       "time": "2026-09-25T23:36:47+08:00",
-      "heat": 24
+      "heat": 4
      },
      {
       "time": "2026-09-26T03:36:28+08:00",
-      "heat": 24
-     }
-    ],
-    "trend": "new",
-    "days": 2,
-    "appearances": 2
-   }
-  },
-  {
-   "title": "赵星棠下线了",
-   "raw_title": "赵星棠下线了",
-   "desc": "",
-   "platforms": [
-    "weibo"
-   ],
-   "links": {
-    "weibo": "https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%98%9F%E6%A3%A0%E4%B8%8B%E7%BA%BF%E4%BA%86%23"
-   },
-   "cover": "",
-   "heat": 23,
-   "ai": null,
-   "stats": {
-    "first_seen": "2026-09-26T03:36:28+08:00",
-    "origin_platform": "weibo",
-    "path": [
+      "heat": 26
+     },
      {
-      "platform": "weibo",
-      "time": "2026-09-26T03:36:28+08:00"
-     }
-    ],
-    "heat_log": [
-     {
-      "time": "2026-09-26T03:36:28+08:00",
+      "time": "2026-09-26T06:52:03+08:00",
       "heat": 23
      }
     ],
     "trend": "new",
-    "days": 1,
-    "appearances": 1
+    "days": 2,
+    "appearances": 3
+   }
+  },
+  {
+   "title": "中秋消费新风向",
+   "raw_title": "中秋消费新风向",
+   "desc": "",
+   "platforms": [
+    "douyin"
+   ],
+   "links": {
+    "douyin": "https://www.douyin.com/search/%E4%B8%AD%E7%A7%8B%E6%B6%88%E8%B4%B9%E6%96%B0%E9%A3%8E%E5%90%91"
+   },
+   "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015/oodtDf2nAENDQcUYqFqgFBBsIf9iAHvOVA4Wgl~noop.jpeg?lk3s=bfd515bb&x-expires=1790395200&x-signature=bTCb%2FrQDo2D%2FTArnrxiwkUpzghg%3D&from=3218412987",
+   "heat": 23,
+   "ai": null,
+   "stats": {
+    "first_seen": "2026-09-25T23:36:47+08:00",
+    "origin_platform": "douyin",
+    "path": [
+     {
+      "platform": "douyin",
+      "time": "2026-09-25T23:36:47+08:00"
+     }
+    ],
+    "heat_log": [
+     {
+      "time": "2026-09-25T23:36:47+08:00",
+      "heat": 22
+     },
+     {
+      "time": "2026-09-26T03:36:28+08:00",
+      "heat": 22
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
+      "heat": 23
+     }
+    ],
+    "trend": "new",
+    "days": 2,
+    "appearances": 3
    }
   },
   {
@@ -6521,191 +6638,170 @@
      {
       "time": "2026-09-26T03:36:28+08:00",
       "heat": 23
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
+      "heat": 23
      }
     ],
     "trend": "new",
     "days": 2,
-    "appearances": 2
+    "appearances": 3
    }
   },
   {
-   "title": "日本选手被张展硕7枚金牌惊出表情包",
-   "raw_title": "日本选手被张展硕7枚金牌惊出表情包",
+   "title": "周锡玮：台湾只要不搞“台独”就没事",
+   "raw_title": "周锡玮：台湾只要不搞“台独”就没事",
    "desc": "",
    "platforms": [
     "toutiao"
    ],
    "links": {
-    "toutiao": "https://www.toutiao.com/trending/7688863275731353650/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227688863275731353650%22%2C%22hot_board_impr_id%22%3A%2220260926033605AE544A1FD00ED02272E8%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%97%A5%E6%9C%AC%E9%80%89%E6%89%8B%E8%A2%AB%E5%BC%A0%E5%B1%95%E7%A1%957%E6%9E%9A%E9%87%91%E7%89%8C%E6%83%8A%E5%87%BA%E8%A1%A8%E6%83%85%E5%8C%85%22%7D&rank=&style_id=40132&topic_id=7688863275731353650"
+    "toutiao": "https://www.toutiao.com/trending/7688995348076888102/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%226%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227688995348076888102%22%2C%22hot_board_impr_id%22%3A%222026092606513900FD3F3F80DC9E3B056F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%91%A8%E9%94%A1%E7%8E%AE%EF%BC%9A%E5%8F%B0%E6%B9%BE%E5%8F%AA%E8%A6%81%E4%B8%8D%E6%90%9E%E2%80%9C%E5%8F%B0%E7%8B%AC%E2%80%9D%E5%B0%B1%E6%B2%A1%E4%BA%8B%22%7D&rank=&style_id=40132&topic_id=7688995348076888102"
    },
-   "cover": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/d386c8735eaa4beb8b3aa1514b55a169~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1792886400&x-signature=jiaYLhQj2AIjtTTXoIs59EZBlMs%3D",
+   "cover": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/333af5dd3b2d434b846bc3ba7e9a8e76~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1792886400&x-signature=4kzc1pDU1Y8RXKnf9h72VNphUWI%3D",
    "heat": 23,
-   "ai": null,
-   "stats": {
-    "first_seen": "2026-09-25T23:36:47+08:00",
-    "origin_platform": "weibo",
-    "path": [
-     {
-      "platform": "weibo",
-      "time": "2026-09-25T23:36:47+08:00"
-     },
-     {
-      "platform": "toutiao",
-      "time": "2026-09-25T23:36:47+08:00"
-     }
-    ],
-    "heat_log": [
-     {
-      "time": "2026-09-25T23:36:47+08:00",
-      "heat": 76
-     },
-     {
-      "time": "2026-09-26T03:36:28+08:00",
-      "heat": 23
-     }
-    ],
-    "trend": "new",
-    "days": 2,
-    "appearances": 2
-   }
-  },
-  {
-   "title": "复联4重映有哪些新内容",
-   "raw_title": "复联4重映有哪些新内容",
-   "desc": "",
-   "platforms": [
-    "bili"
-   ],
-   "links": {
-    "bili": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E8%81%944%E9%87%8D%E6%98%A0%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%86%85%E5%AE%B9"
-   },
-   "cover": "",
-   "heat": 23,
-   "ai": null,
-   "stats": {
-    "first_seen": "2026-09-25T18:38:02+08:00",
-    "origin_platform": "bili",
-    "path": [
-     {
-      "platform": "bili",
-      "time": "2026-09-25T18:38:02+08:00"
-     }
-    ],
-    "heat_log": [
-     {
-      "time": "2026-09-25T18:38:02+08:00",
-      "heat": 21
-     },
-     {
-      "time": "2026-09-26T03:36:28+08:00",
-      "heat": 23
-     }
-    ],
-    "trend": "new",
-    "days": 2,
-    "appearances": 2
-   }
-  },
-  {
-   "title": "前TVB花旦唐宁被经纪公司起诉！曝其患重度抑郁症及自残细节",
-   "raw_title": "前TVB花旦唐宁被经纪公司起诉！曝其患重度抑郁症及自残细节",
-   "desc": "",
-   "platforms": [
-    "qq_ent"
-   ],
-   "links": {
-    "qq_ent": "https://view.inews.qq.com/a/20260925A073CM00"
-   },
-   "cover": "https://inews.gtimg.com/om_ls/OMSSvjUNk41pVtNsPqkLl9Z8fiyLU0_NotA0n5JW3LmCwAA_294195/0",
-   "heat": 23,
-   "ai": null,
-   "stats": {
-    "first_seen": "2026-09-25T23:36:47+08:00",
-    "origin_platform": "qq_ent",
-    "path": [
-     {
-      "platform": "qq_ent",
-      "time": "2026-09-25T23:36:47+08:00"
-     }
-    ],
-    "heat_log": [
-     {
-      "time": "2026-09-25T23:36:47+08:00",
-      "heat": 19
-     },
-     {
-      "time": "2026-09-26T03:36:28+08:00",
-      "heat": 23
-     }
-    ],
-    "trend": "new",
-    "days": 2,
-    "appearances": 2
-   }
-  },
-  {
-   "title": "教宗良十四世历史性访法，将讨论安乐死、AI等议题",
-   "raw_title": "教宗良十四世历史性访法，将讨论安乐死、AI等议题",
-   "desc": "今天法国来说是个“大日子”。71岁的教宗良十四世到访法国，行程为期四天。从很长时间以来，法国就严格坚持世俗主义原则，天主教会对法国社会伦理议题的影响力逐渐减弱，并且，此前法国天主教会因性侵丑闻而声誉受损 ，引发了公众的信任危机。教宗良十四世是近20年来首位正式访问巴黎的教宗，此前教宗方济各曾多次拒绝对巴黎进行访问。这一次，良希望能在法国传递自己的声音，据悉，他在来时的飞机上就宣称，此行的目的是“宣扬和平”。此外，他还希望促使人们深入思考人工智能的道德伦理问题。",
-   "platforms": [
-    "rfi"
-   ],
-   "links": {
-    "rfi": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20260925-%E6%95%99%E5%AE%97%E8%89%AF%E5%8D%81%E5%9B%9B%E4%B8%96%E5%8E%86%E5%8F%B2%E6%80%A7%E8%AE%BF%E6%B3%95%EF%BC%8C%E5%B0%86%E8%AE%A8%E8%AE%BA%E5%AE%89%E4%B9%90%E6%AD%BB-ai%E7%AD%89%E8%AE%AE%E9%A2%98"
-   },
-   "cover": "https://s.rfi.fr/media/display/4ab78f70-b8a7-11f1-ac75-8f3418d01115/w:1024/p:16x9/000-C9BU89Y.jpg",
-   "heat": 23,
-   "ai": null,
-   "stats": {
-    "first_seen": "2026-09-25T23:36:47+08:00",
-    "origin_platform": "rfi",
-    "path": [
-     {
-      "platform": "rfi",
-      "time": "2026-09-25T23:36:47+08:00"
-     }
-    ],
-    "heat_log": [
-     {
-      "time": "2026-09-25T23:36:47+08:00",
-      "heat": 23
-     },
-     {
-      "time": "2026-09-26T03:36:28+08:00",
-      "heat": 23
-     }
-    ],
-    "trend": "new",
-    "days": 2,
-    "appearances": 2
-   }
-  },
-  {
-   "title": "吴艳妮 林雨薇",
-   "raw_title": "吴艳妮 林雨薇",
-   "desc": "",
-   "platforms": [
-    "weibo"
-   ],
-   "links": {
-    "weibo": "https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%89%B3%E5%A6%AE%20%E6%9E%97%E9%9B%A8%E8%96%87%23"
-   },
-   "cover": "",
-   "heat": 22,
    "ai": null,
    "stats": {
     "first_seen": "2026-09-26T03:36:28+08:00",
-    "origin_platform": "weibo",
+    "origin_platform": "toutiao",
     "path": [
      {
-      "platform": "weibo",
+      "platform": "toutiao",
       "time": "2026-09-26T03:36:28+08:00"
      }
     ],
     "heat_log": [
      {
       "time": "2026-09-26T03:36:28+08:00",
-      "heat": 22
+      "heat": 12
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
+      "heat": 23
+     }
+    ],
+    "trend": "new",
+    "days": 1,
+    "appearances": 2
+   }
+  },
+  {
+   "title": "周深莎拉布莱曼合唱",
+   "raw_title": "周深莎拉布莱曼合唱",
+   "desc": "",
+   "platforms": [
+    "bili"
+   ],
+   "links": {
+    "bili": "https://search.bilibili.com/all?keyword=%E5%91%A8%E6%B7%B1%E8%8E%8E%E6%8B%89%E5%B8%83%E8%8E%B1%E6%9B%BC%E5%90%88%E5%94%B1"
+   },
+   "cover": "",
+   "heat": 23,
+   "ai": null,
+   "stats": {
+    "first_seen": "2026-09-25T23:36:47+08:00",
+    "origin_platform": "weibo",
+    "path": [
+     {
+      "platform": "weibo",
+      "time": "2026-09-25T23:36:47+08:00"
+     },
+     {
+      "platform": "bili",
+      "time": "2026-09-26T06:52:03+08:00"
+     }
+    ],
+    "heat_log": [
+     {
+      "time": "2026-09-25T23:36:47+08:00",
+      "heat": 13
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
+      "heat": 23
+     }
+    ],
+    "trend": "new",
+    "days": 2,
+    "appearances": 2
+   }
+  },
+  {
+   "title": "李现李一桐新剧首播，热度口碑招商三赢！以骗破局越看越上头",
+   "raw_title": "李现李一桐新剧首播，热度口碑招商三赢！以骗破局越看越上头",
+   "desc": "",
+   "platforms": [
+    "qq_ent"
+   ],
+   "links": {
+    "qq_ent": "https://view.inews.qq.com/a/20260925A006C500"
+   },
+   "cover": "https://inews.gtimg.com/om_ls/O5C1l9EAj3jdgfmaOCOmtxwXgGgJLpvnLt5GPe231v0_MAA_870492/0",
+   "heat": 23,
+   "ai": null,
+   "stats": {
+    "first_seen": "2026-09-25T08:57:37+08:00",
+    "origin_platform": "qq_ent",
+    "path": [
+     {
+      "platform": "qq_ent",
+      "time": "2026-09-25T08:57:37+08:00"
+     }
+    ],
+    "heat_log": [
+     {
+      "time": "2026-09-25T08:57:37+08:00",
+      "heat": 27
+     },
+     {
+      "time": "2026-09-25T18:38:02+08:00",
+      "heat": 21
+     },
+     {
+      "time": "2026-09-25T23:36:47+08:00",
+      "heat": 21
+     },
+     {
+      "time": "2026-09-26T03:36:28+08:00",
+      "heat": 24
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
+      "heat": 23
+     }
+    ],
+    "trend": "flat",
+    "days": 2,
+    "appearances": 5
+   }
+  },
+  {
+   "title": "普京称俄罗斯无意与欧洲开战 将“慎重考虑”恢复俄乌和谈",
+   "raw_title": "普京称俄罗斯无意与欧洲开战 将“慎重考虑”恢复俄乌和谈",
+   "desc": "俄罗斯总统普京周五（9月25日）表示，俄罗斯并无意与欧洲开战；普京称，在乌克兰近期对俄罗斯领土发动大规模袭击后，俄方将“认真考虑”是否恢复旨在结束乌克兰战争的和平谈判。",
+   "platforms": [
+    "rfi"
+   ],
+   "links": {
+    "rfi": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260925-%E6%99%AE%E4%BA%AC%E7%A7%B0%E4%BF%84%E7%BD%97%E6%96%AF%E6%97%A0%E6%84%8F%E4%B8%8E%E6%AC%A7%E6%B4%B2%E5%BC%80%E6%88%98-%E5%B0%86-%E6%85%8E%E9%87%8D%E8%80%83%E8%99%91-%E6%81%A2%E5%A4%8D%E4%BF%84%E4%B9%8C%E5%92%8C%E8%B0%88"
+   },
+   "cover": "https://s.rfi.fr/media/display/6b8c585c-b929-11f1-8e01-555a0aff87a4/w:1024/p:16x9/2026-09-25T170419Z-1205277368-RC2FQNALCDWK-RTRMADP-3-RUSSIA-PUTIN.jpg",
+   "heat": 23,
+   "ai": null,
+   "stats": {
+    "first_seen": "2026-09-26T06:52:03+08:00",
+    "origin_platform": "rfi",
+    "path": [
+     {
+      "platform": "rfi",
+      "time": "2026-09-26T06:52:03+08:00"
+     }
+    ],
+    "heat_log": [
+     {
+      "time": "2026-09-26T06:52:03+08:00",
+      "heat": 23
      }
     ],
     "trend": "new",
@@ -6714,40 +6810,48 @@
    }
   },
   {
-   "title": "中秋消费新风向",
-   "raw_title": "中秋消费新风向",
+   "title": "国庆假期小客车上高速免通行费",
+   "raw_title": "国庆假期小客车上高速免通行费",
    "desc": "",
    "platforms": [
     "douyin"
    ],
    "links": {
-    "douyin": "https://www.douyin.com/search/%E4%B8%AD%E7%A7%8B%E6%B6%88%E8%B4%B9%E6%96%B0%E9%A3%8E%E5%90%91"
+    "douyin": "https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E5%B0%8F%E5%AE%A2%E8%BD%A6%E4%B8%8A%E9%AB%98%E9%80%9F%E5%85%8D%E9%80%9A%E8%A1%8C%E8%B4%B9"
    },
-   "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/oodtDf2nAENDQcUYqFqgFBBsIf9iAHvOVA4Wgl~noop.jpeg?lk3s=bfd515bb&x-expires=1790384400&x-signature=VsKMUxxqAa1QUQxKt5adAyVwSOI%3D&from=3218412987",
+   "cover": "https://p5-ex-gddgtc-sign.douyinpic.com/tos-cn-p-0015/ogkq0GMzgCEQgeux8DAAgUfW020f3YeIJvO202~noop.jpeg?lk3s=bfd515bb&x-expires=1790395200&x-signature=udDGUk1XUH2bcifu%2FR51s%2FKerIE%3D&from=3218412987",
    "heat": 22,
    "ai": null,
    "stats": {
-    "first_seen": "2026-09-25T23:36:47+08:00",
+    "first_seen": "2026-09-25T18:38:02+08:00",
     "origin_platform": "douyin",
     "path": [
      {
       "platform": "douyin",
-      "time": "2026-09-25T23:36:47+08:00"
+      "time": "2026-09-25T18:38:02+08:00"
      }
     ],
     "heat_log": [
      {
-      "time": "2026-09-25T23:36:47+08:00",
+      "time": "2026-09-25T18:38:02+08:00",
       "heat": 22
      },
      {
+      "time": "2026-09-25T23:36:47+08:00",
+      "heat": 21
+     },
+     {
       "time": "2026-09-26T03:36:28+08:00",
+      "heat": 21
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
       "heat": 22
      }
     ],
-    "trend": "new",
+    "trend": "flat",
     "days": 2,
-    "appearances": 2
+    "appearances": 4
    }
   },
   {
@@ -6780,11 +6884,15 @@
      {
       "time": "2026-09-26T03:36:28+08:00",
       "heat": 22
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
+      "heat": 22
      }
     ],
     "trend": "new",
     "days": 2,
-    "appearances": 2
+    "appearances": 3
    }
   },
   {
@@ -6817,6 +6925,47 @@
      {
       "time": "2026-09-26T03:36:28+08:00",
       "heat": 22
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
+      "heat": 22
+     }
+    ],
+    "trend": "new",
+    "days": 2,
+    "appearances": 3
+   }
+  },
+  {
+   "title": "UP主雀巢爆改美少女",
+   "raw_title": "UP主雀巢爆改美少女",
+   "desc": "",
+   "platforms": [
+    "bili"
+   ],
+   "links": {
+    "bili": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%9B%80%E5%B7%A2%E7%88%86%E6%94%B9%E7%BE%8E%E5%B0%91%E5%A5%B3"
+   },
+   "cover": "",
+   "heat": 22,
+   "ai": null,
+   "stats": {
+    "first_seen": "2026-09-25T23:36:47+08:00",
+    "origin_platform": "bili",
+    "path": [
+     {
+      "platform": "bili",
+      "time": "2026-09-25T23:36:47+08:00"
+     }
+    ],
+    "heat_log": [
+     {
+      "time": "2026-09-25T23:36:47+08:00",
+      "heat": 26
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
+      "heat": 22
      }
     ],
     "trend": "new",
@@ -6825,30 +6974,30 @@
    }
   },
   {
-   "title": "NRG MADA冠军赛专访",
-   "raw_title": "NRG MADA冠军赛专访",
-   "desc": "",
+   "title": "美国将落实对乌克兰军援拨款 首批装备已开始交付",
+   "raw_title": "美国将落实对乌克兰军援拨款 首批装备已开始交付",
+   "desc": "三名知情人士表示，特朗普政府已就美国国会去年底批准的4亿美元对乌克兰军事援助中的绝大部分资金作出具有法律约束力的支出承诺，并计划在9月30日财政年度结束前落实余款，以免这笔拨款到期失效。",
    "platforms": [
-    "bili"
+    "rfi"
    ],
    "links": {
-    "bili": "https://search.bilibili.com/all?keyword=NRG%20MADA%E5%86%A0%E5%86%9B%E8%B5%9B%E4%B8%93%E8%AE%BF"
+    "rfi": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20260925-%E7%BE%8E%E5%9B%BD%E5%B0%86%E8%90%BD%E5%AE%9E%E5%AF%B9%E4%B9%8C%E5%85%8B%E5%85%B0%E5%86%9B%E6%8F%B4%E6%8B%A8%E6%AC%BE-%E9%A6%96%E6%89%B9%E8%A3%85%E5%A4%87%E5%B7%B2%E5%BC%80%E5%A7%8B%E4%BA%A4%E4%BB%98"
    },
-   "cover": "",
+   "cover": "https://s.rfi.fr/media/display/c39f2a10-b929-11f1-bb86-852b23529bb9/w:1024/p:16x9/2026-09-25T164940Z-1169425460-RC2IONAI25IC-RTRMADP-3-UKRAINE-CRISIS-USA-SPENDING.jpg",
    "heat": 22,
    "ai": null,
    "stats": {
-    "first_seen": "2026-09-26T03:36:28+08:00",
-    "origin_platform": "bili",
+    "first_seen": "2026-09-26T06:52:03+08:00",
+    "origin_platform": "rfi",
     "path": [
      {
-      "platform": "bili",
-      "time": "2026-09-26T03:36:28+08:00"
+      "platform": "rfi",
+      "time": "2026-09-26T06:52:03+08:00"
      }
     ],
     "heat_log": [
      {
-      "time": "2026-09-26T03:36:28+08:00",
+      "time": "2026-09-26T06:52:03+08:00",
       "heat": 22
      }
     ],
@@ -6858,35 +7007,35 @@
    }
   },
   {
-   "title": "邱天说敏感对于演员来说是一份礼物，坦言自己会被多面性的角色吸引",
-   "raw_title": "邱天说敏感对于演员来说是一份礼物，坦言自己会被多面性的角色吸引",
+   "title": "天眼核心阵要来了",
+   "raw_title": "天眼核心阵要来了",
    "desc": "",
    "platforms": [
-    "qq_ent"
+    "douyin"
    ],
    "links": {
-    "qq_ent": "https://view.inews.qq.com/a/20260924V08CQ100"
+    "douyin": "https://www.douyin.com/search/%E5%A4%A9%E7%9C%BC%E6%A0%B8%E5%BF%83%E9%98%B5%E8%A6%81%E6%9D%A5%E4%BA%86"
    },
-   "cover": "https://inews.gtimg.com/om_ls/O_EfgJgLCi1tXn2dlWIIbIzc_OW3mUtUEd2fQP-wO0FHsAA_870492/0",
-   "heat": 22,
+   "cover": "https://p3-sign.douyinpic.com/tos-cn-p-0015/oMTvQqKHDAUr1CI0iIIB08aCBPI1rgKEAi6AU~noop.jpeg?lk3s=bfd515bb&x-expires=1790395200&x-signature=RDwYnynAwV03QSBaGVMFoU%2B6fLY%3D&from=3218412987",
+   "heat": 21,
    "ai": null,
    "stats": {
     "first_seen": "2026-09-25T13:37:51+08:00",
-    "origin_platform": "qq_ent",
+    "origin_platform": "douyin",
     "path": [
      {
-      "platform": "qq_ent",
+      "platform": "douyin",
       "time": "2026-09-25T13:37:51+08:00"
      }
     ],
     "heat_log": [
      {
       "time": "2026-09-25T13:37:51+08:00",
-      "heat": 27
+      "heat": 23
      },
      {
       "time": "2026-09-25T18:38:02+08:00",
-      "heat": 23
+      "heat": 21
      },
      {
       "time": "2026-09-25T23:36:47+08:00",
@@ -6894,147 +7043,16 @@
      },
      {
       "time": "2026-09-26T03:36:28+08:00",
-      "heat": 22
+      "heat": 20
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
+      "heat": 21
      }
     ],
     "trend": "flat",
     "days": 2,
-    "appearances": 4
-   }
-  },
-  {
-   "title": "中国某些团体提供情报助伊朗对美国目标发动更有效袭击",
-   "raw_title": "中国某些团体提供情报助伊朗对美国目标发动更有效袭击",
-   "desc": "CNN25日引述4名知情人透露，美国情报评估显示，中国团体提供的卫星图像和情报支持，帮助伊朗在霍尔木兹海峡对船只实施威胁，并对中东地区的美国军事基地发动精准打击，这体现过去几个月来伊朗目标锁定能力的大幅提升。",
-   "platforms": [
-    "rfi"
-   ],
-   "links": {
-    "rfi": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260925-%E4%B8%AD%E5%9B%BD%E6%9F%90%E4%BA%9B%E5%9B%A2%E4%BD%93%E6%8F%90%E4%BE%9B%E6%83%85%E6%8A%A5%E5%8A%A9%E4%BC%8A%E6%9C%97%E5%AF%B9%E7%BE%8E%E5%9B%BD%E7%9B%AE%E6%A0%87%E5%8F%91%E5%8A%A8%E6%9B%B4%E6%9C%89%E6%95%88%E8%A2%AD%E5%87%BB"
-   },
-   "cover": "https://s.rfi.fr/media/display/f5819f2c-4944-11f1-9cc3-005056a90284/w:1024/p:16x9/Iran-Chine-2026-05-06-141147.png",
-   "heat": 22,
-   "ai": null,
-   "stats": {
-    "first_seen": "2026-09-25T23:36:47+08:00",
-    "origin_platform": "rfi",
-    "path": [
-     {
-      "platform": "rfi",
-      "time": "2026-09-25T23:36:47+08:00"
-     }
-    ],
-    "heat_log": [
-     {
-      "time": "2026-09-25T23:36:47+08:00",
-      "heat": 22
-     },
-     {
-      "time": "2026-09-26T03:36:28+08:00",
-      "heat": 22
-     }
-    ],
-    "trend": "new",
-    "days": 2,
-    "appearances": 2
-   }
-  },
-  {
-   "title": "陈妤颉100米夺金",
-   "raw_title": "陈妤颉100米夺金",
-   "desc": "",
-   "platforms": [
-    "weibo"
-   ],
-   "links": {
-    "weibo": "https://s.weibo.com/weibo?q=%23%E9%99%88%E5%A6%A4%E9%A2%89100%E7%B1%B3%E5%A4%BA%E9%87%91%23"
-   },
-   "cover": "",
-   "heat": 21,
-   "ai": null,
-   "stats": {
-    "first_seen": "2026-09-25T23:36:47+08:00",
-    "origin_platform": "douyin",
-    "path": [
-     {
-      "platform": "douyin",
-      "time": "2026-09-25T23:36:47+08:00"
-     },
-     {
-      "platform": "toutiao",
-      "time": "2026-09-25T23:36:47+08:00"
-     },
-     {
-      "platform": "bili",
-      "time": "2026-09-25T23:36:47+08:00"
-     },
-     {
-      "platform": "weibo",
-      "time": "2026-09-25T23:36:47+08:00"
-     }
-    ],
-    "heat_log": [
-     {
-      "time": "2026-09-25T23:36:47+08:00",
-      "heat": 181
-     },
-     {
-      "time": "2026-09-25T23:36:47+08:00",
-      "heat": 29
-     },
-     {
-      "time": "2026-09-26T03:36:28+08:00",
-      "heat": 177
-     },
-     {
-      "time": "2026-09-26T03:36:28+08:00",
-      "heat": 21
-     }
-    ],
-    "trend": "down",
-    "days": 2,
-    "appearances": 4
-   }
-  },
-  {
-   "title": "国庆假期小客车上高速免通行费",
-   "raw_title": "国庆假期小客车上高速免通行费",
-   "desc": "",
-   "platforms": [
-    "douyin"
-   ],
-   "links": {
-    "douyin": "https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E5%B0%8F%E5%AE%A2%E8%BD%A6%E4%B8%8A%E9%AB%98%E9%80%9F%E5%85%8D%E9%80%9A%E8%A1%8C%E8%B4%B9"
-   },
-   "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/ogkq0GMzgCEQgeux8DAAgUfW020f3YeIJvO202~noop.jpeg?lk3s=bfd515bb&x-expires=1790384400&x-signature=RmQkR6wU3JbW17IkbbFbTK21wrY%3D&from=3218412987",
-   "heat": 21,
-   "ai": null,
-   "stats": {
-    "first_seen": "2026-09-25T18:38:02+08:00",
-    "origin_platform": "douyin",
-    "path": [
-     {
-      "platform": "douyin",
-      "time": "2026-09-25T18:38:02+08:00"
-     }
-    ],
-    "heat_log": [
-     {
-      "time": "2026-09-25T18:38:02+08:00",
-      "heat": 22
-     },
-     {
-      "time": "2026-09-25T23:36:47+08:00",
-      "heat": 21
-     },
-     {
-      "time": "2026-09-26T03:36:28+08:00",
-      "heat": 21
-     }
-    ],
-    "trend": "new",
-    "days": 2,
-    "appearances": 3
+    "appearances": 5
    }
   },
   {
@@ -7067,46 +7085,9 @@
      {
       "time": "2026-09-26T03:36:28+08:00",
       "heat": 21
-     }
-    ],
-    "trend": "new",
-    "days": 2,
-    "appearances": 2
-   }
-  },
-  {
-   "title": "赛考斯回应出现在欢迎宴会致辞中",
-   "raw_title": "赛考斯回应出现在欢迎宴会致辞中",
-   "desc": "",
-   "platforms": [
-    "toutiao"
-   ],
-   "links": {
-    "toutiao": "https://www.toutiao.com/trending/7688875459861495862/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%221%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227688875459861495862%22%2C%22hot_board_impr_id%22%3A%2220260926033605AE544A1FD00ED02272E8%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E8%B5%9B%E8%80%83%E6%96%AF%E5%9B%9E%E5%BA%94%E5%87%BA%E7%8E%B0%E5%9C%A8%E6%AC%A2%E8%BF%8E%E5%AE%B4%E4%BC%9A%E8%87%B4%E8%BE%9E%E4%B8%AD%22%7D&rank=&style_id=40132&topic_id=7688875459861495862"
-   },
-   "cover": "https://p3-sign.toutiaoimg.com/top-static-files-outer/breaknews/98ce726a-f98b-4e08-989f-4ec064fafd88~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1792886400&x-signature=Z2DJV9wfJhTRNU2NcPVaYVPrcQk%3D",
-   "heat": 21,
-   "ai": null,
-   "stats": {
-    "first_seen": "2026-09-25T18:38:02+08:00",
-    "origin_platform": "toutiao",
-    "path": [
-     {
-      "platform": "toutiao",
-      "time": "2026-09-25T18:38:02+08:00"
-     }
-    ],
-    "heat_log": [
-     {
-      "time": "2026-09-25T18:38:02+08:00",
-      "heat": 25
      },
      {
-      "time": "2026-09-25T23:36:47+08:00",
-      "heat": 19
-     },
-     {
-      "time": "2026-09-26T03:36:28+08:00",
+      "time": "2026-09-26T06:52:03+08:00",
       "heat": 21
      }
     ],
@@ -7116,14 +7097,59 @@
    }
   },
   {
-   "title": "琵琶曲但是纯手绘",
-   "raw_title": "琵琶曲但是纯手绘",
+   "title": "日本选手被张展硕7枚金牌惊出表情包",
+   "raw_title": "日本选手被张展硕7枚金牌惊出表情包",
+   "desc": "",
+   "platforms": [
+    "toutiao"
+   ],
+   "links": {
+    "toutiao": "https://www.toutiao.com/trending/7688863275731353650/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227688863275731353650%22%2C%22hot_board_impr_id%22%3A%222026092606513900FD3F3F80DC9E3B056F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E6%97%A5%E6%9C%AC%E9%80%89%E6%89%8B%E8%A2%AB%E5%BC%A0%E5%B1%95%E7%A1%957%E6%9E%9A%E9%87%91%E7%89%8C%E6%83%8A%E5%87%BA%E8%A1%A8%E6%83%85%E5%8C%85%22%7D&rank=&style_id=40132&topic_id=7688863275731353650"
+   },
+   "cover": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/d386c8735eaa4beb8b3aa1514b55a169~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1792886400&x-signature=jiaYLhQj2AIjtTTXoIs59EZBlMs%3D",
+   "heat": 21,
+   "ai": null,
+   "stats": {
+    "first_seen": "2026-09-25T23:36:47+08:00",
+    "origin_platform": "weibo",
+    "path": [
+     {
+      "platform": "weibo",
+      "time": "2026-09-25T23:36:47+08:00"
+     },
+     {
+      "platform": "toutiao",
+      "time": "2026-09-25T23:36:47+08:00"
+     }
+    ],
+    "heat_log": [
+     {
+      "time": "2026-09-25T23:36:47+08:00",
+      "heat": 76
+     },
+     {
+      "time": "2026-09-26T03:36:28+08:00",
+      "heat": 23
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
+      "heat": 21
+     }
+    ],
+    "trend": "new",
+    "days": 2,
+    "appearances": 3
+   }
+  },
+  {
+   "title": "NRG MADA冠军赛专访",
+   "raw_title": "NRG MADA冠军赛专访",
    "desc": "",
    "platforms": [
     "bili"
    ],
    "links": {
-    "bili": "https://search.bilibili.com/all?keyword=%E7%90%B5%E7%90%B6%E6%9B%B2%E4%BD%86%E6%98%AF%E7%BA%AF%E6%89%8B%E7%BB%98"
+    "bili": "https://search.bilibili.com/all?keyword=NRG%20MADA%E5%86%A0%E5%86%9B%E8%B5%9B%E4%B8%93%E8%AE%BF"
    },
    "cover": "",
    "heat": 21,
@@ -7140,25 +7166,29 @@
     "heat_log": [
      {
       "time": "2026-09-26T03:36:28+08:00",
+      "heat": 22
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
       "heat": 21
      }
     ],
     "trend": "new",
     "days": 1,
-    "appearances": 1
+    "appearances": 2
    }
   },
   {
-   "title": "邵子恒扒舞速度太强！老师跳一遍后邵子恒直接秒跟，不愧进过SM丨披荆斩棘",
-   "raw_title": "邵子恒扒舞速度太强！老师跳一遍后邵子恒直接秒跟，不愧进过SM丨披荆斩棘",
+   "title": "周杰伦南京演唱会杀疯了！贴脸开大刘畊宏，点歌环节《千山万水》大合唱",
+   "raw_title": "周杰伦南京演唱会杀疯了！贴脸开大刘畊宏，点歌环节《千山万水》大合唱",
    "desc": "",
    "platforms": [
     "qq_ent"
    ],
    "links": {
-    "qq_ent": "https://view.inews.qq.com/a/20260925V0318C00"
+    "qq_ent": "https://view.inews.qq.com/a/20260925V050ZO00"
    },
-   "cover": "https://inews.gtimg.com/om_ls/O4iFucElOVNcwfUVPlQpALEF_DgxUvraO3g06GzvgaCfUAA_870492/0",
+   "cover": "https://inews.gtimg.com/om_ls/OBs9p9z_45D9cnVeIEb0OGa4LWH-DEXd5Ybt2lQ1hoD1AAA_870492/0",
    "heat": 21,
    "ai": null,
    "stats": {
@@ -7173,64 +7203,64 @@
     "heat_log": [
      {
       "time": "2026-09-25T23:36:47+08:00",
-      "heat": 8
+      "heat": 27
      },
      {
       "time": "2026-09-26T03:36:28+08:00",
+      "heat": 25
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
       "heat": 21
      }
     ],
     "trend": "new",
     "days": 2,
-    "appearances": 2
+    "appearances": 3
    }
   },
   {
-   "title": "报道称，中国今年向伊朗运送了1300批无人机和导弹零部件",
-   "raw_title": "报道称，中国今年向伊朗运送了1300批无人机和导弹零部件",
-   "desc": "以色列时报引述消息称，中国今年已向伊朗运送了1300批无人机和导弹零部件，包括GPS导航设备、电机和其他两用电子产品；自战争爆发以来，受美国制裁的伊朗马汉航空将中伊航线航班数量增加了近7倍。",
+   "title": "罗马教皇良十四世访法第一天：“马拉松式”的行程",
+   "raw_title": "罗马教皇良十四世访法第一天：“马拉松式”的行程",
+   "desc": "从总统府到联合国科教文组织巴黎总部，再到巴黎圣母院，再到法兰西体育场。下午还在巴黎街头巡游，和民众近距离接触。罗马教皇良十四世周五在巴黎度过了“疯狂的”一天。",
    "platforms": [
     "rfi"
    ],
    "links": {
-    "rfi": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260925-%E6%8A%A5%E9%81%93%E7%A7%B0%EF%BC%8C%E4%B8%AD%E5%9B%BD%E4%BB%8A%E5%B9%B4%E5%90%91%E4%BC%8A%E6%9C%97%E8%BF%90%E9%80%81%E4%BA%861300%E6%89%B9%E6%97%A0%E4%BA%BA%E6%9C%BA%E5%92%8C%E5%AF%BC%E5%BC%B9%E9%9B%B6%E9%83%A8%E4%BB%B6"
+    "rfi": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260925-%E7%BD%97%E9%A9%AC%E6%95%99%E7%9A%87%E8%89%AF%E5%8D%81%E5%9B%9B%E4%B8%96%E8%AE%BF%E6%B3%95%E7%AC%AC%E4%B8%80%E5%A4%A9-%E9%A9%AC%E6%8B%89%E6%9D%BE%E5%BC%8F-%E7%9A%84%E8%A1%8C%E7%A8%8B"
    },
-   "cover": "https://s.rfi.fr/media/display/34b2fdd4-4b99-11ec-b4b6-005056bfb2b6/w:1024/p:16x9/AP21325330794618.jpg",
+   "cover": "https://s.rfi.fr/media/display/c82cd744-b8ed-11f1-99cc-852b23529bb9/w:1024/p:16x9/2026-09-25T142923Z-1204443192-RC2EQNA2R3K8-RTRMADP-3-POPE-FRANCE.jpg",
    "heat": 21,
    "ai": null,
    "stats": {
-    "first_seen": "2026-09-25T23:36:47+08:00",
+    "first_seen": "2026-09-26T06:52:03+08:00",
     "origin_platform": "rfi",
     "path": [
      {
       "platform": "rfi",
-      "time": "2026-09-25T23:36:47+08:00"
+      "time": "2026-09-26T06:52:03+08:00"
      }
     ],
     "heat_log": [
      {
-      "time": "2026-09-25T23:36:47+08:00",
-      "heat": 21
-     },
-     {
-      "time": "2026-09-26T03:36:28+08:00",
+      "time": "2026-09-26T06:52:03+08:00",
       "heat": 21
      }
     ],
     "trend": "new",
-    "days": 2,
-    "appearances": 2
+    "days": 1,
+    "appearances": 1
    }
   },
   {
-   "title": "男子输液后自尽留观室监控曝光",
-   "raw_title": "男子输液后自尽留观室监控曝光",
+   "title": "新华社为王楚钦发声",
+   "raw_title": "新华社为王楚钦发声",
    "desc": "",
    "platforms": [
     "weibo"
    ],
    "links": {
-    "weibo": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%BE%93%E6%B6%B2%E5%90%8E%E8%87%AA%E5%B0%BD%E7%95%99%E8%A7%82%E5%AE%A4%E7%9B%91%E6%8E%A7%E6%9B%9D%E5%85%89%23"
+    "weibo": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8D%8E%E7%A4%BE%E4%B8%BA%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%8F%91%E5%A3%B0%23"
    },
    "cover": "",
    "heat": 20,
@@ -7247,57 +7277,57 @@
     "heat_log": [
      {
       "time": "2026-09-26T03:36:28+08:00",
+      "heat": 19
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
       "heat": 20
      }
     ],
     "trend": "new",
     "days": 1,
-    "appearances": 1
+    "appearances": 2
    }
   },
   {
-   "title": "天眼核心阵要来了",
-   "raw_title": "天眼核心阵要来了",
+   "title": "张展硕的抖音bgm是山东王",
+   "raw_title": "张展硕的抖音bgm是山东王",
    "desc": "",
    "platforms": [
     "douyin"
    ],
    "links": {
-    "douyin": "https://www.douyin.com/search/%E5%A4%A9%E7%9C%BC%E6%A0%B8%E5%BF%83%E9%98%B5%E8%A6%81%E6%9D%A5%E4%BA%86"
+    "douyin": "https://www.douyin.com/search/%E5%BC%A0%E5%B1%95%E7%A1%95%E7%9A%84%E6%8A%96%E9%9F%B3bgm%E6%98%AF%E5%B1%B1%E4%B8%9C%E7%8E%8B"
    },
-   "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015/oMTvQqKHDAUr1CI0iIIB08aCBPI1rgKEAi6AU~noop.jpeg?lk3s=bfd515bb&x-expires=1790384400&x-signature=SH3qs6O8zcvATMk61%2FcDT81UU3I%3D&from=3218412987",
+   "cover": "https://p26-sign.douyinpic.com/tos-cn-i-0813c001/o07s0VmEIImPALgFNAGIAABfblAbEeGIBQpe7g~noop.jpeg?lk3s=bfd515bb&x-expires=1790395200&x-signature=0lv%2FY4L6tqjSyQEYDVqbkmwWgYM%3D&from=3218412987",
    "heat": 20,
    "ai": null,
    "stats": {
-    "first_seen": "2026-09-25T13:37:51+08:00",
+    "first_seen": "2026-09-25T23:36:47+08:00",
     "origin_platform": "douyin",
     "path": [
      {
       "platform": "douyin",
-      "time": "2026-09-25T13:37:51+08:00"
+      "time": "2026-09-25T23:36:47+08:00"
      }
     ],
     "heat_log": [
      {
-      "time": "2026-09-25T13:37:51+08:00",
-      "heat": 23
-     },
-     {
-      "time": "2026-09-25T18:38:02+08:00",
-      "heat": 21
-     },
-     {
       "time": "2026-09-25T23:36:47+08:00",
-      "heat": 20
+      "heat": 24
      },
      {
       "time": "2026-09-26T03:36:28+08:00",
+      "heat": 24
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
       "heat": 20
      }
     ],
-    "trend": "flat",
+    "trend": "new",
     "days": 2,
-    "appearances": 4
+    "appearances": 3
    }
   },
   {
@@ -7330,46 +7360,9 @@
      {
       "time": "2026-09-26T03:36:28+08:00",
       "heat": 20
-     }
-    ],
-    "trend": "new",
-    "days": 2,
-    "appearances": 2
-   }
-  },
-  {
-   "title": "日本亚运会因何被吐槽",
-   "raw_title": "日本亚运会因何被吐槽",
-   "desc": "",
-   "platforms": [
-    "bili"
-   ],
-   "links": {
-    "bili": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E4%BA%9A%E8%BF%90%E4%BC%9A%E5%9B%A0%E4%BD%95%E8%A2%AB%E5%90%90%E6%A7%BD"
-   },
-   "cover": "",
-   "heat": 20,
-   "ai": null,
-   "stats": {
-    "first_seen": "2026-09-25T13:37:51+08:00",
-    "origin_platform": "bili",
-    "path": [
-     {
-      "platform": "bili",
-      "time": "2026-09-25T13:37:51+08:00"
-     }
-    ],
-    "heat_log": [
-     {
-      "time": "2026-09-25T13:37:51+08:00",
-      "heat": 11
      },
      {
-      "time": "2026-09-25T18:38:02+08:00",
-      "heat": 13
-     },
-     {
-      "time": "2026-09-26T03:36:28+08:00",
+      "time": "2026-09-26T06:52:03+08:00",
       "heat": 20
      }
     ],
@@ -7379,53 +7372,102 @@
    }
   },
   {
-   "title": "赵本山儿女联手放大招！《来东北转转》魔性洗脑，网友：这味儿太正了",
-   "raw_title": "赵本山儿女联手放大招！《来东北转转》魔性洗脑，网友：这味儿太正了",
+   "title": "外国UP主在中国的人狗友谊",
+   "raw_title": "外国UP主在中国的人狗友谊",
+   "desc": "",
+   "platforms": [
+    "bili"
+   ],
+   "links": {
+    "bili": "https://search.bilibili.com/all?keyword=%E5%A4%96%E5%9B%BDUP%E4%B8%BB%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%9A%84%E4%BA%BA%E7%8B%97%E5%8F%8B%E8%B0%8A"
+   },
+   "cover": "",
+   "heat": 20,
+   "ai": null,
+   "stats": {
+    "first_seen": "2026-09-26T03:36:28+08:00",
+    "origin_platform": "bili",
+    "path": [
+     {
+      "platform": "bili",
+      "time": "2026-09-26T03:36:28+08:00"
+     }
+    ],
+    "heat_log": [
+     {
+      "time": "2026-09-26T03:36:28+08:00",
+      "heat": 17
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
+      "heat": 20
+     }
+    ],
+    "trend": "new",
+    "days": 1,
+    "appearances": 2
+   }
+  },
+  {
+   "title": "邱天说敏感对于演员来说是一份礼物，坦言自己会被多面性的角色吸引",
+   "raw_title": "邱天说敏感对于演员来说是一份礼物，坦言自己会被多面性的角色吸引",
    "desc": "",
    "platforms": [
     "qq_ent"
    ],
    "links": {
-    "qq_ent": "https://view.inews.qq.com/a/20260925V06BCI00"
+    "qq_ent": "https://view.inews.qq.com/a/20260924V08CQ100"
    },
-   "cover": "https://inews.gtimg.com/om_ls/OOXrRM5tMg7752Ptux9-e-qQNtgAioU72e09H9Y2RHqUgAA_870492/0",
+   "cover": "https://inews.gtimg.com/om_ls/O_EfgJgLCi1tXn2dlWIIbIzc_OW3mUtUEd2fQP-wO0FHsAA_870492/0",
    "heat": 20,
    "ai": null,
    "stats": {
-    "first_seen": "2026-09-25T23:36:47+08:00",
+    "first_seen": "2026-09-25T13:37:51+08:00",
     "origin_platform": "qq_ent",
     "path": [
      {
       "platform": "qq_ent",
-      "time": "2026-09-25T23:36:47+08:00"
+      "time": "2026-09-25T13:37:51+08:00"
      }
     ],
     "heat_log": [
      {
+      "time": "2026-09-25T13:37:51+08:00",
+      "heat": 27
+     },
+     {
+      "time": "2026-09-25T18:38:02+08:00",
+      "heat": 23
+     },
+     {
       "time": "2026-09-25T23:36:47+08:00",
-      "heat": 30
+      "heat": 20
      },
      {
       "time": "2026-09-26T03:36:28+08:00",
+      "heat": 22
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
       "heat": 20
      }
     ],
-    "trend": "new",
+    "trend": "flat",
     "days": 2,
-    "appearances": 2
+    "appearances": 5
    }
   },
   {
-   "title": "圣母院浴火重生后 钟声迎来教宗良十四世对巴黎历史性访问",
-   "raw_title": "圣母院浴火重生后 钟声迎来教宗良十四世对巴黎历史性访问",
-   "desc": "周五（9月25号）早上10点，当巴黎圣母院教堂钟声响起之际，意味着罗马天主教宗良十四世踏上了法国土地，开启四天历史性的访问。",
+   "title": "特朗普习近平华盛顿会谈 美中关系向哪走？",
+   "raw_title": "特朗普习近平华盛顿会谈 美中关系向哪走？",
+   "desc": "美国总统特朗普（Donald Trump）与中国国家主席习近平在华盛顿举行会谈，双方都强调避免冲突及加强合作，但台湾、贸易、先进芯片、人工智能（AI）及伊朗等问题仍存在分歧。",
    "platforms": [
     "rfi"
    ],
    "links": {
-    "rfi": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20260925-%E5%9C%A3%E6%AF%8D%E9%99%A2%E6%B5%B4%E7%81%AB%E9%87%8D%E7%94%9F%E5%90%8E-%E9%92%9F%E5%A3%B0%E8%BF%8E%E6%9D%A5%E6%95%99%E5%AE%97%E8%89%AF%E5%8D%81%E5%9B%9B%E4%B8%96%E5%AF%B9%E5%B7%B4%E9%BB%8E%E5%8E%86%E5%8F%B2%E6%80%A7%E8%AE%BF%E9%97%AE"
+    "rfi": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%BE%8E%E5%9B%BD%E4%B8%93%E6%A0%8F/20260925-%E7%89%B9%E6%9C%97%E6%99%AE%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%8D%8E%E7%9B%9B%E9%A1%BF%E4%BC%9A%E8%B0%88-%E7%BE%8E%E4%B8%AD%E5%85%B3%E7%B3%BB%E5%90%91%E5%93%AA%E8%B5%B0"
    },
-   "cover": "https://s.rfi.fr/media/display/26de9852-b8cd-11f1-99d5-11fa9f8a3b4f/w:1024/p:16x9/WhatsApp-Image-2026-09-25-at-12-36-20.jpeg",
+   "cover": "https://s.rfi.fr/media/display/08851b1c-b8c1-11f1-b446-11fa9f8a3b4f/w:1024/p:16x9/2026-09-25T001728Z-254026030-RC20QNACJ8JL-RTRMADP-3-USA-CHINA.jpg",
    "heat": 20,
    "ai": null,
    "stats": {
@@ -7440,27 +7482,31 @@
     "heat_log": [
      {
       "time": "2026-09-25T23:36:47+08:00",
-      "heat": 20
+      "heat": 30
      },
      {
       "time": "2026-09-26T03:36:28+08:00",
+      "heat": 30
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
       "heat": 20
      }
     ],
     "trend": "new",
     "days": 2,
-    "appearances": 2
+    "appearances": 3
    }
   },
   {
-   "title": "新华社为王楚钦发声",
-   "raw_title": "新华社为王楚钦发声",
+   "title": "男子输液后自尽留观室监控曝光",
+   "raw_title": "男子输液后自尽留观室监控曝光",
    "desc": "",
    "platforms": [
     "weibo"
    ],
    "links": {
-    "weibo": "https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8D%8E%E7%A4%BE%E4%B8%BA%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%8F%91%E5%A3%B0%23"
+    "weibo": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%BE%93%E6%B6%B2%E5%90%8E%E8%87%AA%E5%B0%BD%E7%95%99%E8%A7%82%E5%AE%A4%E7%9B%91%E6%8E%A7%E6%9B%9D%E5%85%89%23"
    },
    "cover": "",
    "heat": 19,
@@ -7477,176 +7523,16 @@
     "heat_log": [
      {
       "time": "2026-09-26T03:36:28+08:00",
-      "heat": 19
-     }
-    ],
-    "trend": "new",
-    "days": 1,
-    "appearances": 1
-   }
-  },
-  {
-   "title": "陈妤颉：妈妈我有出息了",
-   "raw_title": "陈妤颉：妈妈我有出息了",
-   "desc": "",
-   "platforms": [
-    "douyin"
-   ],
-   "links": {
-    "douyin": "https://www.douyin.com/search/%E9%99%88%E5%A6%A4%E9%A2%89%EF%BC%9A%E5%A6%88%E5%A6%88%E6%88%91%E6%9C%89%E5%87%BA%E6%81%AF%E4%BA%86"
-   },
-   "cover": "https://p26-sign.douyinpic.com/tos-cn-i-0813c000-ce/oUMqPovIBZ8iCNa3PjTlrAajiA672TATBEjAA~noop.jpeg?lk3s=bfd515bb&x-expires=1790384400&x-signature=kqT3M91nsOnIulqRiADxysa4Kh0%3D&from=3218412987",
-   "heat": 19,
-   "ai": null,
-   "stats": {
-    "first_seen": "2026-09-26T03:36:28+08:00",
-    "origin_platform": "douyin",
-    "path": [
-     {
-      "platform": "douyin",
-      "time": "2026-09-26T03:36:28+08:00"
-     }
-    ],
-    "heat_log": [
-     {
-      "time": "2026-09-26T03:36:28+08:00",
-      "heat": 19
-     }
-    ],
-    "trend": "new",
-    "days": 1,
-    "appearances": 1
-   }
-  },
-  {
-   "title": "papi酱热烈欢迎易立竞",
-   "raw_title": "papi酱热烈欢迎易立竞",
-   "desc": "",
-   "platforms": [
-    "bili"
-   ],
-   "links": {
-    "bili": "https://search.bilibili.com/all?keyword=papi%E9%85%B1%E7%83%AD%E7%83%88%E6%AC%A2%E8%BF%8E%E6%98%93%E7%AB%8B%E7%AB%9E"
-   },
-   "cover": "",
-   "heat": 19,
-   "ai": null,
-   "stats": {
-    "first_seen": "2026-09-24T13:34:06+08:00",
-    "origin_platform": "bili",
-    "path": [
-     {
-      "platform": "bili",
-      "time": "2026-09-24T13:34:06+08:00"
-     }
-    ],
-    "heat_log": [
-     {
-      "time": "2026-09-24T13:34:06+08:00",
-      "heat": 14
-     },
-     {
-      "time": "2026-09-24T18:34:50+08:00",
-      "heat": 19
-     },
-     {
-      "time": "2026-09-24T23:32:37+08:00",
-      "heat": 18
-     },
-     {
-      "time": "2026-09-25T06:45:34+08:00",
-      "heat": 12
-     },
-     {
-      "time": "2026-09-25T13:37:51+08:00",
-      "heat": 13
-     },
-     {
-      "time": "2026-09-26T03:36:28+08:00",
-      "heat": 19
-     }
-    ],
-    "trend": "flat",
-    "days": 3,
-    "appearances": 6
-   }
-  },
-  {
-   "title": "关晓彤漂白眉眼，演白化病女孩，《生逢其时》撕掉国民闺女标签丨贵圈人物",
-   "raw_title": "关晓彤漂白眉眼，演白化病女孩，《生逢其时》撕掉国民闺女标签丨贵圈人物",
-   "desc": "",
-   "platforms": [
-    "qq_ent"
-   ],
-   "links": {
-    "qq_ent": "https://view.inews.qq.com/a/20260924V05ZKZ00"
-   },
-   "cover": "https://inews.gtimg.com/om_ls/OXyQYw9dYw2CL_I4mh2KiQ_zsIDJyw8QKoezCsWBpZj9kAA_870492/0",
-   "heat": 19,
-   "ai": null,
-   "stats": {
-    "first_seen": "2026-09-25T13:37:51+08:00",
-    "origin_platform": "qq_ent",
-    "path": [
-     {
-      "platform": "qq_ent",
-      "time": "2026-09-25T13:37:51+08:00"
-     }
-    ],
-    "heat_log": [
-     {
-      "time": "2026-09-25T13:37:51+08:00",
       "heat": 20
      },
      {
-      "time": "2026-09-26T03:36:28+08:00",
+      "time": "2026-09-26T06:52:03+08:00",
       "heat": 19
      }
     ],
     "trend": "new",
-    "days": 2,
+    "days": 1,
     "appearances": 2
-   }
-  },
-  {
-   "title": "特习会聚焦AI角力台湾议题无突破 美国民主党声明要求特朗普放行对台军售",
-   "raw_title": "特习会聚焦AI角力台湾议题无突破 美国民主党声明要求特朗普放行对台军售",
-   "desc": "美国总统特朗普24日在白宫以高规格迎接中国国家主席习近平，中方希望美国坚持「反对」台独的正确立场，但白宫目前未有相关回覆。会后美国参议院民主党呼吁，特朗普政府对台军售不应再延宕。",
-   "platforms": [
-    "rfi"
-   ],
-   "links": {
-    "rfi": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260925-%E7%89%B9%E4%B9%A0%E4%BC%9A%E8%81%9A%E7%84%A6ai%E8%A7%92%E5%8A%9B%E5%8F%B0%E6%B9%BE%E8%AE%AE%E9%A2%98%E6%97%A0%E7%AA%81%E7%A0%B4-%E7%BE%8E%E5%9B%BD%E6%B0%91%E4%B8%BB%E5%85%9A%E5%A3%B0%E6%98%8E%E8%A6%81%E6%B1%82%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BE%E8%A1%8C%E5%AF%B9%E5%8F%B0%E5%86%9B%E5%94%AE"
-   },
-   "cover": "https://s.rfi.fr/media/display/46910f32-b8b8-11f1-87eb-c959b9d22ec6/w:1024/p:16x9/%E7%89%B9%E7%BF%92%E4%BA%8C%E6%AC%A1%E6%9C%83%E9%9D%A2.jpg",
-   "heat": 19,
-   "ai": null,
-   "stats": {
-    "first_seen": "2026-09-25T18:38:02+08:00",
-    "origin_platform": "rfi",
-    "path": [
-     {
-      "platform": "rfi",
-      "time": "2026-09-25T18:38:02+08:00"
-     }
-    ],
-    "heat_log": [
-     {
-      "time": "2026-09-25T18:38:02+08:00",
-      "heat": 30
-     },
-     {
-      "time": "2026-09-25T23:36:47+08:00",
-      "heat": 19
-     },
-     {
-      "time": "2026-09-26T03:36:28+08:00",
-      "heat": 19
-     }
-    ],
-    "trend": "new",
-    "days": 2,
-    "appearances": 3
    }
   },
   {
@@ -7659,8 +7545,8 @@
    "links": {
     "douyin": "https://www.douyin.com/search/%E5%81%87%E6%9C%9F%E6%88%91%E5%B0%86%E4%B8%A5%E8%82%83%E5%AD%A6%E4%B9%A0%E9%97%AA%E8%BA%AB%E6%AD%A5"
    },
-   "cover": "https://p11-sign.douyinpic.com/tos-cn-p-0015c000-ce/oU01JeQnGJdVLHDB1pIVV5QeaDOQQwcgfg7mcA~noop.jpeg?lk3s=bfd515bb&x-expires=1790384400&x-signature=JVcCm%2FHfy2ZVMFR%2BUu6CJLnbU4g%3D&from=3218412987",
-   "heat": 18,
+   "cover": "https://p26-sign.douyinpic.com/tos-cn-p-0015c000-ce/oU01JeQnGJdVLHDB1pIVV5QeaDOQQwcgfg7mcA~noop.jpeg?lk3s=bfd515bb&x-expires=1790395200&x-signature=dT5ZpHmjNROAMujx0eRHwnHTGMA%3D&from=3218412987",
+   "heat": 19,
    "ai": null,
    "stats": {
     "first_seen": "2026-09-25T18:38:02+08:00",
@@ -7683,6 +7569,51 @@
      {
       "time": "2026-09-26T03:36:28+08:00",
       "heat": 18
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
+      "heat": 19
+     }
+    ],
+    "trend": "down",
+    "days": 2,
+    "appearances": 4
+   }
+  },
+  {
+   "title": "张雪包机带200人赴意大利观赛",
+   "raw_title": "张雪包机带200人赴意大利观赛",
+   "desc": "",
+   "platforms": [
+    "toutiao"
+   ],
+   "links": {
+    "toutiao": "https://www.toutiao.com/trending/7689266384802709550/?category_name=topic_innerflow&event_type=hot_board&log_pb=%7B%22category_name%22%3A%22topic_innerflow%22%2C%22cluster_type%22%3A%222%22%2C%22enter_from%22%3A%22click_category%22%2C%22entrance_hotspot%22%3A%22outside%22%2C%22event_type%22%3A%22hot_board%22%2C%22hot_board_cluster_id%22%3A%227689266384802709550%22%2C%22hot_board_impr_id%22%3A%222026092606513900FD3F3F80DC9E3B056F%22%2C%22jump_page%22%3A%22hot_board_page%22%2C%22location%22%3A%22news_hot_card%22%2C%22page_location%22%3A%22hot_board_page%22%2C%22source%22%3A%22trending_tab%22%2C%22style_id%22%3A%2240132%22%2C%22title%22%3A%22%E5%BC%A0%E9%9B%AA%E5%8C%85%E6%9C%BA%E5%B8%A6200%E4%BA%BA%E8%B5%B4%E6%84%8F%E5%A4%A7%E5%88%A9%E8%A7%82%E8%B5%9B%22%7D&rank=&style_id=40132&topic_id=7689266384802709550"
+   },
+   "cover": "https://p3-sign.toutiaoimg.com/tos-cn-i-qvj2lq49k0/ddf22418f8024868a554f4fd3a0b366e~tplv-tt-shrink:960:540.jpeg?_iz=30575&from=sign_default&lk3s=8d617dac&x-expires=1792886400&x-signature=%2BoQYI%2F79%2BFykUPhiBWAoBV4vvEw%3D",
+   "heat": 19,
+   "ai": null,
+   "stats": {
+    "first_seen": "2026-09-25T23:36:47+08:00",
+    "origin_platform": "toutiao",
+    "path": [
+     {
+      "platform": "toutiao",
+      "time": "2026-09-25T23:36:47+08:00"
+     }
+    ],
+    "heat_log": [
+     {
+      "time": "2026-09-25T23:36:47+08:00",
+      "heat": 16
+     },
+     {
+      "time": "2026-09-26T03:36:28+08:00",
+      "heat": 18
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
+      "heat": 19
      }
     ],
     "trend": "new",
@@ -7691,36 +7622,245 @@
    }
   },
   {
-   "title": "毛晓彤中秋晚会造型好美",
-   "raw_title": "毛晓彤中秋晚会造型好美",
+   "title": "吃月饼也有三十六计",
+   "raw_title": "吃月饼也有三十六计",
    "desc": "",
    "platforms": [
-    "baidu"
+    "bili"
    ],
    "links": {
-    "baidu": "https://m.baidu.com/s?word=%E6%AF%9B%E6%99%93%E5%BD%A4%E4%B8%AD%E7%A7%8B%E6%99%9A%E4%BC%9A%E9%80%A0%E5%9E%8B%E5%A5%BD%E7%BE%8E&sa=fyb_news"
+    "bili": "https://search.bilibili.com/all?keyword=%E5%90%83%E6%9C%88%E9%A5%BC%E4%B9%9F%E6%9C%89%E4%B8%89%E5%8D%81%E5%85%AD%E8%AE%A1"
+   },
+   "cover": "",
+   "heat": 19,
+   "ai": null,
+   "stats": {
+    "first_seen": "2026-09-25T23:36:47+08:00",
+    "origin_platform": "bili",
+    "path": [
+     {
+      "platform": "bili",
+      "time": "2026-09-25T23:36:47+08:00"
+     }
+    ],
+    "heat_log": [
+     {
+      "time": "2026-09-25T23:36:47+08:00",
+      "heat": 25
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
+      "heat": 19
+     }
+    ],
+    "trend": "new",
+    "days": 2,
+    "appearances": 2
+   }
+  },
+  {
+   "title": "中戏学霸出道8年零绯闻，却因一口烤瓷牙被骂上热搜，央八新剧杀出重围丨贵圈人物",
+   "raw_title": "中戏学霸出道8年零绯闻，却因一口烤瓷牙被骂上热搜，央八新剧杀出重围丨贵圈人物",
+   "desc": "",
+   "platforms": [
+    "qq_ent"
+   ],
+   "links": {
+    "qq_ent": "https://view.inews.qq.com/a/20260924V0BEI200"
+   },
+   "cover": "https://inews.gtimg.com/om_ls/OYsw9RxpfgduacVc6kWBZ7bZSz4P1W_t4EjJgj6cumHesAA_870492/0",
+   "heat": 19,
+   "ai": null,
+   "stats": {
+    "first_seen": "2026-09-25T13:37:51+08:00",
+    "origin_platform": "qq_ent",
+    "path": [
+     {
+      "platform": "qq_ent",
+      "time": "2026-09-25T13:37:51+08:00"
+     }
+    ],
+    "heat_log": [
+     {
+      "time": "2026-09-25T13:37:51+08:00",
+      "heat": 24
+     },
+     {
+      "time": "2026-09-25T18:38:02+08:00",
+      "heat": 17
+     },
+     {
+      "time": "2026-09-25T23:36:47+08:00",
+      "heat": 17
+     },
+     {
+      "time": "2026-09-26T03:36:28+08:00",
+      "heat": 16
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
+      "heat": 19
+     }
+    ],
+    "trend": "flat",
+    "days": 2,
+    "appearances": 5
+   }
+  },
+  {
+   "title": "泽连斯基称特朗普已同意向基辅提供生产“爱国者”导弹许可",
+   "raw_title": "泽连斯基称特朗普已同意向基辅提供生产“爱国者”导弹许可",
+   "desc": "乌克兰总统泽连斯基周五表示，美国总统特朗普已就向乌克兰提供生产“爱国者”防空导弹所需的许可证一事作出“最终决定”，基辅方面此前曾要求获得该许可证，以应对俄罗斯的弹道导弹袭击。",
+   "platforms": [
+    "rfi"
+   ],
+   "links": {
+    "rfi": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20260925-%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E7%A7%B0%E7%89%B9%E6%9C%97%E6%99%AE%E5%B7%B2%E5%90%8C%E6%84%8F%E5%90%91%E5%9F%BA%E8%BE%85%E6%8F%90%E4%BE%9B%E7%94%9F%E4%BA%A7-%E7%88%B1%E5%9B%BD%E8%80%85-%E5%AF%BC%E5%BC%B9%E8%AE%B8%E5%8F%AF"
+   },
+   "cover": "https://s.rfi.fr/media/display/6331e548-9e60-11f1-9c98-005056bfb2b6/w:1024/p:16x9/000-B68B7UY.jpg",
+   "heat": 19,
+   "ai": null,
+   "stats": {
+    "first_seen": "2026-09-25T23:36:47+08:00",
+    "origin_platform": "rfi",
+    "path": [
+     {
+      "platform": "rfi",
+      "time": "2026-09-25T23:36:47+08:00"
+     }
+    ],
+    "heat_log": [
+     {
+      "time": "2026-09-25T23:36:47+08:00",
+      "heat": 29
+     },
+     {
+      "time": "2026-09-26T03:36:28+08:00",
+      "heat": 29
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
+      "heat": 19
+     }
+    ],
+    "trend": "new",
+    "days": 2,
+    "appearances": 3
+   }
+  },
+  {
+   "title": "王楚钦不该承受恶劣舆论环境",
+   "raw_title": "王楚钦不该承受恶劣舆论环境",
+   "desc": "",
+   "platforms": [
+    "weibo"
+   ],
+   "links": {
+    "weibo": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%B8%8D%E8%AF%A5%E6%89%BF%E5%8F%97%E6%81%B6%E5%8A%A3%E8%88%86%E8%AE%BA%E7%8E%AF%E5%A2%83%23"
    },
    "cover": "",
    "heat": 18,
    "ai": null,
    "stats": {
     "first_seen": "2026-09-26T03:36:28+08:00",
-    "origin_platform": "baidu",
+    "origin_platform": "weibo",
     "path": [
      {
-      "platform": "baidu",
+      "platform": "weibo",
       "time": "2026-09-26T03:36:28+08:00"
      }
     ],
     "heat_log": [
      {
       "time": "2026-09-26T03:36:28+08:00",
+      "heat": 17
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
       "heat": 18
      }
     ],
     "trend": "new",
     "days": 1,
-    "appearances": 1
+    "appearances": 2
+   }
+  },
+  {
+   "title": "我怕咬缺了它 爸爸找不到回家的路",
+   "raw_title": "我怕咬缺了它 爸爸找不到回家的路",
+   "desc": "",
+   "platforms": [
+    "baidu"
+   ],
+   "links": {
+    "baidu": "https://m.baidu.com/s?word=%E6%88%91%E6%80%95%E5%92%AC%E7%BC%BA%E4%BA%86%E5%AE%83+%E7%88%B8%E7%88%B8%E6%89%BE%E4%B8%8D%E5%88%B0%E5%9B%9E%E5%AE%B6%E7%9A%84%E8%B7%AF&sa=fyb_news"
+   },
+   "cover": "",
+   "heat": 18,
+   "ai": null,
+   "stats": {
+    "first_seen": "2026-09-25T23:36:47+08:00",
+    "origin_platform": "baidu",
+    "path": [
+     {
+      "platform": "baidu",
+      "time": "2026-09-25T23:36:47+08:00"
+     }
+    ],
+    "heat_log": [
+     {
+      "time": "2026-09-25T23:36:47+08:00",
+      "heat": 1
+     },
+     {
+      "time": "2026-09-26T03:36:28+08:00",
+      "heat": 14
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
+      "heat": 18
+     }
+    ],
+    "trend": "new",
+    "days": 2,
+    "appearances": 3
+   }
+  },
+  {
+   "title": "当小猫来做月饼",
+   "raw_title": "当小猫来做月饼",
+   "desc": "",
+   "platforms": [
+    "bili"
+   ],
+   "links": {
+    "bili": "https://search.bilibili.com/all?keyword=%E5%BD%93%E5%B0%8F%E7%8C%AB%E6%9D%A5%E5%81%9A%E6%9C%88%E9%A5%BC"
+   },
+   "cover": "",
+   "heat": 18,
+   "ai": null,
+   "stats": {
+    "first_seen": "2026-09-26T03:36:28+08:00",
+    "origin_platform": "bili",
+    "path": [
+     {
+      "platform": "bili",
+      "time": "2026-09-26T03:36:28+08:00"
+     }
+    ],
+    "heat_log": [
+     {
+      "time": "2026-09-26T03:36:28+08:00",
+      "heat": 14
+     },
+     {
+      "time": "2026-09-26T06:52:03+08:00",
+      "heat": 18
+     }
+    ],
+    "trend": "new",
+    "days": 1,
+    "appearances": 2
    }
   }
  ]
